@@ -1,0 +1,26 @@
+{
+  "id": "es-b1-3",
+  "lang": "es",
+  "langLabel": "Spanisch",
+  "langName": "European Spanish (Spain: vosotros, vale, coger, ordenador, móvil, piso — never Latin American forms)",
+  "level": "B1",
+  "part": 3,
+  "title": "Spanisch B1 · Teil 3",
+  "wordRange": [
+    8,
+    14
+  ],
+  "focus": "Futuro simple and condicional simple in everyday use: plans and promises (te escribiré, iré a verte), guesses about the present (estará durmiendo, serán las diez), polite requests and advice (¿podrías…?, deberías…, yo que tú…, me gustaría…), imagined situations without si-clauses (sería genial, me encantaría). Plus pluscuamperfecto for earlier past (cuando llegué, ya se había ido) and imperative WITH pronouns, affirmative and negative (dímelo, cuéntamelo, no te preocupes, no se lo digas). About 60% of sentences must carry one of these naturally.",
+  "always": "Presente, pretérito indefinido/imperfecto/perfecto, presente de subjuntivo in its core uses (from Teil 2), combined object pronouns, gustar-family, reflexives, ir a + infinitivo, basic connectors.",
+  "avoidGrammar": "No imperfecto de subjuntivo, no pluscuamperfecto de subjuntivo, no condicional compuesto, no si + imperfecto de subjuntivo — those belong to B2.",
+  "register": "Spoken everyday Spanish between friends, family, colleagues, neighbours, shop staff. Fillers welcome but sparingly (at most one per five sentences): bueno, pues, es que, o sea, vale, la verdad, venga. Do NOT end sentences with tag-ons like ', tío' or ', ¿vale?' or ', ¿sabes?' more than twice per batch.",
+  "bannedPhrases": [
+    "¿Dónde está la biblioteca?",
+    "Me llamo",
+    "¿Cómo te llamas?",
+    "El gato está",
+    "en la escuela",
+    "los estudiantes",
+    "el profesor explica"
+  ]
+}

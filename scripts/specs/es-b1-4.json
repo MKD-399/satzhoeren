@@ -1,0 +1,26 @@
+{
+  "id": "es-b1-4",
+  "lang": "es",
+  "langLabel": "Spanisch",
+  "langName": "European Spanish (Spain: vosotros, vale, coger, ordenador, móvil, piso — never Latin American forms)",
+  "level": "B1",
+  "part": 4,
+  "title": "Spanisch B1 · Teil 4",
+  "wordRange": [
+    8,
+    14
+  ],
+  "focus": "Verbal periphrases and discourse glue: llevar/seguir + gerundio (llevo dos meses entrenando, sigo escribiendo), acabar de, volver a, dejar de, ponerse a, empezar a, tener que / hay que; connectors aunque (+indicativo), sin embargo, por eso, así que, en cuanto, mientras, además, de todas formas; por vs. para; ser vs. estar with meaning shifts (estar listo/ser lista, estar aburrida/ser aburrido); relative clauses (que, donde, el que, lo que); simple reported speech (me dijo que…, me preguntó si…). About 60% of sentences must carry one of these naturally. This is the last B1 Teil: sentences may be a bit longer and richer, reaching into B2.",
+  "always": "Everything from Teil 1 to 3: all past tenses, futuro, condicional, presente de subjuntivo, imperativo with pronouns, combined object pronouns, gustar-family, reflexives.",
+  "avoidGrammar": "No imperfecto de subjuntivo, no pluscuamperfecto de subjuntivo, no condicional compuesto.",
+  "register": "Spoken everyday Spanish between friends, family, colleagues, neighbours, shop staff. Fillers welcome but sparingly (at most one per five sentences): bueno, pues, es que, o sea, vale, la verdad, venga. Do NOT end sentences with tag-ons like ', tío' or ', ¿vale?' or ', ¿sabes?' more than twice per batch.",
+  "bannedPhrases": [
+    "¿Dónde está la biblioteca?",
+    "Me llamo",
+    "¿Cómo te llamas?",
+    "El gato está",
+    "en la escuela",
+    "los estudiantes",
+    "el profesor explica"
+  ]
+}

@@ -5,11 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite --port=3003 --host=0.0.0.0",
-    "build": "vite build",
+    "build": "node scripts/audio-manifest.mjs && vite build",
     "preview": "vite preview --port=3003",
     "lint": "tsc --noEmit",
     "audio": "node scripts/generate-audio.mjs",
-    "deploy": "vite build && gh-pages -d dist --nojekyll"
+    "deploy": "node scripts/audio-manifest.mjs && vite build && gh-pages -d dist --nojekyll"
   },
   "dependencies": {
     "lucide-react": "^0.546.0",

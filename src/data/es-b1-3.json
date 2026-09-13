@@ -1,0 +1,2061 @@
+{
+  "id": "es-b1-3",
+  "lang": "es",
+  "langLabel": "Spanisch",
+  "level": "B1",
+  "part": 3,
+  "title": "Spanisch B1 · Teil 3",
+  "sentences": [
+    {
+      "n": 1,
+      "target": "Seguro que cuando acabe la selectividad me iré directa a la playa.",
+      "de": "Wenn das Abi rum ist, fahre ich auf jeden Fall direkt an den Strand.",
+      "tags": [
+        "futuro simple",
+        "presente de subjuntivo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 2,
+      "target": "¿Dónde está el tutor? Estará corrigiendo los exámenes de lengua en la sala.",
+      "de": "Wo ist der Tutor? Wahrscheinlich korrigiert er gerade die Sprachprüfungen im Raum.",
+      "tags": [
+        "futuro simple (conjetura)",
+        "gerundio"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 3,
+      "target": "Yo que tú no me preocuparía tanto por esa nota, lo has hecho genial.",
+      "de": "An deiner Stelle würde ich mir nicht so einen Kopf wegen der Note machen, du warst super.",
+      "tags": [
+        "condicional simple",
+        "pretérito perfecto"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 4,
+      "target": "Si tienes mis apuntes de historia, por favor, pásamelos por WhatsApp esta tarde.",
+      "de": "Wenn du meine Geschichtsnotizen hast, schick sie mir bitte heute Nachmittag per WhatsApp.",
+      "tags": [
+        "imperativo",
+        "pronombres combinados"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 5,
+      "target": "Cuando por fin abrí el libro, me di cuenta de que ya lo habíamos estudiado.",
+      "de": "Als ich das Buch endlich aufschlug, merkte ich, dass wir das schon gelernt hatten.",
+      "tags": [
+        "pluscuamperfecto",
+        "pretérito indefinido"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 6,
+      "target": "Me gustaría saber si podrían enviarme el certificado de notas por correo electrónico.",
+      "de": "Ich würde gerne wissen, ob Sie mir das Notenzeugnis per E-Mail schicken könnten.",
+      "tags": [
+        "condicional simple",
+        "cortesía"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 7,
+      "target": "No te agobies con la presentación de mañana, ensáyala un par de veces y ya.",
+      "de": "Stress dich nicht wegen des Referats morgen, prob es einfach ein paar Mal durch.",
+      "tags": [
+        "imperativo negativo",
+        "imperativo afirmativo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 8,
+      "target": "Supongo que mañana ya habrán colgado las listas con los resultados en el tablón.",
+      "de": "Ich schätze, morgen hängen sie die Ergebnislisten schon am schwarzen Brett aus.",
+      "tags": [
+        "futuro compuesto",
+        "presente"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 9,
+      "target": "Sería un sueño encontrar un piso compartido cerca de la universidad en Madrid.",
+      "de": "Es wäre ein Traum, eine WG in der Nähe der Uni in Madrid zu finden.",
+      "tags": [
+        "condicional simple"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 10,
+      "target": "Espero que nos toque el tema del arte contemporáneo en el examen de mañana.",
+      "de": "Hoffentlich kriegen wir morgen in der Prüfung das Thema zeitgenössische Kunst dran.",
+      "tags": [
+        "presente de subjuntivo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 11,
+      "target": "Ayer estuve hasta las mil organizando mi horario de estudio para el mes que viene.",
+      "de": "Gestern war ich ewig wach und habe meinen Lernplan für nächsten Monat erstellt.",
+      "tags": [
+        "pretérito indefinido",
+        "gerundio"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 12,
+      "target": "Ese libro sobre salud mental es increíble, si quieres te lo presto cuando termine.",
+      "de": "Das Buch über mentale Gesundheit ist der Hammer, wenn du willst, leih ich's dir, wenn ich fertig bin.",
+      "tags": [
+        "pronombres combinados",
+        "presente"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 13,
+      "target": "¿Podría usted confirmarme si la charla sobre el acceso a la universidad es obligatoria?",
+      "de": "Könnten Sie mir bestätigen, ob der Vortrag über den Uni-Zugang verpflichtend ist?",
+      "tags": [
+        "condicional simple",
+        "usted"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 14,
+      "target": "Me relaja muchísimo ir al gimnasio después de pasarme seis horas repasando matemáticas.",
+      "de": "Es entspannt mich total, ins Gym zu gehen, nachdem ich sechs Stunden Mathe wiederholt habe.",
+      "tags": [
+        "verbos tipo gustar",
+        "gerundio"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 15,
+      "target": "La verdad es que hoy no puedo quedar porque necesito descansar para estar concentrada.",
+      "de": "Ehrlich gesagt kann ich heute nicht, ich muss mich ausruhen, um konzentriert zu bleiben.",
+      "tags": [
+        "negación",
+        "presente"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 16,
+      "target": "¿Crees que nos dará tiempo a terminar el guion del vídeo antes de clase?",
+      "de": "Glaubst du, wir schaffen es zeitlich, das Videoskript vor dem Unterricht fertigzumachen?",
+      "tags": [
+        "futuro simple"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 17,
+      "target": "Nunca me había sentido tan aliviada como cuando entregué el último examen del curso.",
+      "de": "Ich hatte mich noch nie so erleichtert gefühlt wie bei der Abgabe der letzten Klausur.",
+      "tags": [
+        "pluscuamperfecto",
+        "pretérito indefinido"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 18,
+      "target": "Si encuentras información sobre las becas en España, enséñamela en cuanto puedas, porfa.",
+      "de": "Falls du Infos über Stipendien in Spanien findest, zeig sie mir bitte, sobald du kannst.",
+      "tags": [
+        "imperativo",
+        "pronombres combinados",
+        "subjuntivo"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 19,
+      "target": "Creo que la prueba oral será la más fácil porque me encanta hablar en público.",
+      "de": "Ich glaube, die mündliche Prüfung wird am einfachsten, weil ich es liebe, vor Leuten zu reden.",
+      "tags": [
+        "futuro simple",
+        "verbos tipo gustar"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 20,
+      "target": "Deberías tomarte un respiro; nadie puede estudiar diez horas seguidas sin volverse loco.",
+      "de": "Du solltest mal kurz Pause machen; niemand kann zehn Stunden am Stück lernen, ohne durchzudrehen.",
+      "tags": [
+        "condicional simple",
+        "reflexivo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 21,
+      "target": "Llegué a clase supernerviosa, pero al ver el examen me tranquilicé. Ya me lo sabía todo perfectamente.",
+      "de": "Ich kam total nervös in den Kurs, aber als ich die Prüfung sah, wurde ich ruhig. Ich konnte schon alles perfekt.",
+      "tags": [
+        "pretérito indefinido",
+        "pluscuamperfecto"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 22,
+      "target": "¿Vosotros habéis entendido lo que ha dicho el profesor sobre el trabajo en grupo?",
+      "de": "Habt ihr verstanden, was der Lehrer über die Gruppenarbeit gesagt hat?",
+      "tags": [
+        "vosotros",
+        "pretérito perfecto"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 23,
+      "target": "Me hace mucha ilusión que mis amigos me apoyen tanto durante estas semanas de estrés.",
+      "de": "Es bedeutet mir viel, dass meine Freunde mich in diesen stressigen Wochen so unterstützen.",
+      "tags": [
+        "presente de subjuntivo",
+        "expresar sentimientos"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 24,
+      "target": "Te prometo que te escribiré nada más sepa la nota final del examen de historia.",
+      "de": "Ich verspreche dir, dass ich dir schreibe, sobald ich die Geschichtsnote weiß.",
+      "tags": [
+        "futuro simple",
+        "presente de subjuntivo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 25,
+      "target": "Ese esquema de química es un lío, no me lo expliques otra vez porque no puedo más.",
+      "de": "Dieses Chemie-Schema ist ein einziges Chaos, erklär es mir nicht nochmal, ich bin am Ende.",
+      "tags": [
+        "imperativo negativo",
+        "pronombres combinados"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 26,
+      "target": "Si necesitas desahogarte, llámame y cuéntamelo todo, estaré ahí para ti.",
+      "de": "Wenn du dich ausheulen willst, ruf mich an und erzähl mir alles, ich bin für dich da.",
+      "tags": [
+        "imperativo",
+        "pronombres",
+        "futuro simple"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 27,
+      "target": "¿Qué le pasará a Elena? Hace días que no contesta a mis mensajes.",
+      "de": "Was ist bloß mit Elena los? Sie antwortet seit Tagen nicht auf meine Nachrichten.",
+      "tags": [
+        "futuro de probabilidad",
+        "presente"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 28,
+      "target": "Yo que tú hablaría con él sinceramente antes de que la situación empeore.",
+      "de": "An deiner Stelle würde ich offen mit ihm reden, bevor die Situation noch schlimmer wird.",
+      "tags": [
+        "condicional simple",
+        "consejo",
+        "subjuntivo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 29,
+      "target": "Cuando llegué a la cafetería, Lucía ya se había ido porque estaba harta.",
+      "de": "Als ich im Café ankam, war Lucía schon weg, weil sie die Nase voll hatte.",
+      "tags": [
+        "pretérito pluscuamperfecto",
+        "pretérito indefinido"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 30,
+      "target": "No me siento cómoda compartiendo mi vida privada con gente que apenas conozco.",
+      "de": "Ich fühle mich nicht wohl dabei, mein Privatleben mit Leuten zu teilen, die ich kaum kenne.",
+      "tags": [
+        "negación",
+        "presente"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 31,
+      "target": "¿Podrías prestarme un poco más de atención mientras te explico cómo me siento?",
+      "de": "Könntest du mir vielleicht ein bisschen mehr zuhören, während ich dir erkläre, wie es mir geht?",
+      "tags": [
+        "condicional simple",
+        "petición",
+        "presente"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 32,
+      "target": "Nunca me habían tratado tan bien como lo hacen mis nuevos amigos madrileños.",
+      "de": "Ich wurde noch nie so gut behandelt wie von meinen neuen Freunden aus Madrid.",
+      "tags": [
+        "pretérito pluscuamperfecto",
+        "comparación"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 33,
+      "target": "Te prometo que te enviaré el guion por correo en cuanto lo termine.",
+      "de": "Ich versprech' dir, dass ich dir das Skript per E-Mail schicke, sobald ich fertig bin.",
+      "tags": [
+        "futuro simple",
+        "promesa",
+        "subjuntivo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 34,
+      "target": "Deberías alejarte de esa persona porque solo te busca cuando le conviene, ¿no?",
+      "de": "Du solltest dich von dieser Person distanzieren, weil sie sich nur meldet, wenn es ihr passt, oder?",
+      "tags": [
+        "condicional simple",
+        "consejo"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 35,
+      "target": "Mi móvil estará en el bolso; si lo ves, cógelo y dámelo, por favor.",
+      "de": "Mein Handy liegt bestimmt in der Tasche; wenn du es siehst, nimm es und gib es mir bitte.",
+      "tags": [
+        "futuro de probabilidad",
+        "imperativo",
+        "coger"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 36,
+      "target": "No te lo guardes todo para ti, cuéntamelo y así te sentirás mejor.",
+      "de": "Friss nicht alles in dich hinein, erzähl es mir, dann fühlst du dich besser.",
+      "tags": [
+        "imperativo negativo",
+        "pronombres combinados",
+        "futuro simple"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 37,
+      "target": "¿Podría usted confirmarme si la conferencia sobre bienestar emocional será mañana por la tarde?",
+      "de": "Könnten Sie mir bestätigen, ob der Vortrag über emotionales Wohlbefinden morgen Nachmittag stattfindet?",
+      "tags": [
+        "usted",
+        "condicional simple",
+        "futuro simple"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 38,
+      "target": "Me encantaría organizar una cena en mi piso para celebrar nuestra amistad hoy.",
+      "de": "Ich würde total gerne ein Abendessen in meiner Wohnung organisieren, um heute unsere Freundschaft zu feiern.",
+      "tags": [
+        "condicional simple",
+        "gustar",
+        "piso"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 39,
+      "target": "Ayer me di cuenta de que nuestra amistad es mucho más real de lo que imaginaba.",
+      "de": "Gestern ist mir klar geworden, dass unsere Freundschaft viel echter ist, als ich dachte.",
+      "tags": [
+        "pretérito indefinido",
+        "imperfecto",
+        "opinión"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 40,
+      "target": "¿Tú crees que he sido demasiado dura con ella al decirle la verdad?",
+      "de": "Glaubst du, ich war zu hart zu ihr, als ich ihr die Wahrheit gesagt habe?",
+      "tags": [
+        "pretérito perfecto",
+        "pregunta"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 41,
+      "target": "No deberías compararte con los demás en redes sociales, cada uno tiene su proceso.",
+      "de": "Du solltest dich in den sozialen Medien nicht mit anderen vergleichen, jeder hat seinen eigenen Weg.",
+      "tags": [
+        "condicional simple",
+        "consejo",
+        "reflexivo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 42,
+      "target": "Pásame el contacto de esa psicóloga, me han dicho que es una profesional increíble.",
+      "de": "Gib mir mal den Kontakt von dieser Psychologin, mir wurde gesagt, dass sie fachlich echt spitze ist.",
+      "tags": [
+        "imperativo",
+        "pronombres",
+        "pretérito perfecto"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 43,
+      "target": "Habíamos planeado entrenar juntas, pero ella se quedó dormida y al final fui sola.",
+      "de": "Wir hatten eigentlich geplant, zusammen zu trainieren, aber sie hat verschlafen und ich bin dann allein hin.",
+      "tags": [
+        "pretérito pluscuamperfecto",
+        "pretérito indefinido",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 44,
+      "target": "Hoy prefiero quedarme en casa; necesito un poco de tiempo para recargar las pilas.",
+      "de": "Heute bleibe ich lieber zu Hause; ich brauche mal Zeit für mich, um meine Akkus aufzuladen.",
+      "tags": [
+        "presente",
+        "reflexivo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 45,
+      "target": "Para mí, la honestidad es fundamental en una amistad, sin ella no hay nada.",
+      "de": "Für mich ist Ehrlichkeit das A und O in einer Freundschaft, ohne sie gibt es keine Basis.",
+      "tags": [
+        "presente",
+        "opinión"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 46,
+      "target": "A vosotros os encantará mi nuevo barrio porque tiene parques preciosos para pasear.",
+      "de": "Euch wird mein neues Viertel total gefallen, weil es dort wunderschöne Parks zum Spazierengehen gibt.",
+      "tags": [
+        "vosotros",
+        "futuro simple",
+        "gustar"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 47,
+      "target": "¿Qué tal estás llevando la mudanza? Si necesitas ayuda con algo, dímelo sin falta.",
+      "de": "Wie läuft's bei dir mit dem Umzug? Wenn du bei irgendwas Hilfe brauchst, sag mir unbedingt Bescheid.",
+      "tags": [
+        "gerundio",
+        "imperativo",
+        "pronombres"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 48,
+      "target": "Si me ves muy nerviosa antes de la charla, recuérdamelo y respira conmigo profundamente.",
+      "de": "Wenn du merkst, dass ich vor dem Talk total nervös bin, erinner mich dran und atme tief mit mir durch.",
+      "tags": [
+        "imperativo",
+        "pronombres combinados"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 49,
+      "target": "La verdad es que me dolió un poco no participar en ese proyecto creativo contigo.",
+      "de": "Ehrlich gesagt hat es mir ein bisschen wehgetan, bei diesem kreativen Projekt nicht mit dir dabei zu sein.",
+      "tags": [
+        "pretérito indefinido",
+        "subjuntivo"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 50,
+      "target": "Sería genial trabajar juntas algún día, creo que haríamos un equipo realmente bueno.",
+      "de": "Es wäre toll, eines Tages mal zusammenzuarbeiten, ich glaube, wir wären echt ein gutes Team.",
+      "tags": [
+        "condicional simple",
+        "opinión"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 51,
+      "target": "Estará lloviendo toda la tarde, así que me quedaré leyendo en el sofá.",
+      "de": "Es wird bestimmt den ganzen Nachmittag regnen, also bleibe ich gemütlich auf dem Sofa und lese.",
+      "tags": [
+        "futuro simple",
+        "probabilidad",
+        "planes"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 52,
+      "target": "Yo que tú probaría esta máquina nueva; es perfecta para fortalecer la espalda.",
+      "de": "An deiner Stelle würde ich dieses neue Gerät mal ausprobieren; das ist super für den Rücken.",
+      "tags": [
+        "condicional simple",
+        "consejo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 53,
+      "target": "Cuando por fin apareció en la cafetería, yo ya me había pedido un café.",
+      "de": "Als sie endlich im Café auftauchte, hatte ich mir schon einen Kaffee bestellt.",
+      "tags": [
+        "pluscuamperfecto",
+        "pretérito indefinido"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 54,
+      "target": "Esa canción es preciosa, envíamela ahora mismo por Telegram para que no se me olvide.",
+      "de": "Das Lied ist wunderschön, schick es mir mal direkt über Telegram, damit ich es nicht vergesse.",
+      "tags": [
+        "imperativo",
+        "pronombres combinados"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 55,
+      "target": "¿Vendréis vosotros también al lago el sábado o preferís quedaros en la ciudad?",
+      "de": "Kommt ihr am Samstag auch mit zum See oder bleibt ihr lieber in der Stadt?",
+      "tags": [
+        "futuro simple",
+        "vosotros",
+        "planes"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 56,
+      "target": "Lo siento, pero no puedo ayudarte con el guion porque ya me he organizado el día.",
+      "de": "Tut mir leid, aber ich kann dir beim Skript nicht helfen, weil ich meinen Tag schon durchgeplant habe.",
+      "tags": [
+        "pretérito perfecto",
+        "negación"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 57,
+      "target": "¿Podría indicarme si el gimnasio abre los domingos por la mañana? Muchas gracias.",
+      "de": "Könnten Sie mir sagen, ob das Fitnessstudio sonntagmorgens offen hat? Vielen Dank.",
+      "tags": [
+        "condicional simple",
+        "cortesía",
+        "usted"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 58,
+      "target": "Caminar sola por el parque me ayuda a despejar la mente y estar agradecida.",
+      "de": "Alleine durch den Park zu laufen hilft mir, den Kopf freizubekommen und dankbar zu sein.",
+      "tags": [
+        "presente",
+        "bienestar"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 59,
+      "target": "Hacía un sol increíble y nos compramos un helado. Hacía tiempo que no me sentía tan feliz.",
+      "de": "Die Sonne hat so toll geschienen und wir haben uns ein Eis geholt. Ich war schon lange nicht mehr so glücklich.",
+      "tags": [
+        "pretérito imperfecto",
+        "pretérito indefinido"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 60,
+      "target": "Sería maravilloso encontrar un piso con mucha luz para grabar mis vídeos de YouTube.",
+      "de": "Es wäre traumhaft, eine Wohnung mit viel Licht zu finden, um meine YouTube-Videos zu drehen.",
+      "tags": [
+        "condicional simple",
+        "deseo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 61,
+      "target": "No te lo tomes como algo personal, seguro que hoy ha tenido un mal día.",
+      "de": "Nimm das nicht persönlich, er hatte heute bestimmt einfach einen schlechten Tag.",
+      "tags": [
+        "imperativo negativo",
+        "pronombres combinados"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 62,
+      "target": "Te llamaré en cuanto aterrice en España para contarte cómo es mi nueva habitación.",
+      "de": "Ich ruf dich an, sobald ich in Spanien gelandet bin, um dir zu erzählen, wie mein neues Zimmer ist.",
+      "tags": [
+        "futuro simple",
+        "presente de subjuntivo",
+        "promesa"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 63,
+      "target": "¿Te apetece dar un paseo para ver el atardecer y charlar un rato?",
+      "de": "Hast du Lust auf einen Spaziergang, um den Sonnenuntergang zu sehen und ein bisschen zu quatschen?",
+      "tags": [
+        "presente",
+        "propuesta"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 64,
+      "target": "Resulta que ya me habían regalado ese libro, pero no me acordaba de haberlo visto.",
+      "de": "Es stellte sich raus, dass man mir das Buch schon geschenkt hatte, aber ich konnte mich gar nicht daran erinnern.",
+      "tags": [
+        "pluscuamperfecto",
+        "pretérito imperfecto"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 65,
+      "target": "Me encantan los juegos de mesa porque son la excusa perfecta para desconectar del móvil.",
+      "de": "Ich liebe Gesellschaftsspiele, weil sie die perfekte Ausrede sind, um mal das Handy wegzulegen.",
+      "tags": [
+        "tipo gustar",
+        "opinión"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 66,
+      "target": "Si vas a la cocina, tráeme un vaso de agua con gas, por favor.",
+      "de": "Wenn du in die Küche gehst, bring mir bitte ein Glas Sprudelwasser mit.",
+      "tags": [
+        "imperativo",
+        "conector si"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 67,
+      "target": "Mi madre no coge el teléfono; supongo que estará trabajando en el jardín todavía.",
+      "de": "Meine Mutter geht nicht ran; sie arbeitet wahrscheinlich noch im Garten.",
+      "tags": [
+        "futuro simple",
+        "probabilidad",
+        "coger"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 68,
+      "target": "Deberías descansar un poco más, se nota que llevas un ritmo de vida muy intenso.",
+      "de": "Du solltest dich mehr ausruhen, man merkt echt, dass du gerade total viel um die Ohren hast.",
+      "tags": [
+        "condicional simple",
+        "consejo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 69,
+      "target": "Nadar a primera hora de la mañana me da una energía increíble para todo el día.",
+      "de": "Gleich morgens zu schwimmen gibt mir wahnsinnig viel Energie für den ganzen Tag.",
+      "tags": [
+        "presente",
+        "rutina"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 70,
+      "target": "¡Qué buena idea! Me vendría genial un café caliente con este frío que hace fuera.",
+      "de": "Gute Idee! Ein heißer Kaffee wäre jetzt echt super bei der Kälte draußen.",
+      "tags": [
+        "condicional simple",
+        "reacción"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 71,
+      "target": "¡No me lo puedo creer! Cuéntamelo todo otra vez porque me he quedado en shock.",
+      "de": "Ich fass es nicht! Erzähl mir das nochmal ganz genau, ich bin gerade völlig platt.",
+      "tags": [
+        "imperativo",
+        "pronombres combinados"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 72,
+      "target": "¿Podría decirme usted si este libro de poemas ya está disponible en la tienda?",
+      "de": "Könnten Sie mir sagen, ob dieser Gedichtband schon im Laden verfügbar ist?",
+      "tags": [
+        "condicional simple",
+        "cortesía",
+        "usted"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 73,
+      "target": "Me desperté temprano y desayuné tranquila mientras escuchaba un podcast. Fue un momento de paz.",
+      "de": "Ich bin früh aufgewacht und habe entspannt gefrühstückt, während ich einen Podcast gehört habe. Das war total friedlich.",
+      "tags": [
+        "pretérito indefinido",
+        "pretérito imperfecto"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 74,
+      "target": "Me gustaría repasar el orden de las diapositivas antes de salir al escenario, ¿es posible?",
+      "de": "Ich würde gerne noch mal die Reihenfolge der Folien durchgehen, bevor ich auf die Bühne gehe, geht das?",
+      "tags": [
+        "condicional simple",
+        "cortesía"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 75,
+      "target": "Mañana escribiré en mi diario todas las cosas buenas que me han pasado esta semana.",
+      "de": "Morgen schreibe ich all die schönen Dinge, die ich diese Woche erlebt habe, in mein Tagebuch.",
+      "tags": [
+        "futuro simple",
+        "pretérito perfecto"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 76,
+      "target": "Me siento súper libre ahora que por fin he terminado de escribir el primer capítulo.",
+      "de": "Ich fühle mich total frei, jetzt wo ich endlich das erste Kapitel fertig geschrieben habe.",
+      "tags": [
+        "presente perfecto",
+        "adverbio"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 77,
+      "target": "¿Dónde estará mi cuaderno de ideas? Juraría que lo dejé encima del escritorio.",
+      "de": "Wo mag wohl mein Notizbuch für Ideen sein? Ich könnte schwören, dass ich es auf dem Schreibtisch liegen gelassen habe.",
+      "tags": [
+        "futuro simple de probabilidad",
+        "condicional simple",
+        "pretérito indefinido"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 78,
+      "target": "Si ves que me bloqueo en el escenario, hazme una señal desde la primera fila.",
+      "de": "Wenn du siehst, dass ich auf der Bühne den Faden verliere, gib mir ein Zeichen aus der ersten Reihe.",
+      "tags": [
+        "imperativo con pronombre",
+        "presente"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 79,
+      "target": "Yo que tú les daría las gracias por la oportunidad, aunque al final no aceptes.",
+      "de": "An deiner Stelle würde ich mich für die Chance bedanken, auch wenn du am Ende nicht zusagst.",
+      "tags": [
+        "condicional simple",
+        "consejo",
+        "presente de subjuntivo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 80,
+      "target": "Cuando me di cuenta, ya le había enviado el guion equivocado al editor de vídeo.",
+      "de": "Als ich es bemerkt habe, hatte ich dem Video-Editor schon das falsche Skript geschickt.",
+      "tags": [
+        "pluscuamperfecto",
+        "pretérito indefinido",
+        "objeto indirecto"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 81,
+      "target": "Gracias por escucharme ayer; valoro mucho que me dejes espacio para ser yo misma.",
+      "de": "Danke, dass du mir gestern zugehört hast; ich schätze es sehr, dass du mir den Raum gibst, ich selbst zu sein.",
+      "tags": [
+        "gratitud",
+        "presente de subjuntivo",
+        "pronombre reflexivo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 82,
+      "target": "¿Podría usted indicarme dónde están las pesas de cinco kilos? No las encuentro.",
+      "de": "Könnten Sie mir zeigen, wo die Fünf-Kilo-Hanteln sind? Ich finde sie nicht.",
+      "tags": [
+        "condicional de cortesía",
+        "usted",
+        "objeto directo"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 83,
+      "target": "Te prometo que cuando viva en mi piso de Valencia, vendrás a visitarme.",
+      "de": "Ich verspreche dir: Wenn ich in meiner Wohnung in Valencia wohne, kommst du mich besuchen.",
+      "tags": [
+        "futuro simple",
+        "promesa",
+        "presente de subjuntivo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 84,
+      "target": "No puedo quedar este finde porque necesito este tiempo para estar conmigo y reflexionar.",
+      "de": "Ich kann dieses Wochenende nicht, weil ich die Zeit brauche, um bei mir zu sein und nachzudenken.",
+      "tags": [
+        "negación",
+        "límites",
+        "infinitivo"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 85,
+      "target": "Creo que escribir a mano es mejor porque me ayuda a procesar mis emociones.",
+      "de": "Ich glaube, dass Handschreiben besser ist, weil es mir hilft, meine Emotionen zu verarbeiten.",
+      "tags": [
+        "opinión",
+        "conector",
+        "presente"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 86,
+      "target": "Ayer vi un amanecer precioso desde el tren y me sentí muy agradecida.",
+      "de": "Gestern habe ich einen wunderschönen Sonnenaufgang aus dem Zug gesehen und war sehr dankbar.",
+      "tags": [
+        "pretérito indefinido",
+        "gratitud"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 87,
+      "target": "¿A qué hora llegaréis vosotros al evento? Me gustaría veros antes de empezar.",
+      "de": "Wann werdet ihr beim Event ankommen? Ich würde euch gerne sehen, bevor es losgeht.",
+      "tags": [
+        "futuro simple",
+        "vosotros",
+        "condicional simple"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 88,
+      "target": "Sería un detalle precioso enviarle unas flores para agradecerle todo lo que ha hecho.",
+      "de": "Es wäre eine schöne Geste, ihr Blumen zu schicken, um ihr für alles zu danken, was sie getan hat.",
+      "tags": [
+        "condicional simple",
+        "gratitud",
+        "pretérito perfecto"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 89,
+      "target": "No se lo digas todavía a nadie, pero me han preseleccionado para un proyecto.",
+      "de": "Sag es bitte noch niemandem, aber ich bin für ein Projekt in die engere Auswahl gekommen.",
+      "tags": [
+        "imperativo negativo",
+        "pronombres combinados"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 90,
+      "target": "Marta no responde; estará entrenando en el gimnasio y tendrá el móvil en la taquilla.",
+      "de": "Marta antwortet nicht; sie wird wohl gerade im Gym trainieren und das Handy im Spind haben.",
+      "tags": [
+        "futuro de probabilidad",
+        "gerundio"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 91,
+      "target": "Nunca me había parado a pensar en lo afortunada que soy por teneros aquí.",
+      "de": "Ich hatte vorher nie wirklich darüber nachgedacht, wie glücklich ich mich schätzen kann, euch hier zu haben.",
+      "tags": [
+        "pluscuamperfecto",
+        "pronombre objeto"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 92,
+      "target": "¿Podrías pasarme el enlace de ese podcast? Me encantaría escucharlo esta misma noche.",
+      "de": "Könntest du mir den Link zu dem Podcast schicken? Ich würde ihn mir wahnsinnig gerne noch heute Abend anhören.",
+      "tags": [
+        "condicional simple",
+        "petición",
+        "objeto directo"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 93,
+      "target": "Llegué a la firma de libros cansadísima, pero los lectores ya habían hecho cola.",
+      "de": "Ich kam total müde zur Signierstunde an, aber die Leser standen schon Schlange.",
+      "tags": [
+        "pluscuamperfecto",
+        "pretérito indefinido"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 94,
+      "target": "Me encanta el yoga porque me da la libertad de moverme sin juzgarme.",
+      "de": "Ich liebe Yoga, weil es mir die Freiheit gibt, mich zu bewegen, ohne mich selbst zu verurteilen.",
+      "tags": [
+        "verbo gustar",
+        "reflexivo",
+        "salud mental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 95,
+      "target": "Lo siento, pero no me apetece ir a ese sitio; prefiero un plan tranquilo.",
+      "de": "Tut mir leid, aber ich habe keine Lust auf den Laden; ich bevorzuge was Ruhiges.",
+      "tags": [
+        "negación",
+        "límites",
+        "presente"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 96,
+      "target": "Pruébatelo y dime qué tal te queda; ese color te dará mucha luz.",
+      "de": "Probier es mal an und sag mir, wie es dir steht; die Farbe wird dir richtig Ausstrahlung verleihen.",
+      "tags": [
+        "imperativo con pronombre",
+        "futuro simple"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 97,
+      "target": "¿Cómo consigues mantener esa mentalidad positiva incluso cuando las cosas se complican?",
+      "de": "Wie schaffst du es, diese positive Einstellung zu behalten, selbst wenn es mal schwierig wird?",
+      "tags": [
+        "presente",
+        "pregunta real"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 98,
+      "target": "Pues la verdad es que me hace mucha ilusión que por fin reconozcan tu talento.",
+      "de": "Also ehrlich gesagt freue ich mich riesig, dass sie dein Talent endlich anerkennen.",
+      "tags": [
+        "conector",
+        "presente de subjuntivo",
+        "expresión de sentimientos"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 99,
+      "target": "Deberías estar muy orgullosa de ti misma por haberte atrevido a dar este paso.",
+      "de": "Du solltest richtig stolz auf dich sein, dass du dich getraut hast, diesen Schritt zu gehen.",
+      "tags": [
+        "condicional de consejo",
+        "reflexivo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 100,
+      "target": "Este domingo haré una lista de agradecimiento para recordar lo bueno del año.",
+      "de": "Diesen Sonntag werde ich eine Dankbarkeitsliste schreiben, um mich an das Gute im Jahr zu erinnern.",
+      "tags": [
+        "futuro simple",
+        "planes",
+        "gratitud"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 101,
+      "target": "Hoy siento que por fin he pasado página tras un mes bastante difícil.",
+      "de": "Heute habe ich das Gefühl, nach einem ziemlich schwierigen Monat endlich ein neues Kapitel aufgeschlagen zu haben.",
+      "tags": [
+        "pretérito perfecto",
+        "expresar sentimientos"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 102,
+      "target": "¿Crees que la terapeuta podrá atenderme mañana por la mañana?",
+      "de": "Glaubst du, dass die Therapeutin morgen früh Zeit für mich haben wird?",
+      "tags": [
+        "futuro simple",
+        "planes"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 103,
+      "target": "Yo que tú escribiría cómo te sientes antes de hablar con ella.",
+      "de": "An deiner Stelle würde ich aufschreiben, wie du dich fühlst, bevor du mit ihr redest.",
+      "tags": [
+        "condicional simple",
+        "dar consejos"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 104,
+      "target": "Llegué al gimnasio muy estresada, pero ya había decidido tomármelo con calma.",
+      "de": "Ich kam total gestresst im Fitnessstudio an, aber ich hatte mir schon vorgenommen, es heute ruhig angehen zu lassen.",
+      "tags": [
+        "pluscuamperfecto",
+        "pretérito indefinido"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 105,
+      "target": "¿Podría usted decirme si queda alguna plaza libre en el grupo de meditación?",
+      "de": "Könnten Sie mir sagen, ob noch ein Platz in der Meditationsgruppe frei ist?",
+      "tags": [
+        "condicional simple",
+        "usted",
+        "petición cortés"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 106,
+      "target": "Lo siento, pero ahora no puedo hablar porque necesito priorizar mi descanso.",
+      "de": "Tut mir leid, aber ich kann gerade nicht reden, weil ich meinen Schlaf priorisieren muss.",
+      "tags": [
+        "presente",
+        "poner límites"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 107,
+      "target": "Estará agobiada con la mudanza, mejor vamos a darle un poco de espacio.",
+      "de": "Sie ist bestimmt wegen des Umzugs gestresst, geben wir ihr lieber etwas Raum.",
+      "tags": [
+        "futuro de probabilidad",
+        "empatía"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 108,
+      "target": "Si encuentras una herramienta que te ayude, cuéntamela luego, por favor.",
+      "de": "Wenn du ein Tool findest, das dir hilft, erzähl mir später bitte davon.",
+      "tags": [
+        "imperativo afirmativo",
+        "pronombres combinados"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 109,
+      "target": "Sería estupendo tener una conversación profunda sin ninguna distracción ni móviles.",
+      "de": "Es wäre toll, mal ein tiefgründiges Gespräch ohne Ablenkung oder Handys zu führen.",
+      "tags": [
+        "condicional simple",
+        "situación imaginada"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 110,
+      "target": "¿Cómo te sentiste cuando te diste cuenta de que habías puesto ese límite?",
+      "de": "Wie hast du dich gefühlt, als dir klar wurde, dass du diese Grenze endlich gesetzt hattest?",
+      "tags": [
+        "pretérito indefinido",
+        "pluscuamperfecto"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 111,
+      "target": "Pues la verdad es que no lo había pensado así hasta ahora.",
+      "de": "Also ehrlich gesagt hatte ich bis jetzt noch nicht so darüber nachgedacht.",
+      "tags": [
+        "pluscuamperfecto",
+        "reacción"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 112,
+      "target": "Estoy muy agradecida por los avances que he hecho en terapia estos meses.",
+      "de": "Ich bin sehr dankbar für die Fortschritte, die ich in den letzten Monaten in der Therapie gemacht habe.",
+      "tags": [
+        "pretérito perfecto",
+        "gratitud"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 113,
+      "target": "¿Sería posible cambiar nuestra cita al viernes en lugar del jueves?",
+      "de": "Wäre es möglich, unseren Termin auf Freitag statt Donnerstag zu verschieben?",
+      "tags": [
+        "condicional simple",
+        "petición"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 114,
+      "target": "No se lo digas todavía, prefiero explicárselo yo cuando esté preparada.",
+      "de": "Sag es ihnen noch nicht, ich möchte es ihnen lieber selbst erklären, wenn ich bereit bin.",
+      "tags": [
+        "imperativo negativo",
+        "pronombres combinados"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 115,
+      "target": "En mi opinión, la vulnerabilidad es una fortaleza y no una debilidad.",
+      "de": "Meiner Meinung nach ist Verletzlichkeit eine Stärke und keine Schwäche.",
+      "tags": [
+        "conectores",
+        "dar opinión"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 116,
+      "target": "Tienes razón, debería tener más paciencia conmigo misma durante este proceso.",
+      "de": "Du hast recht, ich sollte während dieses Prozesses mehr Geduld mit mir selbst haben.",
+      "tags": [
+        "condicional simple",
+        "debería"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 117,
+      "target": "Te escribiré en cuanto termine de grabar el vídeo sobre el autocuidado.",
+      "de": "Ich schreibe dir, sobald ich das Video über Selbstfürsorge fertig gedreht habe.",
+      "tags": [
+        "futuro simple",
+        "presente de subjuntivo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 118,
+      "target": "¿Os apetecería acompañarme a dar un paseo al atardecer después del gimnasio?",
+      "de": "Hättet ihr Lust, mich nach dem Fitnessstudio auf einen Spaziergang bei Sonnenuntergang zu begleiten?",
+      "tags": [
+        "condicional simple",
+        "vosotros",
+        "propuesta"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 119,
+      "target": "Ayer me sentí un poco perdida, pero luego recordé todo lo logrado.",
+      "de": "Gestern habe ich mich ein bisschen verloren gefühlt, aber dann habe ich mich an alles erinnert, was ich erreicht habe.",
+      "tags": [
+        "pretérito indefinido",
+        "reflexión"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 120,
+      "target": "Dime la verdad, ¿crees que le estoy dando demasiadas vueltas a esto?",
+      "de": "Sag mir die Wahrheit: Glaubst du, ich zergrüble die Sache gerade zu sehr?",
+      "tags": [
+        "imperativo afirmativo",
+        "presente continuo"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 121,
+      "target": "No me apetece hablar de ese tema hoy; espero que lo entiendas.",
+      "de": "Ich habe heute keine Lust, über dieses Thema zu reden; ich hoffe, du verstehst das.",
+      "tags": [
+        "tipo gustar",
+        "presente de subjuntivo"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 122,
+      "target": "Probablemente me quedaré en un hostal hasta que encuentre el piso perfecto.",
+      "de": "Wahrscheinlich werde ich in einem Hostel bleiben, bis ich die perfekte Wohnung finde.",
+      "tags": [
+        "futuro simple",
+        "presente de subjuntivo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 123,
+      "target": "¿Qué harías en mi lugar para recargar tu batería social?",
+      "de": "Was würdest du an meiner Stelle tun, um deine sozialen Batterien wieder aufzuladen?",
+      "tags": [
+        "condicional simple",
+        "pedir consejo"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 124,
+      "target": "Me alegro mucho por ti, has trabajado duro para sentirte así.",
+      "de": "Ich freue mich so für dich, du hast hart gearbeitet, um dich so gut zu fühlen.",
+      "tags": [
+        "pretérito perfecto",
+        "animar"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 125,
+      "target": "¿Le importaría enviarme los detalles del taller de salud mental por correo?",
+      "de": "Würde es Ihnen etwas ausmachen, mir die Details zum Mental-Health-Workshop per E-Mail zu schicken?",
+      "tags": [
+        "condicional simple",
+        "usted",
+        "petición"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 126,
+      "target": "Te prometo que ensayaré mi charla hasta que me sienta totalmente segura.",
+      "de": "Ich verspreche dir, dass ich meinen Vortrag üben werde, bis ich mich ganz sicher fühle.",
+      "tags": [
+        "futuro simple",
+        "promesa"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 127,
+      "target": "¿Podría decirme si el auditorio tiene conexión de alta velocidad para emitir en directo?",
+      "de": "Könnten Sie mir sagen, ob der Saal eine Highspeed-Verbindung für Livestreams hat?",
+      "tags": [
+        "condicional simple",
+        "cortesía",
+        "usted"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 128,
+      "target": "He terminado el guion de mi conferencia, léetelo y dame tu opinión sincera.",
+      "de": "Ich bin mit dem Skript für meinen Vortrag fertig, lies es dir mal durch und sag mir ehrlich deine Meinung.",
+      "tags": [
+        "imperativo",
+        "pronombres combinados"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 129,
+      "target": "Habrá muchísima gente en el evento, así que tendré que controlar mis nervios.",
+      "de": "Es werden mega viele Leute da sein, also muss ich meine Nerven echt im Griff behalten.",
+      "tags": [
+        "futuro simple",
+        "probabilidad"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 130,
+      "target": "Cuando subí al escenario, me di cuenta de que ya me habían apagado el micrófono.",
+      "de": "Als ich auf die Bühne ging, merkte ich, dass sie mir das Mikro schon abgedreht hatten.",
+      "tags": [
+        "pluscuamperfecto",
+        "indefinido"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 131,
+      "target": "Siento mariposas en el estómago, pero sé que este mensaje ayudará a muchas personas.",
+      "de": "Ich bin total nervös, aber ich weiß, dass diese Botschaft vielen Leuten helfen wird.",
+      "tags": [
+        "presente",
+        "futuro simple"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 132,
+      "target": "Prefiero grabar mis vídeos sin guion porque así mi conexión con la audiencia es real.",
+      "de": "Ich nehme meine Videos lieber ohne Skript auf, weil die Verbindung zum Publikum so echter ist.",
+      "tags": [
+        "presente",
+        "opinión"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 133,
+      "target": "No te preocupes por el fallo técnico, lo solucionaste con muchísima elegancia y calma.",
+      "de": "Mach dir keinen Kopf wegen der Technikpanne, du hast das echt elegant und ruhig gelöst.",
+      "tags": [
+        "imperativo negativo",
+        "indefinido"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 134,
+      "target": "Ayer ensayamos la presentación tres veces. Al final, estábamos tan cansadas que solo podíamos reírnos.",
+      "de": "Gestern haben wir die Präsentation dreimal geprobt. Am Ende waren wir so platt, dass wir nur noch lachen konnten.",
+      "tags": [
+        "indefinido",
+        "imperfecto"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 135,
+      "target": "Me gustaría invitarte a mi canal para hablar sobre cómo gestionar el miedo escénico.",
+      "de": "Ich würde dich gerne auf meinen Kanal einladen, um darüber zu sprechen, wie man mit Lampenfieber umgeht.",
+      "tags": [
+        "condicional simple",
+        "petición"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 136,
+      "target": "Agradezco tu crítica, pero prefiero que no comentes mi forma de vestir en el escenario.",
+      "de": "Ich schätze deine Kritik, aber mir wäre es lieber, wenn du mein Outfit auf der Bühne nicht kommentierst.",
+      "tags": [
+        "presente",
+        "condicional simple",
+        "límites"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 137,
+      "target": "Yo que tú llevaría una botella de agua, se te secará la boca al hablar.",
+      "de": "An deiner Stelle würde ich eine Wasserflasche mitnehmen, dein Mund wird beim Reden sicher trocken.",
+      "tags": [
+        "condicional simple",
+        "consejo",
+        "futuro simple"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 138,
+      "target": "Serán las ocho ya, los técnicos estarán terminando de montar las luces del teatro.",
+      "de": "Es wird schon acht sein, die Techniker bauen bestimmt gerade noch das Licht im Theater auf.",
+      "tags": [
+        "futuro simple",
+        "conjetura"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 139,
+      "target": "No me lo digas ahora, prefiero concentrarme en mi respiración antes de salir.",
+      "de": "Sag es mir jetzt lieber nicht, ich will mich vor dem Auftritt auf meine Atmung konzentrieren.",
+      "tags": [
+        "imperativo negativo",
+        "pronombres combinados"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 140,
+      "target": "Para cuando terminó la charla, el público ya se había levantado para aplaudir con ganas.",
+      "de": "Als der Talk zu Ende war, war das Publikum schon aufgestanden, um ordentlich Applaus zu geben.",
+      "tags": [
+        "pluscuamperfecto",
+        "indefinido"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 141,
+      "target": "¿Saben si el organizador ya ha reservado el micrófono de solapa para mi ponencia?",
+      "de": "Wissen Sie, ob der Veranstalter schon das Ansteckmikro für meinen Vortrag reserviert hat?",
+      "tags": [
+        "pretérito perfecto",
+        "ustedes"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 142,
+      "target": "Estoy muy agradecida por la oportunidad de compartir mi historia con todos vosotros hoy.",
+      "de": "Ich bin echt dankbar für die Chance, meine Geschichte heute mit euch allen zu teilen.",
+      "tags": [
+        "presente",
+        "gratitud",
+        "vosotros"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 143,
+      "target": "¿Podría usted confirmarme si habrá un proyector disponible para mi presentación de PowerPoint?",
+      "de": "Könnten Sie mir bestätigen, ob ein Beamer für meine PowerPoint-Präsentation bereitsteht?",
+      "tags": [
+        "condicional simple",
+        "usted",
+        "futuro simple"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 144,
+      "target": "Cuéntanos esa anécdota otra vez; me encanta cómo usas los silencios para crear suspense.",
+      "de": "Erzähl uns die Anekdote nochmal; ich liebe es, wie du Pausen nutzt, um Spannung aufzubauen.",
+      "tags": [
+        "imperativo",
+        "vosotros"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 145,
+      "target": "La semana que viene grabaré una entrevista con un experto en oratoria y comunicación.",
+      "de": "Nächste Woche nehme ich ein Interview mit einem Experten für Rhetorik und Kommunikation auf.",
+      "tags": [
+        "futuro simple",
+        "planes"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 146,
+      "target": "A veces me asusta exponerme tanto, pero vuestros mensajes de apoyo me dan fuerza.",
+      "de": "Manchmal macht es mir Angst, mich so verletzlich zu zeigen, aber eure Nachrichten geben mir Kraft.",
+      "tags": [
+        "presente",
+        "sentimientos"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 147,
+      "target": "Había ensayado mi discurso durante semanas, pero cuando vi a tanta gente, me quedé totalmente en blanco por unos segundos. Al final, respiré hondo y salió genial.",
+      "de": "Ich hatte meine Rede wochenlang geprobt, aber als ich so viele Leute sah, hatte ich kurz ein totales Blackout. Am Ende hab ich tief durchgeatmet und es lief super.",
+      "tags": [
+        "pluscuamperfecto",
+        "indefinido",
+        "historia"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 148,
+      "target": "Creo que el tono de voz es fundamental para transmitir confianza y cercanía al público.",
+      "de": "Ich finde, der Tonfall ist entscheidend, um dem Publikum Vertrauen und Nähe zu vermitteln.",
+      "tags": [
+        "presente",
+        "opinión"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 149,
+      "target": "Si encuentras las notas de la charla, por favor, envíamelas por PDF antes del lunes.",
+      "de": "Falls du die Notizen vom Talk findest, schick sie mir bitte bis Montag als PDF.",
+      "tags": [
+        "imperativo",
+        "pronombres combinados"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 150,
+      "target": "Mi hermana no me coge el móvil; supongo que estará viendo mi charla en directo.",
+      "de": "Meine Schwester geht nicht ran; ich vermute, sie schaut sich gerade meinen Vortrag im Live-Stream an.",
+      "tags": [
+        "futuro simple",
+        "conjetura"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 151,
+      "target": "La semana que viene le enviaré los tres primeros capítulos a la editorial.",
+      "de": "Nächste Woche schicke ich dem Verlag die ersten drei Kapitel.",
+      "tags": [
+        "futuro simple",
+        "pronombres de objeto"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 152,
+      "target": "Yo cambiaría el final de ese capítulo, me parece que es demasiado triste.",
+      "de": "Ich würde das Ende von dem Kapitel ändern, ich finde es ein bisschen zu traurig.",
+      "tags": [
+        "condicional simple",
+        "opinión"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 153,
+      "target": "¿Dónde estará mi ordenador? Supongo que se me habrá olvidado en la mochila.",
+      "de": "Wo mein Laptop wohl ist? Wahrscheinlich habe ich ihn im Rucksack vergessen.",
+      "tags": [
+        "futuro de probabilidad",
+        "pretérito perfecto"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 154,
+      "target": "Léete el perfil del nuevo personaje y dime qué te parece, por favor.",
+      "de": "Lies dir mal das Profil vom neuen Charakter durch und sag mir, wie du es findest.",
+      "tags": [
+        "imperativo",
+        "pronombres combinados"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 155,
+      "target": "¿Podrías mirar si el diseño de la portada se ve bien en tu móvil?",
+      "de": "Könntest du mal schauen, ob das Cover-Design auf deinem Handy gut aussieht?",
+      "tags": [
+        "condicional simple",
+        "petición cortés"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 156,
+      "target": "No me cuentes todavía el final del libro, que quiero terminarlo yo sola.",
+      "de": "Verrat mir das Ende vom Buch noch nicht, ich will es alleine zu Ende lesen.",
+      "tags": [
+        "imperativo negativo",
+        "pronombres"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 157,
+      "target": "Siempre me bloqueo cuando intento escribir la introducción de un nuevo vídeo.",
+      "de": "Ich hab immer eine Blockade, wenn ich versuche, das Intro für ein neues Video zu schreiben.",
+      "tags": [
+        "presente",
+        "reflexivo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 158,
+      "target": "Nosotros podríamos presentar el libro juntos en esa feria de Madrid, ¿no?",
+      "de": "Wir könnten das Buch doch zusammen auf dieser Messe in Madrid vorstellen, oder?",
+      "tags": [
+        "condicional simple",
+        "nosotros"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 159,
+      "target": "¿Quieres que te ayude a traducir ese párrafo tan complicado al alemán?",
+      "de": "Soll ich dir helfen, diesen komplizierten Absatz ins Deutsche zu übersetzen?",
+      "tags": [
+        "presente de subjuntivo",
+        "ayudar a"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 160,
+      "target": "Estaba muy nerviosa porque no había escrito nada en semanas. De repente, me vino una idea y me pasé toda la noche escribiendo.",
+      "de": "Ich war total nervös, weil ich seit Wochen nichts geschrieben hatte. Plötzlich kam mir eine Idee und ich habe die ganze Nacht durchgeschrieben.",
+      "tags": [
+        "pluscuamperfecto",
+        "pretérito indefinido",
+        "gerundio"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 161,
+      "target": "Lo siento, pero no aceptaré más cambios porque la fecha de entrega es mañana.",
+      "de": "Tut mir leid, aber ich nehme keine Änderungen mehr an, weil morgen Abgabetermin ist.",
+      "tags": [
+        "futuro simple",
+        "denegar"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 162,
+      "target": "Tráeme el cuaderno que está sobre la mesa, necesito apuntar esta idea ahora.",
+      "de": "Bring mir mal das Notizbuch, das auf dem Tisch liegt, ich muss die Idee kurz aufschreiben.",
+      "tags": [
+        "imperativo",
+        "pronombres"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 163,
+      "target": "¿Has leído ya el último capítulo que he subido a la carpeta compartida?",
+      "de": "Hast du schon das letzte Kapitel gelesen, das ich in den geteilten Ordner hochgeladen habe?",
+      "tags": [
+        "pretérito perfecto",
+        "participio"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 164,
+      "target": "Me encantaría encontrar una cafetería tranquila para trabajar cuando viva en Valencia.",
+      "de": "Ich würde total gerne ein ruhiges Café zum Arbeiten finden, wenn ich in Valencia wohne.",
+      "tags": [
+        "condicional simple",
+        "subjuntivo presente"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 165,
+      "target": "Te llamaré en cuanto salga del gimnasio para hablar sobre la trama.",
+      "de": "Ich ruf dich an, sobald ich aus dem Fitnessstudio komme, um über den Plot zu quatschen.",
+      "tags": [
+        "futuro simple",
+        "subjuntivo presente",
+        "conector"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 166,
+      "target": "¿Por qué crees que este personaje es tan popular entre los lectores?",
+      "de": "Was glaubst du, warum diese Figur bei den Lesern so beliebt ist?",
+      "tags": [
+        "presente",
+        "pregunta de opinión"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 167,
+      "target": "Me alegra que te haya gustado la dedicatoria que te he escrito.",
+      "de": "Freut mich, dass dir die Widmung gefallen hat, die ich dir geschrieben habe.",
+      "tags": [
+        "presente de subjuntivo",
+        "gustar",
+        "pretérito perfecto"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 168,
+      "target": "Ellos me han apoyado mucho, aunque nunca habían visto mi proceso de escritura.",
+      "de": "Sie haben mich sehr unterstützt, obwohl sie meinen Schreibprozess vorher nie gesehen hatten.",
+      "tags": [
+        "pluscuamperfecto",
+        "pretérito perfecto",
+        "ellos"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 169,
+      "target": "¿Debería borrar esta escena o crees que es importante para la historia?",
+      "de": "Sollte ich diese Szene löschen oder meinst du, sie ist wichtig für die Story?",
+      "tags": [
+        "condicional simple",
+        "consejo"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 170,
+      "target": "Si os gusta la trama, contádsela a vuestros amigos para que la lean.",
+      "de": "Wenn euch die Handlung gefällt, erzählt euren Freunden davon, damit sie sie auch lesen.",
+      "tags": [
+        "imperativo",
+        "vosotros",
+        "pronombres combinados"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 171,
+      "target": "¿Quién será la ilustradora de la portada? Espero que sea alguien con talento.",
+      "de": "Wer wohl die Illustratorin für das Cover ist? Hoffentlich ist sie talentiert.",
+      "tags": [
+        "futuro de probabilidad",
+        "subjuntivo presente"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 172,
+      "target": "No creo que revisar el texto tantas veces sea bueno para mi salud.",
+      "de": "Ich glaube nicht, dass es gut für mich ist, den Text so oft zu überarbeiten.",
+      "tags": [
+        "subjuntivo presente",
+        "negación de opinión"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 173,
+      "target": "¿Podría decirme usted si los libros llegarán a la librería el próximo lunes?",
+      "de": "Könnten Sie mir sagen, ob die Bücher nächsten Montag in der Buchhandlung ankommen?",
+      "tags": [
+        "condicional simple",
+        "usted",
+        "futuro simple"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 174,
+      "target": "Al principio no sabía cómo empezar, pero después todo empezó a fluir mejor.",
+      "de": "Am Anfang wusste ich nicht, wie ich anfangen soll, aber dann lief es irgendwie von selbst.",
+      "tags": [
+        "pretérito imperfecto",
+        "pretérito indefinido",
+        "perífrasis"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 175,
+      "target": "La luz del aro se ve rara, supongo que se fundirá pronto.",
+      "de": "Das Ringlicht sieht komisch aus, ich schätze, die Birne brennt bald durch.",
+      "tags": [
+        "futuro simple",
+        "suposición"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 176,
+      "target": "¿Podrías ayudarme a elegir la miniatura para el vídeo de mañana?",
+      "de": "Könntest du mir helfen, das Thumbnail für das Video morgen auszusuchen?",
+      "tags": [
+        "condicional simple",
+        "petición cortés"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 177,
+      "target": "Por fin he terminado de editar el vlog sobre mi mudanza a Madrid.",
+      "de": "Endlich bin ich fertig damit, den Vlog über meinen Umzug nach Madrid zu schneiden.",
+      "tags": [
+        "pretérito perfecto",
+        "YouTube"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 178,
+      "target": "Envíamelo por Telegram cuando lo hayas exportado, que quiero verlo en el móvil.",
+      "de": "Schick es mir über Telegram, wenn du es exportiert hast; ich will es mir am Handy ansehen.",
+      "tags": [
+        "imperativo",
+        "pronombres combinados"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 179,
+      "target": "Cuando miré los comentarios, ese usuario ya había borrado su mensaje tan feo.",
+      "de": "Als ich in die Kommentare geschaut habe, hatte dieser User seine fiese Nachricht schon gelöscht.",
+      "tags": [
+        "pluscuamperfecto",
+        "YouTube"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 180,
+      "target": "Subiré el vídeo esta noche, aunque todavía me falta ponerle los subtítulos.",
+      "de": "Ich lade das Video heute Abend hoch, auch wenn mir noch die Untertitel fehlen.",
+      "tags": [
+        "futuro simple",
+        "planes"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 181,
+      "target": "¿A vosotras os gusta la nueva música que he puesto en la intro?",
+      "de": "Gefällt euch die neue Musik, die ich im Intro eingebaut habe?",
+      "tags": [
+        "gustar",
+        "vosotros"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 182,
+      "target": "Me encantaría hacer una colaboración contigo para hablar de salud mental en YouTube.",
+      "de": "Ich würde wahnsinnig gerne ein Video mit dir zusammen machen, um über mentale Gesundheit auf YouTube zu sprechen.",
+      "tags": [
+        "condicional simple",
+        "colaboración"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 183,
+      "target": "No aceptaré marcas que no encajen con mis valores, por mucho que paguen.",
+      "de": "Ich werde keine Marken akzeptieren, die nicht zu meinen Werten passen, egal wie viel sie zahlen.",
+      "tags": [
+        "futuro simple",
+        "negación"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 184,
+      "target": "Estaba grabando el momento más emocionante y, de repente, se me acabó la batería.",
+      "de": "Ich habe gerade den spannendsten Moment gefilmt und plötzlich war der Akku leer.",
+      "tags": [
+        "pretérito imperfecto",
+        "pretérito indefinido"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 185,
+      "target": "¿Dónde estará la tarjeta SD? Juraría que la había dejado aquí mismo.",
+      "de": "Wo mag nur die SD-Karte sein? Ich könnte schwören, dass ich sie genau hier hingelegt hatte.",
+      "tags": [
+        "futuro simple",
+        "pluscuamperfecto"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 186,
+      "target": "Yo que tú cambiaría el título porque este no llama mucho la atención.",
+      "de": "An deiner Stelle würde ich den Titel ändern, weil der hier nicht wirklich Aufmerksamkeit erregt.",
+      "tags": [
+        "condicional simple",
+        "consejo"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 187,
+      "target": "No se lo digas todavía a la comunidad, prefiero que sea una sorpresa.",
+      "de": "Verrate es der Community noch nicht, ich möchte lieber, dass es eine Überraschung bleibt.",
+      "tags": [
+        "imperativo negativo",
+        "pronombres combinados"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 188,
+      "target": "¿Podría enviarme usted la factura de la cámara nueva a mi correo electrónico?",
+      "de": "Könnten Sie mir bitte die Rechnung für die neue Kamera an meine E-Mail-Adresse schicken?",
+      "tags": [
+        "usted",
+        "condicional simple"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 189,
+      "target": "Estoy súper agradecida por el apoyo que recibo en cada uno de mis vídeos.",
+      "de": "Ich bin echt dankbar für die Unterstützung, die ich bei jedem meiner Videos bekomme.",
+      "tags": [
+        "presente",
+        "gratitud"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 190,
+      "target": "Sí, ya he marcado el vídeo como contenido publicitario para evitar problemas legales.",
+      "de": "Ja, ich habe das Video schon als Werbung gekennzeichnet, um rechtliche Probleme zu vermeiden.",
+      "tags": [
+        "pretérito perfecto",
+        "anuncios"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 191,
+      "target": "¿Quieres que vuelva a grabar esta parte o crees que se entiende bien?",
+      "de": "Soll ich den Teil nochmal aufnehmen oder meinst du, man versteht es so?",
+      "tags": [
+        "presente de subjuntivo",
+        "querer que"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 192,
+      "target": "Había planeado grabar hoy en el exterior, pero se ha nublado totalmente. Tendré que esperar.",
+      "de": "Ich hatte eigentlich geplant, heute draußen zu filmen, aber es hat sich komplett zugezogen. Ich werde wohl warten müssen.",
+      "tags": [
+        "pluscuamperfecto",
+        "futuro simple"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 193,
+      "target": "Pásame el trípode, por favor, que necesito grabar unos planos de recurso ahora.",
+      "de": "Reich mir mal bitte das Stativ rüber, ich muss jetzt noch ein paar Schnittbilder aufnehmen.",
+      "tags": [
+        "imperativo",
+        "YouTube"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 194,
+      "target": "Sería genial tener un pequeño estudio en mi nuevo piso para no molestar.",
+      "de": "Es wäre toll, in meiner neuen Wohnung ein kleines Studio zu haben, um niemanden zu stören.",
+      "tags": [
+        "condicional simple",
+        "piso"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 195,
+      "target": "Creo que los vídeos largos son mejores porque permiten profundizar en temas importantes.",
+      "de": "Ich finde lange Videos besser, weil man da bei wichtigen Themen mehr in die Tiefe gehen kann.",
+      "tags": [
+        "opinión",
+        "conectores"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 196,
+      "target": "¿Cómo te organizas tú para editar tanto contenido sin quemarte emocionalmente?",
+      "de": "Wie organisierst du dich, um so viel Content zu schneiden, ohne emotional auszubrennen?",
+      "tags": [
+        "reflexivo",
+        "salud mental"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 197,
+      "target": "Luego contestaré a todos vuestros comentarios, ahora necesito desconectar un poco del móvil.",
+      "de": "Ich antworte später auf all eure Kommentare, jetzt muss ich erst mal kurz weg vom Handy.",
+      "tags": [
+        "futuro simple",
+        "promesa"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 198,
+      "target": "Mírate este clip y dime si te parece que hablo demasiado rápido.",
+      "de": "Schau dir diesen Clip mal an und sag mir, ob du findest, dass ich zu schnell spreche.",
+      "tags": [
+        "imperativo",
+        "pronombres"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 199,
+      "target": "¿Qué me sugieres que haga para que el algoritmo recomiende más mi canal?",
+      "de": "Was schlägst du mir vor, damit der Algorithmus meinen Kanal mehr empfiehlt?",
+      "tags": [
+        "presente de subjuntivo",
+        "sugerencia"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 200,
+      "target": "Seguro que tendrás agujetas mañana; pásame el rodillo de espuma para estirar un poco.",
+      "de": "Du wirst morgen sicher Muskelkater haben; reich mir mal die Faszienrolle, um mich kurz zu dehnen.",
+      "tags": [
+        "Futuro simple",
+        "Imperativo",
+        "Gimnasio",
+        "Cuerpo"
+      ],
+      "kind": "request"
+    }
+  ]
+}

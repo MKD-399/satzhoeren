@@ -1,0 +1,2144 @@
+{
+  "id": "pl-a1-1",
+  "lang": "pl",
+  "langLabel": "Polnisch",
+  "level": "A1",
+  "part": 1,
+  "title": "Polnisch A1 · Teil 1",
+  "sentences": [
+    {
+      "n": 1,
+      "target": "Dziś czuję się bardzo dobrze.",
+      "de": "Heute fühle ich mich richtig gut.",
+      "tags": [
+        "present",
+        "feelings",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 2,
+      "target": "Kiedy masz dzisiaj trening?",
+      "de": "Wann hast du heute Training?",
+      "tags": [
+        "question word",
+        "having",
+        "time"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 3,
+      "target": "Przepraszam, ale nie mam teraz czasu.",
+      "de": "Tut mir leid, aber ich habe gerade keine Zeit.",
+      "tags": [
+        "negation",
+        "having",
+        "boundary"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 4,
+      "target": "Jesteś naprawdę bardzo silna.",
+      "de": "Du bist wirklich sehr stark.",
+      "tags": [
+        "being",
+        "adjective",
+        "encouragement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 5,
+      "target": "Widzę postęp, to jest super.",
+      "de": "Ich sehe den Fortschritt, das ist echt klasse.",
+      "tags": [
+        "being",
+        "mental health",
+        "progress"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 6,
+      "target": "Uczę się hiszpańskiego, bo kocham Hiszpanię.",
+      "de": "Ich lerne Spanisch, weil ich Spanien liebe.",
+      "tags": [
+        "learning",
+        "reason",
+        "nationality"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 7,
+      "target": "Czy Pani też jest dzisiaj zmęczona?",
+      "de": "Sind Sie heute auch müde?",
+      "tags": [
+        "politeness",
+        "question",
+        "adjective"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 8,
+      "target": "Potrzebuję pomocy, czy masz chwilę?",
+      "de": "Ich brauche Hilfe, hast du kurz Zeit?",
+      "tags": [
+        "request",
+        "having",
+        "question"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 9,
+      "target": "Siłownia to dla mnie najlepsza terapia.",
+      "de": "Das Fitnessstudio ist für mich die beste Therapie.",
+      "tags": [
+        "being",
+        "mental health",
+        "lifestyle"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 10,
+      "target": "To jest moja dziesiąta lekcja.",
+      "de": "Das ist meine zehnte Lektion.",
+      "tags": [
+        "being",
+        "numbers",
+        "progress"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 11,
+      "target": "Dziękuję za wszystko, to jest miłe.",
+      "de": "Danke für alles, das ist lieb von dir.",
+      "tags": [
+        "politeness",
+        "being",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 12,
+      "target": "Dziś nie mam siły na nic.",
+      "de": "Heute habe ich für nichts Kraft.",
+      "tags": [
+        "negation",
+        "having",
+        "feelings"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 13,
+      "target": "Kto jest dzisiaj twoim wsparciem?",
+      "de": "Wer ist heute deine Unterstützung?",
+      "tags": [
+        "question word",
+        "being",
+        "mental health"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 14,
+      "target": "Jestem pisarką i nagrywam filmy.",
+      "de": "Ich bin Autorin und nehme Videos auf.",
+      "tags": [
+        "being",
+        "occupation",
+        "lifestyle"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 15,
+      "target": "Mój nowy dom jest w Hiszpanii.",
+      "de": "Mein neues Zuhause ist in Spanien.",
+      "tags": [
+        "being",
+        "adjective",
+        "nationality"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 16,
+      "target": "Cześć, jak się dzisiaj czujesz?",
+      "de": "Hi, wie fühlst du dich heute?",
+      "tags": [
+        "greeting",
+        "feelings",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 17,
+      "target": "Każdy ma czasem gorszy dzień.",
+      "de": "Jeder hat mal einen schlechteren Tag.",
+      "tags": [
+        "having",
+        "mental health",
+        "perspective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 18,
+      "target": "Dlaczego to jest dla ciebie ważne?",
+      "de": "Warum ist dir das wichtig?",
+      "tags": [
+        "question word",
+        "being",
+        "values"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 19,
+      "target": "My też uczymy się codziennie.",
+      "de": "Wir lernen auch jeden Tag.",
+      "tags": [
+        "learning",
+        "frequency",
+        "nosotros"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 20,
+      "target": "To jest trudne. Ale jestem cierpliwa.",
+      "de": "Das ist schwer. Aber ich bin geduldig.",
+      "tags": [
+        "being",
+        "story",
+        "mental health"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 21,
+      "target": "Proszę, mów wolno, nie rozumiem.",
+      "de": "Bitte sprich langsam, ich verstehe es nicht.",
+      "tags": [
+        "politeness",
+        "speaking",
+        "negation"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 22,
+      "target": "Moja prezentacja na scenie jest jutro.",
+      "de": "Meine Präsentation auf der Bühne ist morgen.",
+      "tags": [
+        "being",
+        "time",
+        "lifestyle"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 23,
+      "target": "Oni są zawsze bardzo pomocni.",
+      "de": "Sie sind immer sehr hilfsbereit.",
+      "tags": [
+        "being",
+        "ellos",
+        "adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 24,
+      "target": "Ta nowa książka jest bardzo dobra.",
+      "de": "Dieses neue Buch ist sehr gut.",
+      "tags": [
+        "being",
+        "gender",
+        "adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 25,
+      "target": "Lubię jogę, bo to mnie uspokaja.",
+      "de": "Ich mag Yoga, weil es mich beruhigt.",
+      "tags": [
+        "liking",
+        "reason",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 26,
+      "target": "Cześć, mój występ jest o osiemnastej.",
+      "de": "Hi, mein Auftritt ist um 18 Uhr.",
+      "tags": [
+        "numbers",
+        "być"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 27,
+      "target": "Dzień dobry, czy Pan też tu pracuje?",
+      "de": "Guten Tag, arbeiten Sie auch hier?",
+      "tags": [
+        "Pan/Pani",
+        "pracować"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 28,
+      "target": "Moja prezentacja jest dzisiaj bardzo krótka.",
+      "de": "Mein Vortrag ist heute sehr kurz.",
+      "tags": [
+        "być",
+        "nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 29,
+      "target": "Dlaczego to światło jest takie mocne?",
+      "de": "Warum ist dieses Licht so grell?",
+      "tags": [
+        "dlaczego",
+        "nominative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 30,
+      "target": "Nie rozumiem, proszę to powtórzyć.",
+      "de": "Ich verstehe das nicht, bitte wiederholen Sie das.",
+      "tags": [
+        "rozumieć",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 31,
+      "target": "Gdzie jest teraz mój mikrofon?",
+      "de": "Wo ist jetzt mein Mikrofon?",
+      "tags": [
+        "gdzie",
+        "być"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 32,
+      "target": "Ta sala jest naprawdę bardzo duża.",
+      "de": "Dieser Saal ist echt total groß.",
+      "tags": [
+        "nominative",
+        "adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 33,
+      "target": "Dzień dobry, czy Pani ma scenariusz?",
+      "de": "Guten Tag, haben Sie das Skript?",
+      "tags": [
+        "Pan/Pani",
+        "mieć"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 34,
+      "target": "W sumie, dzisiaj nie czuję stresu.",
+      "de": "Eigentlich bin ich heute gar nicht gestresst.",
+      "tags": [
+        "fillers",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 35,
+      "target": "Jasne, to jest bardzo dobry pomysł.",
+      "de": "Klar, das ist eine sehr gute Idee.",
+      "tags": [
+        "short answers",
+        "adjective"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 36,
+      "target": "Uczę się mówić powoli i wyraźnie.",
+      "de": "Ich lerne, langsam und deutlich zu sprechen.",
+      "tags": [
+        "uczyć się",
+        "mówić"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 37,
+      "target": "Skąd jesteś? Ja mieszkam w Hiszpanii.",
+      "de": "Woher kommst du? Ich wohne in Spanien.",
+      "tags": [
+        "skąd",
+        "mieszkać"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 38,
+      "target": "Dziś jest środa, mamy ważną próbę.",
+      "de": "Heute ist Mittwoch, wir haben eine wichtige Probe.",
+      "tags": [
+        "days",
+        "mieć"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 39,
+      "target": "Czy ta woda jest dla mnie?",
+      "de": "Ist das Wasser für mich?",
+      "tags": [
+        "czy",
+        "nominative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 40,
+      "target": "Mój głos jest dzisiaj bardzo słaby.",
+      "de": "Meine Stimme ist heute sehr schwach.",
+      "tags": [
+        "być",
+        "adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 41,
+      "target": "Dziękuję, ta publiczność jest bardzo miła.",
+      "de": "Danke, das Publikum ist sehr nett.",
+      "tags": [
+        "politeness",
+        "adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 42,
+      "target": "Lubię to miejsce, bo jest duże.",
+      "de": "Ich mag diesen Ort, weil er groß ist.",
+      "tags": [
+        "lubić",
+        "reasoning"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 43,
+      "target": "To jest moja strona numer dwanaście.",
+      "de": "Das ist meine Seite Nummer zwölf.",
+      "tags": [
+        "numbers",
+        "to jest"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 44,
+      "target": "Lubię to, bo lubię opowiadać historie.",
+      "de": "Ich mag das, weil ich gerne Geschichten erzähle.",
+      "tags": [
+        "lubić",
+        "reasoning"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 45,
+      "target": "Jak się nazywasz? Ja jestem Julia.",
+      "de": "Wie heißt du? Ich bin Julia.",
+      "tags": [
+        "nazywać się",
+        "być"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 46,
+      "target": "Nie wiem, gdzie jest teraz ekipa.",
+      "de": "Ich weiß nicht, wo die Crew gerade ist.",
+      "tags": [
+        "nie wiem",
+        "gdzie"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 47,
+      "target": "Niestety, jutro mam ważne nagranie.",
+      "de": "Leider habe ich morgen eine wichtige Aufnahme.",
+      "tags": [
+        "jutro",
+        "mieć"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 48,
+      "target": "Wchodzę na scenę. Jestem szczęśliwa.",
+      "de": "Ich gehe auf die Bühne. Ich bin glücklich.",
+      "tags": [
+        "story",
+        "feelings"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 49,
+      "target": "Czy oni są już gotowi?",
+      "de": "Sind sie schon bereit?",
+      "tags": [
+        "czy",
+        "być"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 50,
+      "target": "Prawdziwa przyjaźń to jest coś pięknego.",
+      "de": "Echte Freundschaft ist etwas Schönes.",
+      "tags": [
+        "mental health",
+        "nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 51,
+      "target": "Ten rozdział jest naprawdę bardzo długi.",
+      "de": "Dieses Kapitel ist echt total lang.",
+      "tags": [
+        "być",
+        "nominative",
+        "adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 52,
+      "target": "Czy ta okładka nie jest za ciemna?",
+      "de": "Ist das Cover nicht zu dunkel?",
+      "tags": [
+        "czy",
+        "negation",
+        "być"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 53,
+      "target": "Moja bohaterka nazywa się tak jak ja.",
+      "de": "Meine Protagonistin heißt so wie ich.",
+      "tags": [
+        "nazywać się",
+        "nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 54,
+      "target": "Dzień dobry, czy Pan ma ten rękopis?",
+      "de": "Guten Tag, haben Sie das Manuskript?",
+      "tags": [
+        "Pan",
+        "mieć",
+        "politeness"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 55,
+      "target": "Dziś mam termin na ten tekst.",
+      "de": "Heute habe ich Deadline für diesen Text.",
+      "tags": [
+        "mieć",
+        "dziś",
+        "writing"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 56,
+      "target": "Dlaczego ta postać jest taka smutna?",
+      "de": "Warum ist diese Figur so traurig?",
+      "tags": [
+        "dlaczego",
+        "być",
+        "adjective"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 57,
+      "target": "Moje nowe słowo na dziś to wdzięczność.",
+      "de": "Mein neues Wort für heute ist Dankbarkeit.",
+      "tags": [
+        "być",
+        "dziś",
+        "nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 58,
+      "target": "Przepraszam, ale to nie jest mój styl.",
+      "de": "Tut mir leid, aber das ist nicht mein Stil.",
+      "tags": [
+        "negation",
+        "być",
+        "politeness"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 59,
+      "target": "Gdzie jest dzisiaj moja zielona herbata?",
+      "de": "Wo ist heute mein grüner Tee?",
+      "tags": [
+        "gdzie",
+        "być",
+        "adjective"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 60,
+      "target": "To jest świetne, dziękuję za radę.",
+      "de": "Das ist spitze, danke für den Rat.",
+      "tags": [
+        "dziękuję",
+        "politeness",
+        "być"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 61,
+      "target": "Czy Pani też lubi czytać biografie?",
+      "de": "Lesen Sie auch gerne Biografien?",
+      "tags": [
+        "Pani",
+        "lubić",
+        "czy"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 62,
+      "target": "To jest moja nowa strona numer osiem.",
+      "de": "Das ist meine neue Seite Nummer acht.",
+      "tags": [
+        "być",
+        "numbers",
+        "nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 63,
+      "target": "Jasne, to jest dla mnie zrozumiałe.",
+      "de": "Klar, das ist für mich verständlich.",
+      "tags": [
+        "być",
+        "short answers",
+        "adjective"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 64,
+      "target": "Jutro mam czas na moje poprawki.",
+      "de": "Morgen habe ich Zeit für meine Korrekturen.",
+      "tags": [
+        "mieć",
+        "jutro",
+        "writing"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 65,
+      "target": "Jakie to jest piękne i mądre!",
+      "de": "Wie schön und klug das ist!",
+      "tags": [
+        "jak",
+        "być",
+        "adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 66,
+      "target": "Nie wiem, co dzisiaj mam napisać.",
+      "de": "Ich weiß nicht, was ich heute schreiben soll.",
+      "tags": [
+        "nie wiem",
+        "co",
+        "mieć"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 67,
+      "target": "Czy wy też lubicie ten proces?",
+      "de": "Mögt ihr diesen Prozess auch?",
+      "tags": [
+        "lubić",
+        "wy",
+        "czy"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 68,
+      "target": "Dziś jest czwartek, mamy ważny egzamin.",
+      "de": "Heute ist Donnerstag, wir haben eine wichtige Prüfung.",
+      "tags": [
+        "days",
+        "mieć",
+        "być"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 69,
+      "target": "Mój wydawca jest bardzo miły.",
+      "de": "Mein Verleger ist sehr nett.",
+      "tags": [
+        "być",
+        "adjective",
+        "nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 70,
+      "target": "Kto ma teraz mój nowy tablet?",
+      "de": "Wer hat gerade mein neues Tablet?",
+      "tags": [
+        "kto",
+        "mieć",
+        "nominative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 71,
+      "target": "Proszę, to jest mój krótki e-mail.",
+      "de": "Bitte, das ist meine kurze E-Mail.",
+      "tags": [
+        "proszę",
+        "być",
+        "nominative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 72,
+      "target": "Nie rozumiem, dlaczego to jest trudne.",
+      "de": "Ich verstehe nicht, warum das so schwer ist.",
+      "tags": [
+        "rozumieć",
+        "dlaczego",
+        "być"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 73,
+      "target": "Mój polski jest jeszcze bardzo prosty.",
+      "de": "Mein Polnisch ist noch sehr einfach.",
+      "tags": [
+        "nationalities",
+        "być",
+        "adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 74,
+      "target": "Słucham muzyki i piszę trzeci rozdział.",
+      "de": "Ich höre Musik und schreibe am dritten Kapitel.",
+      "tags": [
+        "numbers",
+        "writing",
+        "present"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 75,
+      "target": "Piszę o Hiszpanii. To jest moja wielka pasja.",
+      "de": "Ich schreibe über Spanien. Das ist meine große Leidenschaft.",
+      "tags": [
+        "być",
+        "nationalities",
+        "writing"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 76,
+      "target": "Ten tytuł jest naprawdę dobry.",
+      "de": "Dieser Titel ist echt gut.",
+      "tags": [
+        "być",
+        "nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 77,
+      "target": "Gdzie jest teraz obiektyw kamery?",
+      "de": "Wo ist gerade das Kameraobjektiv?",
+      "tags": [
+        "gdzie",
+        "być"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 78,
+      "target": "To są moje cztery nowe komentarze.",
+      "de": "Das sind meine vier neuen Kommentare.",
+      "tags": [
+        "być",
+        "liczby"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 79,
+      "target": "Proszę, patrz prosto w obiektyw.",
+      "de": "Bitte, schau direkt ins Objektiv.",
+      "tags": [
+        "proszę"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 80,
+      "target": "Czy Pan ma teraz to światło?",
+      "de": "Haben Sie gerade das Licht?",
+      "tags": [
+        "czy",
+        "Pan/Pani",
+        "mieć"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 81,
+      "target": "Nie, nie mam dzisiaj czasu.",
+      "de": "Nein, ich habe heute keine Zeit.",
+      "tags": [
+        "nie",
+        "mieć"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 82,
+      "target": "Ta nowa miniatura nie jest ładna.",
+      "de": "Dieses neue Thumbnail ist nicht schön.",
+      "tags": [
+        "negation",
+        "być"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 83,
+      "target": "Dlaczego ona mówi tak szybko?",
+      "de": "Warum spricht sie so schnell?",
+      "tags": [
+        "dlaczego",
+        "mówić"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 84,
+      "target": "Co jest ważne na jutro?",
+      "de": "Was ist wichtig für morgen?",
+      "tags": [
+        "co",
+        "być",
+        "dni tygodnia"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 85,
+      "target": "Uczę się, jak robić miniatury.",
+      "de": "Ich lerne, wie man Thumbnails macht.",
+      "tags": [
+        "uczyć się"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 86,
+      "target": "Lubię montaż, bo jest kreatywny.",
+      "de": "Ich mag den Schnitt, weil er kreativ ist.",
+      "tags": [
+        "lubić",
+        "bo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 87,
+      "target": "Filmuję. Jestem w domu. Jest super.",
+      "de": "Ich filme. Ich bin zu Hause. Es ist super.",
+      "tags": [
+        "być"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 88,
+      "target": "Kto jest dzisiaj ze mną?",
+      "de": "Wer ist heute bei mir dabei?",
+      "tags": [
+        "kto",
+        "być"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 89,
+      "target": "Przepraszam, gdzie jest to studio?",
+      "de": "Entschuldigung, wo ist dieses Studio?",
+      "tags": [
+        "przepraszam",
+        "gdzie"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 90,
+      "target": "Nie, to nie jest reklama.",
+      "de": "Nein, das ist keine Werbung.",
+      "tags": [
+        "negation",
+        "być"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 91,
+      "target": "Jestem wdzięczna za to wszystko.",
+      "de": "Ich bin für das alles sehr dankbar.",
+      "tags": [
+        "być",
+        "nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 92,
+      "target": "Czy ten krótki scenariusz jest jasny?",
+      "de": "Ist dieses kurze Skript klar?",
+      "tags": [
+        "czy",
+        "być"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 93,
+      "target": "Mieszkam tutaj, to jest mój pokój.",
+      "de": "Ich wohne hier, das ist mein Zimmer.",
+      "tags": [
+        "mieszkać",
+        "być"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 94,
+      "target": "Jaka jest dzisiaj jakość obrazu?",
+      "de": "Wie ist heute die Bildqualität?",
+      "tags": [
+        "jaka",
+        "być"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 95,
+      "target": "Tak, to jest mój kanał.",
+      "de": "Ja, das ist mein Kanal.",
+      "tags": [
+        "tak",
+        "być"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 96,
+      "target": "Jestem YouTuberką i to jest moja książka.",
+      "de": "Ich bin YouTuberin und das hier ist mein Buch.",
+      "tags": [
+        "być"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 97,
+      "target": "Dzisiaj pracuję, jutro mam wolne.",
+      "de": "Heute arbeite ich, morgen habe ich frei.",
+      "tags": [
+        "pracować",
+        "mieć",
+        "dni tygodnia"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 98,
+      "target": "Czy te napisy są po hiszpańsku?",
+      "de": "Sind diese Untertitel auf Spanisch?",
+      "tags": [
+        "czy",
+        "języki",
+        "być"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 99,
+      "target": "Przepraszam, czy mój mikrofon jest tutaj?",
+      "de": "Entschuldigung, ist mein Mikrofon hier?",
+      "tags": [
+        "proszę",
+        "czy",
+        "być"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 100,
+      "target": "Jak nazywa się ta nowa aplikacja?",
+      "de": "Wie heißt diese neue App?",
+      "tags": [
+        "nazywać się",
+        "jak"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 101,
+      "target": "Cześć, czy ten hantel jest wolny?",
+      "de": "Hi, ist die Hantel hier frei?",
+      "tags": [
+        "czy",
+        "gender",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 102,
+      "target": "To jest moja czwarta seria dzisiaj.",
+      "de": "Das ist heute mein vierter Satz.",
+      "tags": [
+        "numbers",
+        "nominative",
+        "possessive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 103,
+      "target": "Przepraszam, czy Pani ma teraz czas?",
+      "de": "Entschuldigung, haben Sie gerade Zeit?",
+      "tags": [
+        "politeness",
+        "pan_pani",
+        "mieć"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 104,
+      "target": "Mój trening jest krótki, ale intensywny.",
+      "de": "Mein Training ist kurz, aber intensiv.",
+      "tags": [
+        "adjective",
+        "być",
+        "nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 105,
+      "target": "Dobra, teraz moja przerwa jest długa.",
+      "de": "Okay, jetzt ist meine Pause lang.",
+      "tags": [
+        "adjective",
+        "possessive",
+        "filler"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 106,
+      "target": "Moje mięśnie są dzisiaj bardzo zmęczone.",
+      "de": "Meine Muskeln sind heute echt fertig.",
+      "tags": [
+        "plural",
+        "adjective",
+        "feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 107,
+      "target": "Nie, dzisiaj nie mam siły.",
+      "de": "Nein, heute habe ich keine Kraft.",
+      "tags": [
+        "negation",
+        "mieć",
+        "fixed_phrase"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 108,
+      "target": "Ta czarna koszulka jest naprawdę świetna.",
+      "de": "Das schwarze Shirt ist echt mega.",
+      "tags": [
+        "demonstrative",
+        "adjective",
+        "nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 109,
+      "target": "Jesteś silna i Twoja technika jest super.",
+      "de": "Du bist stark und deine Technik ist super.",
+      "tags": [
+        "być",
+        "adjective",
+        "feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 110,
+      "target": "Dzień dobry, czy Pan też tu ćwiczy?",
+      "de": "Guten Tag, trainieren Sie auch hier?",
+      "tags": [
+        "politeness",
+        "pan_pani",
+        "working"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 111,
+      "target": "Mój obiad to dzisiaj świeże owoce.",
+      "de": "Mein Mittagessen ist heute frisches Obst.",
+      "tags": [
+        "nutrition",
+        "nominative",
+        "possessive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 112,
+      "target": "Dlaczego ta muzyka jest taka głośna?",
+      "de": "Warum ist die Musik so laut?",
+      "tags": [
+        "question_word",
+        "adjective",
+        "nominative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 113,
+      "target": "Lubię ten rytm, bo jest szybki.",
+      "de": "Ich mag den Rhythmus, weil er schnell ist.",
+      "tags": [
+        "lubić",
+        "reason",
+        "adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 114,
+      "target": "Moje ciało jest dzisiaj bardzo sprawne.",
+      "de": "Mein Körper ist heute richtig fit.",
+      "tags": [
+        "body",
+        "adjective",
+        "być"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 115,
+      "target": "To jest mój siedemnasty dzień tutaj.",
+      "de": "Das ist heute mein siebzehnter Tag hier.",
+      "tags": [
+        "numbers",
+        "nominative",
+        "time"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 116,
+      "target": "Skąd masz te nowe, różowe legginsy?",
+      "de": "Woher hast du die neuen, pinken Leggings?",
+      "tags": [
+        "question_word",
+        "mieć",
+        "adjective"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 117,
+      "target": "Czy wy też lubicie to studio?",
+      "de": "Mögt ihr das Studio hier auch?",
+      "tags": [
+        "czy",
+        "pronoun_plural",
+        "lubić"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 118,
+      "target": "Proszę, to jest Twoja zimna woda.",
+      "de": "Hier bitte, das ist dein kaltes Wasser.",
+      "tags": [
+        "politeness",
+        "nominative",
+        "possessive"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 119,
+      "target": "Ta mata jest stara. Gdzie jest nowa?",
+      "de": "Die Matte ist alt. Wo ist die neue?",
+      "tags": [
+        "story",
+        "adjective",
+        "question_word"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 120,
+      "target": "Mam cel i jestem bardzo cierpliwa.",
+      "de": "Ich habe ein Ziel und ich bin sehr geduldig.",
+      "tags": [
+        "mieć",
+        "być",
+        "feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 121,
+      "target": "Pani pomoc jest dzisiaj bardzo ważna.",
+      "de": "Ihre Hilfe ist heute echt wichtig.",
+      "tags": [
+        "pan_pani",
+        "possessive",
+        "politeness"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 122,
+      "target": "Kiedy masz czas na wspólny trening?",
+      "de": "Wann hast du Zeit für ein gemeinsames Training?",
+      "tags": [
+        "question_word",
+        "mieć",
+        "gym"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 123,
+      "target": "W sumie, to ćwiczenie nie jest trudne.",
+      "de": "Eigentlich ist die Übung nicht schwer.",
+      "tags": [
+        "filler",
+        "negation",
+        "adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 124,
+      "target": "Oni są dzisiaj naprawdę bardzo zmotywowani.",
+      "de": "Die sind heute echt krass motiviert.",
+      "tags": [
+        "pronoun_plural",
+        "być",
+        "adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 125,
+      "target": "Jasne, to jest moja nowa pasja.",
+      "de": "Klar, das ist meine neue Leidenschaft.",
+      "tags": [
+        "short_answer",
+        "nominative",
+        "possessive"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 126,
+      "target": "Dzień dobry, czy to mieszkanie jest wolne?",
+      "de": "Guten Tag, ist die Wohnung noch frei?",
+      "tags": [
+        "być",
+        "nominative",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 127,
+      "target": "Cześć, jestem twoją nową sąsiadką.",
+      "de": "Hi, ich bin deine neue Nachbarin.",
+      "tags": [
+        "być",
+        "instrumental",
+        "greetings"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 128,
+      "target": "Przepraszam, czy Pan mówi po angielsku?",
+      "de": "Entschuldigung, sprechen Sie Englisch?",
+      "tags": [
+        "mówić",
+        "Pan",
+        "politeness"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 129,
+      "target": "Poproszę jedną kawę i małą wodę.",
+      "de": "Einen Kaffee und ein kleines Wasser, bitte.",
+      "tags": [
+        "politeness",
+        "numbers",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 130,
+      "target": "Gdzie dokładnie jest ulica Goya?",
+      "de": "Wo genau ist die Goya-Straße?",
+      "tags": [
+        "gdzie",
+        "być",
+        "nominative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 131,
+      "target": "Ona jest dzisiaj bardzo pomocna.",
+      "de": "Sie ist heute wirklich sehr hilfsbereit.",
+      "tags": [
+        "być",
+        "pronouns",
+        "adjectives"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 132,
+      "target": "Lubię to miasto, bo jest słoneczne.",
+      "de": "Ich mag die Stadt, weil sie sonnig ist.",
+      "tags": [
+        "lubić",
+        "bo",
+        "adjectives"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 133,
+      "target": "Mój nowy pokój jest bardzo mały.",
+      "de": "Mein neues Zimmer ist echt winzig.",
+      "tags": [
+        "nominative",
+        "possessive",
+        "być"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 134,
+      "target": "Czy ten autobus jedzie do centrum?",
+      "de": "Fährt dieser Bus ins Zentrum?",
+      "tags": [
+        "czy",
+        "transport",
+        "nominative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 135,
+      "target": "Niestety, oni nie są dzisiaj wolni.",
+      "de": "Leider sind sie heute nicht frei.",
+      "tags": [
+        "negation",
+        "pronouns",
+        "być"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 136,
+      "target": "Proszę Pana, mam pytanie o konto.",
+      "de": "Entschuldigen Sie, ich habe eine Frage zum Konto.",
+      "tags": [
+        "mieć",
+        "Pan",
+        "politeness"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 137,
+      "target": "Dzisiaj jest naprawdę bardzo gorąco.",
+      "de": "Heute ist es wirklich total heiß.",
+      "tags": [
+        "dzisiaj",
+        "być",
+        "weather"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 138,
+      "target": "Ile kosztuje ten bilet? Siedem euro?",
+      "de": "Was kostet das Ticket? Sieben Euro?",
+      "tags": [
+        "numbers",
+        "question-words",
+        "money"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 139,
+      "target": "Miło mi, nazywam się Sophie.",
+      "de": "Freut mich, ich heiße Sophie.",
+      "tags": [
+        "nazywać się",
+        "greetings",
+        "politeness"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 140,
+      "target": "Tak, to jest mój nowy adres.",
+      "de": "Ja, das ist meine neue Adresse.",
+      "tags": [
+        "short-answers",
+        "być",
+        "nominative"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 141,
+      "target": "My mamy dzisiaj tylko trzy banany.",
+      "de": "Wir haben heute nur drei Bananen.",
+      "tags": [
+        "mieć",
+        "numbers",
+        "pronouns"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 142,
+      "target": "Wy jesteście super, dziękuję za pomoc.",
+      "de": "Ihr seid super, danke für die Hilfe.",
+      "tags": [
+        "być",
+        "pronouns",
+        "politeness"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 143,
+      "target": "Już rozumiem, to jest proste zadanie.",
+      "de": "Jetzt verstehe ich es, das ist eine einfache Aufgabe.",
+      "tags": [
+        "rozumieć",
+        "być",
+        "nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 144,
+      "target": "Mówię po niemiecku i po hiszpańsku.",
+      "de": "Ich spreche Deutsch und Spanisch.",
+      "tags": [
+        "mówić",
+        "languages",
+        "nationalities"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 145,
+      "target": "Który sklep jest teraz otwarty?",
+      "de": "Welcher Laden hat jetzt offen?",
+      "tags": [
+        "question-words",
+        "być",
+        "adjectives"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 146,
+      "target": "Jak się Pan dzisiaj czuje?",
+      "de": "Wie fühlen Sie sich heute?",
+      "tags": [
+        "jak",
+        "Pan",
+        "feelings"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 147,
+      "target": "Do widzenia, do zobaczenia jutro!",
+      "de": "Auf Wiedersehen, bis morgen!",
+      "tags": [
+        "greetings",
+        "jutro",
+        "politeness"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 148,
+      "target": "Czuję się tutaj bardzo bezpieczna.",
+      "de": "Ich fühle mich hier sehr sicher.",
+      "tags": [
+        "feelings",
+        "feminine-ending",
+        "adjectives"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 149,
+      "target": "Mam mały problem, czy Pani pomoże?",
+      "de": "Ich habe ein kleines Problem, können Sie helfen?",
+      "tags": [
+        "mieć",
+        "Pani",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 150,
+      "target": "Ten pan to mój nowy sąsiad.",
+      "de": "Dieser Herr ist mein neuer Nachbar.",
+      "tags": [
+        "być",
+        "Pan",
+        "nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 151,
+      "target": "Moja matura to duży stres.",
+      "de": "Mein Abi ist echt stressig.",
+      "tags": [
+        "być",
+        "nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 152,
+      "target": "Kiedy jest Twój ważny egzamin?",
+      "de": "Wann ist deine wichtige Prüfung?",
+      "tags": [
+        "question words",
+        "być",
+        "nominative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 153,
+      "target": "Nie, jutro mam egzamin ustny.",
+      "de": "Nein, morgen hab ich mündliches Abi.",
+      "tags": [
+        "mieć",
+        "days",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 154,
+      "target": "Przepraszam, czy Pani ma moje wyniki?",
+      "de": "Entschuldigung, haben Sie meine Ergebnisse?",
+      "tags": [
+        "politeness",
+        "Pan/Pani",
+        "mieć",
+        "czy"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 155,
+      "target": "Moja ocena z prezentacji to pięć.",
+      "de": "Meine Note für das Referat ist eine Eins.",
+      "tags": [
+        "numbers",
+        "nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 156,
+      "target": "Czy uczymy się dzisiaj razem?",
+      "de": "Lernen wir heute zusammen?",
+      "tags": [
+        "uczyć się",
+        "czy",
+        "days"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 157,
+      "target": "Dzisiaj potrzebuję ciszy, jestem zmęczona.",
+      "de": "Heute brauche ich Ruhe, ich bin platt.",
+      "tags": [
+        "potrzebować",
+        "adjectives",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 158,
+      "target": "Po maturze mój dom jest w Hiszpanii.",
+      "de": "Nach dem Abi ist mein Zuhause in Spanien.",
+      "tags": [
+        "mieszkać",
+        "nationalities"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 159,
+      "target": "Dzień dobry, czy Pan rozumie tekst?",
+      "de": "Guten Tag, verstehen Sie den Text?",
+      "tags": [
+        "greetings",
+        "Pan/Pani",
+        "rozumieć",
+        "czy"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 160,
+      "target": "Moja nowa mowa brzmi profesjonalnie.",
+      "de": "Meine neue Rede klingt professionell.",
+      "tags": [
+        "brzmieć",
+        "nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 161,
+      "target": "Uczę się, bo hiszpański to pasja.",
+      "de": "Ich lerne, weil Spanisch eine Leidenschaft ist.",
+      "tags": [
+        "uczyć się",
+        "languages"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 162,
+      "target": "Czy wy rozumiecie te trudne zadania?",
+      "de": "Versteht ihr diese schweren Aufgaben?",
+      "tags": [
+        "rozumieć",
+        "czy",
+        "adjectives"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 163,
+      "target": "Jesteś naprawdę bardzo mądra.",
+      "de": "Du bist wirklich sehr schlau.",
+      "tags": [
+        "być",
+        "adjectives"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 164,
+      "target": "Pan profesor mówi bardzo szybko.",
+      "de": "Der Professor spricht sehr schnell.",
+      "tags": [
+        "mówić",
+        "Pan/Pani"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 165,
+      "target": "Dzisiaj jest wtorek, lubię wtorek.",
+      "de": "Heute ist Dienstag, ich mag Dienstag.",
+      "tags": [
+        "days",
+        "lubić"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 166,
+      "target": "Ta mała książka kosztuje trzy euro.",
+      "de": "Dieses kleine Buch kostet drei Euro.",
+      "tags": [
+        "kosztować",
+        "numbers",
+        "nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 167,
+      "target": "Teraz pracuję, a potem piszę tekst.",
+      "de": "Jetzt arbeite ich und danach schreibe ich einen Text.",
+      "tags": [
+        "pracować",
+        "pisać",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 168,
+      "target": "Nie wiem, skąd oni są.",
+      "de": "Ich weiß nicht, woher die kommen.",
+      "tags": [
+        "nie wiem",
+        "question words",
+        "być"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 169,
+      "target": "Dasz radę, jesteś bardzo silna.",
+      "de": "Du schaffst das, du bist sehr stark.",
+      "tags": [
+        "być",
+        "adjectives"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 170,
+      "target": "Czytasz te cztery teksty na głos?",
+      "de": "Liest du diese vier Texte laut vor?",
+      "tags": [
+        "czytać",
+        "numbers",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 171,
+      "target": "Gdzie leży mój czarny długopis?",
+      "de": "Wo liegt mein schwarzer Kuli?",
+      "tags": [
+        "question words",
+        "leżeć",
+        "nominative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 172,
+      "target": "Przepraszam, teraz pracuję i nie rozmawiam.",
+      "de": "Sorry, ich arbeite gerade und rede nicht.",
+      "tags": [
+        "pracować",
+        "negation",
+        "politeness"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 173,
+      "target": "To zadanie sprawia mi problem.",
+      "de": "Diese Aufgabe macht mir Probleme.",
+      "tags": [
+        "sprawiać",
+        "nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 174,
+      "target": "Czy to jest Twoje nowe miasto?",
+      "de": "Ist das deine neue Stadt?",
+      "tags": [
+        "być",
+        "czy",
+        "nominative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 175,
+      "target": "Ten proces to dla mnie nauka.",
+      "de": "Dieser Prozess ist für mich Lernen.",
+      "tags": [
+        "być",
+        "nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 176,
+      "target": "Cześć, czy masz dziś wolny wieczór?",
+      "de": "Hey, hast du heute Abend frei?",
+      "tags": [
+        "czy",
+        "pytanie",
+        "dni tygodnia"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 177,
+      "target": "Ten związek nie jest dla mnie.",
+      "de": "Diese Beziehung ist nichts für mich.",
+      "tags": [
+        "ten/ta/to",
+        "negacja"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 178,
+      "target": "Ty to moja najlepsza przyjaciółka, dziękuję.",
+      "de": "Du bist meine beste Freundin, danke.",
+      "tags": [
+        "być",
+        "mianownik",
+        "wdzięczność"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 179,
+      "target": "Dlaczego dzisiaj czuję taki niepokój?",
+      "de": "Warum bin ich heute so unruhig?",
+      "tags": [
+        "dlaczego",
+        "uczucia",
+        "pytanie"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 180,
+      "target": "Nasza rodzina to teraz osiem osób.",
+      "de": "Unsere Familie besteht jetzt aus acht Personen.",
+      "tags": [
+        "liczby",
+        "rodzina",
+        "mianownik"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 181,
+      "target": "Pani Mario, czy to szczera opinia?",
+      "de": "Frau Maria, ist das eine ehrliche Meinung?",
+      "tags": [
+        "Pan/Pani",
+        "czy",
+        "relacje"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 182,
+      "target": "Jestem tu i zawsze Cię słucham.",
+      "de": "Ich bin hier und höre dir immer zu.",
+      "tags": [
+        "być",
+        "relacje",
+        "wsparcie"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 183,
+      "target": "Jasne, Twoje zaufanie jest bardzo ważne.",
+      "de": "Klar, dein Vertrauen ist total wichtig.",
+      "tags": [
+        "krótka odpowiedź",
+        "wartości"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 184,
+      "target": "Ta nowa koleżanka to miła Hiszpanka.",
+      "de": "Diese neue Kollegin ist eine nette Spanierin.",
+      "tags": [
+        "narodowości",
+        "ten/ta/to"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 185,
+      "target": "Nie, to nie jest moja sprawa.",
+      "de": "Nein, das ist nicht meine Angelegenheit.",
+      "tags": [
+        "negacja",
+        "granice"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 186,
+      "target": "Kto jest dla Ciebie naprawdę ważny?",
+      "de": "Wer ist dir wirklich wichtig?",
+      "tags": [
+        "kto",
+        "relacje",
+        "pytanie"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 187,
+      "target": "Lubię trening, bo daje mi spokój.",
+      "de": "Ich mag das Training, weil es mich beruhigt.",
+      "tags": [
+        "lubić",
+        "opinie",
+        "bo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 188,
+      "target": "Czekam na krótką wiadomość do jutra.",
+      "de": "Ich warte bis morgen auf eine kurze Nachricht.",
+      "tags": [
+        "prośba",
+        "e-mail",
+        "jutro"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 189,
+      "target": "Poznaję teraz nowych ludzi w Hiszpanii. Oni są bardzo mili i pomocni.",
+      "de": "Ich lerne gerade neue Leute in Spanien kennen. Sie sind sehr nett und hilfsbereit.",
+      "tags": [
+        "hiszpański",
+        "historia",
+        "ludzie"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 190,
+      "target": "Gdzie mieszka Twoja rodzina w Madrycie?",
+      "de": "Wo wohnt deine Familie in Madrid?",
+      "tags": [
+        "gdzie",
+        "mieszkać",
+        "pytanie"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 191,
+      "target": "Szczera prawda jest dla mnie ważna.",
+      "de": "Die nackte Wahrheit ist mir wichtig.",
+      "tags": [
+        "mianownik",
+        "wartości"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 192,
+      "target": "Rozumiem, każdy ma czasem gorszy dzień.",
+      "de": "Ich verstehe, jeder hat mal einen schlechten Tag.",
+      "tags": [
+        "rozumieć",
+        "empatia"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 193,
+      "target": "Mój trening trwa dzisiaj dwadzieścia minut.",
+      "de": "Mein Training dauert heute zwanzig Minuten.",
+      "tags": [
+        "liczby",
+        "sport",
+        "mianownik"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 194,
+      "target": "Jak wygląda Twoja idealna niedziela?",
+      "de": "Wie sieht dein idealer Sonntag aus?",
+      "tags": [
+        "jak",
+        "dni tygodnia",
+        "pytanie"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 195,
+      "target": "Przepraszam Panie Marku, czy to Pana?",
+      "de": "Entschuldigung, Herr Marek, gehört das Ihnen?",
+      "tags": [
+        "przepraszam",
+        "Pan/Pani",
+        "pytanie"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 196,
+      "target": "Dziś nie potrzebuję Twojej rady, dziękuję.",
+      "de": "Heute brauche ich deinen Rat nicht, danke.",
+      "tags": [
+        "granice",
+        "negacja",
+        "dziś"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 197,
+      "target": "Mamy mały problem, ale dużo rozmawiamy.",
+      "de": "Wir haben ein kleines Problem, aber wir reden viel.",
+      "tags": [
+        "mieć",
+        "mówić",
+        "historia"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 198,
+      "target": "Skąd jest ta nowa, miła dziewczyna?",
+      "de": "Woher kommt dieses neue, nette Mädchen?",
+      "tags": [
+        "skąd",
+        "pytanie",
+        "ludzie"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 199,
+      "target": "Słuchaj, bądź dla siebie dzisiaj dobra.",
+      "de": "Hör mal, sei heute gut zu dir selbst.",
+      "tags": [
+        "prośba",
+        "zdrowie psychiczne"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 200,
+      "target": "Prawdziwy przyjaciel to jest wielki skarb.",
+      "de": "Ein wahrer Freund ist ein großer Schatz.",
+      "tags": [
+        "przyjaźń",
+        "mianownik",
+        "być"
+      ],
+      "kind": "statement"
+    }
+  ]
+}

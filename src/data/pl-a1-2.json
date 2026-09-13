@@ -1,0 +1,2045 @@
+{
+  "id": "pl-a1-2",
+  "lang": "pl",
+  "langLabel": "Polnisch",
+  "level": "A1",
+  "part": 2,
+  "title": "Polnisch A1 · Teil 2",
+  "sentences": [
+    {
+      "n": 1,
+      "target": "Mam czarną kawę i nową książkę.",
+      "de": "Ich habe einen schwarzen Kaffee und ein neues Buch.",
+      "tags": [
+        "mieć",
+        "Accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 2,
+      "target": "Jestem dzisiaj bardzo szczęśliwą kobietą.",
+      "de": "Ich bin heute eine sehr glückliche Frau.",
+      "tags": [
+        "być",
+        "Instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 3,
+      "target": "Czy pije Pan teraz ciepłą herbatę?",
+      "de": "Trinken Sie gerade einen warmen Tee?",
+      "tags": [
+        "Pan/Pani",
+        "Accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 4,
+      "target": "Ta mrożona herbata kosztuje cztery złote.",
+      "de": "Dieser Eistee kostet vier Złoty.",
+      "tags": [
+        "Numbers",
+        "Prices"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 5,
+      "target": "Chcę iść na bardzo długi spacer.",
+      "de": "Ich will einen richtig langen Spaziergang machen.",
+      "tags": [
+        "Modal",
+        "Accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 6,
+      "target": "Lubię deszcz, bo widzę piękną tęczę.",
+      "de": "Ich mag Regen, weil ich einen schönen Regenbogen sehe.",
+      "tags": [
+        "Accusative",
+        "Present Tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 7,
+      "target": "Poproszę bilet na ten hiszpański film.",
+      "de": "Ein Ticket für diesen spanischen Film, bitte.",
+      "tags": [
+        "Request",
+        "Accusative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 8,
+      "target": "Dzisiaj nie mogę iść na siłownię.",
+      "de": "Heute kann ich nicht ins Gym gehen.",
+      "tags": [
+        "Modal",
+        "Negation",
+        "Accusative"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 9,
+      "target": "Piszę nowy scenariusz na wideo.",
+      "de": "Ich schreibe gerade ein neues Videoskript.",
+      "tags": [
+        "Accusative",
+        "Present Tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 10,
+      "target": "Co robimy o dziesiątej rano?",
+      "de": "Was machen wir um zehn Uhr morgens?",
+      "tags": [
+        "Numbers",
+        "Time"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 11,
+      "target": "Jem pyszny lód z czekoladą.",
+      "de": "Ich esse ein leckeres Eis mit Schokolade.",
+      "tags": [
+        "Accusative",
+        "Instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 12,
+      "target": "Czy masz wolny czas w weekend?",
+      "de": "Hast du am Wochenende Freizeit?",
+      "tags": [
+        "mieć",
+        "Accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 13,
+      "target": "Słuchaj, ta piosenka jest po prostu super!",
+      "de": "Hör mal, dieses Lied ist einfach super!",
+      "tags": [
+        "być",
+        "Nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 14,
+      "target": "Ta kawa smakuje dzisiaj wyśmienicie.",
+      "de": "Dieser Kaffee schmeckt heute ausgezeichnet.",
+      "tags": [
+        "Present Tense",
+        "Nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 15,
+      "target": "Bardzo cenię moją dobrą przyjaciółkę.",
+      "de": "Ich schätze meine gute Freundin sehr.",
+      "tags": [
+        "Accusative",
+        "Present Tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 16,
+      "target": "Dzień dobry, czy mówi Pani po hiszpańsku?",
+      "de": "Guten Tag, sprechen Sie Spanisch?",
+      "tags": [
+        "Pan/Pani",
+        "Present Tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 17,
+      "target": "Ten sok kosztuje dwadzieścia dwa złote.",
+      "de": "Dieser Saft kostet zweiundzwanzig Złoty.",
+      "tags": [
+        "Numbers",
+        "Prices"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 18,
+      "target": "Muszę teraz czytać tę ważną książkę.",
+      "de": "Ich muss jetzt dieses wichtige Buch lesen.",
+      "tags": [
+        "Modal",
+        "Accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 19,
+      "target": "Czy ty też lubisz tę grę?",
+      "de": "Magst du dieses Spiel auch?",
+      "tags": [
+        "Question",
+        "Accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 20,
+      "target": "Mój brat to bardzo miły człowiek.",
+      "de": "Mein Bruder ist ein sehr netter Mensch.",
+      "tags": [
+        "być",
+        "Nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 21,
+      "target": "Idę na basen o ósmej.",
+      "de": "Ich gehe um acht ins Schwimmbad.",
+      "tags": [
+        "Numbers",
+        "Time",
+        "Accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 22,
+      "target": "Moja mama jest naprawdę świetną lekarką.",
+      "de": "Meine Mama ist wirklich eine tolle Ärztin.",
+      "tags": [
+        "być",
+        "Instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 23,
+      "target": "Dobra, rozumiem, to nie jest problem.",
+      "de": "Gut, ich verstehe, das ist kein Problem.",
+      "tags": [
+        "Negation",
+        "Present Tense"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 24,
+      "target": "Czuję dzisiaj bardzo dużą wdzięczność.",
+      "de": "Ich spüre heute eine sehr große Dankbarkeit.",
+      "tags": [
+        "Accusative",
+        "Present Tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 25,
+      "target": "Świeci słońce. Jem lód. Jestem bardzo wdzięczna.",
+      "de": "Die Sonne scheint. Ich esse ein Eis. Ich bin sehr dankbar.",
+      "tags": [
+        "story",
+        "być",
+        "Accusative"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 26,
+      "target": "Mam świetny pomysł na nowy film.",
+      "de": "Ich habe eine echt gute Idee für ein neues Video.",
+      "tags": [
+        "Accusative",
+        "Common Verb"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 27,
+      "target": "Jestem teraz bardzo odważną osobą.",
+      "de": "Ich bin jetzt eine sehr mutige Person.",
+      "tags": [
+        "Instrumental",
+        "Adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 28,
+      "target": "Chcę zobaczyć to piękne, wolne miasto.",
+      "de": "Ich will diese schöne, freie Stadt sehen.",
+      "tags": [
+        "Modal",
+        "Accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 29,
+      "target": "Ten bilet kosztuje siedemdziesiąt dwa złote.",
+      "de": "Dieses Ticket kostet zweiundsiebzig Zloty.",
+      "tags": [
+        "Price",
+        "Numbers"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 30,
+      "target": "Czy jesteś wolna o dziewiątej?",
+      "de": "Hast du um neun Uhr Zeit?",
+      "tags": [
+        "Clock Time",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 31,
+      "target": "To nie jest dobry moment.",
+      "de": "Das ist gerade kein guter Moment.",
+      "tags": [
+        "Negation",
+        "Nominative"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 32,
+      "target": "Mówię po hiszpańsku z koleżanką.",
+      "de": "Ich spreche Spanisch mit meiner Freundin.",
+      "tags": [
+        "Instrumental",
+        "Present Tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 33,
+      "target": "Dziękuję za tę miłą wiadomość.",
+      "de": "Danke für diese nette Nachricht.",
+      "tags": [
+        "Accusative",
+        "Gratitude"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 34,
+      "target": "Czy zna Pan tę trasę?",
+      "de": "Kennen Sie diese Strecke?",
+      "tags": [
+        "Accusative",
+        "Pan/Pani"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 35,
+      "target": "Moja nowa mata jest bardzo lekka.",
+      "de": "Meine neue Matte ist sehr leicht.",
+      "tags": [
+        "Nominative",
+        "Gender"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 36,
+      "target": "Lubię Hiszpanię, bo jest piękna.",
+      "de": "Ich mag Spanien, weil es schön ist.",
+      "tags": [
+        "Accusative",
+        "Opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 37,
+      "target": "Widzę dzisiaj piękne, niebieskie niebo.",
+      "de": "Ich sehe heute einen schönen, blauen Himmel.",
+      "tags": [
+        "Accusative",
+        "Adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 38,
+      "target": "Czuję tutaj moją prawdziwą wolność.",
+      "de": "Ich spüre hier meine wahre Freiheit.",
+      "tags": [
+        "Accusative",
+        "Gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 39,
+      "target": "Dzisiaj mam wystąpienie. Jestem gotowa.",
+      "de": "Heute habe ich einen Auftritt. Ich bin bereit.",
+      "tags": [
+        "Story",
+        "Gender"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 40,
+      "target": "Poproszę wodę z cytryną.",
+      "de": "Ein Wasser mit Zitrone, bitte.",
+      "tags": [
+        "Instrumental",
+        "Request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 41,
+      "target": "Jesteś naprawdę bardzo dobrą przyjaciółką.",
+      "de": "Du bist wirklich eine sehr gute Freundin.",
+      "tags": [
+        "Instrumental",
+        "Friendship"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 42,
+      "target": "Jest teraz dokładnie godzina siódma.",
+      "de": "Es ist jetzt genau sieben Uhr.",
+      "tags": [
+        "Clock Time",
+        "Numbers"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 43,
+      "target": "To kosztuje osiemdziesiąt cztery złote.",
+      "de": "Das kostet vierundachtzig Zloty.",
+      "tags": [
+        "Price",
+        "Numbers"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 44,
+      "target": "Mogę dzisiaj robić coś miłego.",
+      "de": "Ich kann heute etwas Nettes machen.",
+      "tags": [
+        "Modal",
+        "Present Tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 45,
+      "target": "Dlaczego jesteś dzisiaj taka wesoła?",
+      "de": "Warum bist du heute so fröhlich?",
+      "tags": [
+        "Question",
+        "Adjective"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 46,
+      "target": "Piszę teraz bardzo długi tekst.",
+      "de": "Ich schreibe gerade einen sehr langen Text.",
+      "tags": [
+        "Accusative",
+        "Present Tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 47,
+      "target": "Czy jest Pani znaną autorką?",
+      "de": "Sind Sie eine bekannte Autorin?",
+      "tags": [
+        "Instrumental",
+        "Pan/Pani"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 48,
+      "target": "W sumie to nie jest mój problem.",
+      "de": "Im Grunde ist das nicht mein Problem.",
+      "tags": [
+        "Negation",
+        "Boundary"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 49,
+      "target": "Siłownia to moja wielka pasja.",
+      "de": "Das Gym ist meine große Leidenschaft.",
+      "tags": [
+        "Nominative",
+        "Gym"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 50,
+      "target": "Czy masz może swoją ulubioną książkę?",
+      "de": "Hast du vielleicht ein Lieblingsbuch?",
+      "tags": [
+        "Accusative",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 51,
+      "target": "Dzisiaj mam gorszy dzień, ale to okej.",
+      "de": "Heute hab ich einen eher schlechten Tag, aber das ist okay.",
+      "tags": [
+        "accusative_singular",
+        "present_tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 52,
+      "target": "Czy jesteś teraz ze swoją psycholożką?",
+      "de": "Bist du gerade bei deiner Psychologin?",
+      "tags": [
+        "instrumental",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 53,
+      "target": "Muszę postawić tę ważną granicę.",
+      "de": "Ich muss diese wichtige Grenze setzen.",
+      "tags": [
+        "modal_infinitive",
+        "accusative_singular"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 54,
+      "target": "Moja sesja kosztuje siedemdziesiąt pięć złotych.",
+      "de": "Meine Sitzung kostet fünfundsiebzig Zloty.",
+      "tags": [
+        "numbers",
+        "prices"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 55,
+      "target": "O dziesiątej mam ważną terapię online.",
+      "de": "Um zehn Uhr habe ich eine wichtige Online-Therapie.",
+      "tags": [
+        "time",
+        "accusative_singular"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 56,
+      "target": "Czy Pan też czuje dzisiaj stres?",
+      "de": "Spüren Sie heute auch diesen Stress?",
+      "tags": [
+        "accusative_singular",
+        "pan_pani",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 57,
+      "target": "Nie, teraz nie mogę tak rozmawiać.",
+      "de": "Nein, so kann ich jetzt nicht reden.",
+      "tags": [
+        "modal_infinitive",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 58,
+      "target": "Jesteś moją bardzo bliską przyjaciółką.",
+      "de": "Du bist eine sehr enge Freundin für mich.",
+      "tags": [
+        "instrumental",
+        "present_tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 59,
+      "target": "Lubię tę małą chwilę dla siebie.",
+      "de": "Ich mag diesen kurzen Moment für mich selbst.",
+      "tags": [
+        "accusative_singular",
+        "present_tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 60,
+      "target": "Co dokładnie czujesz, kiedy to widzisz?",
+      "de": "Was genau fühlst du, wenn du das siehst?",
+      "tags": [
+        "question_words",
+        "accusative_singular"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 61,
+      "target": "Poproszę wodę i krótką przerwę.",
+      "de": "Ich hätte gerne ein Wasser und eine kurze Pause.",
+      "tags": [
+        "request",
+        "accusative_singular"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 62,
+      "target": "Teraz jestem po prostu bardzo smutna.",
+      "de": "Gerade bin ich einfach total traurig.",
+      "tags": [
+        "present_tense",
+        "adjective_gender"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 63,
+      "target": "Czy Pani rozumie tę trudną emocję?",
+      "de": "Verstehen Sie diese schwierige Emotion?",
+      "tags": [
+        "pan_pani",
+        "accusative_singular",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 64,
+      "target": "Mam teraz tylko jedną małą prośbę.",
+      "de": "Ich habe jetzt nur eine kleine Bitte.",
+      "tags": [
+        "accusative_singular",
+        "numbers"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 65,
+      "target": "Moja mama jest moją wielką inspiracją.",
+      "de": "Meine Mama ist eine riesige Inspiration für mich.",
+      "tags": [
+        "instrumental",
+        "nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 66,
+      "target": "On ma dzisiaj naprawdę dobry humor.",
+      "de": "Er hat heute echt gute Laune.",
+      "tags": [
+        "accusative_singular",
+        "pronouns"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 67,
+      "target": "My robimy razem to ważne ćwiczenie.",
+      "de": "Wir machen diese wichtige Übung zusammen.",
+      "tags": [
+        "accusative_singular",
+        "pronouns"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 68,
+      "target": "Dlaczego masz dzisiaj taką smutną twarz?",
+      "de": "Warum ziehst du heute so ein trauriges Gesicht?",
+      "tags": [
+        "question_words",
+        "accusative_singular"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 69,
+      "target": "Bardzo dziękuję za tę szczerą pomoc.",
+      "de": "Vielen Dank für diese ehrliche Hilfe.",
+      "tags": [
+        "accusative_singular",
+        "present_tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 70,
+      "target": "Czy wy macie czas o piątej?",
+      "de": "Habt ihr um fünf Zeit?",
+      "tags": [
+        "time",
+        "pronouns",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 71,
+      "target": "To jest moja nowa, bezpieczna przestrzeń.",
+      "de": "Das ist mein neuer, sicherer Ort.",
+      "tags": [
+        "nominative",
+        "adjective_gender"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 72,
+      "target": "Chcę dzisiaj mieć jedną pozytywną myśl.",
+      "de": "Ich möchte heute einen positiven Gedanken haben.",
+      "tags": [
+        "modal_infinitive",
+        "accusative_singular",
+        "numbers"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 73,
+      "target": "To jest dzisiaj moja granica.",
+      "de": "Das ist heute meine Grenze.",
+      "tags": [
+        "negation",
+        "nominative"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 74,
+      "target": "Czy Pan zna tego dobrego terapeutę?",
+      "de": "Kennen Sie diesen guten Therapeuten?",
+      "tags": [
+        "pan_pani",
+        "accusative_singular",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 75,
+      "target": "Czuję spokój. Widzę słońce. Jestem gotowa.",
+      "de": "Ich fühle Ruhe. Ich sehe die Sonne. Ich bin bereit.",
+      "tags": [
+        "story",
+        "accusative_singular",
+        "adjective_gender"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 76,
+      "target": "Chcę testować ten nowy mikrofon.",
+      "de": "Ich will dieses neue Mikro testen.",
+      "tags": [
+        "modal",
+        "accusative",
+        "speaking"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 77,
+      "target": "Czy ma Pani moje wystąpienie?",
+      "de": "Haben Sie meine Rede da?",
+      "tags": [
+        "pytanie",
+        "Pan/Pani",
+        "accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 78,
+      "target": "Poproszę ofertę na tę salę.",
+      "de": "Ich hätte gerne ein Angebot für diesen Saal.",
+      "tags": [
+        "prośba",
+        "accusative",
+        "stage"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 79,
+      "target": "Lubię moją widownię, bo jest miła.",
+      "de": "Ich mag mein Publikum, weil es echt nett ist.",
+      "tags": [
+        "opinia",
+        "accusative",
+        "stage"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 80,
+      "target": "Bilet na mój występ kosztuje czterdzieści dwa złote.",
+      "de": "Ein Ticket für meinen Auftritt kostet 42 Zloty.",
+      "tags": [
+        "liczba",
+        "cena",
+        "stage"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 81,
+      "target": "Jestem dzisiaj naprawdę dobrą mówczynią.",
+      "de": "Ich bin heute echt eine gute Sprecherin.",
+      "tags": [
+        "instrumental",
+        "identity",
+        "stage"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 82,
+      "target": "Muszę zacząć tę próbę o szóstej.",
+      "de": "Ich muss um sechs mit der Probe anfangen.",
+      "tags": [
+        "modal",
+        "czas",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 83,
+      "target": "To nie jest mój stary mikrofon.",
+      "de": "Das ist nicht mein altes Mikrofon.",
+      "tags": [
+        "negacja",
+        "nominative",
+        "stage"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 84,
+      "target": "Widzę dużą i bardzo miłą widownię.",
+      "de": "Ich sehe ein großes und sehr nettes Publikum.",
+      "tags": [
+        "uczucia",
+        "accusative",
+        "stage"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 85,
+      "target": "Czy jesteś gotowa na to wideo?",
+      "de": "Bist du bereit für das Video?",
+      "tags": [
+        "pytanie",
+        "accusative",
+        "youtube"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 86,
+      "target": "Trzymam mikrofon. Widzę was. Jestem gotowa.",
+      "de": "Ich halte das Mikro. Ich sehe euch. Ich bin bereit.",
+      "tags": [
+        "historia",
+        "stage",
+        "feelings"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 87,
+      "target": "Słuchaj, to jest moja długa historia.",
+      "de": "Hör mal, das ist meine lange Geschichte.",
+      "tags": [
+        "prośba",
+        "nominative",
+        "story"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 88,
+      "target": "Chcę być bardzo odważną YouTuberką.",
+      "de": "Ich möchte eine sehr mutige YouTuberin sein.",
+      "tags": [
+        "modal",
+        "instrumental",
+        "youtube"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 89,
+      "target": "Czy masz teraz nową kamerę?",
+      "de": "Hast du jetzt eine neue Kamera?",
+      "tags": [
+        "pytanie",
+        "instrumental",
+        "youtube"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 90,
+      "target": "Czuję stres, bo zaraz mówię.",
+      "de": "Ich bin gestresst, weil ich gleich spreche.",
+      "tags": [
+        "opinia",
+        "accusative",
+        "stage"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 91,
+      "target": "Czy znasz tego młodego organizatora?",
+      "de": "Kennst du diesen jungen Veranstalter?",
+      "tags": [
+        "pytanie",
+        "accusative",
+        "stage"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 92,
+      "target": "Moje wystąpienie jest dzisiaj o dziewiątej.",
+      "de": "Mein Auftritt ist heute um neun.",
+      "tags": [
+        "czas",
+        "stage"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 93,
+      "target": "Pracuję dzisiaj z tą nową koleżanką.",
+      "de": "Ich arbeite heute mit dieser neuen Kollegin zusammen.",
+      "tags": [
+        "instrumental",
+        "friendship"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 94,
+      "target": "Czy mogę nagrać to krótkie wideo?",
+      "de": "Kann ich dieses kurze Video aufnehmen?",
+      "tags": [
+        "pytanie",
+        "modal",
+        "accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 95,
+      "target": "Sala na mój event kosztuje dziewięćdziesiąt cztery złote.",
+      "de": "Der Saal für mein Event kostet 94 Zloty.",
+      "tags": [
+        "liczba",
+        "cena",
+        "stage"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 96,
+      "target": "Mówię bardzo dobrze po hiszpańsku.",
+      "de": "Ich spreche sehr gut Spanisch.",
+      "tags": [
+        "język",
+        "stage"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 97,
+      "target": "To światło nie jest dzisiaj dobre.",
+      "de": "Das Licht ist heute nicht gut.",
+      "tags": [
+        "negacja",
+        "nominative",
+        "stage"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 98,
+      "target": "Potrzebuję tylko tego małego stolika.",
+      "de": "Ich brauche nur diesen kleinen Tisch.",
+      "tags": [
+        "prośba",
+        "accusative",
+        "stage"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 99,
+      "target": "Kto to jest ten wysoki pan?",
+      "de": "Wer ist dieser große Herr da?",
+      "tags": [
+        "pytanie",
+        "Pan/Pani",
+        "nominative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 100,
+      "target": "Mam bardzo dobry i pomocny zespół.",
+      "de": "Ich habe ein sehr gutes und hilfreiches Team.",
+      "tags": [
+        "wdzięczność",
+        "accusative",
+        "stage"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 101,
+      "target": "Ta nowa okładka wygląda po prostu przepięknie.",
+      "de": "Das neue Cover sieht einfach mega schön aus.",
+      "tags": [
+        "nominative",
+        "adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 102,
+      "target": "Widzę teraz moją główną bohaterkę.",
+      "de": "Ich sehe jetzt meine Hauptfigur vor mir.",
+      "tags": [
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 103,
+      "target": "Piszę dzisiaj ten ważny rozdział.",
+      "de": "Ich schreibe heute dieses wichtige Kapitel.",
+      "tags": [
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 104,
+      "target": "My dzisiaj analizujemy ten nowy scenariusz.",
+      "de": "Wir analysieren heute das neue Skript.",
+      "tags": [
+        "accusative",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 105,
+      "target": "Ten wydawca jest naprawdę świetnym człowiekiem.",
+      "de": "Dieser Verleger ist wirklich ein toller Mensch.",
+      "tags": [
+        "instrumental",
+        "być"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 106,
+      "target": "Muszę skończyć tekst o jedenastej rano.",
+      "de": "Ich muss den Text um elf Uhr morgens fertig kriegen.",
+      "tags": [
+        "modal",
+        "time",
+        "accusative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 107,
+      "target": "Czytasz teraz tę bardzo grubą książkę?",
+      "de": "Liest du gerade dieses megadicke Buch?",
+      "tags": [
+        "accusative",
+        "czy-question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 108,
+      "target": "Tłumaczę ten krótki fragment na hiszpański.",
+      "de": "Ich übersetze diesen kurzen Abschnitt ins Spanische.",
+      "tags": [
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 109,
+      "target": "Pracuję dzisiaj z moją ulubioną redaktorką.",
+      "de": "Ich arbeite heute mit meiner Lieblingslektorin zusammen.",
+      "tags": [
+        "instrumental",
+        "z/ze"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 110,
+      "target": "Polecam tę historię, bo wydaje się prawdziwa.",
+      "de": "Ich empfehle diese Geschichte, weil sie sich echt anfühlt.",
+      "tags": [
+        "accusative",
+        "opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 111,
+      "target": "Twoja książka kosztuje siedemdziesiąt dziewięć złotych.",
+      "de": "Dein Buch kostet neunundsiebzig Złoty.",
+      "tags": [
+        "numbers",
+        "price"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 112,
+      "target": "Czy planujesz coś o dziewiątej rano?",
+      "de": "Hast du um neun Uhr morgens was vor?",
+      "tags": [
+        "time",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 113,
+      "target": "Piję teraz mrożoną kawę z mlekiem.",
+      "de": "Ich trinke gerade einen Eiskaffee mit Milch.",
+      "tags": [
+        "accusative",
+        "instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 114,
+      "target": "Szanowna Pani, przesyłam już ten tekst.",
+      "de": "Sehr geehrte Frau, ich sende hiermit den Text.",
+      "tags": [
+        "accusative",
+        "formal"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 115,
+      "target": "Możesz teraz czytać mój pierwszy rozdział?",
+      "de": "Kannst du jetzt mein erstes Kapitel lesen?",
+      "tags": [
+        "modal",
+        "accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 116,
+      "target": "Jestem dzisiaj bardzo zmęczoną autorką.",
+      "de": "Ich bin heute eine sehr müde Autorin.",
+      "tags": [
+        "instrumental",
+        "być"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 117,
+      "target": "Biorę czarną kawę i edytuję rozdział.",
+      "de": "Ich schnappe mir einen schwarzen Kaffee und editiere das Kapitel.",
+      "tags": [
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 118,
+      "target": "Kupuję ten niebieski zeszyt za dwadzieścia złotych.",
+      "de": "Ich kaufe dieses blaue Heft für zwanzig Złoty.",
+      "tags": [
+        "accusative",
+        "numbers",
+        "price"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 119,
+      "target": "O dziesiątej zaczynasz ten ważny trening?",
+      "de": "Fängst du um zehn mit dem wichtigen Training an?",
+      "tags": [
+        "time",
+        "accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 120,
+      "target": "Naprawdę lubię tę książkę, bo ma sens.",
+      "de": "Ich mag das Buch echt, weil es Sinn ergibt.",
+      "tags": [
+        "accusative",
+        "opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 121,
+      "target": "Masz wielki talent i tworzysz piękną historię.",
+      "de": "Du hast großes Talent und erschaffst eine schöne Geschichte.",
+      "tags": [
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 122,
+      "target": "Mam dzisiaj bardzo trudny deadline.",
+      "de": "Ich habe heute eine sehr schwierige Deadline.",
+      "tags": [
+        "accusative",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 123,
+      "target": "Mój plan: piszę rano, jem obiad i odpoczywam.",
+      "de": "Mein Plan: Morgens schreibe ich, esse zu Mittag und entspanne mich.",
+      "tags": [
+        "present tense"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 124,
+      "target": "W sumie to jest dobra korekta.",
+      "de": "Im Grunde ist das eine gute Korrektur.",
+      "tags": [
+        "negation",
+        "nominative"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 125,
+      "target": "Czy Pan zna tego nowego wydawcę?",
+      "de": "Kennen Sie diesen neuen Verleger?",
+      "tags": [
+        "accusative",
+        "formal"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 126,
+      "target": "Edytuję teraz to nowe wideo.",
+      "de": "Ich schneide gerade das neue Video.",
+      "tags": [
+        "Accusative",
+        "Present Tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 127,
+      "target": "Czy chcesz nagrać ze mną vloga?",
+      "de": "Willst du mit mir einen Vlog aufnehmen?",
+      "tags": [
+        "Modal + Infinitive",
+        "Instrumental",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 128,
+      "target": "Robię teraz nową miniaturkę na kanał.",
+      "de": "Ich mache gerade ein neues Thumbnail für den Kanal.",
+      "tags": [
+        "Accusative",
+        "Present Tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 129,
+      "target": "Ta karta pamięci kosztuje sześćdziesiąt dwa złote.",
+      "de": "Diese Speicherkarte kostet zweiundsechzig Zloty.",
+      "tags": [
+        "Numbers",
+        "Price"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 130,
+      "target": "Bardzo lubię tę aktywną społeczność.",
+      "de": "Ich mag diese aktive Community total.",
+      "tags": [
+        "Accusative",
+        "Present Tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 131,
+      "target": "Publikuję nowy materiał o siódmej wieczorem.",
+      "de": "Ich lade den neuen Content um sieben Uhr abends hoch.",
+      "tags": [
+        "Clock Time",
+        "Accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 132,
+      "target": "Może to światło jest dzisiaj wystarczające?",
+      "de": "Vielleicht ist das Licht heute ausreichend?",
+      "tags": [
+        "Nominative",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 133,
+      "target": "Muszę oznaczyć ten film jako reklamę.",
+      "de": "Ich muss dieses Video als Werbung kennzeichnen.",
+      "tags": [
+        "Modal + Infinitive",
+        "Accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 134,
+      "target": "Mam kamerę. Widzę słońce. Nagrywam vloga o wdzięczności. To jest bardzo dobry dzień.",
+      "de": "Ich habe die Kamera. Ich sehe die Sonne. Ich nehme einen Vlog über Dankbarkeit auf. Das ist ein sehr guter Tag.",
+      "tags": [
+        "Accusative",
+        "Present Tense"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 135,
+      "target": "Czytasz teraz ten miły komentarz?",
+      "de": "Liest du gerade diesen netten Kommentar?",
+      "tags": [
+        "Accusative",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 136,
+      "target": "Przepraszam, czy może Pan sprawdzić ten dźwięk?",
+      "de": "Entschuldigung, könnten Sie diesen Ton überprüfen?",
+      "tags": [
+        "Pan/Pani",
+        "Modal + Infinitive",
+        "Accusative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 137,
+      "target": "Nie, to nie jest mój dzisiejszy temat.",
+      "de": "Nein, das ist nicht mein heutiges Thema.",
+      "tags": [
+        "Negation",
+        "Nominative"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 138,
+      "target": "Lubię ten mały statyw, bo jest lekki.",
+      "de": "Ich mag das kleine Stativ, weil es leicht ist.",
+      "tags": [
+        "Opinion",
+        "Accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 139,
+      "target": "Jestem dzisiaj bardzo skupioną montażystką.",
+      "de": "Ich bin heute eine sehr konzentrierte Cutterin.",
+      "tags": [
+        "Instrumental",
+        "Present Tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 140,
+      "target": "Sprawdzam baterię i moją kartę.",
+      "de": "Ich checke den Akku und meine Karte.",
+      "tags": [
+        "Accusative",
+        "Present Tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 141,
+      "target": "Twoje statystyki są dzisiaj po prostu niesamowite.",
+      "de": "Deine Statistiken sind heute einfach unglaublich.",
+      "tags": [
+        "Nominative",
+        "Present Tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 142,
+      "target": "Wy też tworzycie te krótkie wideo?",
+      "de": "Erstellt ihr auch diese kurzen Videos?",
+      "tags": [
+        "Accusative",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 143,
+      "target": "Nagrywamy ten odcinek z nową koleżanką.",
+      "de": "Wir nehmen diese Folge mit einer neuen Kollegin auf.",
+      "tags": [
+        "Instrumental",
+        "Accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 144,
+      "target": "Moja konsultacja kosztuje dziewięćdziesiąt cztery złote.",
+      "de": "Meine Beratung kostet vierundneunzig Zloty.",
+      "tags": [
+        "Numbers",
+        "Price"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 145,
+      "target": "Poproszę ten profesjonalny mikrofon na dzisiaj.",
+      "de": "Ich hätte gerne dieses professionelle Mikrofon für heute.",
+      "tags": [
+        "Request",
+        "Accusative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 146,
+      "target": "Dobra, potrzebuję teraz krótkiej przerwy.",
+      "de": "Gut, ich brauche jetzt eine kurze Pause.",
+      "tags": [
+        "Accusative",
+        "Answer"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 147,
+      "target": "On wysyła właśnie ten długi plik.",
+      "de": "Er schickt gerade diese lange Datei.",
+      "tags": [
+        "Accusative",
+        "Present Tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 148,
+      "target": "Właśnie edytuję ten bardzo ważny materiał.",
+      "de": "Ich editiere gerade dieses sehr wichtige Material.",
+      "tags": [
+        "Accusative",
+        "Present Tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 149,
+      "target": "Szanowna Pani, czy ma Pani ten scenariusz?",
+      "de": "Sehr geehrte Frau, haben Sie dieses Skript?",
+      "tags": [
+        "Pan/Pani",
+        "Accusative",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 150,
+      "target": "Chcę pokazać moją nową drogę do Hiszpanii.",
+      "de": "Ich will meinen neuen Weg nach Spanien zeigen.",
+      "tags": [
+        "Modal + Infinitive",
+        "Accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 151,
+      "target": "Mam dzisiaj bardzo intensywny trening.",
+      "de": "Ich hab heute ein echt intensives Training.",
+      "tags": [
+        "biernik",
+        "mianownik"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 152,
+      "target": "Czy zaczynamy ten trening o siódmej?",
+      "de": "Fangen wir um sieben mit dem Training an?",
+      "tags": [
+        "pytanie",
+        "godzina",
+        "biernik"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 153,
+      "target": "Słuchaj, mam dzisiaj naprawdę duże zakwasy.",
+      "de": "Du, ich hab heute echt krassen Muskelkater.",
+      "tags": [
+        "biernik",
+        "liczba mnoga"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 154,
+      "target": "Czy mogę wziąć ten mały ciężar?",
+      "de": "Kann ich das kleine Gewicht nehmen?",
+      "tags": [
+        "pytanie",
+        "modalny",
+        "biernik"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 155,
+      "target": "Jestem dzisiaj bardzo aktywną osobą.",
+      "de": "Ich bin heute ein sehr aktiver Mensch.",
+      "tags": [
+        "narzędnik",
+        "być"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 156,
+      "target": "Ta trzecia seria jest bardzo trudna.",
+      "de": "Dieser dritte Satz ist echt schwer.",
+      "tags": [
+        "liczba",
+        "mianownik"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 157,
+      "target": "Noszę rozmiar S, czy to pasuje?",
+      "de": "Ich hab Größe S, passt das?",
+      "tags": [
+        "biernik",
+        "pytanie"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 158,
+      "target": "Śpię osiem godzin i czuję energię.",
+      "de": "Ich schlafe acht Stunden und hab Energie.",
+      "tags": [
+        "liczba",
+        "biernik"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 159,
+      "target": "Czy widzi Pan tego nowego trenera?",
+      "de": "Sehen Sie diesen neuen Trainer?",
+      "tags": [
+        "pytanie",
+        "biernik",
+        "Pan"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 160,
+      "target": "Lubię tę siłownię, bo jest czysta.",
+      "de": "Ich mag das Fitnessstudio, weil es sauber ist.",
+      "tags": [
+        "biernik",
+        "spójnik"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 161,
+      "target": "Oni sprzedają te legginsy za dziewięćdziesiąt złotych.",
+      "de": "Die verkaufen diese Leggings für neunzig Zloty.",
+      "tags": [
+        "liczba",
+        "cena",
+        "biernik"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 162,
+      "target": "Poproszę jeszcze dziesięć powtórzeń na koniec.",
+      "de": "Noch zehn Wiederholungen zum Schluss, bitte.",
+      "tags": [
+        "prośba",
+        "liczba"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 163,
+      "target": "Idę teraz z moją koleżanką ćwiczyć.",
+      "de": "Ich gehe jetzt mit meiner Freundin trainieren.",
+      "tags": [
+        "narzędnik",
+        "z/ze"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 164,
+      "target": "Czy pijesz teraz ten proteinowy szejk?",
+      "de": "Trinkst du gerade diesen Proteinshake?",
+      "tags": [
+        "pytanie",
+        "biernik"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 165,
+      "target": "Muszę teraz pić bardzo dużo wody.",
+      "de": "Ich muss jetzt echt viel Wasser trinken.",
+      "tags": [
+        "modalny",
+        "biernik"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 166,
+      "target": "Dlaczego jesteście dzisiaj takie zmęczone?",
+      "de": "Warum seid ihr heute so k.o.?",
+      "tags": [
+        "pytanie",
+        "mianownik",
+        "liczba mnoga"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 167,
+      "target": "Kupuję ten nowy, czarny biustonosz sportowy.",
+      "de": "Ich kaufe diesen neuen, schwarzen Sport-BH.",
+      "tags": [
+        "biernik",
+        "zakupy"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 168,
+      "target": "Robisz ze mną ten trening?",
+      "de": "Machst du das Training mit mir?",
+      "tags": [
+        "narzędnik",
+        "biernik"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 169,
+      "target": "To moja ulubiona sałatka z tofu.",
+      "de": "Das ist mein Lieblingssalat mit Tofu.",
+      "tags": [
+        "narzędnik",
+        "z/ze"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 170,
+      "target": "Kończę mój dzisiejszy trening o dziewiątej.",
+      "de": "Ich beende mein heutiges Training um neun.",
+      "tags": [
+        "biernik",
+        "godzina"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 171,
+      "target": "To ćwiczenie dzisiaj po prostu nie działa.",
+      "de": "Diese Übung funktioniert heute einfach nicht.",
+      "tags": [
+        "negacja",
+        "mianownik"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 172,
+      "target": "Czuję, że moje plecy są silne.",
+      "de": "Ich spüre, dass mein Rücken stark ist.",
+      "tags": [
+        "mianownik",
+        "liczba mnoga"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 173,
+      "target": "Czy chce Pani tę jasną matę?",
+      "de": "Wollen Sie diese helle Matte?",
+      "tags": [
+        "pytanie",
+        "Pani",
+        "biernik"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 174,
+      "target": "Dzisiaj po prostu odpoczywam. Jestem wdzięczna za regenerację.",
+      "de": "Heute ruhe ich mich einfach aus. Ich bin dankbar für die Erholung.",
+      "tags": [
+        "biernik",
+        "story",
+        "mianownik"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 175,
+      "target": "Jem teraz tę pyszną i zdrową przekąskę.",
+      "de": "Ich esse gerade diesen leckeren und gesunden Snack.",
+      "tags": [
+        "biernik",
+        "jedzenie"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 176,
+      "target": "Chcę mieć ten mały pokój.",
+      "de": "Ich möchte dieses kleine Zimmer haben.",
+      "tags": [
+        "modal + infinitive",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 177,
+      "target": "Czy to mieszkanie jest wolne?",
+      "de": "Ist die Wohnung noch frei?",
+      "tags": [
+        "czy-question",
+        "nominative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 178,
+      "target": "Mój czynsz kosztuje dziewięćdziesiąt złotych.",
+      "de": "Meine Miete kostet neunzig Zloty.",
+      "tags": [
+        "numbers",
+        "prices"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 179,
+      "target": "Mam wizytę o dziesiątej rano.",
+      "de": "Ich habe um zehn Uhr morgens einen Termin.",
+      "tags": [
+        "time",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 180,
+      "target": "Przepraszam, czy ma Pan mój dokument?",
+      "de": "Entschuldigung, haben Sie mein Dokument?",
+      "tags": [
+        "accusative",
+        "Pan/Pani"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 181,
+      "target": "Chcę otworzyć to nowe konto.",
+      "de": "Ich möchte dieses neue Konto eröffnen.",
+      "tags": [
+        "modal + infinitive",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 182,
+      "target": "Biorę tę białą bułkę i wodę.",
+      "de": "Ich nehme das helle Brötchen und Wasser.",
+      "tags": [
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 183,
+      "target": "Ile kosztuje ten świeży chleb?",
+      "de": "Wie viel kostet dieses frische Brot?",
+      "tags": [
+        "question word",
+        "nominative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 184,
+      "target": "Jadę teraz metrem z koleżanką.",
+      "de": "Ich fahre gerade mit einer Freundin Metro.",
+      "tags": [
+        "instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 185,
+      "target": "Gdzie jest ta zielona linia?",
+      "de": "Wo ist die grüne Linie?",
+      "tags": [
+        "question word",
+        "nominative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 186,
+      "target": "Przepraszam, czy może Pani pomóc?",
+      "de": "Entschuldigung, können Sie mir helfen?",
+      "tags": [
+        "modal + infinitive",
+        "Pan/Pani"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 187,
+      "target": "Piję rano herbatę z miodem.",
+      "de": "Morgens trinke ich Tee mit Honig.",
+      "tags": [
+        "instrumental",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 188,
+      "target": "Jestem Pani nową sąsiadką.",
+      "de": "Ich bin Ihre neue Nachbarin.",
+      "tags": [
+        "instrumental",
+        "Pan/Pani"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 189,
+      "target": "Nie, nie jestem dzisiaj smutna.",
+      "de": "Nein, ich bin heute nicht traurig.",
+      "tags": [
+        "negation",
+        "feminine form"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 190,
+      "target": "Czy jesteś moim nowym sąsiadem?",
+      "de": "Bist du mein neuer Nachbar?",
+      "tags": [
+        "instrumental",
+        "czy-question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 191,
+      "target": "Jestem młodą studentką i autorką.",
+      "de": "Ich bin eine junge Studentin und Autorin.",
+      "tags": [
+        "instrumental",
+        "feminine form"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 192,
+      "target": "Mam na imię Julia, jestem Niemką.",
+      "de": "Ich heiße Julia und bin Deutsche.",
+      "tags": [
+        "instrumental",
+        "basics"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 193,
+      "target": "Czy jesteś wolna o czwartej?",
+      "de": "Hast du um vier Zeit?",
+      "tags": [
+        "time",
+        "czy-question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 194,
+      "target": "Muszę szybko znaleźć dobrą siłownię.",
+      "de": "Ich muss schnell ein gutes Gym finden.",
+      "tags": [
+        "modal + infinitive",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 195,
+      "target": "Nagrywam teraz tę nową okolicę.",
+      "de": "Ich filme gerade die neue Gegend hier.",
+      "tags": [
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 196,
+      "target": "My widzimy już ten dom.",
+      "de": "Wir sehen das Haus schon.",
+      "tags": [
+        "accusative",
+        "plural subject"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 197,
+      "target": "Nie, nie mogę płacić kartą.",
+      "de": "Nein, ich kann nicht mit Karte zahlen.",
+      "tags": [
+        "negation",
+        "instrumental",
+        "modal + infinitive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 198,
+      "target": "Oni mają dzisiaj wolny pokój.",
+      "de": "Die haben heute ein Zimmer frei.",
+      "tags": [
+        "accusative",
+        "plural subject"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 199,
+      "target": "Wy macie ten nowy adres?",
+      "de": "Habt ihr die neue Adresse?",
+      "tags": [
+        "accusative",
+        "plural subject"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 200,
+      "target": "Widzę mój bank. Mówię po polsku. Jestem dzisiaj bardzo dumna.",
+      "de": "Ich sehe meine Bank. Ich spreche Polnisch. Ich bin heute richtig stolz auf mich.",
+      "tags": [
+        "accusative",
+        "feminine form"
+      ],
+      "kind": "story"
+    }
+  ]
+}

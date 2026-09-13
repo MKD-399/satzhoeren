@@ -1,0 +1,2188 @@
+{
+  "id": "pl-a1-4",
+  "lang": "pl",
+  "langLabel": "Polnisch",
+  "level": "A1",
+  "part": 4,
+  "title": "Polnisch A1 · Teil 4",
+  "sentences": [
+    {
+      "n": 1,
+      "target": "Wczoraj robiłam rano ciężki trening.",
+      "de": "Gestern Morgen habe ich echt hart trainiert.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "time expressions",
+        "gym"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 2,
+      "target": "Masz dzisiaj siłę na siłownię?",
+      "de": "Hast du heute Kraft fürs Fitnessstudio?",
+      "tags": [
+        "present tense",
+        "gym",
+        "accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 3,
+      "target": "Nie mam dzisiaj energii na nic.",
+      "de": "Ich habe heute für gar nichts Energie.",
+      "tags": [
+        "negation",
+        "present tense",
+        "mental health"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 4,
+      "target": "O której godzinie pan trenuje?",
+      "de": "Um wie viel Uhr trainieren Sie?",
+      "tags": [
+        "question",
+        "clock time",
+        "politeness",
+        "present tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 5,
+      "target": "Jemy zdrowy obiad po treningu.",
+      "de": "Wir essen nach dem Training was Gesundes zu Mittag.",
+      "tags": [
+        "present tense",
+        "nutrition",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 6,
+      "target": "W zeszłym tygodniu codziennie biegałam.",
+      "de": "Letzte Woche war ich jeden Tag laufen.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "time expressions"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 7,
+      "target": "Czy ta koszulka jest dobra?",
+      "de": "Passt das Shirt so?",
+      "tags": [
+        "question",
+        "nominative",
+        "sportswear"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 8,
+      "target": "Mój brat trenuje teraz w Hiszpanii.",
+      "de": "Mein Bruder trainiert gerade in Spanien.",
+      "tags": [
+        "present tense",
+        "locative",
+        "possessives"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 9,
+      "target": "W poniedziałek wieczorem byłam bardzo zmęczona.",
+      "de": "Montagabend war ich echt k.o.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "days of the week",
+        "instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 10,
+      "target": "Oni piją dużo wody w pracy.",
+      "de": "Die trinken auf der Arbeit voll viel Wasser.",
+      "tags": [
+        "present tense",
+        "irregular verbs",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 11,
+      "target": "Proszę, kup mi białe buty sportowe.",
+      "de": "Kannst du mir bitte weiße Sportschuhe kaufen?",
+      "tags": [
+        "request",
+        "accusative",
+        "sportswear"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 12,
+      "target": "Nie, wczoraj tylko dużo spałam.",
+      "de": "Nee, gestern habe ich nur viel geschlafen.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "negation",
+        "sleep"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 13,
+      "target": "Dlaczego nie masz dzisiaj motywacji?",
+      "de": "Warum bist du heute so unmotiviert?",
+      "tags": [
+        "question",
+        "genitive",
+        "motivation"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 14,
+      "target": "Bardzo lubię ten nowy zestaw ćwiczeń.",
+      "de": "Ich mag diesen neuen Trainingsplan voll.",
+      "tags": [
+        "present tense",
+        "accusative",
+        "genitive",
+        "gym"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 15,
+      "target": "W zeszły wtorek miałam zakwasy.",
+      "de": "Letzten Dienstag hatte ich Muskelkater.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "days of the week",
+        "gym"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 16,
+      "target": "Kiedy Pani zwykle je kolację?",
+      "de": "Wann essen Sie normalerweise zu Abend?",
+      "tags": [
+        "question",
+        "politeness",
+        "present tense",
+        "irregular verbs"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 17,
+      "target": "Uczę się teraz hiszpańskiego w parku.",
+      "de": "Ich lerne gerade im Park Spanisch.",
+      "tags": [
+        "present tense",
+        "genitive",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 18,
+      "target": "Czy wy też czujecie wdzięczność?",
+      "de": "Fühlt ihr auch diese Dankbarkeit?",
+      "tags": [
+        "question",
+        "present tense",
+        "gratitude"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 19,
+      "target": "Mieszkanie w Hiszpanii to moje marzenie.",
+      "de": "In Spanien zu wohnen ist mein Traum.",
+      "tags": [
+        "nominative",
+        "locative",
+        "possessives"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 20,
+      "target": "Nie mogłam rano wstać z łóżka.",
+      "de": "Ich bin heute Morgen nicht aus dem Bett gekommen.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "modal verbs",
+        "sleep"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 21,
+      "target": "Szukam motywacji w mądrych książkach.",
+      "de": "Ich suche Inspiration in klugen Büchern.",
+      "tags": [
+        "present tense",
+        "genitive",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 22,
+      "target": "O siódmej trzydzieści piję zieloną herbatę.",
+      "de": "Um halb acht trinke ich grünen Tee.",
+      "tags": [
+        "clock time",
+        "present tense",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 23,
+      "target": "Wczoraj wieczorem pisałam nowy rozdział.",
+      "de": "Gestern Abend habe ich an einem neuen Kapitel geschrieben.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "time expressions",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 24,
+      "target": "Moja koleżanka nie lubi cardio.",
+      "de": "Meine Freundin mag kein Cardio.",
+      "tags": [
+        "negation",
+        "present tense",
+        "possessives",
+        "gym"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 25,
+      "target": "W zeszłym miesiącu mało trenowałam. Miałam dużo pracy i pisałam książkę. Teraz mam nową energię.",
+      "de": "Letzten Monat habe ich wenig trainiert. Ich hatte viel zu tun und habe am Buch geschrieben. Jetzt habe ich wieder neue Energie.",
+      "tags": [
+        "story",
+        "past tense",
+        "feminine",
+        "time expressions",
+        "present tense"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 26,
+      "target": "W zeszłym tygodniu szukałam nowego mieszkania.",
+      "de": "Letzte Woche habe ich eine neue Wohnung gesucht.",
+      "tags": [
+        "past tense",
+        "feminine form",
+        "genitive case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 27,
+      "target": "O której godzinie otwierają ten bank?",
+      "de": "Um wie viel Uhr macht diese Bank auf?",
+      "tags": [
+        "clock time",
+        "third person plural"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 28,
+      "target": "Przepraszam, czy Pani mieszka w tym bloku?",
+      "de": "Entschuldigung, wohnen Sie in diesem Block?",
+      "tags": [
+        "polite form",
+        "locative case"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 29,
+      "target": "Nie mam dzisiaj siły na przeprowadzkę.",
+      "de": "Ich habe heute keine Kraft für den Umzug.",
+      "tags": [
+        "negation",
+        "genitive case"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 30,
+      "target": "Wczoraj rano piłam kawę w małej kawiarni.",
+      "de": "Gestern Morgen habe ich Kaffee in einem kleinen Café getrunken.",
+      "tags": [
+        "past tense",
+        "feminine form",
+        "locative case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 31,
+      "target": "Chcę to mieszkanie, bo ma duży balkon.",
+      "de": "Ich will diese Wohnung, weil sie einen großen Balkon hat.",
+      "tags": [
+        "present tense",
+        "conjunction bo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 32,
+      "target": "Czy może mi Pan pokazać drogę?",
+      "de": "Können Sie mir den Weg zeigen?",
+      "tags": [
+        "modals",
+        "polite form",
+        "accusative case"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 33,
+      "target": "W zeszły czwartek miałam ważny egzamin.",
+      "de": "Letzten Donnerstag hatte ich eine wichtige Prüfung.",
+      "tags": [
+        "past tense",
+        "days of the week"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 34,
+      "target": "Gdzie oni kupują takie świeże warzywa?",
+      "de": "Wo kaufen die so frisches Gemüse?",
+      "tags": [
+        "present tense",
+        "third person plural"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 35,
+      "target": "Piszę książkę i potrzebuję dużo spokoju.",
+      "de": "Ich schreibe ein Buch und brauche viel Ruhe.",
+      "tags": [
+        "present tense",
+        "genitive case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 36,
+      "target": "Czy masz ochotę na wspólną kawę?",
+      "de": "Hast du Lust auf einen gemeinsamen Kaffee?",
+      "tags": [
+        "present tense",
+        "accusative case"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 37,
+      "target": "Wczoraj wieczorem byłam bardzo radosna.",
+      "de": "Gestern Abend war ich sehr fröhlich.",
+      "tags": [
+        "past tense",
+        "feminine form"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 38,
+      "target": "Nie rozumiem jeszcze wszystkiego po hiszpańsku.",
+      "de": "Ich verstehe auf Spanisch noch nicht alles.",
+      "tags": [
+        "negation",
+        "prepositions"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 39,
+      "target": "Co robiliście w zeszły weekend w Madrycie?",
+      "de": "Was habt ihr letztes Wochenende in Madrid gemacht?",
+      "tags": [
+        "past tense",
+        "second person plural",
+        "locative case"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 40,
+      "target": "Bardzo dziękuję za pomoc z walizką.",
+      "de": "Vielen Dank für die Hilfe mit dem Koffer.",
+      "tags": [
+        "instrumental case",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 41,
+      "target": "Muszę iść teraz na pocztę.",
+      "de": "Ich muss jetzt zur Post.",
+      "tags": [
+        "modals",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 42,
+      "target": "Czy to jest autobus do centrum?",
+      "de": "Ist das der Bus ins Zentrum?",
+      "tags": [
+        "genitive case",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 43,
+      "target": "Wczoraj o ósmej trzydzieści jadłam śniadanie.",
+      "de": "Gestern um acht Uhr dreißig habe ich gefrühstückt.",
+      "tags": [
+        "past tense",
+        "clock time",
+        "feminine form"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 44,
+      "target": "On codziennie rano biega w parku.",
+      "de": "Er joggt jeden Morgen im Park.",
+      "tags": [
+        "present tense",
+        "locative case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 45,
+      "target": "Chciałabym wynająć ten pokój od zaraz.",
+      "de": "Ich würde dieses Zimmer gerne ab sofort mieten.",
+      "tags": [
+        "polite request",
+        "accusative case"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 46,
+      "target": "W poniedziałek pracowałam w nowej kawiarni.",
+      "de": "Am Montag habe ich in einem neuen Café gearbeitet.",
+      "tags": [
+        "past tense",
+        "locative case",
+        "days of the week"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 47,
+      "target": "Dlaczego nie odbierasz teraz telefonu?",
+      "de": "Warum gehst du gerade nicht an dein Handy?",
+      "tags": [
+        "present tense",
+        "genitive case"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 48,
+      "target": "W zeszłą środę czułam się trochę samotna.",
+      "de": "Letzten Mittwoch habe ich mich etwas einsam gefühlt.",
+      "tags": [
+        "past tense",
+        "days of the week",
+        "feminine form"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 49,
+      "target": "Tak, to jest mój nowy adres.",
+      "de": "Ja, das ist meine neue Adresse.",
+      "tags": [
+        "possessives",
+        "answer"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 50,
+      "target": "Wczoraj długo chodziłam po mieście. Nie znałam dobrze drogi. Moja nowa sąsiadka była bardzo miła.",
+      "de": "Gestern bin ich lange durch die Stadt gelaufen. Ich kannte den Weg nicht gut. Meine neue Nachbarin war sehr nett.",
+      "tags": [
+        "past tense",
+        "story",
+        "feminine form"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 51,
+      "target": "W zeszły czwartek pisałam trudny sprawdzian.",
+      "de": "Letzten Donnerstag habe ich einen schweren Test geschrieben.",
+      "tags": [
+        "past tense",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 52,
+      "target": "Masz już jakiś plan na maturę?",
+      "de": "Hast du schon einen Plan fürs Abi?",
+      "tags": [
+        "accusative",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 53,
+      "target": "Nie mam dzisiaj czasu na naukę.",
+      "de": "Ich hab heute keine Zeit zum Lernen.",
+      "tags": [
+        "negation",
+        "genitive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 54,
+      "target": "Możesz mi pożyczyć swoje stare notatki?",
+      "de": "Kannst du mir deine alten Notizen leihen?",
+      "tags": [
+        "modals",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 55,
+      "target": "Tak, wczoraj wieczorem czytałam tę książkę.",
+      "de": "Ja, gestern Abend habe ich das Buch gelesen.",
+      "tags": [
+        "past tense",
+        "time expression"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 56,
+      "target": "W zeszłym tygodniu miałam dużo stresu. Szkoła jest teraz trudna. Musiałam dużo odpoczywać w weekend.",
+      "de": "Letzte Woche hatte ich viel Stress. Die Schule ist gerade hart. Am Wochenende musste ich mich viel ausruhen.",
+      "tags": [
+        "past tense",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 57,
+      "target": "Lubię moją szkołę, bo mam przyjaciół.",
+      "de": "Ich mag meine Schule, weil ich dort Freunde habe.",
+      "tags": [
+        "reason",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 58,
+      "target": "O której godzinie zaczynasz jutro lekcje?",
+      "de": "Um wie viel Uhr fängst du morgen mit dem Unterricht an?",
+      "tags": [
+        "clock time",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 59,
+      "target": "W piątek rano byłam w szkole.",
+      "de": "Freitagvormittag war ich in der Schule.",
+      "tags": [
+        "past tense",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 60,
+      "target": "Chciałabym zapytać o moją ocenę teraz.",
+      "de": "Ich würde gerne jetzt nach meiner Note fragen.",
+      "tags": [
+        "politeness",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 61,
+      "target": "Potrzebujesz może mojej pomocy z prezentacją?",
+      "de": "Brauchst du vielleicht meine Hilfe bei der Präsentation?",
+      "tags": [
+        "genitive",
+        "instrumental"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 62,
+      "target": "Studiuję teraz mój nowy plan zajęć.",
+      "de": "Ich schaue mir gerade meinen neuen Stundenplan an.",
+      "tags": [
+        "verb -ować",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 63,
+      "target": "To prawda, ta nauczycielka jest świetna.",
+      "de": "Stimmt, die Lehrerin ist echt klasse.",
+      "tags": [
+        "nominative",
+        "answer"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 64,
+      "target": "Gdzie byłaś we wtorek o dziesiątej?",
+      "de": "Wo warst du am Dienstag um zehn?",
+      "tags": [
+        "past tense",
+        "clock time"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 65,
+      "target": "Nie mogłam wczoraj pisać tego eseju.",
+      "de": "Ich konnte gestern nicht an dem Essay schreiben.",
+      "tags": [
+        "past tense",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 66,
+      "target": "Lubi Pani te wszystkie szkolne tematy?",
+      "de": "Mögen Sie diese ganzen Schulthemen?",
+      "tags": [
+        "formal",
+        "accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 67,
+      "target": "W maju zdawałam ważny egzamin ustny.",
+      "de": "Im Mai hatte ich eine wichtige mündliche Prüfung.",
+      "tags": [
+        "past tense",
+        "month"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 68,
+      "target": "Używam teraz tylko długopisu, nie komputera.",
+      "de": "Ich benutze gerade nur Kuli, keinen Laptop.",
+      "tags": [
+        "genitive",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 69,
+      "target": "Wczoraj rano robiłam powtórkę z hiszpańskiego.",
+      "de": "Gestern Morgen habe ich Spanisch wiederholt.",
+      "tags": [
+        "past tense",
+        "time expression"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 70,
+      "target": "Czy oni znali wszystkie poprawne odpowiedzi?",
+      "de": "Wussten sie alle richtigen Antworten?",
+      "tags": [
+        "past tense",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 71,
+      "target": "Przepraszam, teraz muszę się uczyć sama.",
+      "de": "Tut mir leid, ich muss jetzt alleine lernen.",
+      "tags": [
+        "modals",
+        "boundary"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 72,
+      "target": "Ta książka mi pomaga, bo jest mądra.",
+      "de": "Das Buch hilft mir, weil es klug ist.",
+      "tags": [
+        "reason",
+        "dative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 73,
+      "target": "W środę wieczorem czułam mały kryzys.",
+      "de": "Mittwochabend hatte ich eine kleine Krise.",
+      "tags": [
+        "past tense",
+        "time expression"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 74,
+      "target": "Co robicie w poniedziałek po szkole?",
+      "de": "Was macht ihr am Montag nach der Schule?",
+      "tags": [
+        "day of the week",
+        "plural"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 75,
+      "target": "Dzisiaj czuję duży spokój przed maturą.",
+      "de": "Heute bin ich vor dem Abi total ruhig.",
+      "tags": [
+        "present tense",
+        "instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 76,
+      "target": "Wczoraj rano rozmawiałam z moją mamą.",
+      "de": "Gestern Morgen habe ich mit meiner Mama geredet.",
+      "tags": [
+        "past tense",
+        "feminine form",
+        "instrumental",
+        "family"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 77,
+      "target": "Masz czas na szczerość w czwartek?",
+      "de": "Hast du am Donnerstag Zeit für ein ehrliches Gespräch?",
+      "tags": [
+        "question",
+        "days of the week",
+        "accusative",
+        "friendship"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 78,
+      "target": "Tak, ufałam jej przez długi czas.",
+      "de": "Ja, ich habe ihr lange Zeit vertraut.",
+      "tags": [
+        "past tense",
+        "feminine form",
+        "trust"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 79,
+      "target": "Nie lubię, kiedy ktoś mną manipuluje.",
+      "de": "Ich mag es nicht, wenn mich jemand manipuliert.",
+      "tags": [
+        "negation",
+        "instrumental",
+        "boundaries"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 80,
+      "target": "Moja przyjaciółka zawsze słucha moich problemów.",
+      "de": "Meine Freundin hört sich meine Probleme immer an.",
+      "tags": [
+        "possessive",
+        "genitive",
+        "friendship"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 81,
+      "target": "Dlaczego on był taki niemiły wczoraj?",
+      "de": "Warum war er gestern so unfreundlich?",
+      "tags": [
+        "past tense",
+        "question",
+        "time expressions"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 82,
+      "target": "W zeszłym miesiącu szukałam prawdziwych przyjaciół.",
+      "de": "Letzten Monat habe ich nach echten Freunden gesucht.",
+      "tags": [
+        "past tense",
+        "feminine form",
+        "genitive",
+        "time expressions"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 83,
+      "target": "Chciałabym prosić Panią o małą pomoc.",
+      "de": "Ich wollte Sie um eine kleine Hilfe bitten.",
+      "tags": [
+        "politeness phrase",
+        "formal",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 84,
+      "target": "W weekend byłam u dziadków. Oni są bardzo kochani. Rozmawialiśmy długo o moim nowym życiu.",
+      "de": "Am Wochenende war ich bei meinen Großeltern. Sie sind total lieb. Wir haben lange über mein neues Leben geredet.",
+      "tags": [
+        "story",
+        "past tense",
+        "locative",
+        "family"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 85,
+      "target": "Czy wy też macie toksycznych znajomych?",
+      "de": "Habt ihr auch toxische Bekannte?",
+      "tags": [
+        "question",
+        "plural",
+        "relationships"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 86,
+      "target": "W zeszły piątek wieczorem płakałam.",
+      "de": "Letzten Freitagabend habe ich geweint.",
+      "tags": [
+        "past tense",
+        "feminine form",
+        "clock time",
+        "feelings"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 87,
+      "target": "Nie chcę iść tam z nimi.",
+      "de": "Ich will da nicht mit denen hingehen.",
+      "tags": [
+        "negation",
+        "modal verbs",
+        "instrumental"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 88,
+      "target": "Doceniam naszą relację, bo jesteś szczery.",
+      "de": "Ich schätze unsere Freundschaft, weil du ehrlich bist.",
+      "tags": [
+        "gratitude",
+        "accusative",
+        "conjunctions"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 89,
+      "target": "Z kim spotykasz się w sobotę?",
+      "de": "Mit wem triffst du dich am Samstag?",
+      "tags": [
+        "question",
+        "instrumental",
+        "days of the week"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 90,
+      "target": "Nie, wczoraj nie mogłam jej pomóc.",
+      "de": "Nein, gestern konnte ich ihr nicht helfen.",
+      "tags": [
+        "answer",
+        "past tense",
+        "modal verbs",
+        "negation"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 91,
+      "target": "Czułam duży spokój po naszej rozmowie.",
+      "de": "Ich habe nach unserem Gespräch eine große Ruhe gespürt.",
+      "tags": [
+        "past tense",
+        "feminine form",
+        "locative",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 92,
+      "target": "Czy Twoja siostra też mieszka sama?",
+      "de": "Wohnt deine Schwester auch alleine?",
+      "tags": [
+        "question",
+        "family",
+        "possessive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 93,
+      "target": "Masz prawo mówić nie, pamiętaj.",
+      "de": "Du hast das Recht, Nein zu sagen, denk dran.",
+      "tags": [
+        "request",
+        "boundaries",
+        "present tense"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 94,
+      "target": "W każdą środę rano pisałam w dzienniku.",
+      "de": "Jeden Mittwochmorgen habe ich Tagebuch geschrieben.",
+      "tags": [
+        "past tense",
+        "feminine form",
+        "days of the week",
+        "time expressions"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 95,
+      "target": "W sumie, wczoraj wieczorem byłam smutna.",
+      "de": "Eigentlich war ich gestern Abend traurig.",
+      "tags": [
+        "answer",
+        "past tense",
+        "feminine form",
+        "feelings"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 96,
+      "target": "On pracuje nad sobą każdego dnia.",
+      "de": "Er arbeitet jeden Tag an sich selbst.",
+      "tags": [
+        "present tense",
+        "instrumental",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 97,
+      "target": "Kiedy Pani miała czas dla rodziny?",
+      "de": "Wann hatten Sie Zeit für die Familie?",
+      "tags": [
+        "question",
+        "formal",
+        "past tense",
+        "family"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 98,
+      "target": "Szanuję twoje zdanie, ale myślę inaczej.",
+      "de": "Ich respektiere deine Meinung, aber ich sehe das anders.",
+      "tags": [
+        "boundaries",
+        "present tense",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 99,
+      "target": "Czy oni wiedzieli o mojej książce?",
+      "de": "Wussten sie von meinem Buch?",
+      "tags": [
+        "question",
+        "past tense",
+        "locative",
+        "possessive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 100,
+      "target": "Wczoraj o dziewiątej wieczorem czytałam list.",
+      "de": "Gestern um 21 Uhr habe ich einen Brief gelesen.",
+      "tags": [
+        "past tense",
+        "feminine form",
+        "clock time",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 101,
+      "target": "Teraz piję pyszną kawę i patrzę na deszcz.",
+      "de": "Ich trinke gerade einen leckeren Kaffee und schaue dem Regen zu.",
+      "tags": [
+        "present tense",
+        "conjunction",
+        "daily life"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 102,
+      "target": "Masz ochotę na lody w sobotę?",
+      "de": "Hast du am Samstag Lust auf ein Eis?",
+      "tags": [
+        "question",
+        "accusative",
+        "days of the week"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 103,
+      "target": "Wczoraj wieczorem czułam ogromną wdzięczność.",
+      "de": "Gestern Abend habe ich eine riesige Dankbarkeit gespürt.",
+      "tags": [
+        "past tense",
+        "feminine form",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 104,
+      "target": "O szesnastej trzydzieści byłam na basenie.",
+      "de": "Um sechzehn Uhr dreißig war ich im Schwimmbad.",
+      "tags": [
+        "past tense",
+        "clock time",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 105,
+      "target": "Dlaczego nie jesz dzisiaj obiadu z nami?",
+      "de": "Warum isst du heute nicht mit uns zu Mittag?",
+      "tags": [
+        "question",
+        "negation",
+        "instrumental"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 106,
+      "target": "W zeszłym tygodniu codziennie słuchałam nowej płyty.",
+      "de": "Letzte Woche habe ich jeden Tag das neue Album gehört.",
+      "tags": [
+        "past tense",
+        "genitive",
+        "time expressions"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 107,
+      "target": "Lubię jesień, bo mogę długo czytać.",
+      "de": "Ich mag den Herbst, weil ich da lange lesen kann.",
+      "tags": [
+        "present tense",
+        "modal verbs",
+        "reasoning"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 108,
+      "target": "Czy oni grają teraz w gry planszowe?",
+      "de": "Spielen sie gerade Brettspiele?",
+      "tags": [
+        "question",
+        "present tense",
+        "hobbies"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 109,
+      "target": "Nie miałam wczoraj czasu na YouTube.",
+      "de": "Ich hatte gestern keine Zeit für YouTube.",
+      "tags": [
+        "negation",
+        "past tense",
+        "genitive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 110,
+      "target": "Chciałabym zapytać o wolne pokoje w Walencji.",
+      "de": "Ich würde gerne nach freien Zimmern in Valencia fragen.",
+      "tags": [
+        "polite request",
+        "prepositions",
+        "moving"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 111,
+      "target": "W poniedziałek rano robiłam jogę w ogrodzie.",
+      "de": "Am Montagmorgen habe ich im Garten Yoga gemacht.",
+      "tags": [
+        "past tense",
+        "locative",
+        "days of the week"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 112,
+      "target": "Poproszę ten ciepły koc, bo jest zimno.",
+      "de": "Ich hätte gerne die warme Decke, mir ist kalt.",
+      "tags": [
+        "request",
+        "accusative",
+        "reasoning"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 113,
+      "target": "W sumie, nie chciałam wczoraj nigdzie wychodzić.",
+      "de": "Eigentlich wollte ich gestern gar nicht rausgehen.",
+      "tags": [
+        "negation",
+        "past tense",
+        "filler"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 114,
+      "target": "O której godzinie Pan zwykle występuje na scenie?",
+      "de": "Um wie viel Uhr treten Sie normalerweise auf der Bühne auf?",
+      "tags": [
+        "question",
+        "polite form",
+        "clock time"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 115,
+      "target": "Szukałam wczoraj inspiracji w starych zdjęciach.",
+      "de": "Gestern habe ich in alten Fotos nach Inspiration gesucht.",
+      "tags": [
+        "past tense",
+        "feminine form",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 116,
+      "target": "Czy Wy też lubicie zapach deszczu?",
+      "de": "Mögt ihr auch den Geruch von Regen?",
+      "tags": [
+        "question",
+        "present tense",
+        "genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 117,
+      "target": "Tak, w zeszły wtorek zwiedzałam Hiszpanię.",
+      "de": "Ja, letzten Dienstag habe ich Spanien besichtigt.",
+      "tags": [
+        "answer",
+        "past tense",
+        "accusative"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 118,
+      "target": "Nie mogę teraz rozmawiać, bo nagrywam wideo.",
+      "de": "Ich kann gerade nicht reden, weil ich ein Video aufnehme.",
+      "tags": [
+        "negation",
+        "modal verbs",
+        "reasoning"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 119,
+      "target": "Właściwie moja przyjaciółka woli zieloną herbatę.",
+      "de": "Eigentlich bevorzugt meine Freundin grünen Tee.",
+      "tags": [
+        "present tense",
+        "accusative",
+        "filler"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 120,
+      "target": "W niedzielę rano długo spałam i odpoczywałam. To był bardzo spokojny czas.",
+      "de": "Am Sonntagmorgen habe ich lange geschlafen und mich ausgeruht. Das war eine sehr ruhige Zeit.",
+      "tags": [
+        "story",
+        "past tense",
+        "time expressions"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 121,
+      "target": "Kiedy Pani zwykle pije kawę?",
+      "de": "Wann trinken Sie normalerweise Ihren Kaffee?",
+      "tags": [
+        "question",
+        "polite form",
+        "present tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 122,
+      "target": "Ten spacer z psem był krótki, ale miły.",
+      "de": "Der Spaziergang mit dem Hund war kurz, aber schön.",
+      "tags": [
+        "past tense",
+        "instrumental",
+        "daily life"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 123,
+      "target": "Gdzie byłaś wczoraj o osiemnastej?",
+      "de": "Wo warst du gestern um 18 Uhr?",
+      "tags": [
+        "question",
+        "past tense",
+        "clock time"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 124,
+      "target": "Dobra, możemy grać w karty wieczorem.",
+      "de": "Gut, wir können heute Abend Karten spielen.",
+      "tags": [
+        "answer",
+        "modal verbs",
+        "filler"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 125,
+      "target": "W zeszłym miesiącu często jadłam hiszpańskie owoce.",
+      "de": "Letzten Monat habe ich oft spanisches Obst gegessen.",
+      "tags": [
+        "past tense",
+        "accusative",
+        "time expressions"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 126,
+      "target": "Jestem dumna z moich postępów.",
+      "de": "Ich bin stolz auf meine Fortschritte.",
+      "tags": [
+        "instrumental",
+        "possessive",
+        "present"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 127,
+      "target": "Wczoraj czułam się wolna w parku.",
+      "de": "Gestern habe ich mich im Park so frei gefühlt.",
+      "tags": [
+        "past",
+        "locative",
+        "feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 128,
+      "target": "Bardzo doceniam tę małą chwilę.",
+      "de": "Ich schätze diesen kleinen Moment sehr.",
+      "tags": [
+        "accusative",
+        "present"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 129,
+      "target": "Dlaczego byłeś wczoraj taki radosny?",
+      "de": "Warum warst du gestern so fröhlich?",
+      "tags": [
+        "past",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 130,
+      "target": "W poniedziałek pisałam o moich celach.",
+      "de": "Am Montag habe ich über meine Ziele geschrieben.",
+      "tags": [
+        "past",
+        "locative",
+        "day of the week"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 131,
+      "target": "W sumie, nie potrzebuję wielu rzeczy.",
+      "de": "Eigentlich brauche ich gar nicht viele Dinge.",
+      "tags": [
+        "negation",
+        "genitive",
+        "filler"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 132,
+      "target": "Chcę Ci podziękować za ten feedback.",
+      "de": "Ich möchte dir für das Feedback danken.",
+      "tags": [
+        "modal",
+        "request",
+        "accusative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 133,
+      "target": "Scena była duża, ale nie czułam strachu.",
+      "de": "Die Bühne war groß, aber ich hatte keine Angst.",
+      "tags": [
+        "past",
+        "genitive",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 134,
+      "target": "W niedzielę o dziesiątej rano odpoczywałam.",
+      "de": "Am Sonntag um zehn Uhr morgens habe ich mich ausgeruht.",
+      "tags": [
+        "past",
+        "clock time",
+        "day of the week"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 135,
+      "target": "Lubię moje życie, bo jest moje.",
+      "de": "Ich mag mein Leben, weil es meins ist.",
+      "tags": [
+        "present",
+        "possessive",
+        "opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 136,
+      "target": "W kwietniu mieszkałam w małym pokoju.",
+      "de": "Im April habe ich in einem kleinen Zimmer gewohnt.",
+      "tags": [
+        "past",
+        "month",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 137,
+      "target": "Teraz rozmawiamy o naszej wolności.",
+      "de": "Wir reden gerade über unsere Freiheit.",
+      "tags": [
+        "present",
+        "locative",
+        "plural"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 138,
+      "target": "Czy wy też czujecie tę radość?",
+      "de": "Fühlt ihr diese Freude auch?",
+      "tags": [
+        "present",
+        "question",
+        "plural"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 139,
+      "target": "Jem śniadanie i myślę o Hiszpanii.",
+      "de": "Ich frühstücke gerade und denke an Spanien.",
+      "tags": [
+        "present",
+        "irregular",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 140,
+      "target": "Moja przyjaciółka zawsze widzi dobre rzeczy.",
+      "de": "Meine Freundin sieht immer das Gute.",
+      "tags": [
+        "present",
+        "possessive",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 141,
+      "target": "O siódmej rano oglądałam wschód słońca.",
+      "de": "Um sieben Uhr morgens habe ich mir den Sonnenaufgang angeschaut.",
+      "tags": [
+        "past",
+        "clock time",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 142,
+      "target": "Ona nie miała dużo, ale była szczęśliwa.",
+      "de": "Sie hatte nicht viel, aber sie war glücklich.",
+      "tags": [
+        "past",
+        "third person",
+        "negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 143,
+      "target": "Czy Pan lubi swój nowy dom?",
+      "de": "Mögen Sie Ihr neues Haus?",
+      "tags": [
+        "present",
+        "question",
+        "politeness"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 144,
+      "target": "Jestem dumna z siebie, bo jestem odważna.",
+      "de": "Ich bin stolz auf mich, weil ich mutig bin.",
+      "tags": [
+        "present",
+        "instrumental",
+        "opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 145,
+      "target": "Dzisiaj nie pracuję, mam czas wolny.",
+      "de": "Heute arbeite ich nicht, ich habe frei.",
+      "tags": [
+        "negation",
+        "present"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 146,
+      "target": "Gdzie oni byli w zeszłą środę?",
+      "de": "Wo waren sie letzten Mittwoch?",
+      "tags": [
+        "past",
+        "question",
+        "plural"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 147,
+      "target": "Chcę mieszkać w Maladze od września.",
+      "de": "Ich möchte ab September in Malaga wohnen.",
+      "tags": [
+        "modal",
+        "locative",
+        "month"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 148,
+      "target": "Dziękuję za Twoje szczere słowa.",
+      "de": "Danke für deine ehrlichen Worte.",
+      "tags": [
+        "gratitude",
+        "possessive",
+        "accusative"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 149,
+      "target": "Rano byłam na siłowni. Było ciężko. Ale czułam się bardzo dobrze i silnie.",
+      "de": "Morgens war ich im Gym. Es war hart. Aber ich habe mich sehr gut und stark gefühlt.",
+      "tags": [
+        "past",
+        "locative",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 150,
+      "target": "Kto był z Tobą na scenie?",
+      "de": "Wer war mit dir auf der Bühne?",
+      "tags": [
+        "past",
+        "question",
+        "locative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 151,
+      "target": "W poniedziałek o szesnastej miałam ważną rozmowę.",
+      "de": "Am Montag um 16 Uhr hatte ich ein wichtiges Gespräch.",
+      "tags": [
+        "past-tense",
+        "time-expression",
+        "clock-time"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 152,
+      "target": "Jak Ty się dzisiaj czujesz, Ola?",
+      "de": "Wie fühlst du dich heute, Ola?",
+      "tags": [
+        "present-tense",
+        "reflexive-verbs"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 153,
+      "target": "Jesteś bardzo dzielna, naprawdę to widzę.",
+      "de": "Du bist echt tapfer, ich seh das wirklich.",
+      "tags": [
+        "adjective",
+        "present-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 154,
+      "target": "W zeszły czwartek rano nie miałam humoru.",
+      "de": "Letzten Donnerstagmorgen war ich nicht so gut drauf.",
+      "tags": [
+        "past-tense",
+        "negation",
+        "time-expression"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 155,
+      "target": "Czy ma Pani wolny termin w maju?",
+      "de": "Haben Sie im Mai einen Termin frei?",
+      "tags": [
+        "formal-pan-pani",
+        "present-tense",
+        "months"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 156,
+      "target": "Potrzebuję teraz trochę spokoju i ciszy.",
+      "de": "Ich brauche jetzt gerade ein bisschen Ruhe.",
+      "tags": [
+        "genitive",
+        "present-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 157,
+      "target": "Wczoraj wieczorem płakałam, bo byłam przebodźcowana.",
+      "de": "Gestern Abend habe ich geweint, weil mir alles zu viel war.",
+      "tags": [
+        "past-tense",
+        "reason-clause",
+        "time-expression"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 158,
+      "target": "Cieszę się z Twoich małych sukcesów.",
+      "de": "Ich freue mich über deine kleinen Erfolge.",
+      "tags": [
+        "present-tense",
+        "genitive"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 159,
+      "target": "O siódmej piętnaście rano zawsze medytowałam.",
+      "de": "Um 7:15 Uhr morgens habe ich immer meditiert.",
+      "tags": [
+        "past-tense",
+        "clock-time",
+        "verb-class-ować"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 160,
+      "target": "Dlaczego ona nie prosi o pomoc?",
+      "de": "Warum bittet sie nicht um Hilfe?",
+      "tags": [
+        "negation",
+        "present-tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 161,
+      "target": "Pracuję teraz nad moją pewnością siebie.",
+      "de": "Ich arbeite gerade an meinem Selbstbewusstsein.",
+      "tags": [
+        "verb-class-ować",
+        "instrumental",
+        "present-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 162,
+      "target": "W zeszłym tygodniu miałam gorszy czas. Dużo odpoczywałam i nie sprawdzałam telefonu. Dzisiaj czuję się o wiele lepiej.",
+      "de": "Letzte Woche hatte ich eine schwierige Phase. Ich habe viel geruht und nicht aufs Handy geschaut. Heute geht es mir viel besser.",
+      "tags": [
+        "past-tense",
+        "story",
+        "negation",
+        "time-expression"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 163,
+      "target": "Nie chcę o tym dzisiaj rozmawiać.",
+      "de": "Ich möchte heute nicht darüber reden.",
+      "tags": [
+        "negation",
+        "modal-verbs",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 164,
+      "target": "Szukam kogoś, kto mnie naprawdę rozumie.",
+      "de": "Ich suche jemanden, der mich wirklich versteht.",
+      "tags": [
+        "present-tense",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 165,
+      "target": "W zeszłym miesiącu często czułam lęk.",
+      "de": "Letzten Monat hatte ich oft Angstgefühle.",
+      "tags": [
+        "past-tense",
+        "time-expression",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 166,
+      "target": "Czy Pan też czuje ten stres?",
+      "de": "Spüren Sie diesen Stress auch?",
+      "tags": [
+        "formal-pan-pani",
+        "present-tense",
+        "accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 167,
+      "target": "Bardzo lubię pisać o moich emocjach.",
+      "de": "Ich schreibe voll gerne über meine Emotionen.",
+      "tags": [
+        "verb-class-ić-yć",
+        "locative",
+        "possessives"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 168,
+      "target": "Możesz na mnie liczyć, jestem tutaj.",
+      "de": "Du kannst auf mich zählen, ich bin da.",
+      "tags": [
+        "modal-verbs",
+        "present-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 169,
+      "target": "O której godzinie oni mają terapię?",
+      "de": "Um wie viel Uhr haben sie Therapie?",
+      "tags": [
+        "clock-time",
+        "present-tense",
+        "accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 170,
+      "target": "Moja mama nie rozumiała moich granic.",
+      "de": "Meine Mama hat meine Grenzen nicht verstanden.",
+      "tags": [
+        "past-tense",
+        "negation",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 171,
+      "target": "Dziękuję, że po prostu ze mną jesteś.",
+      "de": "Danke, dass du einfach bei mir bist.",
+      "tags": [
+        "instrumental",
+        "present-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 172,
+      "target": "W zeszłą środę rano robiłam notatki.",
+      "de": "Letzten Mittwochmorgen habe ich mir Notizen gemacht.",
+      "tags": [
+        "past-tense",
+        "time-expression",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 173,
+      "target": "Czy to jest dla Ciebie okej?",
+      "de": "Ist das für dich okay?",
+      "tags": [
+        "genitive",
+        "present-tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 174,
+      "target": "Wczoraj nie mogłam spać przez myśli.",
+      "de": "Gestern konnte ich wegen meiner Gedanken nicht schlafen.",
+      "tags": [
+        "past-tense",
+        "negation",
+        "modal-verbs",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 175,
+      "target": "W sumie, to była dobra lekcja.",
+      "de": "Im Grunde war das eine gute Lektion.",
+      "tags": [
+        "past-tense",
+        "adjective"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 176,
+      "target": "Mój pierwszy raz na scenie był w maju.",
+      "de": "Meinen ersten Bühnenauftritt hatte ich im Mai.",
+      "tags": [
+        "past tense",
+        "months",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 177,
+      "target": "Czy ma Pan wolny termin na moje wystąpienie?",
+      "de": "Haben Sie noch einen freien Termin für meinen Vortrag?",
+      "tags": [
+        "present tense",
+        "accusative",
+        "polite form"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 178,
+      "target": "Wczoraj nie miałam mojego mikrofonu.",
+      "de": "Gestern hatte ich mein Mikro nicht dabei.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "genitive",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 179,
+      "target": "Twoja opinia jest dla mnie bardzo ważna.",
+      "de": "Deine Meinung ist mir total wichtig.",
+      "tags": [
+        "possessive",
+        "nominative",
+        "personal pronouns"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 180,
+      "target": "O której godzinie zaczyna się konferencja w piątek?",
+      "de": "Um wie viel Uhr geht die Konferenz am Freitag los?",
+      "tags": [
+        "clock time",
+        "days of the week",
+        "present tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 181,
+      "target": "W sobotę byłam bardzo zdenerwowana. Piłam herbatę i oddychałam głęboko. Teraz czuję spokój na scenie.",
+      "de": "Am Samstag war ich extrem nervös. Ich habe Tee getrunken und tief durchgeatmet. Jetzt fühle ich mich ruhig auf der Bühne.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "present tense",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 182,
+      "target": "Możesz sprawdzić mój hiszpański tekst?",
+      "de": "Kannst du kurz meinen spanischen Text checken?",
+      "tags": [
+        "modal verbs",
+        "accusative",
+        "present tense"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 183,
+      "target": "Lubię tę publiczność, bo dobrze słucha.",
+      "de": "Ich mag das Publikum, weil es gut zuhört.",
+      "tags": [
+        "present tense",
+        "accusative",
+        "conjunctions"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 184,
+      "target": "W każdy poniedziałek ćwiczę moje nowe wystąpienie.",
+      "de": "Jeden Montag übe ich meinen neuen Vortrag.",
+      "tags": [
+        "days of the week",
+        "present tense",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 185,
+      "target": "Przez cały wtorek pracowałam nad moją historią.",
+      "de": "Den ganzen Dienstag habe ich an meiner Geschichte gearbeitet.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "days of the week",
+        "instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 186,
+      "target": "Gdzie jest ten hotel dla prelegentów?",
+      "de": "Wo ist dieses Hotel für die Speaker?",
+      "tags": [
+        "nominative",
+        "genitive",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 187,
+      "target": "Przepraszam, nie mogę dzisiaj mówić, bo jestem zmęczona.",
+      "de": "Tut mir leid, ich kann heute nicht reden, ich bin fix und fertig.",
+      "tags": [
+        "modal verbs",
+        "feminine",
+        "negation",
+        "conjunctions"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 188,
+      "target": "Cześć, jestem Maja i piszę książki o emocjach.",
+      "de": "Hi, ich bin Maja und ich schreibe Bücher über Emotionen.",
+      "tags": [
+        "present tense",
+        "locative",
+        "introduction"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 189,
+      "target": "Nie martw się, byłaś świetna na scenie.",
+      "de": "Mach dir keine Sorgen, du warst spitze auf der Bühne.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "locative",
+        "imperative"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 190,
+      "target": "Późnym wieczorem czułam małą tremę przed występem.",
+      "de": "Spät am Abend hatte ich ein bisschen Lampenfieber vor dem Auftritt.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "instrumental",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 191,
+      "target": "Chciałabym zapytać o sprzęt techniczny.",
+      "de": "Ich würde gerne nach dem technischen Equipment fragen.",
+      "tags": [
+        "polite phrase",
+        "locative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 192,
+      "target": "Widziałaś moje wideo z niedzieli?",
+      "de": "Hast du mein Video vom Sonntag gesehen?",
+      "tags": [
+        "past tense",
+        "feminine",
+        "genitive",
+        "days of the week"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 193,
+      "target": "Cieszę się, bo publiczność była aktywna.",
+      "de": "Ich freue mich, weil das Publikum aktiv war.",
+      "tags": [
+        "present tense",
+        "past tense",
+        "conjunctions"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 194,
+      "target": "Nigdy nie odpowiadam na pytania o życie prywatne.",
+      "de": "Ich beantworte grundsätzlich keine Fragen zum Privatleben.",
+      "tags": [
+        "present tense",
+        "negation",
+        "accusative"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 195,
+      "target": "W środę o ósmej ćwiczyłam moją przemowę.",
+      "de": "Am Mittwoch um acht habe ich meine Rede geübt.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "clock time",
+        "days of the week"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 196,
+      "target": "Sala była mała, ale energia była super.",
+      "de": "Der Saal war klein, aber die Energie war super.",
+      "tags": [
+        "past tense",
+        "adjectives"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 197,
+      "target": "Jestem wdzięczna za tę możliwość mówienia.",
+      "de": "Ich bin dankbar für diese Chance, sprechen zu dürfen.",
+      "tags": [
+        "present tense",
+        "feminine",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 198,
+      "target": "Czy ten mikrofon działa teraz okej?",
+      "de": "Funktioniert das Mikro jetzt einwandfrei?",
+      "tags": [
+        "present tense",
+        "nominative",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 199,
+      "target": "Wysyłam moją prezentację w załączniku.",
+      "de": "Ich schicke meine Präsentation im Anhang.",
+      "tags": [
+        "present tense",
+        "accusative",
+        "locative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 200,
+      "target": "W zeszłym tygodniu byłam w Madrycie. Mówiłam na małym wydarzeniu. Ludzie byli tam bardzo życzliwi.",
+      "de": "Letzte Woche war ich in Madrid. Ich habe bei einem kleinen Event gesprochen. Die Leute dort waren echt herzlich.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "time expressions",
+        "story"
+      ],
+      "kind": "story"
+    }
+  ]
+}

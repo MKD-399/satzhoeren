@@ -16,9 +16,9 @@ import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
-const TTS_MODEL = 'gemini-2.5-flash-preview-tts';
 
 const args = process.argv.slice(2);
+const TTS_MODEL = args.includes('--model') ? args[args.indexOf('--model') + 1] : 'gemini-2.5-flash-preview-tts';
 const deckPath = args.find((a) => !a.startsWith('--'));
 if (!deckPath) { console.error('usage: node scripts/generate-audio.mjs <deck.json> [--voice X] [--force]'); process.exit(1); }
 const voice = args.includes('--voice') ? args[args.indexOf('--voice') + 1] : 'Sulafat';
@@ -79,13 +79,25 @@ function encode(pcm, mime, outFile) {
 }
 
 let done = 0, skipped = 0, chars = 0;
+const failed = [];
 for (const s of deck.sentences) {
   const file = join(outDir, `${String(s.n).padStart(3, '0')}.mp3`);
   if (existsSync(file) && !force) { skipped++; continue; }
   process.stdout.write(`${String(s.n).padStart(3)}  ${s.target}\n`);
-  const { pcm, mime } = await tts(s.target);
-  await encode(pcm, mime, file);
+  let ok = false;
+  for (let attempt = 0; attempt < 3 && !ok; attempt++) {
+    try {
+      const { pcm, mime } = await tts(s.target);
+      await encode(pcm, mime, file);
+      ok = true;
+    } catch (e) {
+      console.log(`   attempt ${attempt + 1} failed: ${String(e?.message || e).slice(0, 160)}`);
+      await sleep(8000 * (attempt + 1));
+    }
+  }
+  if (!ok) { failed.push(s.n); continue; }
   chars += s.target.length; done++;
   await sleep(1200);
 }
+if (failed.length) console.log(`FAILED sentences (re-run to retry): ${failed.join(',')}`);
 console.log(`\n${deck.id}: ${done} generated, ${skipped} already existed, ${chars} chars spoken → ${outDir}`);

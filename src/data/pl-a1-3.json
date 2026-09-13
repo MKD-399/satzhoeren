@@ -1,0 +1,2170 @@
+{
+  "id": "pl-a1-3",
+  "lang": "pl",
+  "langLabel": "Polnisch",
+  "level": "A1",
+  "part": 3,
+  "title": "Polnisch A1 · Teil 3",
+  "sentences": [
+    {
+      "n": 1,
+      "target": "Uczę się w bibliotece, bo jest cicho.",
+      "de": "Ich lerne in der Bib, weil es da ruhig ist.",
+      "tags": [
+        "Locative",
+        "Present Tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 2,
+      "target": "Nie mam dzisiaj czasu na przerwę.",
+      "de": "Ich hab heute keine Zeit für eine Pause.",
+      "tags": [
+        "Genitive",
+        "Negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 3,
+      "target": "Bardzo dobrze mówisz na scenie!",
+      "de": "Du redest echt gut auf der Bühne!",
+      "tags": [
+        "Locative",
+        "Adverb"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 4,
+      "target": "Po szkole przeprowadzam się do Hiszpanii.",
+      "de": "Nach der Schule ziehe ich nach Spanien.",
+      "tags": [
+        "Genitive",
+        "Present Tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 5,
+      "target": "Czy ten egzamin jest bardzo trudny?",
+      "de": "Ist diese Prüfung sehr schwer?",
+      "tags": [
+        "Question",
+        "Adjective Agreement"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 6,
+      "target": "Czekam na nauczycielkę w klasie.",
+      "de": "Ich warte im Klassenzimmer auf die Lehrerin.",
+      "tags": [
+        "Locative",
+        "Accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 7,
+      "target": "W sumie nie lubię stresu, więc medytuję.",
+      "de": "Eigentlich mag ich keinen Stress, also meditiere ich.",
+      "tags": [
+        "Genitive",
+        "Negation",
+        "Present Tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 8,
+      "target": "Gdzie jest mój nowy, czerwony zeszyt?",
+      "de": "Wo ist mein neues rotes Heft?",
+      "tags": [
+        "Possessive",
+        "Adjective Agreement",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 9,
+      "target": "Czy czytasz teraz moją prezentację na jutro?",
+      "de": "Liest du gerade meine Präsentation für morgen?",
+      "tags": [
+        "Question",
+        "Possessive",
+        "Accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 10,
+      "target": "Dziękuję za pomoc, to miłe.",
+      "de": "Danke für die Hilfe, das ist echt lieb.",
+      "tags": [
+        "Accusative",
+        "Adjective"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 11,
+      "target": "Idę na siłownię z moją przyjaciółką.",
+      "de": "Ich gehe mit meiner Freundin zum Sport.",
+      "tags": [
+        "Instrumental",
+        "Accusative",
+        "Possessive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 12,
+      "target": "Jestem w domu. Piszę książkę o moim życiu.",
+      "de": "Ich bin zu Hause. Ich schreibe ein Buch über mein Leben.",
+      "tags": [
+        "Locative",
+        "Possessive",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 13,
+      "target": "Masz dzisiaj czas na kawę w kawiarni?",
+      "de": "Hast du heute Zeit für einen Kaffee im Café?",
+      "tags": [
+        "Question",
+        "Locative",
+        "Accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 14,
+      "target": "Rozmawiamy teraz o moim planie.",
+      "de": "Wir reden gerade über meinen Plan.",
+      "tags": [
+        "Locative",
+        "Possessive",
+        "Present Tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 15,
+      "target": "Ma Pani teraz czas na rozmowę?",
+      "de": "Haben Sie gerade Zeit für ein Gespräch?",
+      "tags": [
+        "Formal",
+        "Genitive",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 16,
+      "target": "Mam siostrę, ale nie mam brata.",
+      "de": "Ich habe eine Schwester, aber keinen Bruder.",
+      "tags": [
+        "Accusative",
+        "Genitive",
+        "Negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 17,
+      "target": "To jest mały prezent dla mamy.",
+      "de": "Das ist ein kleines Geschenk für Mama.",
+      "tags": [
+        "Genitive",
+        "Adjective Agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 18,
+      "target": "Idziesz ze mną na trening o piątej?",
+      "de": "Gehst du mit mir um fünf zum Training?",
+      "tags": [
+        "Instrumental",
+        "Locative",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 19,
+      "target": "Myślę, że ta książka jest świetna.",
+      "de": "Ich finde, dieses Buch ist großartig.",
+      "tags": [
+        "Adjective Agreement",
+        "Present Tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 20,
+      "target": "Dziś jestem zmęczona, bo długo się uczę.",
+      "de": "Heute bin ich müde, weil ich lange lerne.",
+      "tags": [
+        "Numbers",
+        "Adjective Agreement",
+        "Present Tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 21,
+      "target": "Co robisz w weekend po maturze?",
+      "de": "Was machst du am Wochenende nach dem Abi?",
+      "tags": [
+        "Locative",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 22,
+      "target": "Przepraszam, nie piję już kawy.",
+      "de": "Sorry, ich trinke keinen Kaffee mehr.",
+      "tags": [
+        "Genitive",
+        "Negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 23,
+      "target": "Robię nowy film o mojej szkole.",
+      "de": "Ich mache ein neues Video über meine Schule.",
+      "tags": [
+        "Locative",
+        "Possessive",
+        "Accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 24,
+      "target": "Dlaczego nie ma dzisiaj naszej nauczycielki?",
+      "de": "Warum ist unsere Lehrerin heute nicht da?",
+      "tags": [
+        "Genitive",
+        "Possessive",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 25,
+      "target": "Właśnie, ten test jest trudny.",
+      "de": "Stimmt, dieser Test ist schwer.",
+      "tags": [
+        "Adjective Agreement"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 26,
+      "target": "Masz chwilę na poważną rozmowę?",
+      "de": "Hast du kurz Zeit für ein ernstes Gespräch?",
+      "tags": [
+        "accusative",
+        "possessive",
+        "present tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 27,
+      "target": "Nie chcę już relacji z tobą.",
+      "de": "Ich will keinen Kontakt mehr mit dir.",
+      "tags": [
+        "instrumental",
+        "negation",
+        "present tense"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 28,
+      "target": "Jesteś dla mnie bardzo ważną osobą.",
+      "de": "Du bist ein sehr wichtiger Mensch für mich.",
+      "tags": [
+        "instrumental",
+        "genitive",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 29,
+      "target": "Mój brat nie ma dziś humoru.",
+      "de": "Mein Bruder hat heute schlechte Laune.",
+      "tags": [
+        "genitive",
+        "possessive",
+        "negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 30,
+      "target": "Czy ty nie lubisz mojej siostry?",
+      "de": "Magst du meine Schwester etwa nicht?",
+      "tags": [
+        "genitive",
+        "possessive",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 31,
+      "target": "Często myślę o naszej szczerej relacji.",
+      "de": "Ich denke oft an unsere ehrliche Beziehung.",
+      "tags": [
+        "locative",
+        "possessive",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 32,
+      "target": "Nie płacz, jestem tutaj dla ciebie.",
+      "de": "Nicht weinen, ich bin für dich da.",
+      "tags": [
+        "genitive",
+        "request",
+        "present tense"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 33,
+      "target": "Czy zna Pani mojego kolegę z Hiszpanii?",
+      "de": "Kennen Sie meinen Kollegen aus Spanien?",
+      "tags": [
+        "accusative",
+        "genitive",
+        "possessive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 34,
+      "target": "Nie idę tam bez mojej przyjaciółki.",
+      "de": "Ohne meine Freundin gehe ich da nicht hin.",
+      "tags": [
+        "genitive",
+        "possessive",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 35,
+      "target": "On zawsze słucha mojej długiej historii.",
+      "de": "Er hört sich immer meine lange Geschichte an.",
+      "tags": [
+        "genitive",
+        "possessive",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 36,
+      "target": "Odwiedzam dzisiaj moją babcię w Berlinie.",
+      "de": "Heute besuche ich meine Oma in Berlin.",
+      "tags": [
+        "locative",
+        "accusative",
+        "possessive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 37,
+      "target": "Czy twoi rodzice mieszkają w Madrycie?",
+      "de": "Wohnen deine Eltern in Madrid?",
+      "tags": [
+        "locative",
+        "possessive",
+        "plural nominative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 38,
+      "target": "Czy możesz kupić prezent dla niego?",
+      "de": "Kannst du ein Geschenk für ihn kaufen?",
+      "tags": [
+        "genitive",
+        "modal verb",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 39,
+      "target": "Chętnie, bo bardzo lubię twoją rodzinę.",
+      "de": "Gerne, ich mag deine Familie echt gern.",
+      "tags": [
+        "accusative",
+        "possessive",
+        "conjunction"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 40,
+      "target": "Często rozmawiamy o jej trudnej sytuacji.",
+      "de": "Wir reden oft über ihre schwierige Situation.",
+      "tags": [
+        "locative",
+        "possessive",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 41,
+      "target": "To moja nowa koleżanka. Jest bardzo miła. Dużo rozmawiamy.",
+      "de": "Das ist meine neue Kollegin. Sie ist total nett. Wir unterhalten uns viel.",
+      "tags": [
+        "possessive",
+        "adjective agreement",
+        "present tense"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 42,
+      "target": "Dlaczego dzisiaj tak mało mówisz?",
+      "de": "Warum sagst du heute so wenig?",
+      "tags": [
+        "present tense",
+        "adverb",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 43,
+      "target": "Nie potrzebuję twojej rady, dziękuję.",
+      "de": "Ich brauche deinen Rat nicht, danke.",
+      "tags": [
+        "genitive",
+        "possessive",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 44,
+      "target": "Czuję wdzięczność za nasz wspólny czas.",
+      "de": "Ich empfinde Dankbarkeit für unsere gemeinsame Zeit.",
+      "tags": [
+        "accusative",
+        "possessive",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 45,
+      "target": "Może masz zdjęcie swojego psa?",
+      "de": "Hast du vielleicht ein Foto von deinem Hund?",
+      "tags": [
+        "genitive",
+        "possessive",
+        "accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 46,
+      "target": "W moim pokoju nie ma telewizora.",
+      "de": "In meinem Zimmer gibt es keinen Fernseher.",
+      "tags": [
+        "locative",
+        "genitive",
+        "possessive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 47,
+      "target": "Na uczelni mam tylko jedną przyjaciółkę.",
+      "de": "An der Uni habe ich nur eine Freundin.",
+      "tags": [
+        "locative",
+        "accusative",
+        "numeral"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 48,
+      "target": "Czy wy robicie coś dla nas?",
+      "de": "Macht ihr was für uns?",
+      "tags": [
+        "genitive",
+        "pronoun",
+        "present tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 49,
+      "target": "Czy może Pan napisać o tym?",
+      "de": "Könnten Sie darüber schreiben?",
+      "tags": [
+        "locative",
+        "modal verb",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 50,
+      "target": "Opowiadam moją prawdę i jestem szczęśliwa.",
+      "de": "Ich erzähle meine Wahrheit und bin glücklich.",
+      "tags": [
+        "accusative",
+        "possessive",
+        "adjective agreement"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 51,
+      "target": "Jem lody śmietankowe, jest bardzo gorąco.",
+      "de": "Ich esse Sahneeis, es ist total heiß.",
+      "tags": [
+        "present tense",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 52,
+      "target": "Idę na spacer, bo kocham słońce.",
+      "de": "Ich gehe spazieren, weil ich die Sonne liebe.",
+      "tags": [
+        "locative",
+        "preposition na",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 53,
+      "target": "Czy idziesz ze mną na basen?",
+      "de": "Gehst du mit mir ins Schwimmbad?",
+      "tags": [
+        "instrumental",
+        "preposition na",
+        "accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 54,
+      "target": "Nie lubię deszczu, wolę ciepłe dni.",
+      "de": "Ich mag keinen Regen, ich mag lieber warme Tage.",
+      "tags": [
+        "genitive",
+        "negation",
+        "accusative"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 55,
+      "target": "Jestem wdzięczna za ten piękny poranek.",
+      "de": "Ich bin dankbar für diesen schönen Morgen.",
+      "tags": [
+        "adjective agreement",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 56,
+      "target": "Jej nowa muzyka jest bardzo relaksująca.",
+      "de": "Ihre neue Musik ist total entspannend.",
+      "tags": [
+        "possessive",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 57,
+      "target": "Czy gramy wieczorem w gry planszowe?",
+      "de": "Spielen wir heute Abend Brettspiele?",
+      "tags": [
+        "present tense",
+        "instrumental"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 58,
+      "target": "Piję gorącą herbatę bez białego cukru.",
+      "de": "Ich trinke heißen Tee ohne weißen Zucker.",
+      "tags": [
+        "accusative",
+        "genitive",
+        "preposition bez"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 59,
+      "target": "Często marzę o moim nowym domu.",
+      "de": "Ich träume oft von meinem neuen Zuhause.",
+      "tags": [
+        "locative",
+        "preposition o",
+        "possessive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 60,
+      "target": "Widzę was dzisiaj na siłowni, super!",
+      "de": "Ich seh euch heute im Gym, cool!",
+      "tags": [
+        "locative",
+        "preposition na",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 61,
+      "target": "Czy może Pan zamknąć to okno?",
+      "de": "Könnten Sie bitte das Fenster zumachen?",
+      "tags": [
+        "modal",
+        "accusative",
+        "polite form"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 62,
+      "target": "Nie kupuję słodyczy, jem tylko owoce.",
+      "de": "Ich kaufe keine Süßigkeiten, ich esse nur Obst.",
+      "tags": [
+        "genitive",
+        "negation",
+        "accusative"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 63,
+      "target": "Ten wieczór jest miły, bo jesteś.",
+      "de": "Der Abend ist schön, weil du da bist.",
+      "tags": [
+        "adjective agreement",
+        "present tense"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 64,
+      "target": "Proszę Panią o szybką odpowiedź dzisiaj.",
+      "de": "Ich bitte Sie heute um eine schnelle Antwort.",
+      "tags": [
+        "accusative",
+        "polite form"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 65,
+      "target": "Słucham deszczu za oknem. Mam kawę i dobrą książkę. To jest mój idealny wieczór.",
+      "de": "Ich lausche dem Regen draußen. Ich habe Kaffee und ein gutes Buch. Das ist mein idealer Abend.",
+      "tags": [
+        "genitive",
+        "accusative",
+        "possessive"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 66,
+      "target": "Nasza przyjaźń jest dla mnie ważna.",
+      "de": "Unsere Freundschaft ist mir wichtig.",
+      "tags": [
+        "possessive",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 67,
+      "target": "Na scenie czuję się bardzo pewnie.",
+      "de": "Auf der Bühne fühle ich mich sehr sicher.",
+      "tags": [
+        "locative",
+        "preposition na"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 68,
+      "target": "Niestety nie mam czasu na nudę.",
+      "de": "Leider habe ich keine Zeit für Langeweile.",
+      "tags": [
+        "genitive",
+        "negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 69,
+      "target": "Uwielbiam te piosenki, bo są szczere.",
+      "de": "Ich liebe diese Lieder, weil sie ehrlich sind.",
+      "tags": [
+        "accusative",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 70,
+      "target": "Co słychać u twojej dobrej koleżanki?",
+      "de": "Was gibt's Neues bei deiner guten Freundin?",
+      "tags": [
+        "genitive",
+        "preposition u",
+        "possessive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 71,
+      "target": "Dzisiaj potrzebuję tylko spokoju i ciszy.",
+      "de": "Heute brauche ich nur Ruhe und Stille.",
+      "tags": [
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 72,
+      "target": "Jadę do Hiszpanii dla mojej pasji.",
+      "de": "Ich fahre wegen meiner Leidenschaft nach Spanien.",
+      "tags": [
+        "genitive",
+        "preposition do",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 73,
+      "target": "Spotykamy się w parku przy rzece?",
+      "de": "Treffen wir uns im Park am Fluss?",
+      "tags": [
+        "locative",
+        "preposition w"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 74,
+      "target": "Nie znam jeszcze waszego nowego adresu.",
+      "de": "Ich kenne eure neue Adresse noch nicht.",
+      "tags": [
+        "genitive",
+        "negation",
+        "possessive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 75,
+      "target": "Moja torba sportowa jest w szafie.",
+      "de": "Meine Sporttasche ist im Schrank.",
+      "tags": [
+        "possessive",
+        "locative",
+        "preposition w"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 76,
+      "target": "Jestem bardzo dumna z mojego postępu.",
+      "de": "Ich bin echt stolz auf meine Fortschritte.",
+      "tags": [
+        "genitive",
+        "preposition z",
+        "possessive",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 77,
+      "target": "Dziękuję za twoją szczerą opinię.",
+      "de": "Danke für dein ehrliches Feedback.",
+      "tags": [
+        "accusative",
+        "preposition za",
+        "possessive",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 78,
+      "target": "W Hiszpanii czuję się naprawdę wolna.",
+      "de": "In Spanien fühle ich mich wirklich frei.",
+      "tags": [
+        "locative",
+        "preposition w",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 79,
+      "target": "Nie mam już lęku przed sceną.",
+      "de": "Ich habe kein Lampenfieber mehr.",
+      "tags": [
+        "genitive",
+        "negation",
+        "instrumental"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 80,
+      "target": "Teraz mam więcej czasu dla siebie.",
+      "de": "Jetzt habe ich mehr Zeit für mich.",
+      "tags": [
+        "genitive",
+        "preposition dla",
+        "adverb"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 81,
+      "target": "Czy jesteś zadowolona ze swojej decyzji?",
+      "de": "Bist du zufrieden mit deiner Entscheidung?",
+      "tags": [
+        "genitive",
+        "preposition z",
+        "possessive",
+        "adjective agreement"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 82,
+      "target": "Widzę piękno w każdym małym geście.",
+      "de": "Ich sehe das Schöne in jeder kleinen Geste.",
+      "tags": [
+        "accusative",
+        "locative",
+        "preposition w",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 83,
+      "target": "Oni nie rozumieją mojej wielkiej pasji.",
+      "de": "Sie verstehen meine große Leidenschaft nicht.",
+      "tags": [
+        "genitive",
+        "negation",
+        "possessive",
+        "adjective agreement"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 84,
+      "target": "Czy ma Pan mój aktualny numer?",
+      "de": "Haben Sie meine aktuelle Nummer?",
+      "tags": [
+        "accusative",
+        "possessive",
+        "polite Pan",
+        "adjective agreement"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 85,
+      "target": "Siedzę w kawiarni i planuję książkę.",
+      "de": "Ich sitze im Café und plane mein Buch.",
+      "tags": [
+        "locative",
+        "preposition w",
+        "accusative",
+        "present tense"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 86,
+      "target": "Bez twojej pomocy nie jestem gotowa.",
+      "de": "Ohne deine Hilfe bin ich nicht bereit.",
+      "tags": [
+        "genitive",
+        "preposition bez",
+        "possessive",
+        "adjective agreement"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 87,
+      "target": "Moja mama zawsze we mnie wierzy.",
+      "de": "Meine Mama glaubt immer an mich.",
+      "tags": [
+        "nominative",
+        "possessive",
+        "locative",
+        "preposition w"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 88,
+      "target": "Jestem wdzięczna za moją nową drogę.",
+      "de": "Ich bin dankbar für meinen neuen Weg.",
+      "tags": [
+        "accusative",
+        "preposition za",
+        "possessive",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 89,
+      "target": "Rozmawiamy o naszej przyszłości w Barcelonie.",
+      "de": "Wir reden über unsere Zukunft in Barcelona.",
+      "tags": [
+        "locative",
+        "preposition o",
+        "possessive",
+        "preposition w"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 90,
+      "target": "Nie chcę już żyć w stresie.",
+      "de": "Ich will nicht mehr im Stress leben.",
+      "tags": [
+        "modal verb",
+        "locative",
+        "preposition w",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 91,
+      "target": "Masz rację, to jest bardzo ważne.",
+      "de": "Du hast recht, das ist total wichtig.",
+      "tags": [
+        "accusative",
+        "idiomatic expression",
+        "adjective agreement"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 92,
+      "target": "Piszemy o zdrowiu psychicznym młodych ludzi.",
+      "de": "Wir schreiben über die mentale Gesundheit junger Menschen.",
+      "tags": [
+        "locative",
+        "preposition o",
+        "genitive",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 93,
+      "target": "Wasz sukces jest dla nas motywacją.",
+      "de": "Euer Erfolg ist eine Motivation für uns.",
+      "tags": [
+        "genitive",
+        "preposition dla",
+        "instrumental",
+        "possessive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 94,
+      "target": "Czy pije Pani kawę bez mleka?",
+      "de": "Trinken Sie Ihren Kaffee ohne Milch?",
+      "tags": [
+        "genitive",
+        "preposition bez",
+        "accusative",
+        "polite Pani"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 95,
+      "target": "Jestem na lotnisku i czekam spokojnie.",
+      "de": "Ich bin am Flughafen und warte ganz entspannt.",
+      "tags": [
+        "locative",
+        "preposition na",
+        "adverb",
+        "present tense"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 96,
+      "target": "Dla mnie ta wolność jest bezcenna.",
+      "de": "Für mich ist diese Freiheit unbezahlbar.",
+      "tags": [
+        "genitive",
+        "preposition dla",
+        "nominative",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 97,
+      "target": "Nie kupuję już tych drogich kosmetyków.",
+      "de": "Ich kaufe diese teuren Kosmetika nicht mehr.",
+      "tags": [
+        "genitive",
+        "negation",
+        "adjective agreement",
+        "plural"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 98,
+      "target": "Dziękuję, że jesteś moją prawdziwą przyjaciółką.",
+      "de": "Danke, dass du meine wahre Freundin bist.",
+      "tags": [
+        "instrumental",
+        "possessive",
+        "adjective agreement",
+        "subordinate clause"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 99,
+      "target": "Gdzie jest wejście na dużą salę?",
+      "de": "Wo ist der Eingang zum großen Saal?",
+      "tags": [
+        "accusative",
+        "preposition na",
+        "adjective agreement",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 100,
+      "target": "Czuję wdzięczność, bo mam wspaniałych ludzi.",
+      "de": "Ich empfinde Dankbarkeit, weil ich tolle Leute habe.",
+      "tags": [
+        "accusative",
+        "conjunction bo",
+        "adjective agreement",
+        "plural"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 101,
+      "target": "Dziś czuję się bardzo spokojna.",
+      "de": "Heute fühle ich mich total ruhig.",
+      "tags": [
+        "nominative",
+        "adjective-agreement",
+        "present-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 102,
+      "target": "Czy idziesz jutro na swoją terapię?",
+      "de": "Gehst du morgen zu deiner Therapie?",
+      "tags": [
+        "locative",
+        "possessive",
+        "question-word"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 103,
+      "target": "Nie mam dzisiaj siły na trening.",
+      "de": "Ich hab heute keine Kraft fürs Training.",
+      "tags": [
+        "genitive-negation",
+        "present-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 104,
+      "target": "Proszę o chwilę ciszy dla siebie.",
+      "de": "Ich bitte um einen Moment Ruhe für mich.",
+      "tags": [
+        "genitive-preposition",
+        "request-form"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 105,
+      "target": "W kawiarni piszę mój nowy rozdział.",
+      "de": "Im Café schreibe ich an meinem neuen Kapitel.",
+      "tags": [
+        "locative",
+        "possessive",
+        "accusative",
+        "adjective-agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 106,
+      "target": "Czy on rozumie twoje granice?",
+      "de": "Versteht er deine Grenzen?",
+      "tags": [
+        "possessive",
+        "accusative",
+        "question-word"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 107,
+      "target": "Tak, to dla mnie ważna sprawa.",
+      "de": "Ja, das ist eine wichtige Angelegenheit für mich.",
+      "tags": [
+        "genitive-preposition",
+        "nominative",
+        "adjective-agreement"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 108,
+      "target": "Nie lubię tej negatywnej energii tutaj.",
+      "de": "Ich mag diese negative Energie hier nicht.",
+      "tags": [
+        "genitive-negation",
+        "adjective-agreement",
+        "possessive-pronoun"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 109,
+      "target": "Jestem na spacerze i słucham siebie.",
+      "de": "Ich bin spazieren und höre auf mich selbst.",
+      "tags": [
+        "locative",
+        "present-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 110,
+      "target": "Czy Pani też czuje ten lęk?",
+      "de": "Spüren Sie diese Angst auch?",
+      "tags": [
+        "formal-address",
+        "accusative",
+        "present-tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 111,
+      "target": "Mamo, nie pytaj dzisiaj o szkołę.",
+      "de": "Mama, frag heute bitte nicht nach der Schule.",
+      "tags": [
+        "locative",
+        "negation",
+        "request-form"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 112,
+      "target": "Bez moich przyjaciół świat jest smutny.",
+      "de": "Ohne meine Freunde ist die Welt traurig.",
+      "tags": [
+        "genitive-preposition",
+        "possessive",
+        "adjective-agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 113,
+      "target": "Dlaczego ona nie ma dzisiaj humoru?",
+      "de": "Warum hat sie heute schlechte Laune?",
+      "tags": [
+        "genitive-negation",
+        "question-word",
+        "present-tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 114,
+      "target": "Właśnie, to jest ich wspólny problem.",
+      "de": "Genau, das ist ihr gemeinsames Problem.",
+      "tags": [
+        "possessive",
+        "adjective-agreement",
+        "nominative"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 115,
+      "target": "Jestem w domu. Nie pracuję. Odpoczywam, bo moje zdrowie jest najważniejsze.",
+      "de": "Ich bin zu Hause. Ich arbeite nicht. Ich erhole mich, weil meine Gesundheit am wichtigsten ist.",
+      "tags": [
+        "locative",
+        "possessive",
+        "nominative",
+        "story-tiny"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 116,
+      "target": "Często rozmawiam z psycholożką o emocjach.",
+      "de": "Ich rede oft mit der Psychologin über Emotionen.",
+      "tags": [
+        "instrumental",
+        "locative",
+        "present-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 117,
+      "target": "Czy jest Pan teraz z nami?",
+      "de": "Sind Sie gerade bei uns?",
+      "tags": [
+        "formal-address",
+        "instrumental",
+        "question-word"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 118,
+      "target": "Nie potrzebuję teraz waszej pomocy, dziękuję.",
+      "de": "Ich brauche eure Hilfe gerade nicht, danke.",
+      "tags": [
+        "genitive-negation",
+        "possessive",
+        "present-tense"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 119,
+      "target": "Na scenie widzę wasze uśmiechnięte twarze.",
+      "de": "Auf der Bühne sehe ich eure lächelnden Gesichter.",
+      "tags": [
+        "locative",
+        "possessive",
+        "accusative",
+        "adjective-agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 120,
+      "target": "Co myślisz o mojej nowej książce?",
+      "de": "Was hältst du von meinem neuen Buch?",
+      "tags": [
+        "locative",
+        "possessive",
+        "adjective-agreement",
+        "question-word"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 121,
+      "target": "Nie, moje myśli są dzisiaj pozytywne.",
+      "de": "Nein, meine Gedanken sind heute positiv.",
+      "tags": [
+        "possessive",
+        "nominative",
+        "adjective-agreement"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 122,
+      "target": "Mów tylko o swoim dobrym dniu.",
+      "de": "Erzähl nur von deinem guten Tag.",
+      "tags": [
+        "locative",
+        "possessive",
+        "adjective-agreement"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 123,
+      "target": "Jadę do Hiszpanii na mój kurs.",
+      "de": "Ich fahre für meinen Kurs nach Spanien.",
+      "tags": [
+        "genitive-preposition",
+        "possessive",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 124,
+      "target": "Czy wasz dom to bezpieczne miejsce?",
+      "de": "Ist euer Zuhause ein sicherer Ort?",
+      "tags": [
+        "possessive",
+        "nominative",
+        "adjective-agreement"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 125,
+      "target": "Dzisiaj jest dzień bez mediów społecznościowych.",
+      "de": "Heute ist ein Tag ohne Social Media.",
+      "tags": [
+        "genitive-preposition",
+        "nominative",
+        "present-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 126,
+      "target": "Myślę o moim dzisiejszym wystąpieniu.",
+      "de": "Ich denke gerade an meinen heutigen Auftritt.",
+      "tags": [
+        "locative",
+        "possessive",
+        "adjective-agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 127,
+      "target": "Czy ten mikrofon jest teraz włączony?",
+      "de": "Ist das Mikrofon gerade eingeschaltet?",
+      "tags": [
+        "nominative",
+        "adjective-agreement"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 128,
+      "target": "Proszę o feedback po moim wystąpieniu.",
+      "de": "Ich hätte nach meinem Vortrag gerne Feedback.",
+      "tags": [
+        "locative",
+        "possessive"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 129,
+      "target": "Nie mam dzisiaj dużej tremy.",
+      "de": "Ich habe heute kein großes Lampenfieber.",
+      "tags": [
+        "genitive",
+        "negation",
+        "adjective-agreement"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 130,
+      "target": "Mam stres, bo sala jest ogromna.",
+      "de": "Ich bin nervös, weil der Saal riesig ist.",
+      "tags": [
+        "accusative",
+        "present-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 131,
+      "target": "Dzień dobry, jestem prelegentką z Niemiec.",
+      "de": "Guten Tag, ich bin eine Speakerin aus Deutschland.",
+      "tags": [
+        "genitive",
+        "instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 132,
+      "target": "Stoję na scenie i widzę was.",
+      "de": "Ich stehe auf der Bühne und sehe euch.",
+      "tags": [
+        "locative",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 133,
+      "target": "Twój głos brzmi świetnie w głośnikach.",
+      "de": "Deine Stimme klingt super über die Lautsprecher.",
+      "tags": [
+        "locative",
+        "possessive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 134,
+      "target": "Czy organizuje Pan konferencje w Hiszpanii?",
+      "de": "Organisieren Sie Konferenzen in Spanien?",
+      "tags": [
+        "locative",
+        "accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 135,
+      "target": "Nie lubię tego starego mikrofonu.",
+      "de": "Ich mag dieses alte Mikrofon nicht.",
+      "tags": [
+        "genitive",
+        "negation",
+        "adjective-agreement"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 136,
+      "target": "Tak, to jest bardzo dobre pytanie.",
+      "de": "Ja, das ist eine sehr gute Frage.",
+      "tags": [
+        "nominative",
+        "adjective-agreement"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 137,
+      "target": "Piszę w sprawie mojego nowego projektu.",
+      "de": "Ich schreibe wegen meines neuen Projekts.",
+      "tags": [
+        "genitive",
+        "possessive",
+        "adjective-agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 138,
+      "target": "Spokojnie, twój tekst jest naprawdę świetny.",
+      "de": "Ganz ruhig, dein Text ist wirklich super.",
+      "tags": [
+        "nominative",
+        "possessive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 139,
+      "target": "Idę do garderoby przed moim wykładem.",
+      "de": "Ich gehe vor meinem Vortrag in die Garderobe.",
+      "tags": [
+        "genitive",
+        "locative",
+        "possessive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 140,
+      "target": "To wystąpienie jest ważne dla mnie.",
+      "de": "Dieser Auftritt ist wichtig für mich.",
+      "tags": [
+        "genitive",
+        "nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 141,
+      "target": "Czy słyszą mnie państwo tam z tyłu?",
+      "de": "Hören Sie mich da hinten?",
+      "tags": [
+        "genitive",
+        "present-tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 142,
+      "target": "Jestem dzisiaj waszą pierwszą mówczynią.",
+      "de": "Ich bin heute eure erste Sprecherin.",
+      "tags": [
+        "instrumental",
+        "possessive",
+        "adjective-agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 143,
+      "target": "Potrzebuję szklanki wody bez lodu.",
+      "de": "Ich brauche ein Glas Wasser ohne Eis.",
+      "tags": [
+        "genitive"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 144,
+      "target": "Moje nagranie trwa tylko dziesięć minut.",
+      "de": "Meine Aufnahme dauert nur zehn Minuten.",
+      "tags": [
+        "possessive",
+        "numbers",
+        "present-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 145,
+      "target": "Przepraszam, nie odpowiadam na te pytania.",
+      "de": "Entschuldigung, auf diese Fragen antworte ich nicht.",
+      "tags": [
+        "accusative",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 146,
+      "target": "Ile osób jest teraz na sali?",
+      "de": "Wie viele Leute sind gerade im Saal?",
+      "tags": [
+        "locative",
+        "numbers"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 147,
+      "target": "Czekam na sygnał od twojej ekipy.",
+      "de": "Ich warte auf das Signal von deinem Team.",
+      "tags": [
+        "genitive",
+        "possessive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 148,
+      "target": "Chcę zapytać o wolny termin.",
+      "de": "Ich möchte nach einem freien Termin fragen.",
+      "tags": [
+        "locative",
+        "modal-verb",
+        "adjective-agreement"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 149,
+      "target": "Nie słyszę muzyki w moich słuchawkach.",
+      "de": "Ich höre die Musik in meinen Kopfhörern nicht.",
+      "tags": [
+        "locative",
+        "genitive",
+        "possessive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 150,
+      "target": "Dziękuję za waszą uwagę i energię.",
+      "de": "Danke für eure Aufmerksamkeit und Energie.",
+      "tags": [
+        "accusative",
+        "possessive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 151,
+      "target": "Piszę dzisiaj trzeci rozdział.",
+      "de": "Ich schreibe heute das dritte Kapitel.",
+      "tags": [
+        "present tense",
+        "accusative",
+        "numbers"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 152,
+      "target": "Co myślisz o moim głównym bohaterze?",
+      "de": "Was hältst du von meiner Hauptfigur?",
+      "tags": [
+        "locative",
+        "possessive",
+        "adjective agreement"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 153,
+      "target": "Moja książka ma już piękną okładkę.",
+      "de": "Mein Buch hat schon ein schönes Cover.",
+      "tags": [
+        "possessive",
+        "accusative",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 154,
+      "target": "Niestety nie mam jeszcze tytułu książki.",
+      "de": "Leider habe ich noch keinen Titel für das Buch.",
+      "tags": [
+        "negation",
+        "genitive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 155,
+      "target": "Czy idziesz na moje pierwsze czytanie?",
+      "de": "Kommst du zu meiner ersten Lesung?",
+      "tags": [
+        "question",
+        "possessive",
+        "accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 156,
+      "target": "Proszę o twoją szczerą opinię.",
+      "de": "Ich bitte um deine ehrliche Meinung.",
+      "tags": [
+        "request",
+        "possessive",
+        "accusative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 157,
+      "target": "Nie, ten rozdział jest zbyt krótki.",
+      "de": "Nein, dieses Kapitel ist zu kurz.",
+      "tags": [
+        "answer",
+        "adjective agreement"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 158,
+      "target": "Mam dzisiaj ważną rozmowę u wydawcy.",
+      "de": "Ich habe heute ein wichtiges Gespräch beim Verleger.",
+      "tags": [
+        "genitive",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 159,
+      "target": "Siedzę w kawiarni. Nie mam pomysłów.",
+      "de": "Ich sitze im Café. Ich habe keine Ideen.",
+      "tags": [
+        "locative",
+        "negation",
+        "genitive"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 160,
+      "target": "Lubię tę książkę, bo jest szczera.",
+      "de": "Ich mag dieses Buch, weil es ehrlich ist.",
+      "tags": [
+        "accusative",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 161,
+      "target": "Czytam teraz o hiszpańskiej kulturze.",
+      "de": "Ich lese gerade über die spanische Kultur.",
+      "tags": [
+        "locative",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 162,
+      "target": "Nie lubię tego bardzo długiego opisu.",
+      "de": "Ich mag diese sehr lange Beschreibung nicht.",
+      "tags": [
+        "negation",
+        "genitive",
+        "adjective agreement"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 163,
+      "target": "Czy wydawca lubi mój pierwszy rozdział?",
+      "de": "Mag der Verleger mein erstes Kapitel?",
+      "tags": [
+        "question",
+        "possessive",
+        "accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 164,
+      "target": "Jej książka jest o silnej kobiecie.",
+      "de": "Ihr Buch ist über eine starke Frau.",
+      "tags": [
+        "possessive",
+        "locative",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 165,
+      "target": "Czy możesz sprawdzić dla mnie tłumaczenie?",
+      "de": "Kannst du die Übersetzung für mich prüfen?",
+      "tags": [
+        "modal",
+        "genitive",
+        "accusative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 166,
+      "target": "Jestem bardzo dumna z mojego rozdziału.",
+      "de": "Ich bin sehr stolz auf mein Kapitel.",
+      "tags": [
+        "feminine adjective",
+        "genitive",
+        "possessive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 167,
+      "target": "Czy oni mają już termin na tekst?",
+      "de": "Haben sie schon eine Deadline für den Text?",
+      "tags": [
+        "question",
+        "accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 168,
+      "target": "Tak, piszę właśnie o szczęśliwym zakończeniu.",
+      "de": "Ja, ich schreibe gerade über ein Happy End.",
+      "tags": [
+        "answer",
+        "locative",
+        "adjective agreement"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 169,
+      "target": "Piszę o życiu w małym mieście.",
+      "de": "Ich schreibe über das Leben in einer kleinen Stadt.",
+      "tags": [
+        "locative",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 170,
+      "target": "Mój główny bohater nie ma ojca.",
+      "de": "Meine Hauptfigur hat keinen Vater.",
+      "tags": [
+        "possessive",
+        "negation",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 171,
+      "target": "Czy ta okładka jest dla was idealna?",
+      "de": "Ist dieses Cover ideal für euch?",
+      "tags": [
+        "question",
+        "genitive",
+        "adjective agreement"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 172,
+      "target": "Proszę, nie poprawiaj mojego głównego tekstu.",
+      "de": "Bitte korrigiere meinen Haupttext nicht.",
+      "tags": [
+        "negation",
+        "possessive",
+        "genitive"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 173,
+      "target": "Kto jest pańskim ulubionym polskim pisarzem?",
+      "de": "Wer ist Ihr polnischer Lieblingsautor?",
+      "tags": [
+        "question",
+        "instrumental",
+        "possessive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 174,
+      "target": "Nie widzę błędów w twoim tekście.",
+      "de": "Ich sehe keine Fehler in deinem Text.",
+      "tags": [
+        "negation",
+        "genitive",
+        "locative"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 175,
+      "target": "Właśnie, ta postać jest bardzo złożona.",
+      "de": "Genau, diese Figur ist sehr komplex.",
+      "tags": [
+        "answer",
+        "adjective agreement"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 176,
+      "target": "Montuję mój nowy film o Hiszpanii.",
+      "de": "Ich schneide gerade mein neues Video über Spanien.",
+      "tags": [
+        "locative",
+        "possessive",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 177,
+      "target": "Czy lubisz tę nową miniaturę?",
+      "de": "Magst du das neue Thumbnail?",
+      "tags": [
+        "accusative",
+        "adjective agreement"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 178,
+      "target": "Nie mam dzisiaj dobrego światła.",
+      "de": "Ich habe heute kein gutes Licht.",
+      "tags": [
+        "genitive",
+        "negation",
+        "adjective agreement"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 179,
+      "target": "Wasza społeczność jest dla mnie inspiracją.",
+      "de": "Eure Community ist eine Inspiration für mich.",
+      "tags": [
+        "possessive",
+        "genitive",
+        "instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 180,
+      "target": "Pracuję nad filmem w moim pokoju.",
+      "de": "Ich arbeite in meinem Zimmer an dem Video.",
+      "tags": [
+        "locative",
+        "possessive",
+        "instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 181,
+      "target": "Czy widzi Pan mój nowy kanał?",
+      "de": "Sehen Sie meinen neuen Kanal?",
+      "tags": [
+        "possessive",
+        "accusative",
+        "formal"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 182,
+      "target": "Montuję ten vlog bez głośnej muzyki.",
+      "de": "Ich schneide diesen Vlog ohne laute Musik.",
+      "tags": [
+        "genitive",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 183,
+      "target": "Mój aparat robi bardzo ostre zdjęcia.",
+      "de": "Meine Kamera macht sehr scharfe Fotos.",
+      "tags": [
+        "possessive",
+        "accusative",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 184,
+      "target": "Stawiam statyw. Włączam lampę. Teraz nagrywam ważne wideo dla was.",
+      "de": "Ich stelle das Stativ auf. Ich mache die Lampe an. Jetzt nehme ich ein wichtiges Video für euch auf.",
+      "tags": [
+        "accusative",
+        "genitive",
+        "adjective agreement"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 185,
+      "target": "Lubię te komentarze, bo są konstruktywne.",
+      "de": "Ich mag diese Kommentare, weil sie konstruktiv sind.",
+      "tags": [
+        "accusative",
+        "adjective agreement",
+        "conjunction"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 186,
+      "target": "Proszę, sprawdź link w moim opisie.",
+      "de": "Bitte check den Link in meiner Beschreibung.",
+      "tags": [
+        "locative",
+        "possessive",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 187,
+      "target": "W moim aparacie nie ma karty.",
+      "de": "In meiner Kamera ist keine Karte.",
+      "tags": [
+        "locative",
+        "genitive",
+        "possessive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 188,
+      "target": "Mój nowy odcinek jest o osiemnastej.",
+      "de": "Meine neue Folge kommt um 18 Uhr.",
+      "tags": [
+        "possessive",
+        "time",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 189,
+      "target": "Nagrywam dzisiaj odcinek z moim kolegą.",
+      "de": "Ich nehme heute eine Folge mit meinem Kumpel auf.",
+      "tags": [
+        "instrumental",
+        "possessive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 190,
+      "target": "Czy masz wiadomość od mojej widzki?",
+      "de": "Hast du eine Nachricht von meiner Zuschauerin?",
+      "tags": [
+        "genitive",
+        "possessive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 191,
+      "target": "Myślę często o moim zdrowiu psychicznym.",
+      "de": "Ich denke oft über meine mentale Gesundheit nach.",
+      "tags": [
+        "locative",
+        "possessive",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 192,
+      "target": "Czy jej kanał ma ciekawe treści?",
+      "de": "Hat ihr Kanal interessante Inhalte?",
+      "tags": [
+        "possessive",
+        "accusative",
+        "adjective agreement"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 193,
+      "target": "Jestem teraz na YouTubie i czytam.",
+      "de": "Ich bin gerade auf YouTube und lese.",
+      "tags": [
+        "locative",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 194,
+      "target": "Tak, to jest świetny tytuł filmu.",
+      "de": "Ja, das ist ein super Videotitel.",
+      "tags": [
+        "genitive",
+        "adjective agreement"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 195,
+      "target": "Nie nagrywam filmu bez dobrego scenariusza.",
+      "de": "Ich nehme kein Video ohne ein gutes Skript auf.",
+      "tags": [
+        "genitive",
+        "negation",
+        "adjective agreement"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 196,
+      "target": "Nagrywam trening na tej małej siłowni.",
+      "de": "Ich nehme das Training in diesem kleinen Gym auf.",
+      "tags": [
+        "locative",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 197,
+      "target": "Czy nasz wspólny projekt jest gotowy?",
+      "de": "Ist unser gemeinsames Projekt fertig?",
+      "tags": [
+        "possessive",
+        "adjective agreement"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 198,
+      "target": "Czy ona montuje filmy na telefonie?",
+      "de": "Schneidet sie Videos auf dem Handy?",
+      "tags": [
+        "locative",
+        "accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 199,
+      "target": "Nagrywamy dzisiaj wideo u mojego przyjaciela.",
+      "de": "Wir nehmen heute ein Video bei meinem Freund auf.",
+      "tags": [
+        "genitive",
+        "possessive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 200,
+      "target": "Czuję radość, bo kończę ten montaż.",
+      "de": "Ich freue mich, weil ich den Schnitt fertig mache.",
+      "tags": [
+        "accusative",
+        "conjunction"
+      ],
+      "kind": "statement"
+    }
+  ]
+}
