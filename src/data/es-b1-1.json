@@ -1,0 +1,30 @@
+{
+  "id": "es-b1-1",
+  "lang": "es",
+  "langLabel": "Spanisch",
+  "level": "B1",
+  "part": 1,
+  "title": "Spanisch B1 · Teil 1",
+  "sentences": [
+    { "n": 1,  "target": "¿Te importa si abro la ventana? Aquí hace un calor horrible.", "de": "Macht es dir was aus, wenn ich das Fenster aufmache? Hier ist es furchtbar heiß." },
+    { "n": 2,  "target": "Ayer iba a llamarte, pero al final se me hizo tarde.", "de": "Gestern wollte ich dich anrufen, aber am Ende ist es mir zu spät geworden." },
+    { "n": 3,  "target": "Cuando llegue a casa, te mando la foto.", "de": "Wenn ich zu Hause ankomme, schicke ich dir das Foto." },
+    { "n": 4,  "target": "No creo que la tienda esté abierta un domingo.", "de": "Ich glaube nicht, dass der Laden an einem Sonntag offen ist." },
+    { "n": 5,  "target": "Si tengo tiempo el sábado, me paso por tu casa.", "de": "Wenn ich am Samstag Zeit habe, komme ich bei dir vorbei." },
+    { "n": 6,  "target": "Llevo tres años viviendo en Madrid y todavía me pierdo.", "de": "Ich wohne seit drei Jahren in Madrid und verlaufe mich immer noch." },
+    { "n": 7,  "target": "Acabo de enterarme de que Marta se cambia de trabajo.", "de": "Ich habe gerade erfahren, dass Marta den Job wechselt." },
+    { "n": 8,  "target": "¿Me podrías echar una mano con la mudanza el fin de semana?", "de": "Könntest du mir am Wochenende beim Umzug helfen?" },
+    { "n": 9,  "target": "Estaba en la ducha cuando sonó el teléfono.", "de": "Ich war unter der Dusche, als das Telefon klingelte." },
+    { "n": 10, "target": "Espero que no te moleste que haya invitado a mi hermano.", "de": "Ich hoffe, es stört dich nicht, dass ich meinen Bruder eingeladen habe." },
+    { "n": 11, "target": "Deberías ir al médico en vez de aguantar el dolor.", "de": "Du solltest zum Arzt gehen, statt die Schmerzen auszuhalten." },
+    { "n": 12, "target": "Me da igual dónde cenemos, pero que no sea muy caro.", "de": "Mir ist egal, wo wir zu Abend essen, aber es soll nicht zu teuer sein." },
+    { "n": 13, "target": "Al final no fuimos al concierto porque se agotaron las entradas.", "de": "Am Ende sind wir nicht zum Konzert gegangen, weil die Karten ausverkauft waren." },
+    { "n": 14, "target": "Dile a Pablo que me llame cuando pueda.", "de": "Sag Pablo, er soll mich anrufen, wenn er kann." },
+    { "n": 15, "target": "Creo que me he dejado las llaves dentro del coche.", "de": "Ich glaube, ich habe die Schlüssel im Auto liegen lassen." },
+    { "n": 16, "target": "Cuanto antes salgamos, menos tráfico habrá.", "de": "Je früher wir losfahren, desto weniger Verkehr wird es geben." },
+    { "n": 17, "target": "Se me ha olvidado por completo que hoy era tu cumpleaños.", "de": "Ich habe komplett vergessen, dass heute dein Geburtstag ist." },
+    { "n": 18, "target": "¿Sabes si hay alguna farmacia que abra a estas horas?", "de": "Weißt du, ob es eine Apotheke gibt, die um diese Uhrzeit offen hat?" },
+    { "n": 19, "target": "Ojalá deje de llover antes de que salgamos.", "de": "Hoffentlich hört es auf zu regnen, bevor wir losgehen." },
+    { "n": 20, "target": "Hace tiempo que no hablamos, ¿te apetece tomar algo esta semana?", "de": "Wir haben lange nicht geredet, hast du Lust, diese Woche etwas trinken zu gehen?" }
+  ]
+}

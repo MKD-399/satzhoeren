@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --color-brand: var(--dyn-brand);
+  --color-brand-soft: var(--dyn-brand-soft);
+  --color-surface: var(--dyn-surface);
+  --color-card: var(--dyn-card);
+  --color-ink: var(--dyn-ink);
+  --color-ink-muted: var(--dyn-ink-muted);
+  --color-edge: var(--dyn-edge);
+  --color-active: var(--dyn-active);
+}
+
+/* Day — calm paper white with a deep teal accent. Neutral on purpose:
+   this app is about the ear, the screen should stay out of the way. */
+:root,
+[data-theme="tag"] {
+  --dyn-brand: #1F6F8B;
+  --dyn-brand-soft: #E3EFF3;
+  --dyn-surface: #F6F4EF;
+  --dyn-card: #FFFFFF;
+  --dyn-ink: #1E2326;
+  --dyn-ink-muted: #7A8288;
+  --dyn-edge: #E6E2DA;
+  --dyn-active: #FFF7E6;
+}
+
+/* Night — near-black. On an OLED, black pixels are off: no burn-in,
+   no light in a dark room. Only the current sentence gets brightness. */
+[data-theme="nacht"] {
+  --dyn-brand: #6FB3CC;
+  --dyn-brand-soft: #14232A;
+  --dyn-surface: #000000;
+  --dyn-card: #0B0B0B;
+  --dyn-ink: #C9C9C9;
+  --dyn-ink-muted: #5A5A5A;
+  --dyn-edge: #1A1A1A;
+  --dyn-active: #141414;
+}
+
+html, body { background: var(--dyn-surface); color: var(--dyn-ink); }
+body { -webkit-tap-highlight-color: transparent; overscroll-behavior-y: contain; }
+
+input[type="range"] { accent-color: var(--dyn-brand); }
