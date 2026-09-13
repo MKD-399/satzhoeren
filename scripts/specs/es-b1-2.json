@@ -1,0 +1,26 @@
+{
+  "id": "es-b1-2",
+  "lang": "es",
+  "langLabel": "Spanisch",
+  "langName": "European Spanish (Spain: vosotros, vale, coger, ordenador, móvil, piso — never Latin American forms)",
+  "level": "B1",
+  "part": 2,
+  "title": "Spanisch B1 · Teil 2",
+  "wordRange": [
+    8,
+    14
+  ],
+  "focus": "Presente de subjuntivo in its core everyday uses: wishes and requests (quiero que, prefiero que, dile que, necesito que), doubt and denial (no creo que, no me parece que, dudo que), emotion and evaluation (me alegro de que, me molesta que, es importante que, es normal que, qué raro que), future time clauses (cuando + subj., en cuanto, hasta que, antes de que), purpose (para que), ojalá, and 'que + subjuntivo' as a wish (que te mejores, que vaya bien). About 60% of sentences must carry the subjuntivo naturally — the way people really use it, not as a grammar demo.",
+  "always": "Presente, pretérito indefinido/imperfecto/perfecto (from Teil 1), combined object pronouns (se lo doy, dámelo), gustar/encantar/molestar/importar family, ir a + infinitivo, reflexive verbs, basic connectors.",
+  "avoidGrammar": "No imperfecto de subjuntivo, no condicional, no futuro simple, no pluscuamperfecto — those belong to later parts.",
+  "register": "Spoken everyday Spanish between friends, family, colleagues, neighbours, shop staff. Fillers welcome but sparingly (at most one per five sentences): bueno, pues, es que, o sea, vale, la verdad, venga. Do NOT end sentences with tag-ons like ', tío' or ', ¿vale?' or ', ¿sabes?' more than twice per batch.",
+  "bannedPhrases": [
+    "¿Dónde está la biblioteca?",
+    "Me llamo",
+    "¿Cómo te llamas?",
+    "El gato está",
+    "en la escuela",
+    "los estudiantes",
+    "el profesor explica"
+  ]
+}

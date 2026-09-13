@@ -10,7 +10,9 @@ Grundlage für die Satzproduktion. Kein Satz wird erzeugt, bevor Michelle diesen
 - **Steigende Komplexität.** Teil 1 ist der leichteste Teil des Niveaus, Teil 4 reicht in das nächste Niveau hinein.
 - **Wortschatz.** Über die vier Teile eines Niveaus werden die 300 häufigsten Verben, Adjektive und Adverbien der Sprache abgedeckt (Frequenzlisten, nicht Themenlisten). Eine Abdeckungsprüfung läuft nach der Erzeugung.
 - **Verteilung pro 200 Sätze (Richtwerte):** ~35 % Aussagen, ~25 % Fragen, ~20 % Antworten/Reaktionen, ~10 % Aufforderungen, ~10 % Verneinungen. Alle Personen (ich/du/er/sie/wir/ihr/Sie) kommen vor, Ich- und Du-Form überwiegen.
-- **Themen** sind neutral und breit: Alltag, Arbeit, Familie, Freunde, Einkaufen, Gesundheit, Wetter, Pläne, Meinungen, Gefühle, Wege, Zeit, Geld, Technik. Themen-Spezialwortschatz gehört in die Sprachinseln, nicht in den Vokabeltrainer.
+- **Themen kommen aus Michelles Profil** (`scripts/specs/_profile.json`, Stand 2026-09-13): Mentale Gesundheit und Heilung · Bühne und Speaking · Schreiben und das Buch · YouTube und Content · Gym und Körper · Spanien und Umzug · Schule und Abi · Freundschaft und Beziehungen · Alltag und kleine Freuden · Dankbarkeit und Freiheit. Jedes 25er-Paket bekommt eines dieser Themen, die Reihenfolge rotiert pro Teil.
+- **Satztypen, die Michelle wirklich braucht:** Ich-Form im Alltag (Präsens und Perfekt, häufiger als abstrakte Beispiele) · Gefühle ausdrücken ohne Drama · Meinung plus Begründung (DELE und Bühne) · echte Fragen · jemanden ermutigen oder trösten · kleine Geschichte in zwei bis drei Sätzen · höfliche Anfragen und E-Mail-Sätze · Grenzen setzen und freundlich ablehnen.
+- **Was nie vorkommt:** klinische oder therapeutische Fachsprache · toxische Positivität und Kalendersprüche · Zynismus, Härte, Lästern · belehrender Erwachsenenton · Business-Smalltalk, Büro, Meetings, Chefs, Aktien, Autos, Familienrezepte · Alkohol, Bars, Feiern, Partyleben.
 - **Satzlänge:** A1 4–7 Wörter · A2 6–10 · B1 8–14 · B2 10–18 · C1 12–22 · C2 14–26. Ausreißer nach oben und unten sind erlaubt.
 
 ---

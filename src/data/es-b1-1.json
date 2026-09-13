@@ -239,14 +239,13 @@
     },
     {
       "n": 22,
-      "target": "¿Sabes por qué va tan lento internet esta mañana en la oficina?",
-      "de": "Weißt du, warum das Internet heute Morgen im Büro so langsam ist?",
+      "target": "Hoy me he sentido superbién porque por fin he terminado el primer capítulo de mi libro.",
+      "de": "Heute habe ich mich richtig gut gefühlt, weil ich endlich das erste Kapitel meines Buches fertiggeschrieben habe.",
       "tags": [
-        "imperativo",
-        "presente",
-        "petición"
+        "pretérito perfecto",
+        "mental health"
       ],
-      "kind": "request"
+      "kind": "statement"
     },
     {
       "n": 23,
@@ -283,24 +282,24 @@
     },
     {
       "n": 26,
-      "target": "Estaba en la reunión cuando mi jefe me preguntó por el informe trimestral.",
-      "de": "Ich war gerade im Meeting, als mein Chef mich nach dem Quartalsbericht fragte.",
+      "target": "Antes me costaba mucho pedir ayuda, pero ayer llamé a mi psicóloga yo sola, ¿sabes?",
+      "de": "Früher fiel es mir echt schwer, um Hilfe zu bitten, aber gestern habe ich meine Psychologin ganz allein angerufen, weißt du?",
       "tags": [
-        "pretérito imperfecto",
         "pretérito indefinido",
-        "estaba + gerundio"
+        "imperfecto",
+        "contrast"
       ],
       "kind": "statement"
     },
     {
       "n": 27,
-      "target": "¿Habéis probado ya el café de la máquina nueva de la oficina?",
-      "de": "Habt ihr schon den Kaffee aus der neuen Maschine im Büro probiert?",
+      "target": "Lo siento, pero no voy a ir porque necesito tiempo para descansar este fin de semana.",
+      "de": "Tut mir leid, aber ich komme nicht mit, weil ich dieses Wochenende Zeit zum Ausruhen brauche.",
       "tags": [
-        "pretérito perfecto",
-        "vosotros"
+        "ir a + infinitivo",
+        "boundaries"
       ],
-      "kind": "question"
+      "kind": "negation"
     },
     {
       "n": 28,
@@ -315,11 +314,11 @@
     },
     {
       "n": 29,
-      "target": "Mi jefa es muy exigente, así que siempre reviso todo dos veces antes.",
-      "de": "Meine Chefin ist sehr anspruchsvoll, deshalb kontrolliere ich vorher immer alles doppelt.",
+      "target": "Iba a grabar un vídeo hoy, pero es que me encontraba un poco agotada mentalmente, la verdad.",
+      "de": "Ich wollte heute eigentlich ein Video aufnehmen, aber ich war mental einfach ein bisschen erschöpft, ehrlich gesagt.",
       "tags": [
-        "presente",
-        "conector"
+        "iba a + infinitivo",
+        "imperfecto"
       ],
       "kind": "statement"
     },
@@ -344,8 +343,59 @@
     },
     {
       "n": 32,
-      "target": "¿A qué hora os despertáis vosotros para llegar puntuales a la oficina central?",
-      "de": "Wann wacht ihr eigentlich auf, um pünktlich im Hauptbüro zu sein?",
+      "target": "Estaba meditando tranquilamente cuando de repente me vino una idea increíble para la charla de mañana.",
+      "de": "Ich habe gerade ganz entspannt meditiert, als mir plötzlich eine megagute Idee für den Vortrag morgen kam.",
+      "tags": [
+        "estaba + gerundio",
+        "indefinido"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 33,
+      "target": "Creo que hablar de las emociones es importante porque nos ayuda a conectar mejor con nosotros mismos.",
+      "de": "Ich finde, über Gefühle zu reden ist wichtig, weil es uns hilft, uns besser mit uns selbst zu verbinden.",
+      "tags": [
+        "presente",
+        "opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 34,
+      "target": "Esta semana he escrito tres cosas por las que estoy agradecida cada mañana al despertarme.",
+      "de": "Diese Woche habe ich jeden Morgen beim Aufwachen drei Dinge aufgeschrieben, für die ich dankbar bin.",
+      "tags": [
+        "pretérito perfecto",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 35,
+      "target": "Venga, ¿me dices a qué hora quedamos para la sesión de fotos del lunes en el centro?",
+      "de": "Sagst du mir Bescheid, wann wir uns am Montag für das Fotoshooting in der Innenstadt treffen?",
+      "tags": [
+        "presente",
+        "request"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 36,
+      "target": "Ayer estaba entrenando y un chico me interrumpió con una pregunta. Le dije que prefería estar a mi aire.",
+      "de": "Gestern war ich am Trainieren und ein Typ hat mich mit einer Frage unterbrochen. Ich hab ihm gesagt, dass ich lieber meine Ruhe will.",
+      "tags": [
+        "imperfecto",
+        "indefinido",
+        "narrative"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 37,
+      "target": "¿Vosotros también os sentís a veces un poco perdidos con tantos cambios de repente en la vida?",
+      "de": "Fühlt ihr euch manchmal auch ein bisschen verloren bei all den plötzlichen Veränderungen im Leben?",
       "tags": [
         "presente",
         "reflexivo",
@@ -354,63 +404,15 @@
       "kind": "question"
     },
     {
-      "n": 33,
-      "target": "A Pedro le parece que la nueva secretaria es muy eficiente y rápida.",
-      "de": "Pedro findet, dass die neue Sekretärin sehr effizient und schnell ist.",
-      "tags": [
-        "parecer",
-        "presente"
-      ],
-      "kind": "statement"
-    },
-    {
-      "n": 34,
-      "target": "El lunes pasado cometí un error grave con las facturas de ese cliente.",
-      "de": "Letzten Montag habe ich einen schweren Fehler bei den Rechnungen dieses Kunden gemacht.",
-      "tags": [
-        "pretérito indefinido"
-      ],
-      "kind": "statement"
-    },
-    {
-      "n": 35,
-      "target": "Mañana voy a pedir un aumento de sueldo, ¿me das algún consejo práctico?",
-      "de": "Morgen werde ich um eine Gehaltserhöhung bitten, hast du einen praktischen Rat für mich?",
-      "tags": [
-        "ir a + infinitivo",
-        "presente"
-      ],
-      "kind": "request"
-    },
-    {
-      "n": 36,
-      "target": "Usted no firmó el contrato de confidencialidad ayer por la tarde, ¿verdad?",
-      "de": "Sie haben die Vertraulichkeitsvereinbarung gestern Nachmittag nicht unterschrieben, oder?",
-      "tags": [
-        "pretérito indefinido",
-        "usted"
-      ],
-      "kind": "negation"
-    },
-    {
-      "n": 37,
-      "target": "Íbamos a organizar una cena de empresa, pero al final nadie podía ir.",
-      "de": "Wir wollten eigentlich ein Firmenessen organisieren, aber am Ende konnte keiner.",
-      "tags": [
-        "iba a + infinitivo",
-        "pretérito imperfecto"
-      ],
-      "kind": "statement"
-    },
-    {
       "n": 38,
-      "target": "No te preocupes, Juan, yo me encargo de terminar la presentación por ti.",
-      "de": "Mach dir keine Sorgen, Juan, ich kümmere mich darum, die Präsentation für dich fertigzumachen.",
+      "target": "¿Me envía usted la confirmación de la reserva para mi piso de Valencia, por favor?",
+      "de": "Schicken Sie mir bitte die Bestätigung für die Reservierung meiner Wohnung in Valencia?",
       "tags": [
         "presente",
-        "reflexivo"
+        "usted",
+        "request"
       ],
-      "kind": "answer"
+      "kind": "request"
     },
     {
       "n": 39,
@@ -424,22 +426,23 @@
     },
     {
       "n": 40,
-      "target": "Estábamos terminando el proyecto cuando de repente se estropeó la impresora de color.",
-      "de": "Wir waren gerade dabei, das Projekt fertigzustellen, als plötzlich der Farbdrucker kaputtging.",
+      "target": "Me encanta pasar tiempo sola porque así recargo pilas y me siento mucho mejor después.",
+      "de": "Ich liebe es, Zeit alleine zu verbringen, weil ich so meine Akkus auflade und mich danach viel besser fühle.",
       "tags": [
-        "estaba + gerundio",
-        "pretérito indefinido"
+        "gustar family",
+        "presente"
       ],
       "kind": "statement"
     },
     {
       "n": 41,
-      "target": "¿Has trabajado alguna vez en una empresa tan grande como esta, Marta?",
-      "de": "Hast du schon mal in so einer großen Firma wie dieser gearbeitet, Marta?",
+      "target": "Iba a disculparme por no contestar antes, pero luego me di cuenta de que no pasa nada.",
+      "de": "Ich wollte mich erst entschuldigen, dass ich nicht früher geantwortet habe, aber dann merkte ich, dass das schon okay ist.",
       "tags": [
-        "pretérito perfecto"
+        "iba a + infinitivo",
+        "indefinido"
       ],
-      "kind": "question"
+      "kind": "statement"
     },
     {
       "n": 42,
@@ -454,83 +457,84 @@
     },
     {
       "n": 43,
-      "target": "Pásame los datos de contacto de ese proveedor de Valencia ahora mismo, por favor.",
-      "de": "Gib mir bitte sofort die Kontaktdaten von diesem Lieferanten aus Valencia.",
+      "target": "Me mudo a España pronto, así que estoy aprendiendo a gestionar mis miedos ahora mismo.",
+      "de": "Ich ziehe bald nach Spanien, deshalb lerne ich gerade, mit meinen Ängsten umzugehen.",
       "tags": [
-        "imperativo",
-        "objeto indirecto"
+        "presente",
+        "connectors"
       ],
-      "kind": "request"
+      "kind": "statement"
     },
     {
       "n": 44,
-      "target": "Qué va, todavía no he terminado de leer los documentos para la reunión.",
-      "de": "Ach was, ich bin noch nicht fertig damit, die Unterlagen für die Sitzung zu lesen.",
+      "target": "Hoy he quedado con mi amiga y me ha escuchado sin juzgarme, ¡es un sol!",
+      "de": "Heute habe ich mich mit meiner Freundin getroffen und sie hat mir zugehört, ohne mich zu verurteilen – sie ist ein Schatz!",
       "tags": [
         "pretérito perfecto",
-        "negation"
+        "friendship"
       ],
-      "kind": "answer"
+      "kind": "statement"
     },
     {
       "n": 45,
-      "target": "¿Les habéis dicho ya a los compañeros que el jefe se jubila pronto?",
-      "de": "Habt ihr den Kollegen schon gesagt, dass der Chef bald in Rente geht?",
+      "target": "Oye, ¿te importa si hablamos un momento? Es que he tenido un día bastante regulín hoy.",
+      "de": "Du, stört es dich, wenn wir kurz quatschen? Ich hatte nämlich einen eher mäßigen Tag heute.",
       "tags": [
-        "pretérito perfecto",
-        "objeto indirecto",
-        "vosotros"
+        "presente",
+        "asking for help"
       ],
       "kind": "question"
     },
     {
       "n": 46,
-      "target": "Me despidieron ayer sin previo aviso y todavía estoy un poco en shock.",
-      "de": "Sie haben mich gestern ohne Vorwarnung gefeuert und ich stehe noch etwas unter Schock.",
+      "target": "Antes de salir al escenario, estaba supernerviosa, pero respiré hondo tres veces y todo fue genial.",
+      "de": "Bevor ich auf die Bühne gegangen bin, war ich megasupernervös, aber ich habe dreimal tief durchgeatmet und alles war super.",
       "tags": [
-        "pretérito indefinido",
-        "presente"
+        "imperfecto",
+        "indefinido"
       ],
       "kind": "statement"
     },
     {
       "n": 47,
-      "target": "Antes trabajaba en un banco, pero no me gustaba nada el ambiente allí.",
-      "de": "Früher habe ich in einer Bank gearbeitet, aber die Stimmung dort gefiel mir gar nicht.",
+      "target": "No me parece bien que siempre llegues tarde y no me avises por el móvil, la verdad.",
+      "de": "Ich finde es nicht okay, dass du ständig zu spät kommst und mir nicht mal am Handy Bescheid gibst, ehrlich gesagt.",
       "tags": [
-        "pretérito imperfecto",
-        "gustar"
+        "negation",
+        "boundary",
+        "presente"
       ],
-      "kind": "statement"
+      "kind": "negation"
     },
     {
       "n": 48,
-      "target": "¿Qué tal te va en el nuevo puesto de responsable de recursos humanos?",
-      "de": "Wie läuft es an deinem neuen Posten als Personalverantwortlicher?",
+      "target": "Nosotros siempre celebramos los pequeños logros para mantener una actitud muy positiva en el día a día.",
+      "de": "Wir feiern immer die kleinen Erfolge, um im Alltag eine richtig positive Einstellung zu behalten.",
       "tags": [
-        "presente"
-      ],
-      "kind": "question"
-    },
-    {
-      "n": 49,
-      "target": "Cogí el primer tren de la mañana porque tenía una reunión muy importante.",
-      "de": "Ich habe den ersten Zug am Morgen genommen, weil ich ein sehr wichtiges Meeting hatte.",
-      "tags": [
-        "pretérito indefinido",
-        "pretérito imperfecto"
+        "presente",
+        "nosotros"
       ],
       "kind": "statement"
     },
     {
-      "n": 50,
-      "target": "Venga, vamos a tomar algo después del trabajo para celebrar tu nuevo contrato.",
-      "de": "Komm, wir gehen nach der Arbeit was trinken, um deinen neuen Vertrag zu feiern.",
+      "n": 49,
+      "target": "Estaba leyendo sobre psicología cuando mi compañero de piso entró en mi cuarto sin llamar.",
+      "de": "Ich habe gerade über Psychologie gelesen, als mein Mitbewohner ohne anzuklopfen in mein Zimmer kam.",
       "tags": [
-        "ir a + infinitivo",
-        "filler"
+        "estaba + gerundio",
+        "indefinido"
       ],
-      "kind": "answer"
+      "kind": "story"
+    },
+    {
+      "n": 50,
+      "target": "Ellos notaron que estaba más tranquila porque ya no me estreso tanto por tonterías, ¿a que sí?",
+      "de": "Sie haben gemerkt, dass ich ruhiger war, weil ich mich nicht mehr so wegen jedem Quatsch stresse, oder?",
+      "tags": [
+        "indefinido",
+        "imperfecto"
+      ],
+      "kind": "question"
     },
     {
       "n": 51,
@@ -567,11 +571,11 @@
     },
     {
       "n": 54,
-      "target": "Mis compañeros de piso dormían profundamente cuando llegué a casa de la fiesta.",
-      "de": "Meine Mitbewohner haben tief geschlafen, als ich von der Party nach Hause kam.",
+      "target": "Esta mañana me ha dado un poco de ansiedad, pero he usado mis herramientas de respiración.",
+      "de": "Heute Morgen hatte ich ein bisschen Angstgefühle, aber ich habe meine Atemübungen angewendet.",
       "tags": [
-        "imperfecto",
-        "pretérito indefinido"
+        "pretérito perfecto",
+        "mental health"
       ],
       "kind": "statement"
     },
@@ -972,12 +976,11 @@
     },
     {
       "n": 92,
-      "target": "Iba a recoger el pan, pero me encontré a Luis y nos tomamos unas cañas.",
-      "de": "Ich wollte eigentlich das Brot abholen, aber dann habe ich Luis getroffen und wir sind was trinken gegangen.",
+      "target": "Iba a decir que sí a esa cena, pero mi cuerpo me pedía descanso y silencio.",
+      "de": "Ich wollte eigentlich Ja zu diesem Abendessen sagen, aber mein Körper hat nach Ruhe und Stille verlangt.",
       "tags": [
-        "Iba a + infinitivo",
-        "Indefinido",
-        "Abandoned plan"
+        "iba a + infinitivo",
+        "imperfecto"
       ],
       "kind": "statement"
     },
@@ -1100,25 +1103,23 @@
     },
     {
       "n": 104,
-      "target": "Me duele mucho la espalda porque la silla de la oficina es incomodísima.",
-      "de": "Mein Rücken tut total weh, weil der Bürostuhl super unbequem ist.",
+      "target": "¿Le has dado ya las gracias a Lucía por el mensaje tan bonito que te envió ayer?",
+      "de": "Hast du Lucía schon für die superliebe Nachricht gedankt, die sie dir gestern geschickt hat?",
       "tags": [
-        "presente",
-        "conectores",
-        "salud"
+        "pretérito perfecto",
+        "pronouns"
       ],
-      "kind": "statement"
+      "kind": "question"
     },
     {
       "n": 105,
-      "target": "Bueno, ayer me encontraba fatal, así que al final no salí de fiesta.",
-      "de": "Na ja, gestern ging's mir echt dreckig, deshalb bin ich dann doch nicht feiern gegangen.",
+      "target": "Pues la verdad es que me siento muy afortunada por tener gente tan sana cerca de mí.",
+      "de": "Ehrlich gesagt fühle ich mich richtig glücklich, so bodenständige Leute um mich zu haben.",
       "tags": [
-        "pretérito imperfecto",
-        "pretérito indefinido",
-        "salud"
+        "presente",
+        "gratitude"
       ],
-      "kind": "answer"
+      "kind": "statement"
     },
     {
       "n": 106,
@@ -1446,23 +1447,25 @@
     },
     {
       "n": 136,
-      "target": "Mañana voy a renovar mi carné de conducir en la oficina central.",
-      "de": "Morgen werde ich meinen Führerschein in der Hauptstelle verlängern.",
+      "target": "Oye, ¿has visto mi charla? Es que me parece que hablo demasiado rápido hoy.",
+      "de": "Du, hast du meinen Talk gesehen? Ich hab das Gefühl, ich spreche heute viel zu schnell.",
       "tags": [
-        "ir a + infinitivo",
-        "near future"
+        "pretérito perfecto",
+        "presente",
+        "parecer"
       ],
-      "kind": "statement"
+      "kind": "question"
     },
     {
       "n": 137,
-      "target": "¿Te ha dado tiempo a aparcar el coche cerca de la plaza?",
-      "de": "Hast du es zeitlich geschafft, das Auto in der Nähe vom Platz zu parken?",
+      "target": "Les escribo porque quiero saber si ustedes organizan eventos para jóvenes escritores este año.",
+      "de": "Ich schreibe Ihnen, weil ich wissen möchte, ob Sie dieses Jahr Events für junge Autoren organisieren.",
       "tags": [
-        "pretérito perfecto",
-        "object pronouns"
+        "presente",
+        "ustedes",
+        "organizar"
       ],
-      "kind": "question"
+      "kind": "request"
     },
     {
       "n": 138,
@@ -1554,14 +1557,14 @@
     },
     {
       "n": 146,
-      "target": "Vengo en metro todos los días porque aparcar aquí es una pesadilla.",
-      "de": "Ich fahre jeden Tag mit der Metro, weil Parken hier ein Albtraum ist.",
+      "target": "Iba a ensayar en casa, pero el micro no funcionaba y me puse nerviosísima.",
+      "de": "Ich wollte eigentlich zu Hause proben, aber das Mikro hat nicht funktioniert und ich wurde total nervös.",
       "tags": [
-        "presente",
-        "irregular verbs",
-        "porque"
+        "iba a + infinitivo",
+        "imperfecto",
+        "indefinido"
       ],
-      "kind": "statement"
+      "kind": "story"
     },
     {
       "n": 147,
@@ -1597,11 +1600,12 @@
     },
     {
       "n": 150,
-      "target": "Hemos visitado ese bar de tapas tres veces esta semana, ¿sabes?",
-      "de": "Wir waren diese Woche schon dreimal in dieser Tapas-Bar, weißt du?",
+      "target": "La verdad es que antes me daba miedo hablar en público, pero ahora me encanta.",
+      "de": "Ehrlich gesagt hatte ich früher Angst davor, vor Leuten zu sprechen, aber jetzt liebe ich es.",
       "tags": [
-        "pretérito perfecto",
-        "conector"
+        "imperfecto",
+        "presente",
+        "encantar"
       ],
       "kind": "statement"
     },
@@ -1647,13 +1651,14 @@
     },
     {
       "n": 155,
-      "target": "¿Habéis probado ya los calamares de ese bar que hace esquina, chicos?",
-      "de": "Habt ihr schon die Calamares aus der Bar an der Ecke probiert, Leute?",
+      "target": "Estaba saliendo del escenario cuando un chico me ha dado las gracias por mi historia.",
+      "de": "Ich bin gerade von der Bühne gegangen, als mir ein Typ für meine Geschichte gedankt hat.",
       "tags": [
+        "estaba + gerundio",
         "pretérito perfecto",
-        "vosotros"
+        "dar las gracias"
       ],
-      "kind": "question"
+      "kind": "story"
     },
     {
       "n": 156,
@@ -1716,13 +1721,14 @@
     },
     {
       "n": 162,
-      "target": "Probad este vino, que está riquísimo y además es de aquí, de Madrid.",
-      "de": "Probiert mal diesen Wein, der ist echt lecker und dazu noch von hier, aus Madrid.",
+      "target": "Chicos, hoy voy a presentaros a una persona muy especial que me inspira muchísimo.",
+      "de": "Leute, heute werde ich euch eine ganz besondere Person vorstellen, die mich total inspiriert.",
       "tags": [
-        "imperativo",
+        "ir a + infinitivo",
+        "pronombre de objeto directo",
         "vosotros"
       ],
-      "kind": "request"
+      "kind": "statement"
     },
     {
       "n": 163,
@@ -1756,13 +1762,14 @@
     },
     {
       "n": 166,
-      "target": "Íbamos a salir de fiesta, pero es que Elena se encuentra un poco mal.",
-      "de": "Wir wollten eigentlich feiern gehen, aber Elena fühlt sich gerade nicht so gut.",
+      "target": "Bueno, pues no voy a dar la conferencia porque no me siento cómoda con el tema.",
+      "de": "Tja, also ich werde den Vortrag nicht halten, weil ich mich mit dem Thema nicht wohlfühle.",
       "tags": [
-        "iba a + infinitivo",
-        "conector"
+        "ir a + infinitivo",
+        "verbo reflexivo",
+        "porque"
       ],
-      "kind": "answer"
+      "kind": "negation"
     },
     {
       "n": 167,
@@ -1776,33 +1783,36 @@
     },
     {
       "n": 168,
-      "target": "Anoche no entramos en el bar porque estaba llenísimo de gente joven.",
-      "de": "Gestern Abend sind wir nicht in die Bar gegangen, weil es dort vor jungen Leuten nur so wimmelte.",
+      "target": "El año pasado di mi primera charla y, aunque temblaba un poco, la gente fue majísima.",
+      "de": "Letztes Jahr habe ich meinen ersten Talk gegeben und obwohl ich ein bisschen gezittert habe, waren die Leute super nett.",
       "tags": [
         "pretérito indefinido",
-        "pretérito imperfecto"
+        "imperfecto",
+        "contraste de pasados"
       ],
-      "kind": "negation"
+      "kind": "story"
     },
     {
       "n": 169,
-      "target": "Ella estaba preparando la ensalada cuando su hermano llegó con las cervezas.",
-      "de": "Sie hat gerade den Salat zubereitet, als ihr Bruder mit dem Bier ankam.",
+      "target": "¿Habéis reservado ya la sala para el taller o todavía estáis buscando un sitio chulo?",
+      "de": "Habt ihr den Raum für den Workshop schon reserviert oder sucht ihr noch nach einem coolen Ort?",
       "tags": [
-        "estaba + gerundio",
-        "pretérito indefinido"
+        "pretérito perfecto",
+        "vosotros",
+        "presente continuo"
       ],
-      "kind": "statement"
+      "kind": "question"
     },
     {
       "n": 170,
-      "target": "Entonces podemos acercarnos a esa terraza, porque allí tienen cañas muy baratas.",
-      "de": "Dann können wir ja zu der Terrasse rübergehen, da ist das Bier richtig günstig.",
+      "target": "Os agradezco mucho vuestros comentarios, porque vuestro apoyo me ayuda a seguir escribiendo mi libro.",
+      "de": "Ich danke euch sehr für eure Kommentare, denn eure Unterstützung hilft mir, weiter an meinem Buch zu schreiben.",
       "tags": [
         "presente",
-        "conector"
+        "pronombre de objeto indirecto",
+        "agradecer"
       ],
-      "kind": "answer"
+      "kind": "statement"
     },
     {
       "n": 171,
@@ -1836,13 +1846,14 @@
     },
     {
       "n": 174,
-      "target": "Hoy no me apetece nada cocinar, así que mejor bajamos al bar, ¿vale?",
-      "de": "Heute habe ich gar keine Lust zu kochen, lass uns lieber in die Bar gehen, okay?",
+      "target": "¿Habéis cogido vosotros los micrófonos inalámbricos o se han quedado en el otro piso?",
+      "de": "Habt ihr die Funkmikros mitgenommen oder sind sie in der anderen Wohnung geblieben?",
       "tags": [
-        "presente",
-        "verbo reflexivo"
+        "pretérito perfecto",
+        "coger",
+        "piso"
       ],
-      "kind": "negation"
+      "kind": "question"
     },
     {
       "n": 175,
@@ -1888,13 +1899,14 @@
     },
     {
       "n": 179,
-      "target": "¿Perdisteis vosotros el cargador del móvil en la fiesta de anoche, chicos?",
-      "de": "Habt ihr das Handyladegerät gestern Abend auf der Party verloren, Leute?",
+      "target": "Estaba repasando mis notas en el tren cuando una señora me preguntó si era actriz, ¡qué gracia!",
+      "de": "Ich bin gerade meine Notizen im Zug durchgegangen, als mich eine Frau gefragt hat, ob ich Schauspielerin bin, wie lustig!",
       "tags": [
+        "estaba + gerundio",
         "pretérito indefinido",
-        "vosotros"
+        "imperfecto"
       ],
-      "kind": "question"
+      "kind": "story"
     },
     {
       "n": 180,

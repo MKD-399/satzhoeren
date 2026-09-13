@@ -1,0 +1,34 @@
+{
+  "_comment": "Michelle's personal profile (2026-09-13). Merged into EVERY deck prompt. Themes rotate per batch; sentence types and exclusions apply always.",
+  "learner": "A young woman, almost 18, German native speaker, fluent in English and Spanish learner preparing for DELE B2. She writes a book, speaks on stage, makes YouTube videos, trains at the gym, is moving to Spain, and cares about mental health, real friendships and gratitude. She wants sentences she would actually say herself.",
+  "themes": [
+    "mental health and healing: naming feelings, therapy appointments, good and bad days, setbacks, noticing progress, encouraging someone, asking for help, setting boundaries",
+    "stage and speaking: performances, stage fright, the audience, the microphone, rehearsing a talk, getting feedback, introducing yourself, telling a story, booking someone, writing an enquiry",
+    "writing and the book: chapters, characters, writer's block, a deadline, revising, translating, the publisher, the cover, reading and recommending books",
+    "YouTube and content: filming, editing, thumbnail, title, comments, the community, camera, light, upload schedule, collaborations, labelling ads",
+    "gym and body: training, sets and reps, sore muscles, sportswear, sizes and fit, nutrition, sleep, energy, motivation on days without strength",
+    "Spain and moving: flat hunting, authorities, the bank, groceries, neighbours, a café, the beach, public transport, meeting someone, small talk, getting lost, asking for help, homesickness",
+    "school and Abitur: exams, studying, teachers, presentations, grades, stress, planning time, plans for the future",
+    "friendship and relationships: real friendship, toxic people, recognising manipulation, saying no, making up, trust, family, comforting someone",
+    "everyday life and small joys: ice cream on a sunny day, going swimming, a walk just because you can, games with friends, music, coffee, rain at the window, the weekend, cosy evenings",
+    "gratitude and freedom: appreciating something you did not see before, looking back, praising yourself, saying thank you, being proud"
+  ],
+  "sentenceTypes": [
+    "first person in everyday life, present and pretérito perfecto — far more often than abstract example sentences",
+    "expressing feelings without sounding dramatic",
+    "giving an opinion AND the reason for it (needed for DELE and for speaking on stage)",
+    "real questions a person would actually ask, never textbook questions",
+    "encouraging or comforting someone",
+    "a tiny story told in two or three sentences (a few items per batch may be 20 to 30 words for this)",
+    "polite requests and e-mail sentences, because she writes a lot of organisational messages",
+    "setting a boundary or declining kindly"
+  ],
+  "avoidContent": [
+    "clinical or therapeutic jargon",
+    "toxic positivity and calendar-quote wisdom",
+    "cynicism, harshness, gossiping about others",
+    "a lecturing grown-up tone",
+    "business small talk, offices, meetings, bosses, stocks, cars, recipes for families with three children",
+    "alcohol, bars, drinking, party life, going out drinking — she never talks about these"
+  ]
+}

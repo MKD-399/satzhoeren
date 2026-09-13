@@ -35,6 +35,7 @@ const outDir = join(ROOT, 'public', 'audio', deck.lang, deckDir);
 mkdirSync(outDir, { recursive: true });
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+const usage = { in: 0, out: 0 };
 
 async function tts(text) {
   for (let attempt = 0; attempt < 5; attempt++) {
@@ -49,6 +50,8 @@ async function tts(text) {
       });
       const part = res.candidates?.[0]?.content?.parts?.[0]?.inlineData;
       if (!part?.data) throw new Error('no audio in response');
+      const u = res.usageMetadata || {};
+      usage.in += u.promptTokenCount || 0; usage.out += u.candidatesTokenCount || 0;
       return { pcm: Buffer.from(part.data, 'base64'), mime: part.mimeType || '' };
     } catch (e) {
       const msg = String(e?.message || e);
