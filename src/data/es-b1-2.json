@@ -249,7 +249,7 @@
     },
     {
       "n": 23,
-      "target": "¿Crees que sea buena idea ir a nadar con este viento tan fuerte?",
+      "target": "¿Crees que es buena idea ir a nadar con este viento tan fuerte?",
       "de": "Glaubst du, es ist eine gute Idee, bei diesem starken Wind schwimmen zu gehen?",
       "tags": [
         "subjuntivo",
@@ -284,7 +284,7 @@
     {
       "n": 26,
       "target": "¿Os apetece que juguemos a las cartas mientras escuchamos la lluvia contra la ventana?",
-      "de": "Hattet ihr Lust, dass wir Karten spielen, während wir dem Regen am Fenster zuhören?",
+      "de": "Habt ihr Lust, dass wir Karten spielen, während wir dem Regen am Fenster zuhören?",
       "tags": [
         "subjuntivo",
         "wishes",
@@ -434,7 +434,7 @@
     {
       "n": 40,
       "target": "Venga, ¿te va bien que quedemos el domingo para pasear por la playa?",
-      "de": "Venga, passt es dir, wenn wir uns am Sonntag für einen Spaziergang am Strand treffen?",
+      "de": "Na, passt es dir, wenn wir uns am Sonntag für einen Spaziergang am Strand treffen?",
       "tags": [
         "subjuntivo",
         "wishes",
@@ -604,8 +604,8 @@
     },
     {
       "n": 56,
-      "target": "Ese sabor es genial, ¿me la pone en tarrina para llevar, por favor?",
-      "de": "Diese Sorte ist genial, packen Sie mir die Kugel bitte in den Becher zum Mitnehmen?",
+      "target": "Ese sabor es genial, ¿me lo pone en tarrina para llevar, por favor?",
+      "de": "Diese Sorte ist genial, können Sie mir die zum Mitnehmen in den Becher packen, bitte?",
       "tags": [
         "combined object pronouns",
         "presente",
@@ -772,7 +772,7 @@
     },
     {
       "n": 71,
-      "target": "¿Dudas que podamos terminar el puzle antes de que se haga de noche hoy?",
+      "target": "¿Crees que podemos terminar el puzle antes de que se haga de noche?",
       "de": "Glaubst du wirklich, dass wir das Puzzle fertig kriegen, bevor es heute Abend dunkel wird?",
       "tags": [
         "subjuntivo",
@@ -1410,7 +1410,7 @@
     },
     {
       "n": 130,
-      "target": "¿No crees que esta nueva etapa nos dé la libertad que tanto buscábamos?",
+      "target": "¿No crees que esta nueva etapa nos da la libertad que tanto buscábamos?",
       "de": "Glaubst du nicht, dass dieser neue Lebensabschnitt uns die Freiheit gibt, die wir so gesucht haben?",
       "tags": [
         "presente de subjuntivo",
