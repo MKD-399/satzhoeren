@@ -1,4 +1,4 @@
-import { ChevronDown, Moon, Pause, Play, Repeat, Settings2, Shuffle, SkipBack, SkipForward, Sun, X } from 'lucide-react';
+import { ChevronDown, Loader2, Moon, Pause, Play, Repeat, Settings2, Shuffle, SkipBack, SkipForward, Sun, X } from 'lucide-react';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { DECKS } from './decks';
 import { usePlayer } from './usePlayer';
@@ -82,7 +82,7 @@ export function App() {
             aria-label={player.playing ? 'Pause' : 'Abspielen'}
             className="flex h-14 w-14 items-center justify-center rounded-full bg-brand text-white shadow-lg shadow-brand/30 transition active:scale-95"
           >
-            {player.playing ? <Pause size={26} fill="currentColor" /> : <Play size={26} fill="currentColor" className="ml-1" />}
+            {player.loading ? <Loader2 size={26} className="animate-spin" /> : player.playing ? <Pause size={26} fill="currentColor" /> : <Play size={26} fill="currentColor" className="ml-1" />}
           </button>
           <button onClick={player.next} aria-label="Nächster Satz" className="rounded-full p-2 text-ink-muted hover:text-ink">
             <SkipForward size={20} />
