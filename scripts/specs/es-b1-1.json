@@ -1,0 +1,29 @@
+{
+  "id": "es-b1-1",
+  "lang": "es",
+  "langLabel": "Spanisch",
+  "langName": "European Spanish (Spain: vosotros, vale, coger, ordenador, móvil, piso, vale — never Latin American forms)",
+  "level": "B1",
+  "part": 1,
+  "title": "Spanisch B1 · Teil 1",
+  "wordRange": [8, 14],
+  "focus": "Narrating the past: pretérito indefinido vs. imperfecto in contrast (background vs. event), pretérito perfecto for today/recent/life experience, 'estaba + gerundio cuando + indefinido', 'iba a + infinitivo' for abandoned plans. About 60% of sentences must carry one of these.",
+  "always": "Presente (incl. irregular and stem-changing verbs), reflexive verbs, 'ir a + infinitivo' for near future, direct/indirect object pronouns, gustar/encantar/parecer family, basic connectors (porque, pero, así que, entonces, además).",
+  "avoidGrammar": "No subjuntivo, no condicional, no futuro simple, no pluscuamperfecto — those belong to later parts.",
+  "register": "Spoken everyday Spanish between friends, family, colleagues, neighbours, shop staff. Fillers welcome: bueno, pues, es que, o sea, vale, la verdad, ¿sabes?, venga.",
+  "themes": [
+    "getting home late, plans that fell through, a weekend that went differently than planned",
+    "work and colleagues: a meeting, a mistake, the boss, a deadline, a new job",
+    "family and flat-sharing: chores, arguments, visits, a sibling, grandparents",
+    "shopping, markets, returns, prices, forgetting something at the shop",
+    "health: a cold, the doctor, sleeping badly, sport, an injury",
+    "transport and the city: metro, traffic, being late, getting lost, the neighbourhood",
+    "food and going out: dinner with friends, a bar, cooking, a restaurant that was full",
+    "phones, messages, apps, the internet being down, losing something",
+    "weather and seasons, holidays, a trip, a beach day, the mountains",
+    "feelings and opinions: being tired, nervous, relieved, annoyed, surprised",
+    "money: rent, bills, splitting a bill, something being too expensive, a bargain",
+    "learning and studying, exams, a course, a language, a book or series"
+  ],
+  "bannedPhrases": ["¿Dónde está la biblioteca?", "Me llamo", "¿Cómo te llamas?", "El gato está", "en la escuela", "los estudiantes", "el profesor explica"]
+}
