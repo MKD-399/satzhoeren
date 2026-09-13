@@ -107,7 +107,7 @@ const once = (el: HTMLMediaElement, ev: string) => new Promise<void>((res) => el
 
 /* ── Hook ─────────────────────────────────────────────────────────── */
 
-export function usePlayer(deck: Deck, settings: Settings) {
+export function usePlayer(deck: Deck, settings: Settings, starred: ReadonlySet<number>) {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const tapeRef = useRef<Tape | null>(null);
   const nextTapeRef = useRef<{ windowStart: number; promise: Promise<Tape> } | null>(null);
@@ -128,11 +128,17 @@ export function usePlayer(deck: Deck, settings: Settings) {
   const [error, setError] = useState<string | null>(null);
 
   const order = useMemo(() => {
-    const ns = deck.sentences.map((s) => s.n).filter((n) => n >= settings.from && n <= settings.to);
-    const base = ns.length ? ns : deck.sentences.map((s) => s.n);
+    const all = deck.sentences.map((s) => s.n);
+    let base: number[];
+    if (settings.starredOnly) {
+      base = all.filter((n) => starred.has(n));            // may be empty: nothing to play
+    } else {
+      const ns = all.filter((n) => n >= settings.from && n <= settings.to);
+      base = ns.length ? ns : all;
+    }
     return settings.random ? shuffle(base) : base;
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [deck, settings.from, settings.to, settings.random, shuffleSeed]);
+  }, [deck, settings.from, settings.to, settings.random, settings.starredOnly, starred, shuffleSeed]);
   orderRef.current = order;
   settingsRef.current = settings;
   deckRef.current = deck;

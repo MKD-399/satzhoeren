@@ -32,6 +32,8 @@ export interface Settings {
   /** 1-based inclusive range within the deck. */
   from: number;
   to: number;
+  /** Practice only the starred sentences of the deck (ignores from/to). */
+  starredOnly: boolean;
 }
 
 export const DEFAULT_SETTINGS: Settings = {
@@ -42,4 +44,5 @@ export const DEFAULT_SETTINGS: Settings = {
   random: false,
   from: 1,
   to: 200,
+  starredOnly: false,
 };
