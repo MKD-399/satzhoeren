@@ -1,0 +1,2051 @@
+{
+  "id": "pl-a2-4",
+  "lang": "pl",
+  "langLabel": "Polnisch",
+  "level": "A2",
+  "part": 4,
+  "title": "Polnisch A2 · Teil 4",
+  "sentences": [
+    {
+      "n": 1,
+      "target": "Mój trzeci trening w tym tygodniu był naprawdę udany.",
+      "de": "Mein drittes Training diese Woche war echt erfolgreich.",
+      "tags": [
+        "ordinal numbers",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 2,
+      "target": "Nie poddawaj się, zrób jeszcze dwa powtórzenia w tej serii.",
+      "de": "Gib nicht auf, mach noch zwei Wiederholungen in diesem Satz.",
+      "tags": [
+        "imperative",
+        "negative imperative",
+        "gym vocabulary"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 3,
+      "target": "Chciałabym zapytać, czy ten mniejszy rozmiar legginsów jest dostępny?",
+      "de": "Ich wollte fragen, ob es die Leggings auch eine Nummer kleiner gibt?",
+      "tags": [
+        "conditional",
+        "polite request",
+        "shopping"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 4,
+      "target": "Przez cały dzień piję wodę i czuję dużą różnicę.",
+      "de": "Ich trinke den ganzen Tag über Wasser und merke einen riesigen Unterschied.",
+      "tags": [
+        "preposition with accusative",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 5,
+      "target": "Masz rację, dzisiaj brakuje mi siły, więc będę ćwiczyć krótko.",
+      "de": "Du hast recht, heute fehlt mir die Kraft, also werde ich nur kurz trainieren.",
+      "tags": [
+        "future tense",
+        "opinion"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 6,
+      "target": "Czy mogłabyś pokazać mi, jak poprawnie używać tej maszyny?",
+      "de": "Könntest du mir zeigen, wie man dieses Gerät richtig benutzt?",
+      "tags": [
+        "conditional",
+        "polite request",
+        "gym vocabulary"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 7,
+      "target": "Odpocznij chwilę i wypij wodę, bo wyglądasz na bardzo zmęczoną.",
+      "de": "Ruh dich kurz aus und trink was, du siehst nämlich echt fertig aus.",
+      "tags": [
+        "imperative",
+        "feminine forms"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 8,
+      "target": "Zapomniałam butów na siłownię, więc wróciłam do domu. To był znak, że dzisiaj potrzebuję regeneracji.",
+      "de": "Ich habe meine Sportschuhe vergessen und bin wieder heim. Das war ein Zeichen, dass ich heute Erholung brauche.",
+      "tags": [
+        "past tense",
+        "feminine forms",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 9,
+      "target": "Zrobiłam właśnie pierwszą próbę z większym ciężarem i poszło super.",
+      "de": "Ich habe gerade den ersten Versuch mit mehr Gewicht gemacht und es lief super.",
+      "tags": [
+        "ordinal numbers",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 10,
+      "target": "Idziesz ze mną na trening rano, czy piszesz wtedy swoją książkę?",
+      "de": "Gehst du morgens mit mir zum Training oder schreibst du dann an deinem Buch?",
+      "tags": [
+        "preposition with accusative",
+        "present tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 11,
+      "target": "W sumie to świetny pomysł, ale dzisiaj nie dołączę do was.",
+      "de": "Eigentlich eine super Idee, aber heute schließe ich mich euch nicht an.",
+      "tags": [
+        "negation",
+        "future tense"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 12,
+      "target": "Wybieram trening rano, ponieważ wtedy mam najwięcej energii.",
+      "de": "Ich entscheide mich für das Training am Morgen, weil ich da am meisten Energie habe.",
+      "tags": [
+        "opinion",
+        "comparison"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 13,
+      "target": "Dobra, posłuchajcie, to ćwiczenie jest trudne, ale bardzo pomaga na plecy.",
+      "de": "Okay, hört mal zu, diese Übung ist zwar schwer, hilft aber total bei Rückenproblemen.",
+      "tags": [
+        "imperative plural",
+        "body parts"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 14,
+      "target": "Chciałabym potrenować razem z Tobą w następny czwartek.",
+      "de": "Ich würde nächsten Donnerstag gerne mal zusammen mit dir trainieren.",
+      "tags": [
+        "conditional",
+        "preposition with accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 15,
+      "target": "Robisz sobie przerwę na tydzień, czy trenujesz dalej bez odpoczynku?",
+      "de": "Machst du eine Woche Pause oder trainierst du ohne Erholung weiter?",
+      "tags": [
+        "preposition with accusative",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 16,
+      "target": "Czy mógłby Pan sprawdzić, czy ta koszulka jest w innym kolorze?",
+      "de": "Könnten Sie mal schauen, ob es das Shirt auch in einer anderen Farbe gibt?",
+      "tags": [
+        "conditional",
+        "formal",
+        "polite request"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 17,
+      "target": "Byłam wczoraj bardzo zmęczona, więc spałam aż dziesięć godzin.",
+      "de": "Ich war gestern total müde, deshalb habe ich ganze zehn Stunden geschlafen.",
+      "tags": [
+        "past tense",
+        "feminine forms",
+        "feelings"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 18,
+      "target": "Nie martw się tym wynikiem, za miesiąc będziesz znacznie silniejsza.",
+      "de": "Mach dir wegen des Ergebnisses keinen Kopf, in einem Monat bist du viel stärker.",
+      "tags": [
+        "negative imperative",
+        "preposition with accusative",
+        "comparison"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 19,
+      "target": "Czy to już piąty raz, kiedy zapominasz o gumie do ćwiczeń?",
+      "de": "Ist das schon das fünfte Mal, dass du dein Widerstandsband vergisst?",
+      "tags": [
+        "ordinal numbers",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 20,
+      "target": "Szczerze mówiąc, wolę dzisiejszy trening góry ciała niż wczorajsze kardio.",
+      "de": "Ehrlich gesagt ist mir das heutige Oberkörper-Training lieber als das Cardio von gestern.",
+      "tags": [
+        "opinion",
+        "comparison"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 21,
+      "target": "Czy mógłbyś przesłać mi ten plan treningowy na maila?",
+      "de": "Könntest du mir den Trainingsplan per E-Mail schicken?",
+      "tags": [
+        "conditional",
+        "request"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 22,
+      "target": "Kupisz nowe buty do biegania za dwa tygodnie w Hiszpanii czy tutaj?",
+      "de": "Kaufst du die neuen Laufschuhe in zwei Wochen in Spanien oder hier?",
+      "tags": [
+        "preposition with accusative",
+        "future tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 23,
+      "target": "Nie kupię tych witamin, bo mają w składzie dużo cukru.",
+      "de": "Ich kaufe diese Vitamine nicht, weil sie so viel Zucker enthalten.",
+      "tags": [
+        "negation",
+        "nutrition"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 24,
+      "target": "Napisz mi proszę, o której godzinie otwiera się jutro siłownia.",
+      "de": "Schreib mir bitte, um wie viel Uhr das Gym morgen aufmacht.",
+      "tags": [
+        "imperative",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 25,
+      "target": "Miałam trudny dzień i czułam się źle, ale trening bardzo mi pomógł.",
+      "de": "Ich hatte einen harten Tag und hab mich schlecht gefühlt, aber das Training hat echt geholfen.",
+      "tags": [
+        "past tense",
+        "feminine forms",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 26,
+      "target": "Chciałabym wynająć to mieszkanie na czwartym piętrze, bo ma piękny widok.",
+      "de": "Ich würde gerne diese Wohnung im vierten Stock mieten, weil sie eine tolle Aussicht hat.",
+      "tags": [
+        "conditional",
+        "ordinal number",
+        "accusative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 27,
+      "target": "Przepraszam, czy szósty autobus jedzie bezpośrednio na stare miasto?",
+      "de": "Entschuldigung, fährt die Sechs direkt in die Altstadt?",
+      "tags": [
+        "ordinal number",
+        "preposition with accusative",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 28,
+      "target": "Nie martw się, na pewno znajdziesz klucze w swojej torbie.",
+      "de": "Mach dir keine Sorgen, du findest die Schlüssel sicher in deiner Tasche.",
+      "tags": [
+        "negative imperative",
+        "future tense"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 29,
+      "target": "Przez pierwszy tydzień w nowym mieście czułam się trochę zagubiona.",
+      "de": "In der ersten Woche in der neuen Stadt habe ich mich ein bisschen verloren gefühlt.",
+      "tags": [
+        "preposition with accusative",
+        "ordinal number",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 30,
+      "target": "Czy mogłaby Pani powiedzieć mi, gdzie jest najbliższy bankomat?",
+      "de": "Könnten Sie mir sagen, wo der nächste Geldautomat ist?",
+      "tags": [
+        "conditional",
+        "polite request",
+        "dative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 31,
+      "target": "Napisz do mnie, kiedy będziesz miała czas na kawę.",
+      "de": "Schreib mir, wenn du Zeit für einen Kaffee hast.",
+      "tags": [
+        "imperative",
+        "future tense",
+        "preposition with accusative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 32,
+      "target": "W piątek idę do urzędu po moją nową kartę pobytu.",
+      "de": "Am Freitag gehe ich zum Amt für meine neue Aufenthaltskarte.",
+      "tags": [
+        "preposition with accusative",
+        "future context"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 33,
+      "target": "Wolę ten mniejszy pokój, ponieważ jest w nim bardzo cicho.",
+      "de": "Ich mag das kleinere Zimmer lieber, weil es da drin total ruhig ist.",
+      "tags": [
+        "comparison",
+        "reason"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 34,
+      "target": "Wybacz, ale nie mogę teraz rozmawiać, bo właśnie wchodzę na scenę.",
+      "de": "Tut mir leid, ich kann gerade nicht reden, ich gehe nämlich gleich auf die Bühne.",
+      "tags": [
+        "imperative",
+        "preposition with accusative",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 35,
+      "target": "Za dwa tygodnie przeprowadzam się do Malagi i jestem bardzo podekscytowana.",
+      "de": "In zwei Wochen ziehe ich nach Malaga und ich bin schon mega gespannt.",
+      "tags": [
+        "preposition with accusative",
+        "feelings"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 36,
+      "target": "Czy mógłbyś pokazać mi na mapie, gdzie dokładnie jesteśmy?",
+      "de": "Könntest du mir auf der Karte zeigen, wo genau wir gerade sind?",
+      "tags": [
+        "conditional",
+        "question",
+        "dative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 37,
+      "target": "Usiądźcie tutaj i spróbujcie tego lokalnego ciasta, jest pyszne!",
+      "de": "Setzt euch hierhin und probiert mal diesen Kuchen von hier, der ist echt lecker!",
+      "tags": [
+        "imperative plural",
+        "genitive"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 38,
+      "target": "Moja nowa sąsiadka jest bardzo miła i często mi pomaga.",
+      "de": "Meine neue Nachbarin ist total lieb und hilft mir oft.",
+      "tags": [
+        "daily life",
+        "dative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 39,
+      "target": "Kupię ten bilet miesięczny, bo będę dużo jeździć metrem.",
+      "de": "Ich kauf mir das Monatsticket, weil ich viel mit der Metro fahren werde.",
+      "tags": [
+        "future tense",
+        "reason"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 40,
+      "target": "To moja trzecia wiadomość do właściciela i on nadal nie odpisał.",
+      "de": "Das ist jetzt schon meine dritte Nachricht an den Vermieter und er hat immer noch nicht geantwortet.",
+      "tags": [
+        "ordinal number",
+        "past tense",
+        "negation"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 41,
+      "target": "Proszę, weź ten prezent, to małe podziękowanie za Twoją pomoc.",
+      "de": "Hier, nimm das Geschenk, als kleines Dankeschön für deine Hilfe.",
+      "tags": [
+        "imperative",
+        "gratitude",
+        "accusative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 42,
+      "target": "Czy w tej kawiarni mają mleko owsiane do cappuccino?",
+      "de": "Haben die in dem Café Hafermilch für den Cappuccino?",
+      "tags": [
+        "question",
+        "genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 43,
+      "target": "Nie bój się prosić o pomoc, kiedy nie rozumiesz języka.",
+      "de": "Hab keine Angst davor, um Hilfe zu bitten, wenn du die Sprache noch nicht verstehst.",
+      "tags": [
+        "negative imperative",
+        "preposition with accusative",
+        "genitive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 44,
+      "target": "Chciałabym otworzyć konto w tym banku, czy to jest możliwe?",
+      "de": "Ich würde gerne ein Konto bei dieser Bank eröffnen, geht das?",
+      "tags": [
+        "conditional",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 45,
+      "target": "Przez godzinę szukałam tego sklepu, ale w końcu go znalazłam.",
+      "de": "Ich habe eine Stunde lang nach dem Laden gesucht, aber am Ende habe ich ihn gefunden.",
+      "tags": [
+        "preposition with accusative",
+        "past tense"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 46,
+      "target": "Wolałabym zjeść kolację wcześniej, bo wieczorem planuję jeszcze pisać książkę.",
+      "de": "Ich würde lieber früher essen, weil ich abends noch an meinem Buch schreiben will.",
+      "tags": [
+        "conditional",
+        "accusative",
+        "reason"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 47,
+      "target": "Chodź, pokażę ci moją ulubioną trasę na spacer nad morzem.",
+      "de": "Komm mit, ich zeig dir meine Lieblingsstrecke für Spaziergänge am Meer.",
+      "tags": [
+        "imperative",
+        "future tense",
+        "dative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 48,
+      "target": "Pierwszy raz mieszkam sama i uczę się dbać o dom.",
+      "de": "Ich wohne zum ersten Mal alleine und lerne gerade, wie man einen Haushalt führt.",
+      "tags": [
+        "ordinal number",
+        "preposition with accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 49,
+      "target": "Czy mogłabyś pożyczyć mi dziesięć euro? Zapomniałam portfela.",
+      "de": "Könntest du mir zehn Euro leihen? Ich habe meinen Geldbeutel vergessen.",
+      "tags": [
+        "conditional",
+        "question",
+        "genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 50,
+      "target": "Posłuchajcie, mam dla was ważną informację o moim nowym filmie.",
+      "de": "Leute, hört mal kurz zu, ich habe eine wichtige Info zu meinem neuen Video für euch.",
+      "tags": [
+        "imperative plural",
+        "dative",
+        "locative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 51,
+      "target": "Czy mogłaby Pani polecić mi dodatkowe książki do matury?",
+      "de": "Könnten Sie mir bitte zusätzliche Bücher für das Abi empfehlen?",
+      "tags": [
+        "conditional",
+        "polite request",
+        "dative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 52,
+      "target": "Czytam ten trudny rozdział o historii już piąty raz.",
+      "de": "Ich lese dieses schwierige Geschichtskapitel jetzt schon zum fünften Mal.",
+      "tags": [
+        "ordinal numbers",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 53,
+      "target": "Nie płacz przez tę słabą ocenę, na pewno zdasz poprawkę.",
+      "de": "Weine nicht wegen dieser schlechten Note, du bestehst die Nachprüfung sicher.",
+      "tags": [
+        "imperative negative",
+        "preposition with accusative",
+        "future tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 54,
+      "target": "W poniedziałek po lekcjach będę pisać kolejny rozdział książki.",
+      "de": "Am Montag nach der Schule werde ich das nächste Kapitel des Buches schreiben.",
+      "tags": [
+        "future tense",
+        "time expressions"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 55,
+      "target": "Przeprowadzam się do Hiszpanii w pierwszy tydzień lipca.",
+      "de": "Ich ziehe in der ersten Juliwoche nach Spanien.",
+      "tags": [
+        "ordinal numbers",
+        "preposition with accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 56,
+      "target": "Napisz mi proszę, jak rozwiązałaś to trzecie zadanie.",
+      "de": "Schreib mir bitte, wie du diese dritte Aufgabe gelöst hast.",
+      "tags": [
+        "imperative",
+        "ordinal numbers",
+        "past tense"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 57,
+      "target": "Chciałabym mieć już maturę za sobą i po prostu odpocząć.",
+      "de": "Ich möchte das Abi einfach schon hinter mir haben und mich ausruhen.",
+      "tags": [
+        "conditional",
+        "wish"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 58,
+      "target": "Test z angielskiego był o wiele łatwiejszy niż mój egzamin DELE.",
+      "de": "Der Englischtest war viel einfacher als meine DELE-Prüfung.",
+      "tags": [
+        "comparison",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 59,
+      "target": "Posłuchajcie, wasza prezentacja o ekologii jest naprawdę ciekawa.",
+      "de": "Hört mal zu, eure Präsentation über Ökologie ist wirklich interessant.",
+      "tags": [
+        "imperative plural",
+        "preposition with accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 60,
+      "target": "Uczyłam się biologii przez całą godzinę przed sprawdzianem.",
+      "de": "Ich habe vor der Arbeit eine ganze Stunde lang Bio gelernt.",
+      "tags": [
+        "past tense",
+        "preposition with accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 61,
+      "target": "Jakie masz plany na studia po zakończeniu szkoły?",
+      "de": "Was hast du nach der Schule für Pläne fürs Studium?",
+      "tags": [
+        "preposition with accusative",
+        "genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 62,
+      "target": "Czy mógłby Pan dać nam jeszcze tydzień na ten projekt?",
+      "de": "Könnten Sie uns für dieses Projekt noch eine Woche Zeit geben?",
+      "tags": [
+        "conditional",
+        "preposition with accusative",
+        "polite request"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 63,
+      "target": "Bardzo stresowałam się wystąpieniem na scenie. Jednak głęboko odetchnęłam i po pierwszej minucie poczułam się pewniej.",
+      "de": "Ich war wegen des Auftritts auf der Bühne total nervös. Aber ich habe tief durchgeatmet und nach der ersten Minute wurde ich sicherer.",
+      "tags": [
+        "story",
+        "past tense",
+        "ordinal numbers",
+        "comparison"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 64,
+      "target": "Nie denerwuj się egzaminem ustnym, na pewno wypadniesz świetnie.",
+      "de": "Mach dich wegen der mündlichen Prüfung nicht verrückt, du wirst sicher super abschneiden.",
+      "tags": [
+        "imperative negative",
+        "future tense"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 65,
+      "target": "Przykro mi, ale w piątek muszę uczyć się fizyki.",
+      "de": "Tut mir leid, aber am Freitag muss ich Physik lernen.",
+      "tags": [
+        "preposition with accusative",
+        "genitive"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 66,
+      "target": "To był mój dziesiąty punkt w dzisiejszym quizie.",
+      "de": "Das war mein zehnter Punkt im heutigen Quiz.",
+      "tags": [
+        "ordinal numbers",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 67,
+      "target": "Zobacz na te wyniki, nasza ciężka praca miała sens!",
+      "de": "Schau dir diese Ergebnisse an, unsere harte Arbeit hat sich gelohnt!",
+      "tags": [
+        "imperative",
+        "preposition with accusative",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 68,
+      "target": "Wolałabyś uczyć się sama czy pójść do biblioteki?",
+      "de": "Würdest du lieber alleine lernen oder in die Bibliothek gehen?",
+      "tags": [
+        "conditional",
+        "preference"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 69,
+      "target": "Chciałabym zapytać o tę konkretną książkę do prezentacji.",
+      "de": "Ich würde gerne nach diesem speziellen Buch für die Präsentation fragen.",
+      "tags": [
+        "conditional",
+        "preposition with accusative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 70,
+      "target": "Matematyka zawsze sprawiała mi trudność, ale teraz ją rozumiem.",
+      "de": "Mathe hat mir immer Schwierigkeiten bereitet, aber jetzt verstehe ich es.",
+      "tags": [
+        "past tense",
+        "dative",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 71,
+      "target": "Weź mój drugi długopis, bo twój już chyba nie pisze.",
+      "de": "Nimm meinen Zweitstift, weil deiner wohl nicht mehr schreibt.",
+      "tags": [
+        "imperative",
+        "ordinal numbers"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 72,
+      "target": "Pokazałam nauczycielowi mój kanał na YouTube. Był bardzo zdziwiony, ale pochwalił mój styl i odwagę.",
+      "de": "Ich habe dem Lehrer meinen YouTube-Kanal gezeigt. Er war total überrascht, hat aber meinen Stil und Mut gelobt.",
+      "tags": [
+        "story",
+        "past tense",
+        "dative"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 73,
+      "target": "Za tydzień mamy próbny egzamin z języka polskiego.",
+      "de": "In einer Woche haben wir die Probe-Prüfung in Polnisch.",
+      "tags": [
+        "preposition with accusative",
+        "future planning"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 74,
+      "target": "Chodź ze mną na kawę po tej wyjątkowo długiej lekcji.",
+      "de": "Komm mit mir auf einen Kaffee nach dieser extrem langen Stunde.",
+      "tags": [
+        "imperative",
+        "preposition with accusative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 75,
+      "target": "Jutro o dziesiątej rano będę mówić na scenie o wdzięczności.",
+      "de": "Morgen um zehn Uhr morgens werde ich auf der Bühne über Dankbarkeit sprechen.",
+      "tags": [
+        "ordinal numbers",
+        "future tense",
+        "preposition with accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 76,
+      "target": "Nie pisz do mnie przez tydzień, bo potrzebuję spokoju.",
+      "de": "Schreib mir bitte eine Woche lang nicht, ich brauche Ruhe.",
+      "tags": [
+        "imperative",
+        "preposition + accusative",
+        "negation"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 77,
+      "target": "Czy mogłabyś zachować to dla siebie? Bardzo ci ufam.",
+      "de": "Könntest du das für dich behalten? Ich vertraue dir sehr.",
+      "tags": [
+        "conditional",
+        "dative",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 78,
+      "target": "To już drugi raz, kiedy ona mnie dzisiaj okłamuje.",
+      "de": "Das ist jetzt schon das zweite Mal, dass sie mich heute anlügt.",
+      "tags": [
+        "ordinal numbers",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 79,
+      "target": "Nie płacz przez niego, on nie zasługuje na ciebie.",
+      "de": "Wein nicht wegen ihm, er verdient dich nicht.",
+      "tags": [
+        "imperative",
+        "preposition + accusative",
+        "negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 80,
+      "target": "Wolałabym dzisiaj zostać w domu i poczytać moją książkę.",
+      "de": "Ich würde heute lieber zu Hause bleiben und mein Buch lesen.",
+      "tags": [
+        "conditional",
+        "feminine form"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 81,
+      "target": "Dziękuję za zaproszenie, ale wolałabym nie iść na kawę.",
+      "de": "Danke für die Einladung, aber ich würde lieber nicht zum Kaffeetrinken gehen.",
+      "tags": [
+        "conditional",
+        "preposition + accusative",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 82,
+      "target": "Zawsze myślałam, że jesteśmy przyjaciółkami, ale ona mnie wykorzystuje.",
+      "de": "Ich dachte immer, wir wären Freundinnen, aber sie nutzt mich nur aus.",
+      "tags": [
+        "past tense",
+        "present tense",
+        "instrumental"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 83,
+      "target": "Jak myślisz, czy to szczera przyjaźń, czy tylko manipulacja?",
+      "de": "Was glaubst du, ist das eine echte Freundschaft oder nur Manipulation?",
+      "tags": [
+        "opinion",
+        "present tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 84,
+      "target": "Mamo, proszę, nie wchodź do mojego pokoju bez pukania.",
+      "de": "Mama, bitte komm nicht ohne Klopfen in mein Zimmer.",
+      "tags": [
+        "imperative",
+        "negation",
+        "genitive"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 85,
+      "target": "Nasza piąta rozmowa była ważna, bo w końcu szczerze pogadaliśmy.",
+      "de": "Unser fünftes Gespräch war wichtig, weil wir endlich mal ehrlich geredet haben.",
+      "tags": [
+        "ordinal numbers",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 86,
+      "target": "Czy mogłaby Pani mi doradzić, jak rozmawiać z mamą?",
+      "de": "Könnten Sie mir raten, wie ich mit meiner Mutter reden soll?",
+      "tags": [
+        "conditional",
+        "polite address"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 87,
+      "target": "Czekam na prawdziwą przyjaciółkę, która zrozumie moją nową pasję.",
+      "de": "Ich warte auf eine echte Freundin, die meine neue Leidenschaft versteht.",
+      "tags": [
+        "preposition + accusative",
+        "future tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 88,
+      "target": "Usiądź obok mnie i powiedz, co dokładnie się stało.",
+      "de": "Setz dich zu mir und sag mir, was genau passiert ist.",
+      "tags": [
+        "imperative",
+        "past tense"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 89,
+      "target": "Kiedy stoję na scenie, czuję silną więź z widzami.",
+      "de": "Wenn ich auf der Bühne stehe, spüre ich eine starke Verbindung zum Publikum.",
+      "tags": [
+        "present tense",
+        "instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 90,
+      "target": "Za tydzień jadę do Hiszpanii poznać nowych ludzi.",
+      "de": "In einer Woche fahre ich nach Spanien, um neue Leute kennenzulernen.",
+      "tags": [
+        "preposition + accusative",
+        "genitive plural"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 91,
+      "target": "To już dziesiąty raz, kiedy on nie dotrzymuje słowa.",
+      "de": "Das ist jetzt schon das zehnte Mal, dass er sein Wort nicht hält.",
+      "tags": [
+        "ordinal numbers",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 92,
+      "target": "Zaufaj mi, ten człowiek nie ma na ciebie dobrego wpływu.",
+      "de": "Vertrau mir, dieser Mensch hat keinen guten Einfluss auf dich.",
+      "tags": [
+        "imperative",
+        "dative",
+        "genitive"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 93,
+      "target": "On mówi miłe rzeczy, a potem prosi o pieniądze.",
+      "de": "Er sagt nette Dinge und fragt dann nach Geld.",
+      "tags": [
+        "present tense",
+        "preposition + accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 94,
+      "target": "Mogłabyś mi doradzić, jak mówić „nie” bez poczucia winy?",
+      "de": "Könntest du mir raten, wie ich „Nein“ sage, ohne ein schlechtes Gewissen?",
+      "tags": [
+        "conditional",
+        "dative",
+        "genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 95,
+      "target": "Nie martw się, prawdziwi przyjaciele zawsze zostają przy tobie.",
+      "de": "Mach dir keine Sorgen, wahre Freunde bleiben immer an deiner Seite.",
+      "tags": [
+        "imperative",
+        "negation",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 96,
+      "target": "Dziękuję za troskę, ale nie chcę rozmawiać o problemach.",
+      "de": "Danke für die Fürsorge, aber ich will nicht über Probleme reden.",
+      "tags": [
+        "preposition + accusative",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 97,
+      "target": "Chodźcie, zrobimy sobie wspólne zdjęcie na pamiątkę tej przyjaźni.",
+      "de": "Kommt, wir machen ein gemeinsames Foto als Erinnerung an diese Freundschaft.",
+      "tags": [
+        "imperative plural",
+        "future tense"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 98,
+      "target": "Uważam, że szczerość jest najważniejsza w każdej dobrej relacji.",
+      "de": "Ich finde, dass Ehrlichkeit das Wichtigste in jeder guten Beziehung ist.",
+      "tags": [
+        "opinion",
+        "superlative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 99,
+      "target": "To mój pierwszy film o tym, jak budować relacje.",
+      "de": "Das ist mein erstes Video darüber, wie man Beziehungen aufbaut.",
+      "tags": [
+        "ordinal numbers",
+        "preposition + locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 100,
+      "target": "Będę zawsze wdzięczna za twoje wsparcie w trudnym czasie.",
+      "de": "Ich werde für deine Unterstützung in der schweren Zeit immer dankbar sein.",
+      "tags": [
+        "future tense",
+        "feminine form",
+        "preposition + accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 101,
+      "target": "Posłuchaj tej piosenki, jest idealna na deszczowe popołudnie.",
+      "de": "Hör dir mal dieses Lied an, das ist perfekt für einen regnerischen Nachmittag.",
+      "tags": [
+        "imperative",
+        "preposition with accusative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 102,
+      "target": "Chciałabym dużą kawę z mlekiem owsianym, poproszę.",
+      "de": "Ich hätte gerne einen großen Kaffee mit Hafermilch, bitte.",
+      "tags": [
+        "conditional",
+        "accusative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 103,
+      "target": "To już trzeci raz dzisiaj, kiedy patrzę na deszcz przez okno.",
+      "de": "Das ist heute schon das dritte Mal, dass ich durch das Fenster dem Regen zuschaue.",
+      "tags": [
+        "ordinal numbers",
+        "preposition with accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 104,
+      "target": "Nie martw się, za godzinę na pewno wyjdzie słońce.",
+      "de": "Mach dir keine Sorgen, in einer Stunde kommt bestimmt die Sonne raus.",
+      "tags": [
+        "imperative",
+        "negation",
+        "preposition with accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 105,
+      "target": "Mogłabyś podać mi tę książkę? Chcę chwilę poczytać.",
+      "de": "Könntest du mir das Buch da geben? Ich möchte kurz lesen.",
+      "tags": [
+        "conditional",
+        "accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 106,
+      "target": "Poszłam na spacer tylko dlatego, że miałam wolną godzinę.",
+      "de": "Ich bin nur spazieren gegangen, weil ich eine freie Stunde hatte.",
+      "tags": [
+        "past tense",
+        "preposition with accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 107,
+      "target": "Moje pierwsze lody tej wiosny smakują niesamowicie.",
+      "de": "Mein erstes Eis in diesem Frühling schmeckt unglaublich gut.",
+      "tags": [
+        "ordinal numbers",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 108,
+      "target": "Uwielbiam grać w gry planszowe z przyjaciółmi w sobotnie wieczory.",
+      "de": "Ich liebe es, an Samstagabenden mit Freunden Brettspiele zu spielen.",
+      "tags": [
+        "preposition with accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 109,
+      "target": "Chodźcie, pójdziemy popływać, póki jeszcze jest ciepło.",
+      "de": "Kommt, wir gehen eine Runde schwimmen, solange es noch warm ist.",
+      "tags": [
+        "imperative",
+        "future tense"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 110,
+      "target": "Czy mogłybyśmy usiąść na piątym piętrze? Tam jest cichy taras.",
+      "de": "Könnten wir uns im fünften Stock hinsetzen? Da gibt es eine ruhige Terrasse.",
+      "tags": [
+        "conditional",
+        "ordinal numbers"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 111,
+      "target": "Dzisiaj wstałam wcześnie i zrobiłam pyszną herbatę. Poczułam dużą wdzięczność za ten spokojny poranek.",
+      "de": "Ich bin heute früh aufgewacht und habe mir einen leckeren Tee gemacht. Ich war so dankbar für diesen ruhigen Morgen.",
+      "tags": [
+        "past tense",
+        "preposition with accusative"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 112,
+      "target": "Byłoby super pójść razem do kina w piątek.",
+      "de": "Es wäre super, am Freitag zusammen ins Kino zu gehen.",
+      "tags": [
+        "conditional",
+        "preposition with accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 113,
+      "target": "Weź kawałek tego ciasta, sama je wczoraj upiekłam.",
+      "de": "Nimm dir ein Stück von diesem Kuchen, ich habe ihn gestern selbst gebacken.",
+      "tags": [
+        "imperative",
+        "past tense"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 114,
+      "target": "Czy lubisz dźwięk deszczu o szyby, kiedy czytasz książkę?",
+      "de": "Magst du das Geräusch von Regen an den Scheiben, wenn du ein Buch liest?",
+      "tags": [
+        "preposition with accusative",
+        "genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 115,
+      "target": "W sumie wolałabym dzisiaj nie rozmawiać o pracy, tylko posłuchać muzyki.",
+      "de": "Eigentlich würde ich heute lieber nicht über die Arbeit reden, sondern nur Musik hören.",
+      "tags": [
+        "conditional",
+        "negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 116,
+      "target": "Idę do parku na godzinę przewietrzyć głowę.",
+      "de": "Ich gehe für eine Stunde in den Park, um den Kopf frei zu bekommen.",
+      "tags": [
+        "preposition with accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 117,
+      "target": "To już drugi tydzień mojej nowej porannej rutyny.",
+      "de": "Das ist schon die zweite Woche meiner neuen Morgenroutine.",
+      "tags": [
+        "ordinal numbers",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 118,
+      "target": "Czy mogłabyś do mnie zadzwonić, kiedy będziesz w domu?",
+      "de": "Könntest du mich anrufen, wenn du zu Hause bist?",
+      "tags": [
+        "conditional",
+        "future tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 119,
+      "target": "Lubię jesień, bo wieczory są idealne na pisanie.",
+      "de": "Ich mag den Herbst, weil die Abende perfekt zum Schreiben sind.",
+      "tags": [
+        "preposition with accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 120,
+      "target": "Czy mógłby Pan mi powiedzieć, gdzie jest najbliższy park?",
+      "de": "Könnten Sie mir sagen, wo der nächste Park ist?",
+      "tags": [
+        "conditional",
+        "dative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 121,
+      "target": "Czytam właśnie dziesiątą stronę mojej nowej książki i bardzo mi się podoba.",
+      "de": "Ich lese gerade die zehnte Seite meines neuen Buchs und es gefällt mir sehr.",
+      "tags": [
+        "ordinal numbers",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 122,
+      "target": "Dlaczego boisz się tego wyzwania? Przecież jesteś bardzo utalentowana.",
+      "de": "Warum hast du Angst vor dieser Herausforderung? Du bist doch sehr talentiert.",
+      "tags": [
+        "negation",
+        "genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 123,
+      "target": "Ta kawa na słońcu smakuje o wiele lepiej niż wczorajsza.",
+      "de": "Dieser Kaffee in der Sonne schmeckt viel besser als der gestrige.",
+      "tags": [
+        "comparison",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 124,
+      "target": "Widzę się z przyjaciółką o pierwszej, więc muszę już iść.",
+      "de": "Ich treffe mich um eins mit einer Freundin, also muss ich jetzt los.",
+      "tags": [
+        "ordinal numbers",
+        "reflexive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 125,
+      "target": "Kupiłam te kwiaty dla siebie po moim pierwszym sukcesie na scenie.",
+      "de": "Ich habe mir diese Blumen nach meinem ersten Erfolg auf der Bühne gekauft.",
+      "tags": [
+        "past tense",
+        "ordinal numbers"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 126,
+      "target": "Zobacz, ile już osiągnęłam przez ten ostatni rok.",
+      "de": "Schau mal, wie viel ich im letzten Jahr schon erreicht habe.",
+      "tags": [
+        "imperative",
+        "preposition-with-accusative",
+        "past-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 127,
+      "target": "Czy chciałbyś przeczytać pierwszy rozdział mojej nowej książki?",
+      "de": "Würdest du gerne das erste Kapitel meines neuen Buches lesen?",
+      "tags": [
+        "conditional",
+        "ordinal-numbers"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 128,
+      "target": "To drugi raz, kiedy czuję się naprawdę wolna.",
+      "de": "Das ist das zweite Mal, dass ich mich so richtig frei fühle.",
+      "tags": [
+        "ordinal-numbers",
+        "present-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 129,
+      "target": "Idę na krótki spacer przez park i myślę o marzeniach.",
+      "de": "Ich mache einen kurzen Spaziergang durch den Park und hänge meinen Träumen nach.",
+      "tags": [
+        "preposition-with-accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 130,
+      "target": "Nie bój się zmian, w Hiszpanii na pewno sobie poradzisz.",
+      "de": "Hab keine Angst vor Veränderungen, in Spanien kommst du sicher klar.",
+      "tags": [
+        "imperative-negative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 131,
+      "target": "Chciałabym podziękować ci za twoją pomoc przy tym filmie.",
+      "de": "Ich würde dir gerne für deine Hilfe bei diesem Video danken.",
+      "tags": [
+        "conditional",
+        "preposition-with-accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 132,
+      "target": "Mój piąty dzień bez treningu też jest bardzo ważny.",
+      "de": "Mein fünfter Tag ohne Training ist auch total wichtig.",
+      "tags": [
+        "ordinal-numbers"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 133,
+      "target": "Za tydzień będę w Hiszpanii i zacznę nowe życie.",
+      "de": "In einer Woche bin ich in Spanien und fange ein neues Leben an.",
+      "tags": [
+        "preposition-with-accusative",
+        "future-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 134,
+      "target": "Posłuchajcie, to jest moje największe marzenie i teraz je realizuję.",
+      "de": "Hört mal zu, das ist mein größter Traum und ich verwirkliche ihn gerade.",
+      "tags": [
+        "imperative-plural"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 135,
+      "target": "Jesteś dumna z mojego małego sukcesu w Hiszpanii?",
+      "de": "Bist du stolz auf meinen kleinen Erfolg in Spanien?",
+      "tags": [
+        "adjectives",
+        "genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 136,
+      "target": "Wolę szczere rozmowy, bo one budują prawdziwe relacje.",
+      "de": "Ich mag ehrliche Gespräche lieber, weil sie echte Beziehungen aufbauen.",
+      "tags": [
+        "comparison",
+        "present-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 137,
+      "target": "Na trzecim piętrze jest sala, gdzie będę dzisiaj przemawiać.",
+      "de": "Im dritten Stock ist der Saal, in dem ich heute sprechen werde.",
+      "tags": [
+        "ordinal-numbers",
+        "future-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 138,
+      "target": "Proszę, nie dzwoń do mnie teraz, bo nagrywam nowy film.",
+      "de": "Bitte ruf mich gerade nicht an, ich nehme ein neues Video auf.",
+      "tags": [
+        "imperative-negative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 139,
+      "target": "Wczoraj poczułam ogromną wdzięczność za moich wszystkich wiernych przyjaciół.",
+      "de": "Gestern habe ich eine riesige Dankbarkeit für all meine treuen Freunde gespürt.",
+      "tags": [
+        "past-tense",
+        "preposition-with-accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 140,
+      "target": "Mogłabyś przesłać mi te zdjęcia z dzisiejszego treningu?",
+      "de": "Könntest du mir die Fotos vom heutigen Training schicken?",
+      "tags": [
+        "conditional",
+        "dative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 141,
+      "target": "Daj mi chwilę, muszę spokojnie przemyśleć twoją propozycję.",
+      "de": "Gib mir einen Moment, ich muss in Ruhe über deinen Vorschlag nachdenken.",
+      "tags": [
+        "imperative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 142,
+      "target": "W piątek idę na kawę z nową koleżanką z Malagi.",
+      "de": "Am Freitag gehe ich mit einer neuen Freundin aus Malaga einen Kaffee trinken.",
+      "tags": [
+        "preposition-with-accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 143,
+      "target": "Kiedyś byłam bardzo nieśmiała. Dzisiaj stałam na scenie i mówiłam przez dziesięć minut. Jestem z siebie naprawdę dumna.",
+      "de": "Früher war ich sehr schüchtern. Heute stand ich auf der Bühne und habe zehn Minuten lang gesprochen. Ich bin echt stolz auf mich.",
+      "tags": [
+        "story",
+        "past-tense",
+        "preposition-with-accusative"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 144,
+      "target": "Weź głęboki oddech i popatrz na ocean, jest piękny.",
+      "de": "Atme tief durch und schau dir das Meer an, es ist wunderschön.",
+      "tags": [
+        "imperative",
+        "preposition-with-accusative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 145,
+      "target": "Hiszpański jest wspaniały, bo brzmi bardzo pozytywnie i wesoło.",
+      "de": "Spanisch ist toll, weil es so positiv und fröhlich klingt.",
+      "tags": [
+        "opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 146,
+      "target": "Jestem wdzięczna rodzicom za ich wsparcie przy mojej przeprowadzce.",
+      "de": "Ich bin meinen Eltern dankbar für ihre Unterstützung bei meinem Umzug.",
+      "tags": [
+        "dative",
+        "preposition-with-accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 147,
+      "target": "Czy mógłby Pan pokazać mi drogę do tego dużego parku?",
+      "de": "Könnten Sie mir bitte den Weg zu diesem großen Park zeigen?",
+      "tags": [
+        "conditional",
+        "polite-form"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 148,
+      "target": "Nie zrobię tego, bo nie czuję się wolna w tej sytuacji.",
+      "de": "Ich mache das nicht, weil ich mich in dieser Situation nicht frei fühle.",
+      "tags": [
+        "negation",
+        "future-tense"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 149,
+      "target": "Dziś pierwszy raz czytam moje teksty na głos.",
+      "de": "Heute lese ich zum ersten Mal meine Texte laut vor.",
+      "tags": [
+        "ordinal-numbers"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 150,
+      "target": "Za co czujesz dzisiaj największą i najszczerszą wdzięczność?",
+      "de": "Wofür empfindest du heute die größte und ehrlichste Dankbarkeit?",
+      "tags": [
+        "preposition-with-accusative",
+        "superlative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 151,
+      "target": "Mam dzisiaj piątą sesję z moją psycholożką.",
+      "de": "Ich habe heute meine fünfte Sitzung bei meiner Psychologin.",
+      "tags": [
+        "ordinal numbers",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 152,
+      "target": "Nie dzwoń do mnie po dziewiątej wieczorem, bo wtedy odpoczywam.",
+      "de": "Ruf mich nicht nach neun Uhr abends an, weil ich mich da ausruhe.",
+      "tags": [
+        "imperative",
+        "negation"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 153,
+      "target": "Przez godzinę czułam się gorzej, ale teraz jest już lepiej.",
+      "de": "Eine Stunde lang ging es mir schlechter, aber jetzt ist es schon besser.",
+      "tags": [
+        "prepositions with accusative",
+        "comparison",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 154,
+      "target": "Zobacz, jak bardzo zmieniłaś się w ciągu ostatnich miesięcy.",
+      "de": "Schau mal, wie sehr du dich in den letzten Monaten verändert hast.",
+      "tags": [
+        "imperative",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 155,
+      "target": "Czy mogłabyś pomóc mi nazwać te wszystkie trudne emocje?",
+      "de": "Könntest du mir helfen, all diese schwierigen Emotionen zu benennen?",
+      "tags": [
+        "conditional",
+        "dative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 156,
+      "target": "Jestem wdzięczna za pierwszy słoneczny dzień w moim nowym domu.",
+      "de": "Ich bin dankbar für den ersten sonnigen Tag in meinem neuen Zuhause.",
+      "tags": [
+        "ordinal numbers",
+        "adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 157,
+      "target": "Wybieram terapię, ponieważ chcę lepiej rozumieć swoje własne potrzeby.",
+      "de": "Ich entscheide mich für Therapie, weil ich meine eigenen Bedürfnisse besser verstehen will.",
+      "tags": [
+        "opinion",
+        "comparison"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 158,
+      "target": "Byłam smutna, więc poszłam na spacer przez miasto. Po godzinie poczułam się spokojniejsza i wróciłam do pisania.",
+      "de": "Ich war traurig, also bin ich durch die Stadt spazieren gegangen. Nach einer Stunde fühlte ich mich ruhiger und habe weitergeschrieben.",
+      "tags": [
+        "story",
+        "past tense",
+        "prepositions with accusative"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 159,
+      "target": "Czy to już twój trzeci dzień z gorszym humorem?",
+      "de": "Ist das schon dein dritter Tag mit schlechterer Laune?",
+      "tags": [
+        "ordinal numbers",
+        "comparison"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 160,
+      "target": "Chciałabym przełożyć naszą rozmowę na następny piątek.",
+      "de": "Ich würde unser Gespräch gerne auf nächsten Freitag verschieben.",
+      "tags": [
+        "conditional",
+        "prepositions with accusative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 161,
+      "target": "Nie mogę teraz rozmawiać, bo potrzebuję chwili tylko dla siebie.",
+      "de": "Ich kann gerade nicht reden, weil ich einen Moment nur für mich brauche.",
+      "tags": [
+        "negation",
+        "genitive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 162,
+      "target": "Idę na trening na godzinę i dzięki temu czuję się lepiej.",
+      "de": "Ich gehe für eine Stunde zum Training und dadurch fühle ich mich besser.",
+      "tags": [
+        "prepositions with accusative",
+        "comparison"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 163,
+      "target": "Nie bój się swoich łez, płacz czasem po prostu pomaga.",
+      "de": "Hab keine Angst vor deinen Tränen, Weinen hilft manchmal einfach.",
+      "tags": [
+        "imperative",
+        "negation",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 164,
+      "target": "Przed wejściem na scenę biorę pięć głębokich oddechów i myślę o wdzięczności.",
+      "de": "Bevor ich auf die Bühne gehe, nehme ich fünf tiefe Atemzüge und denke an Dankbarkeit.",
+      "tags": [
+        "prepositions with accusative",
+        "numbers"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 165,
+      "target": "Powiedz mi szczerze, co teraz czujesz, bo chcę cię zrozumieć.",
+      "de": "Sag mir ehrlich, was du gerade fühlst, weil ich dich verstehen will.",
+      "tags": [
+        "imperative",
+        "dative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 166,
+      "target": "To pierwszy raz, kiedy stawiam taką wyraźną granicę.",
+      "de": "Das ist das erste Mal, dass ich so eine klare Grenze ziehe.",
+      "tags": [
+        "ordinal numbers",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 167,
+      "target": "Czy mogłybyśmy po prostu posiedzieć chwilę w ciszy?",
+      "de": "Könnten wir einfach einen Moment in der Stille sitzen?",
+      "tags": [
+        "conditional",
+        "plural"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 168,
+      "target": "Nie lubię, kiedy ludzie ignorują moje uczucia, bo to boli.",
+      "de": "Ich mag es nicht, wenn Leute meine Gefühle ignorieren, weil das wehtut.",
+      "tags": [
+        "negation",
+        "opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 169,
+      "target": "Napisz proszę trzy rzeczy, które w sobie naprawdę lubisz.",
+      "de": "Schreib bitte drei Dinge auf, die du an dir wirklich magst.",
+      "tags": [
+        "imperative",
+        "numbers"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 170,
+      "target": "Ostatni rok był dla mnie trudny. Jednak dzięki terapii widzę teraz świat w jaśniejszych barwach.",
+      "de": "Das letzte Jahr war hart für mich. Aber dank der Therapie sehe ich die Welt jetzt in helleren Farben.",
+      "tags": [
+        "story",
+        "past tense",
+        "comparison"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 171,
+      "target": "Na drugiej stronie mojego dziennika opisałam wszystkie swoje lęki.",
+      "de": "Auf der zweiten Seite meines Tagebuchs habe ich all meine Ängste beschrieben.",
+      "tags": [
+        "ordinal numbers",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 172,
+      "target": "Zadbaj o siebie dzisiaj i nie rób nic na siłę.",
+      "de": "Pass heute gut auf dich auf und zwing dich zu nichts.",
+      "tags": [
+        "imperative",
+        "negation"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 173,
+      "target": "Jak się czujesz po godzinie medytacji?",
+      "de": "Wie fühlst du dich nach einer Stunde Meditation?",
+      "tags": [
+        "prepositions with accusative",
+        "genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 174,
+      "target": "Czy mógłby Pan przesłać mi link do naszej sesji online?",
+      "de": "Könnten Sie mir den Link zu unserer Online-Sitzung schicken?",
+      "tags": [
+        "conditional",
+        "polite form"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 175,
+      "target": "Zdrowienie trwa, ale za tydzień na pewno poczuję się silniejsza.",
+      "de": "Das Gesundwerden dauert, aber in einer Woche werde ich mich sicher stärker fühlen.",
+      "tags": [
+        "prepositions with accusative",
+        "future tense",
+        "comparison"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 176,
+      "target": "Sprawdź proszę ten mikrofon jeszcze raz przed moim wystąpieniem.",
+      "de": "Prüf bitte das Mikro nochmal vor meinem Auftritt.",
+      "tags": [
+        "imperative",
+        "preposition with instrumental"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 177,
+      "target": "Chciałabym zapytać o wolny termin na mój wykład w październiku.",
+      "de": "Ich würde gerne nach einem freien Termin für meinen Vortrag im Oktober fragen.",
+      "tags": [
+        "conditional",
+        "preposition with accusative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 178,
+      "target": "Dzisiaj pierwszy raz nagrywam cały film po hiszpańsku.",
+      "de": "Heute nehme ich zum ersten Mal ein ganzes Video auf Spanisch auf.",
+      "tags": [
+        "ordinal number",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 179,
+      "target": "Idę na próbę tylko na godzinę, bo muszę jeszcze odpocząć.",
+      "de": "Ich gehe nur für eine Stunde zur Probe, weil ich mich noch ausruhen muss.",
+      "tags": [
+        "preposition with accusative",
+        "reason"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 180,
+      "target": "Bardzo lubię tę scenę, bo światło jest tutaj idealne.",
+      "de": "Ich mag diese Bühne sehr, weil das Licht hier ideal ist.",
+      "tags": [
+        "opinion",
+        "reason"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 181,
+      "target": "Nie patrz na telefon przed wejściem na scenę, skup się.",
+      "de": "Schau nicht aufs Handy, bevor du auf die Bühne gehst, konzentrier dich.",
+      "tags": [
+        "negative imperative",
+        "imperative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 182,
+      "target": "Czy mógłby Pan przynieść mi szklankę wody przed prezentacją?",
+      "de": "Könnten Sie mir bitte vor der Präsentation ein Glas Wasser bringen?",
+      "tags": [
+        "conditional",
+        "polite request"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 183,
+      "target": "Ćwiczę to przemówienie już trzeci raz i ciągle zapominam końca.",
+      "de": "Ich übe diese Rede schon zum dritten Mal und vergesse ständig das Ende.",
+      "tags": [
+        "ordinal number",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 184,
+      "target": "Dostałam wczoraj pierwszą opinię o mojej książce i byłam wzruszona.",
+      "de": "Ich habe gestern die erste Rezension zu meinem Buch bekommen und war total gerührt.",
+      "tags": [
+        "past tense",
+        "ordinal number",
+        "feminine form"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 185,
+      "target": "Wyjdź na środek i po prostu opowiedz swoją historię.",
+      "de": "Geh in die Mitte und erzähl einfach deine Geschichte.",
+      "tags": [
+        "imperative",
+        "preposition with accusative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 186,
+      "target": "Za tydzień będę mówić o moich planach na przeprowadzkę.",
+      "de": "In einer Woche werde ich über meine Umzugspläne sprechen.",
+      "tags": [
+        "future tense",
+        "preposition with accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 187,
+      "target": "Ile osób będzie dzisiaj na widowni podczas mojego występu?",
+      "de": "Wie viele Leute werden heute bei meinem Auftritt im Publikum sein?",
+      "tags": [
+        "future tense",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 188,
+      "target": "Przykro mi, ale nie udzielam wywiadów przez najbliższy tydzień.",
+      "de": "Tut mir leid, aber ich gebe in der nächsten Woche keine Interviews.",
+      "tags": [
+        "negation",
+        "preposition with accusative"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 189,
+      "target": "Twój drugi film jest lepszy, bo mówisz o wiele wolniej.",
+      "de": "Dein zweites Video ist besser, weil du viel langsamer sprichst.",
+      "tags": [
+        "ordinal number",
+        "comparison",
+        "reason"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 190,
+      "target": "Czy mogłabyś trochę przyciemnić światło na scenie?",
+      "de": "Könntest du das Licht auf der Bühne etwas dimmen?",
+      "tags": [
+        "conditional",
+        "request"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 191,
+      "target": "Posłuchajcie teraz uważnie, bo ta część historii jest kluczowa.",
+      "de": "Hört jetzt gut zu, denn dieser Teil der Geschichte ist entscheidend.",
+      "tags": [
+        "imperative plural",
+        "reason"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 192,
+      "target": "To moja dziesiąta próba przed kamerą i czuję się pewniej.",
+      "de": "Das ist mein zehnter Versuch vor der Kamera und ich fühle mich sicherer.",
+      "tags": [
+        "ordinal number",
+        "comparison"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 193,
+      "target": "Zapraszam was na moją krótką prezentację w najbliższy piątek.",
+      "de": "Ich lade euch nächsten Freitag zu meiner kurzen Präsentation ein.",
+      "tags": [
+        "preposition with accusative",
+        "future reference"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 194,
+      "target": "Wolałabym użyć innego mikrofonu, bo ten bardzo szumi.",
+      "de": "Ich würde lieber ein anderes Mikro benutzen, weil dieses hier stark rauscht.",
+      "tags": [
+        "conditional",
+        "reason"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 195,
+      "target": "Nie przejmuj się błędami, publiczność ich nawet nie zauważy.",
+      "de": "Mach dir nichts aus Fehlern, das Publikum wird sie gar nicht bemerken.",
+      "tags": [
+        "negative imperative",
+        "future tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 196,
+      "target": "Moja prezentacja zaczyna się o piątej, więc bądźcie punktualnie.",
+      "de": "Meine Präsentation beginnt um fünf, also seid bitte pünktlich.",
+      "tags": [
+        "ordinal number",
+        "imperative plural"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 197,
+      "target": "Po występie podeszła do mnie dziewczyna i podziękowała za odwagę.",
+      "de": "Nach dem Auftritt kam ein Mädchen zu mir und hat sich für den Mut bedankt.",
+      "tags": [
+        "past tense",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 198,
+      "target": "Przez godzinę szukałam moich notatek na ten dzisiejszy wieczór.",
+      "de": "Ich habe eine Stunde lang meine Notizen für den heutigen Abend gesucht.",
+      "tags": [
+        "preposition with accusative",
+        "past tense",
+        "feminine form"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 199,
+      "target": "Mogłabyś przeczytać ten tekst i powiedzieć, co o nim sądzisz?",
+      "de": "Könntest du diesen Text lesen und mir sagen, was du davon hältst?",
+      "tags": [
+        "conditional",
+        "request"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 200,
+      "target": "Uwielbiam nagrywać filmy, ponieważ dzięki temu poznaję niesamowitych ludzi.",
+      "de": "Ich liebe es, Videos aufzunehmen, weil ich dadurch tolle Leute kennenlerne.",
+      "tags": [
+        "opinion",
+        "reason"
+      ],
+      "kind": "statement"
+    }
+  ]
+}

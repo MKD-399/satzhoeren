@@ -1,0 +1,2221 @@
+{
+  "id": "pl-a2-1",
+  "lang": "pl",
+  "langLabel": "Polnisch",
+  "level": "A2",
+  "part": 1,
+  "title": "Polnisch A2 · Teil 1",
+  "sentences": [
+    {
+      "n": 1,
+      "target": "Napisałam dzisiaj list do siebie o moich emocjach.",
+      "de": "Ich habe heute einen Brief an mich selbst über meine Gefühle geschrieben.",
+      "tags": [
+        "Past tense",
+        "Perfective",
+        "Accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 2,
+      "target": "Czułam się trochę smutna, ale teraz jest już lepiej.",
+      "de": "Ich habe mich etwas traurig gefühlt, aber jetzt geht es schon besser.",
+      "tags": [
+        "Past tense",
+        "Imperfective",
+        "Adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 3,
+      "target": "Czy miałeś wczoraj dobrą sesję z terapeutą?",
+      "de": "Hattest du gestern eine gute Therapiestunde?",
+      "tags": [
+        "Past tense",
+        "Question",
+        "Instrumental"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 4,
+      "target": "Może Pan sprawdzić napisy do mojego nowego filmu?",
+      "de": "Könnten Sie bitte die Untertitel für mein neues Video prüfen?",
+      "tags": [
+        "Modal",
+        "Request",
+        "Pan"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 5,
+      "target": "Moi koledzy chcieli porozmawiać ze mną o swoich problemach.",
+      "de": "Meine Freunde wollten mit mir über ihre Probleme sprechen.",
+      "tags": [
+        "Past tense",
+        "Plural-masculine",
+        "Prepositional"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 6,
+      "target": "Byłyśmy na siłowni i jesteśmy teraz bardzo zmęczone.",
+      "de": "Wir waren im Fitnessstudio und sind jetzt richtig müde.",
+      "tags": [
+        "Past tense",
+        "Plural-feminine",
+        "Locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 7,
+      "target": "Nie mogę dzisiaj wyjść, bo potrzebuję czasu dla siebie.",
+      "de": "Ich kann heute nicht ausgehen, weil ich Zeit für mich brauche.",
+      "tags": [
+        "Modal",
+        "Negation",
+        "Genitive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 8,
+      "target": "Wczoraj czytałam książkę, ale przeczytałam tylko jeden rozdział.",
+      "de": "Gestern habe ich ein Buch gelesen, aber ich habe nur ein Kapitel geschafft.",
+      "tags": [
+        "Past tense",
+        "Aspect contrast",
+        "Story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 9,
+      "target": "Lubię to ćwiczenie, bo ono jest bardzo relaksujące.",
+      "de": "Ich mag diese Übung, weil sie sehr entspannend ist.",
+      "tags": [
+        "Present tense",
+        "Opinion",
+        "Reason"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 10,
+      "target": "Czy możesz powiedzieć, jak pokonać stres?",
+      "de": "Kannst du mir sagen, wie man Stress bewältigt?",
+      "tags": [
+        "Modal",
+        "Question",
+        "Accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 11,
+      "target": "Kupiłam nowy zeszyt do mojego dziennika wdzięczności.",
+      "de": "Ich habe ein neues Heft für mein Dankbarkeitstagebuch gekauft.",
+      "tags": [
+        "Past tense",
+        "Perfective",
+        "Genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 12,
+      "target": "Robiłam zadanie domowe, a potem zrobiłam krótką medytację.",
+      "de": "Ich habe Hausaufgaben gemacht und danach eine kurze Meditation gemacht.",
+      "tags": [
+        "Past tense",
+        "Aspect contrast",
+        "Accusative"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 13,
+      "target": "Czy byłyście na warsztatach jogi w zeszły weekend?",
+      "de": "Wart ihr letztes Wochenende bei dem Yoga-Workshop?",
+      "tags": [
+        "Past tense",
+        "Plural-feminine",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 14,
+      "target": "Jestem z siebie dumna, bo wyznaczyłam jasną granicę.",
+      "de": "Ich bin stolz auf mich, weil ich eine klare Grenze gesetzt habe.",
+      "tags": [
+        "Present tense",
+        "Past tense",
+        "Perfective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 15,
+      "target": "To brzmi bardzo trudno, ale masz moje wsparcie.",
+      "de": "Das klingt sehr schwierig, aber du hast meine Unterstützung.",
+      "tags": [
+        "Present tense",
+        "Answer",
+        "Accusative"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 16,
+      "target": "Szanowna Pani Nowak, chciałabym przesunąć naszą rozmowę na wtorek.",
+      "de": "Sehr geehrte Frau Nowak, ich würde unser Gespräch gerne auf Dienstag verschieben.",
+      "tags": [
+        "Chciałabym",
+        "Request",
+        "Pani"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 17,
+      "target": "Zjedliśmy zdrową kolację i rozmawialiśmy przez wiele godzin.",
+      "de": "Wir haben gesund zu Abend gegessen und stundenlang geredet.",
+      "tags": [
+        "Past tense",
+        "Plural-masculine",
+        "Perfective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 18,
+      "target": "Czy on znalazł już mieszkanie w Barcelonie?",
+      "de": "Hat er schon eine Wohnung in Barcelona gefunden?",
+      "tags": [
+        "Past tense",
+        "Perfective",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 19,
+      "target": "W zeszłym miesiącu nie mogłam mówić na scenie, ale dzisiaj jestem gotowa.",
+      "de": "Letzten Monat konnte ich nicht auf der Bühne sprechen, aber heute bin ich bereit.",
+      "tags": [
+        "Past tense",
+        "Modal",
+        "Adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 20,
+      "target": "One nie piły dzisiaj kawy, bo chcą lepiej spać.",
+      "de": "Sie haben heute keinen Kaffee getrunken, weil sie besser schlafen wollen.",
+      "tags": [
+        "Past tense",
+        "Plural-feminine",
+        "Negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 21,
+      "target": "Poszłam do parku i usiadłam na ławce. Przez trzydzieści minut tylko patrzyłam na drzewa.",
+      "de": "Ich bin in den Park gegangen und habe mich auf eine Bank gesetzt. Dreißig Minuten lang habe ich nur die Bäume angeschaut.",
+      "tags": [
+        "Past tense",
+        "Perfective",
+        "Story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 22,
+      "target": "Jestem wdzięczna za twoje wsparcie w tym trudnym czasie.",
+      "de": "Ich bin dankbar für deine Unterstützung in dieser schweren Zeit.",
+      "tags": [
+        "Present tense",
+        "Adjective",
+        "Locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 23,
+      "target": "Dlaczego byłaś taka cicha podczas naszego spaceru?",
+      "de": "Warum warst du bei unserem Spaziergang so still?",
+      "tags": [
+        "Past tense",
+        "Question",
+        "Genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 24,
+      "target": "Przepraszam, ale nie chcę o tym teraz rozmawiać.",
+      "de": "Tut mir leid, aber ich möchte darüber gerade nicht sprechen.",
+      "tags": [
+        "Negation",
+        "Modal",
+        "Prepositional"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 25,
+      "target": "Po treningu poszliśmy kupić wodę i owoce.",
+      "de": "Nach dem Training sind wir Wasser und Obst kaufen gegangen.",
+      "tags": [
+        "Past tense",
+        "Plural-masculine",
+        "Perfective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 26,
+      "target": "Wczoraj ćwiczyłam moje przemówienie przez trzy godziny i w końcu je skończyłam.",
+      "de": "Ich habe gestern drei Stunden lang an meiner Rede geübt und sie schließlich fertiggestellt.",
+      "tags": [
+        "past tense",
+        "aspect contrast",
+        "imperfective vs perfective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 27,
+      "target": "Czy widziałeś mikrofon na małym stoliku za sceną?",
+      "de": "Hast du das Mikrofon auf dem kleinen Tisch hinter der Bühne gesehen?",
+      "tags": [
+        "past tense",
+        "masculine singular",
+        "locative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 28,
+      "target": "Czy może Pani sprawdzić, czy dźwięk jest dobry z tyłu?",
+      "de": "Könnten Sie bitte prüfen, ob der Ton hinten gut ist?",
+      "tags": [
+        "polite form",
+        "present tense",
+        "modal verb"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 29,
+      "target": "Przyszłam do auli, zobaczyłam wielu ludzi i poczułam lekki stres.",
+      "de": "Ich kam in den Saal, sah viele Leute und spürte leichten Stress.",
+      "tags": [
+        "past tense",
+        "feminine singular",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 30,
+      "target": "One mnie nie słuchały, bo były zajęte swoimi telefonami.",
+      "de": "Sie haben mir nicht zugehört, weil sie mit ihren Handys beschäftigt waren.",
+      "tags": [
+        "past tense",
+        "feminine plural",
+        "instrumental"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 31,
+      "target": "Lubię tę publiczność, bo ona zadaje bardzo ciekawe pytania.",
+      "de": "Ich mag dieses Publikum, weil es sehr interessante Fragen stellt.",
+      "tags": [
+        "present tense",
+        "accusative",
+        "reason clause"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 32,
+      "target": "Gdzie wy, dziewczyny, znalazłyście inspirację do waszej prezentacji?",
+      "de": "Wo habt ihr, Mädels, die Inspiration für eure Präsentation gefunden?",
+      "tags": [
+        "past tense",
+        "feminine plural",
+        "genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 33,
+      "target": "Nie chciałam o tym mówić, ale prowadzący mnie o to zapytał.",
+      "de": "Ich wollte nicht darüber sprechen, aber der Moderator hat mich danach gefragt.",
+      "tags": [
+        "past tense",
+        "modal verb",
+        "accusative"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 34,
+      "target": "Chciałabym zarezerwować salę na próbę w środę.",
+      "de": "Ich würde gerne den Saal für eine Probe am Mittwoch reservieren.",
+      "tags": [
+        "conditional fixed form",
+        "accusative",
+        "time"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 35,
+      "target": "W końcu wrzuciłam na YouTube film z konferencji.",
+      "de": "Ich habe endlich das Video von der Konferenz auf YouTube hochgeladen.",
+      "tags": [
+        "past tense",
+        "feminine singular",
+        "perfective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 36,
+      "target": "Zapomnieliśmy może o notatkach do ostatniej części prezentacji?",
+      "de": "Haben wir vielleicht die Notizen für den letzten Teil der Präsentation vergessen?",
+      "tags": [
+        "past tense",
+        "masculine-personal plural",
+        "locative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 37,
+      "target": "Jestem zestresowana, kiedy światła na scenie są zbyt jasne.",
+      "de": "Ich bin gestresst, wenn die Lichter auf der Bühne zu hell sind.",
+      "tags": [
+        "present tense",
+        "feminine adjective",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 38,
+      "target": "Pisałam scenariusz całe rano i napisałam dziesięć stron.",
+      "de": "Ich habe den ganzen Morgen am Skript geschrieben und zehn Seiten geschafft.",
+      "tags": [
+        "past tense",
+        "aspect contrast",
+        "numbers"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 39,
+      "target": "Ma Pan czas na krótki wywiad po występie?",
+      "de": "Haben Sie Zeit für ein kurzes Interview nach dem Auftritt?",
+      "tags": [
+        "polite form",
+        "present tense",
+        "accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 40,
+      "target": "Byłyśmy na scenie pierwszy raz i byłyśmy bardzo dzielne.",
+      "de": "Wir waren zum ersten Mal auf der Bühne und waren sehr tapfer.",
+      "tags": [
+        "past tense",
+        "feminine plural",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 41,
+      "target": "Ona długo przygotowywała te slajdy, ale ich nie pokazała.",
+      "de": "Sie hat lange an diesen Slides gearbeitet, aber sie dann nicht gezeigt.",
+      "tags": [
+        "past tense",
+        "aspect contrast",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 42,
+      "target": "Tak, często używam hiszpańskiego w moich filmach o przeprowadzce do Hiszpanii.",
+      "de": "Ja, ich benutze oft Spanisch in meinen Videos über den Umzug nach Spanien.",
+      "tags": [
+        "present tense",
+        "genitive",
+        "locative"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 43,
+      "target": "Wypiłeś wystarczająco dużo wody przed swoim przemówieniem?",
+      "de": "Hast du genug Wasser vor deiner Rede getrunken?",
+      "tags": [
+        "past tense",
+        "masculine singular",
+        "perfective"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 44,
+      "target": "Moi przyjaciele kupili bilety na mój występ w Warszawie.",
+      "de": "Meine Freunde haben Tickets für meinen Auftritt in Warschau gekauft.",
+      "tags": [
+        "past tense",
+        "masculine-personal plural",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 45,
+      "target": "Proszę, powiedz, co myślisz o mojej mowie ciała.",
+      "de": "Bitte sag mir, was du über meine Körpersprache denkst.",
+      "tags": [
+        "imperative",
+        "locative",
+        "opinion"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 46,
+      "target": "Spojrzałam na widownię i zobaczyłam moją najlepszą przyjaciółkę.",
+      "de": "Ich schaute ins Publikum und sah meine beste Freundin.",
+      "tags": [
+        "past tense",
+        "feminine singular",
+        "accusative"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 47,
+      "target": "Dlaczego oni nie przygotowali recenzji po warsztatach?",
+      "de": "Warum haben sie nach dem Workshop kein Feedback geschrieben?",
+      "tags": [
+        "past tense",
+        "masculine-personal plural",
+        "negation"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 48,
+      "target": "Nie wychodzę dzisiaj na scenę, bo boli mnie gardło.",
+      "de": "Ich gehe heute nicht auf die Bühne, weil ich Halsschmerzen habe.",
+      "tags": [
+        "present tense",
+        "negation",
+        "reason clause"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 49,
+      "target": "Mój brat długo przygotowywał ten projekt i wczoraj wreszcie go zaprezentował.",
+      "de": "Mein Bruder hat lange an diesem Projekt gearbeitet und es gestern endlich präsentiert.",
+      "tags": [
+        "past tense",
+        "aspect contrast",
+        "masculine singular"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 50,
+      "target": "Szanowny Panie, widziałam Pana film i mam jedno pytanie.",
+      "de": "Sehr geehrter Herr, ich habe Ihr Video gesehen und habe eine Frage.",
+      "tags": [
+        "polite form",
+        "past tense",
+        "genitive"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 51,
+      "target": "Pisałam całą noc drugi rozdział i rano byłam bardzo śpiąca.",
+      "de": "Ich habe die ganze Nacht am zweiten Kapitel geschrieben und war morgens total müde.",
+      "tags": [
+        "Past Imperfective",
+        "Adjective",
+        "Feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 52,
+      "target": "Szanowna Pani Kowalska, czy przeczytała Pani moją wiadomość o nowej okładce?",
+      "de": "Sehr geehrte Frau Kowalska, haben Sie meine Nachricht zum neuen Cover gelesen?",
+      "tags": [
+        "Pan/Pani",
+        "Past Perfective",
+        "Feminine"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 53,
+      "target": "Moja główna bohaterka była smutna, więc zmieniłam zakończenie tej historii.",
+      "de": "Meine Hauptfigur war traurig, also habe ich das Ende der Geschichte geändert.",
+      "tags": [
+        "Past Imperfective",
+        "Past Perfective",
+        "Feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 54,
+      "target": "Myślałam o fabule przez godziny, ale nic wczoraj nie napisałam.",
+      "de": "Ich habe stundenlang über den Plot nachgedacht, aber gestern gar nichts geschrieben.",
+      "tags": [
+        "Past Imperfective",
+        "Past Perfective",
+        "Negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 55,
+      "target": "W zeszłym tygodniu byłyśmy zajęte, ponieważ termin oddania książki był blisko.",
+      "de": "Letzte Woche waren wir echt beschäftigt, weil die Deadline für das Buch kurz bevorstand.",
+      "tags": [
+        "Past Imperfective",
+        "Plural (non-masculine)"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 56,
+      "target": "Moje przyjaciółki widziały projekt i bardzo polubiły te jasne kolory.",
+      "de": "Meine Freundinnen haben den Entwurf gesehen und mochten die hellen Farben sehr.",
+      "tags": [
+        "Past Imperfective",
+        "Past Perfective",
+        "Plural (non-masculine)"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 57,
+      "target": "Czytałaś już tę nową książkę o zdrowiu psychicznym i relacjach?",
+      "de": "Hast du schon dieses neue Buch über mentale Gesundheit und Beziehungen gelesen?",
+      "tags": [
+        "Past Imperfective",
+        "Accusative",
+        "2nd person"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 58,
+      "target": "Uczyłam się wczoraj hiszpańskiego, bo chcę swobodnie rozmawiać w Madrycie.",
+      "de": "Ich habe gestern Spanisch gelernt, weil ich mich in Madrid flüssig unterhalten will.",
+      "tags": [
+        "Past Imperfective",
+        "Reason",
+        "Feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 59,
+      "target": "Jestem wdzięczna za moje ciało, ponieważ dzisiaj mocno trenowałam.",
+      "de": "Ich bin dankbar für meinen Körper, weil ich heute hart trainiert habe.",
+      "tags": [
+        "Present tense",
+        "Past Imperfective",
+        "Feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 60,
+      "target": "Kiedy stałam na scenie, czułam się naprawdę wolna i szczęśliwa.",
+      "de": "Als ich auf der Bühne stand, habe ich mich richtig frei und glücklich gefühlt.",
+      "tags": [
+        "Past Imperfective",
+        "Adjective",
+        "Feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 61,
+      "target": "Nagrałam wczoraj krótki film o mojej książce i go zmontowałam.",
+      "de": "Ich habe gestern ein kurzes Video über mein Buch aufgenommen und es geschnitten.",
+      "tags": [
+        "Past Perfective",
+        "Feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 62,
+      "target": "Nie poszłam do kina z kolegami, bo wolałam zostać w domu.",
+      "de": "Ich bin nicht mit den Jungs ins Kino gegangen, weil ich lieber zu Hause bleiben wollte.",
+      "tags": [
+        "Past Perfective",
+        "Past Imperfective",
+        "Negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 63,
+      "target": "Moi bracia kupili mój e-book i przeczytali go w jeden wieczór.",
+      "de": "Meine Brüder haben mein E-Book gekauft und es an einem Abend durchgelesen.",
+      "tags": [
+        "Past Perfective",
+        "Plural (masculine-personal)"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 64,
+      "target": "Czy możesz, proszę, sprawdzić ten rozdział pod kątem błędów?",
+      "de": "Könntest du bitte dieses Kapitel auf Fehler überprüfen?",
+      "tags": [
+        "Modal",
+        "Accusative",
+        "Request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 65,
+      "target": "Myślę, że ta postać jest autentyczna, bo ma wiele wątpliwości.",
+      "de": "Ich finde die Figur authentisch, weil sie viele Zweifel hat.",
+      "tags": [
+        "Opinion",
+        "Reason"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 66,
+      "target": "Tak, wybrałam ten tytuł, ponieważ brzmi on bardzo poetycko.",
+      "de": "Ja, ich habe diesen Titel gewählt, weil er sehr poetisch klingt.",
+      "tags": [
+        "Answer",
+        "Past Perfective",
+        "Feminine"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 67,
+      "target": "Spacerowałam w parku i nagle znalazłam pomysł na nową scenę.",
+      "de": "Ich bin im Park spazieren gegangen und plötzlich hatte ich die Idee für eine neue Szene.",
+      "tags": [
+        "Past Imperfective",
+        "Past Perfective",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 68,
+      "target": "Dlaczego usunąłeś ten długi opis głównego bohatera z trzeciej strony?",
+      "de": "Warum hast du diese lange Beschreibung der Hauptfigur auf Seite drei gelöscht?",
+      "tags": [
+        "Past Perfective",
+        "Question",
+        "Masculine"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 69,
+      "target": "Dziewczyny nie znalazły tej książki w księgarni, więc były zawiedzione.",
+      "de": "Die Mädels haben das Buch im Laden nicht gefunden, also waren sie enttäuscht.",
+      "tags": [
+        "Past Perfective",
+        "Plural (non-masculine)",
+        "Negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 70,
+      "target": "Przepraszam, ale nie mogłam dzisiaj wysłać tego szkicu do wydawnictwa.",
+      "de": "Tut mir leid, aber ich konnte den Entwurf heute nicht an den Verlag schicken.",
+      "tags": [
+        "Modal",
+        "Past Imperfective",
+        "Negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 71,
+      "target": "Często siedziałam w tej kawiarni i obserwowałam ludzi do mojej książki.",
+      "de": "Ich saß oft in diesem Café und habe Leute für mein Buch beobachtet.",
+      "tags": [
+        "Past Imperfective",
+        "Adverb",
+        "Feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 72,
+      "target": "On nie zrozumiał tej metafory, więc wyjaśniłam mu ją jeszcze raz.",
+      "de": "Er hat die Metapher nicht verstanden, also habe ich sie ihm noch einmal erklärt.",
+      "tags": [
+        "Past Perfective",
+        "Reason",
+        "3rd person"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 73,
+      "target": "Wczoraj wreszcie skończyłam pisać pierwszą część mojej nowej powieści.",
+      "de": "Gestern habe ich endlich den ersten Teil meines neuen Romans fertiggeschrieben.",
+      "tags": [
+        "Past Perfective",
+        "Adverb",
+        "Feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 74,
+      "target": "Panie redaktorze, czy widział Pan moje ostatnie poprawki do tekstu?",
+      "de": "Herr Redakteur, haben Sie meine letzten Korrekturen am Text gesehen?",
+      "tags": [
+        "Pan/Pani",
+        "Past Perfective",
+        "Masculine"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 75,
+      "target": "Poczuliście się lepiej po tej rozmowie o waszych planach?",
+      "de": "Habt ihr euch nach dem Gespräch über eure Pläne besser gefühlt?",
+      "tags": [
+        "Past Perfective",
+        "Plural (masculine-personal)"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 76,
+      "target": "Nagrywałam ten odcinek rano i wreszcie go nagrałam.",
+      "de": "Ich habe diese Folge heute Morgen aufgenommen und jetzt ist sie endlich im Kasten.",
+      "tags": [
+        "Past tense",
+        "Aspect",
+        "1st person feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 77,
+      "target": "Dlaczego nie wstawiłeś jeszcze linku do opisu filmu?",
+      "de": "Warum hast du den Link noch nicht in die Videobeschreibung gepackt?",
+      "tags": [
+        "Past tense",
+        "2nd person masculine",
+        "Accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 78,
+      "target": "Edytowałam ten vlog przez pięć godzin i jestem bardzo zmęczona.",
+      "de": "Ich habe fünf Stunden an diesem Vlog geschnitten und bin echt fertig.",
+      "tags": [
+        "Past tense",
+        "1st person feminine",
+        "Present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 79,
+      "target": "Czy widziałyście moje nowe zdjęcie na karcie społeczność?",
+      "de": "Habt ihr Mädels mein neues Foto im Community-Tab gesehen?",
+      "tags": [
+        "Past tense",
+        "2nd person feminine plural"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 80,
+      "target": "Szukałam dobrego światła i w końcu znalazłam idealne miejsce.",
+      "de": "Ich habe nach gutem Licht gesucht und am Ende den perfekten Spot gefunden.",
+      "tags": [
+        "Past tense",
+        "Aspect",
+        "1st person feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 81,
+      "target": "Oni nie oglądali mojego ostatniego filmu, bo nie mieli czasu.",
+      "de": "Sie haben mein letztes Video nicht geschaut, weil sie keine Zeit hatten.",
+      "tags": [
+        "Past tense",
+        "3rd person masculine plural",
+        "Genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 82,
+      "target": "Szanowny Panie, czy możemy nagrać wspólną rozmowę w przyszłym tygodniu?",
+      "de": "Sehr geehrter Herr, können wir nächste Woche ein gemeinsames Gespräch aufnehmen?",
+      "tags": [
+        "Present tense",
+        "Modal",
+        "Pan",
+        "Locative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 83,
+      "target": "Wybrałam już miniaturkę, ale tytuł wciąż nie jest idealny.",
+      "de": "Das Thumbnail habe ich schon ausgesucht, aber der Titel ist noch nicht perfekt.",
+      "tags": [
+        "Past tense",
+        "1st person feminine",
+        "Negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 84,
+      "target": "Czy sprawdziliście statystyki po naszym wspólnym wyzwaniu na YouTube?",
+      "de": "Habt ihr die Statistiken nach unserer gemeinsamen YouTube-Challenge gecheckt?",
+      "tags": [
+        "Past tense",
+        "2nd person masculine plural",
+        "Accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 85,
+      "target": "Nie odpowiadałam na komentarze, bo potrzebowałam odpoczynku od internetu.",
+      "de": "Ich habe nicht auf Kommentare geantwortet, weil ich eine Internetpause brauchte.",
+      "tags": [
+        "Past tense",
+        "1st person feminine",
+        "Genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 86,
+      "target": "Moja przyjaciółka miała mój aparat i wczoraj wreszcie go oddała.",
+      "de": "Meine Freundin hatte meine Kamera und hat sie gestern endlich zurückgegeben.",
+      "tags": [
+        "Past tense",
+        "3rd person feminine",
+        "Accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 87,
+      "target": "Czytałyśmy wasze komentarze i poczułyśmy się bardzo szczęśliwe.",
+      "de": "Wir haben eure Kommentare gelesen und uns sehr glücklich gefühlt.",
+      "tags": [
+        "Past tense",
+        "1st person feminine plural"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 88,
+      "target": "Jaki kolor tła wybrałaś do swojego nowego studia?",
+      "de": "Welche Hintergrundfarbe hast du für dein neues Studio gewählt?",
+      "tags": [
+        "Past tense",
+        "2nd person feminine",
+        "Genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 89,
+      "target": "Robiłam zdjęcia na zewnątrz, ale nagle zaczął padać deszcz.",
+      "de": "Ich habe draußen Fotos gemacht, aber plötzlich fing es an zu regnen.",
+      "tags": [
+        "Past tense",
+        "1st person feminine",
+        "3rd person masculine"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 90,
+      "target": "On nie kupił mikrofonu, bo ten model był za drogi.",
+      "de": "Er hat das Mikrofon nicht gekauft, weil dieses Modell zu teuer war.",
+      "tags": [
+        "Past tense",
+        "3rd person masculine",
+        "Negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 91,
+      "target": "Chciałabym oznaczyć ten film jako reklamę, bo to uczciwe.",
+      "de": "Ich würde dieses Video gerne als Werbung kennzeichnen, weil das ehrlich ist.",
+      "tags": [
+        "Fixed expression",
+        "Accusative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 92,
+      "target": "Czy widział Pan moją nową playlistę o nauce hiszpańskiego?",
+      "de": "Haben Sie meine neue Playlist über das Spanischlernen gesehen?",
+      "tags": [
+        "Past tense",
+        "Pan",
+        "Locative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 93,
+      "target": "Myślałyśmy o nowym formacie, ale nie miałyśmy dobrych pomysłów.",
+      "de": "Wir haben über ein neues Format nachgedacht, hatten aber keine guten Ideen.",
+      "tags": [
+        "Past tense",
+        "1st person feminine plural",
+        "Locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 94,
+      "target": "Dlaczego oni usunęli swój najpopularniejszy film z kanału?",
+      "de": "Warum haben sie ihr beliebtestes Video vom Kanal gelöscht?",
+      "tags": [
+        "Past tense",
+        "3rd person masculine plural",
+        "Genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 95,
+      "target": "Zmontowałam już połowę filmu i teraz robię sobie przerwę.",
+      "de": "Ich habe schon die Hälfte vom Video geschnitten und mache jetzt eine Pause.",
+      "tags": [
+        "Past tense",
+        "1st person feminine",
+        "Present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 96,
+      "target": "Czy możecie sprawdzić, czy ten link w opisie działa?",
+      "de": "Könnt ihr prüfen, ob dieser Link in der Beschreibung funktioniert?",
+      "tags": [
+        "Present tense",
+        "2nd person feminine plural",
+        "Locative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 97,
+      "target": "Pisałam ten scenariusz trzy dni i wczoraj go skończyłam.",
+      "de": "Ich habe drei Tage an dem Skript geschrieben und es gestern fertiggestellt.",
+      "tags": [
+        "Past tense",
+        "Aspect",
+        "1st person feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 98,
+      "target": "One nie chciały wystąpić w moim filmie, bo są nieśmiałe.",
+      "de": "Sie wollten nicht in meinem Video vorkommen, weil sie schüchtern sind.",
+      "tags": [
+        "Past tense",
+        "3rd person feminine plural",
+        "Present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 99,
+      "target": "Przesłałam plik na dysk, więc możesz go teraz pobrać.",
+      "de": "Ich habe die Datei auf das Laufwerk hochgeladen, du kannst sie jetzt runterladen.",
+      "tags": [
+        "Past tense",
+        "1st person feminine",
+        "Accusative",
+        "Present tense"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 100,
+      "target": "Byłyśmy wczoraj bardzo kreatywne i nagrałyśmy aż trzy filmy.",
+      "de": "Wir waren gestern total kreativ und haben sogar drei Videos aufgenommen.",
+      "tags": [
+        "Past tense",
+        "1st person feminine plural",
+        "Instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 101,
+      "target": "Wczoraj trenowałam nogi i dzisiaj mam bardzo duże zakwasy.",
+      "de": "Gestern war Leg Day und heute hab ich so krassen Muskelkater.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "noun gender"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 102,
+      "target": "Czy ta czarna koszulka treningowa jest dostępna w rozmiarze S?",
+      "de": "Gibt es dieses schwarze Trainingsshirt auch in Größe S?",
+      "tags": [
+        "present tense",
+        "question",
+        "locative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 103,
+      "target": "Nigdy nie miałam tyle siły, co po dzisiejszym śniadaniu.",
+      "de": "Ich hatte noch nie so viel Kraft wie nach dem Frühstück heute.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 104,
+      "target": "Moi koledzy robili martwy ciąg, a ja tylko patrzyłam.",
+      "de": "Meine Kumpels haben Kreuzheben gemacht und ich hab nur zugeschaut.",
+      "tags": [
+        "past tense",
+        "masculine-personal",
+        "feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 105,
+      "target": "Przygotowywałam lunchbox na jutro, bo rano mam długi trening.",
+      "de": "Ich habe gerade meine Box für morgen vorbereitet, weil ich früh Sport mache.",
+      "tags": [
+        "past tense",
+        "imperfective",
+        "reason"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 106,
+      "target": "Spałam osiem godzin i czuję się teraz naprawdę świetnie.",
+      "de": "Ich habe acht Stunden geschlafen und fühle mich jetzt echt super.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 107,
+      "target": "Czy może Pan pokazać mi, jak używać tej maszyny?",
+      "de": "Können Sie mir zeigen, wie man dieses Gerät hier benutzt?",
+      "tags": [
+        "modal",
+        "Pan",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 108,
+      "target": "Wreszcie zrobiłam dzisiaj cztery pełne serie na nogi.",
+      "de": "Ich hab heute endlich vier volle Sätze Beine geschafft.",
+      "tags": [
+        "past tense",
+        "perfective",
+        "feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 109,
+      "target": "Długo wybierałam te buty, ale w końcu kupiłam inne.",
+      "de": "Ich habe lange nach diesen Schuhen geschaut, aber am Ende andere gekauft.",
+      "tags": [
+        "past tense",
+        "aspect contrast",
+        "feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 110,
+      "target": "Moje przyjaciółki piły koktajl białkowy po naszych wspólnych zajęciach.",
+      "de": "Meine Freundinnen haben nach unserem Kurs noch einen Proteinshake getrunken.",
+      "tags": [
+        "past tense",
+        "non-masculine plural"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 111,
+      "target": "Masz ochotę iść ze mną na jogę w ten piątek?",
+      "de": "Hast du Lust, diesen Freitag mit mir zum Yoga zu gehen?",
+      "tags": [
+        "present tense",
+        "instrumental",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 112,
+      "target": "Niestety nie jadłam śniadania, więc nie mam teraz energii.",
+      "de": "Ich hab leider nicht gefrühstückt und hab deshalb gerade null Energie.",
+      "tags": [
+        "past tense",
+        "negation",
+        "feminine"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 113,
+      "target": "Szukałam moich rękawiczek wszędzie. W końcu znalazłam je w torbie.",
+      "de": "Ich habe überall meine Handschuhe gesucht. Am Ende lagen sie ganz unten in der Tasche.",
+      "tags": [
+        "past tense",
+        "aspect contrast",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 114,
+      "target": "Myślę, że odpoczynek jest tak samo ważny jak trening.",
+      "de": "Ich finde, dass Erholung genauso wichtig ist wie das Training.",
+      "tags": [
+        "present tense",
+        "opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 115,
+      "target": "Ile litrów wody dzisiaj wypiłeś? Pamiętaj o nawodnieniu.",
+      "de": "Wie viele Liter Wasser hast du heute getrunken? Denk ans Trinken.",
+      "tags": [
+        "past tense",
+        "masculine",
+        "imperative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 116,
+      "target": "Przepraszam, czy Pani używa teraz tych hantli obok lustra?",
+      "de": "Entschuldigung, benutzen Sie gerade die Hanteln da am Spiegel?",
+      "tags": [
+        "present tense",
+        "Pani",
+        "locative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 117,
+      "target": "Dziś zjadłam bardzo zdrowy obiad i czuję dużą różnicę.",
+      "de": "Ich hab heute richtig gesund zu Mittag gegessen und merke den Unterschied total.",
+      "tags": [
+        "past tense",
+        "perfective",
+        "feminine"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 118,
+      "target": "One miały dużo energii, ale ja byłam bardzo zmęczona.",
+      "de": "Die anderen waren voll fit, aber ich war einfach nur k.o.",
+      "tags": [
+        "past tense",
+        "plural vs singular",
+        "feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 119,
+      "target": "Rezygnuję dzisiaj z siłowni, ponieważ moje ciało potrzebuje regeneracji.",
+      "de": "Ich lasse das Training heute aus, weil mein Körper Ruhe braucht.",
+      "tags": [
+        "present tense",
+        "reason",
+        "genitive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 120,
+      "target": "Słuchałam hiszpańskiego podcastu, kiedy biegałam rano na bieżni.",
+      "de": "Ich habe beim Laufen auf dem Laufband einen spanischen Podcast gehört.",
+      "tags": [
+        "past tense",
+        "imperfective",
+        "feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 121,
+      "target": "Widzieliście może moje nowe postępy w tej aplikacji sportowej?",
+      "de": "Habt ihr vielleicht meine neuen Fortschritte in der Sport-App gesehen?",
+      "tags": [
+        "past tense",
+        "masculine-personal",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 122,
+      "target": "Jestem bardzo wdzięczna, że mogłyśmy razem poćwiczyć w weekend.",
+      "de": "Ich bin echt dankbar, dass wir dieses Wochenende zusammen trainiert haben.",
+      "tags": [
+        "past tense",
+        "feminine plural",
+        "adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 123,
+      "target": "Chciałabym zapytać o cenę karnetu dla studentów w Madrycie.",
+      "de": "Ich wollte mal fragen, was die Studi-Mitgliedschaft in Madrid kostet.",
+      "tags": [
+        "chciałabym",
+        "request",
+        "genitive"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 124,
+      "target": "Nie przejmuj się, ja też kiedyś nie rozumiałam techniki.",
+      "de": "Mach dir keinen Kopf, ich hab die Technik früher auch nicht verstanden.",
+      "tags": [
+        "past tense",
+        "negation",
+        "feminine"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 125,
+      "target": "Piliśmy mocną kawę przed treningiem i mieliśmy super moc.",
+      "de": "Wir haben vor dem Training starken Kaffee getrunken und hatten richtig Power.",
+      "tags": [
+        "past tense",
+        "masculine-personal",
+        "instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 126,
+      "target": "Obejrzałam wczoraj to mieszkanie i bardzo spodobał mi się widok.",
+      "de": "Ich habe mir gestern die Wohnung angeschaut und die Aussicht hat mir richtig gut gefallen.",
+      "tags": [
+        "past tense",
+        "perfective aspect",
+        "feminine first person"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 127,
+      "target": "Czy poznałeś już naszych nowych sąsiadów z trzeciego piętra?",
+      "de": "Hast du schon unsere neuen Nachbarn aus dem dritten Stock kennengelernt?",
+      "tags": [
+        "past tense",
+        "perfective aspect",
+        "masculine second person"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 128,
+      "target": "Pisałam książkę w kawiarni, kiedy kelner uśmiechnął się do mnie.",
+      "de": "Ich habe gerade im Café an meinem Buch geschrieben, als der Kellner mich anlächelte.",
+      "tags": [
+        "past tense",
+        "imperfective vs perfective"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 129,
+      "target": "Przepraszam Pana, czy widział Pan mój paszport na tym stoliku?",
+      "de": "Entschuldigung, haben Sie meinen Reisepass auf diesem Tischchen gesehen?",
+      "tags": [
+        "past tense",
+        "pan form",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 130,
+      "target": "Chciałam otworzyć konto, ale niestety zapomniałam dowodu osobistego.",
+      "de": "Ich wollte ein Konto eröffnen, aber leider habe ich meinen Ausweis vergessen.",
+      "tags": [
+        "past tense",
+        "feminine first person",
+        "genitive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 131,
+      "target": "One kupiły świeży chleb i jakieś lokalne owoce na targu.",
+      "de": "Sie haben frisches Brot und ein paar lokale Früchte auf dem Markt gekauft.",
+      "tags": [
+        "past tense",
+        "non-masculine plural"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 132,
+      "target": "Czekałyśmy na ciebie przy stacji metra przez dziesięć minut.",
+      "de": "Wir haben zehn Minuten lang an der U-Bahn-Station auf dich gewartet.",
+      "tags": [
+        "past tense",
+        "non-masculine plural"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 133,
+      "target": "Czy może mi Pani pokazać drogę do najbliższego parku?",
+      "de": "Könnten Sie mir bitte den Weg zum nächsten Park zeigen?",
+      "tags": [
+        "present tense",
+        "pani form",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 134,
+      "target": "Lubię tę dzielnicę, ponieważ jest tutaj bardzo cicho i zielono.",
+      "de": "Ich mag dieses Viertel, weil es hier sehr ruhig und grün ist.",
+      "tags": [
+        "present tense",
+        "opinion",
+        "conjunction"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 135,
+      "target": "Poszłam do sklepu po mleko i spotkałam nową koleżankę.",
+      "de": "Ich bin kurz in den Laden, um Milch zu holen, und habe eine neue Freundin getroffen.",
+      "tags": [
+        "past tense",
+        "perfective aspect",
+        "feminine first person"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 136,
+      "target": "Tęskniłam za moim pokojem, ale Hiszpania jest naprawdę przepiękna.",
+      "de": "Ich hatte etwas Heimweh nach meinem Zimmer, aber Spanien ist wirklich wunderschön.",
+      "tags": [
+        "past tense",
+        "imperfective aspect",
+        "instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 137,
+      "target": "Oni nie zrozumieli tych dokumentów po hiszpańsku, więc pomogłam im.",
+      "de": "Sie haben diese spanischen Dokumente nicht verstanden, also habe ich ihnen geholfen.",
+      "tags": [
+        "past tense",
+        "masculine-personal plural",
+        "negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 138,
+      "target": "Czy znaleźliście już jakąś dobrą piekarnię w tej okolicy?",
+      "de": "Habt ihr schon eine gute Bäckerei in dieser Gegend gefunden?",
+      "tags": [
+        "past tense",
+        "masculine-personal plural",
+        "perfective"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 139,
+      "target": "Piłam kawę i patrzyłam na mapę mojego nowego miasta.",
+      "de": "Ich habe Kaffee getrunken und mir dabei den Stadtplan meiner neuen Stadt angeschaut.",
+      "tags": [
+        "past tense",
+        "imperfective aspect",
+        "feminine first person"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 140,
+      "target": "Zawsze mnie słuchałaś, kiedy byłam zestresowana tą całą przeprowadzką.",
+      "de": "Du hast mir immer zugehört, wenn ich wegen des ganzen Umzugs gestresst war.",
+      "tags": [
+        "past tense",
+        "feminine second person",
+        "feminine first person"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 141,
+      "target": "Gdzie kupiłeś bilet miesięczny na autobus i na metro?",
+      "de": "Wo hast du die Monatskarte für den Bus und die U-Bahn gekauft?",
+      "tags": [
+        "past tense",
+        "masculine second person",
+        "accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 142,
+      "target": "Jestem wdzięczna, bo moja nowa współlokatorka jest bardzo pomocna.",
+      "de": "Ich bin dankbar, weil meine neue Mitbewohnerin sehr hilfsbereit ist.",
+      "tags": [
+        "present tense",
+        "gratitude",
+        "conjunction"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 143,
+      "target": "Nie, jeszcze nie widziałam umowy najmu tego pokoju.",
+      "de": "Nein, ich habe den Mietvertrag für dieses Zimmer noch nicht gesehen.",
+      "tags": [
+        "past tense",
+        "negation",
+        "genitive"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 144,
+      "target": "Czy może mi Pan pomóc z tymi ciężkimi kartonami?",
+      "de": "Könnten Sie mir bitte mit diesen schweren Kartons helfen?",
+      "tags": [
+        "present tense",
+        "pan form",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 145,
+      "target": "Myślę, że przeprowadzka jest trudna, bo jest dużo dokumentów.",
+      "de": "Ich glaube, Umziehen ist schwierig, weil es so viel Papierkram gibt.",
+      "tags": [
+        "present tense",
+        "opinion",
+        "conjunction"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 146,
+      "target": "Rozmawiałyśmy dzisiaj po hiszpańsku pierwszy raz w tym urzędzie.",
+      "de": "Wir haben heute zum ersten Mal in diesem Amt Spanisch gesprochen.",
+      "tags": [
+        "past tense",
+        "non-masculine plural",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 147,
+      "target": "Jaki był twój pierwszy dzień w tym nowym mieście?",
+      "de": "Wie war dein erster Tag in dieser neuen Stadt?",
+      "tags": [
+        "past tense",
+        "masculine singular",
+        "locative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 148,
+      "target": "Szukałam banku przez godzinę i w końcu go znalazłam.",
+      "de": "Ich habe eine Stunde lang eine Bank gesucht und sie schließlich gefunden.",
+      "tags": [
+        "past tense",
+        "imperfective vs perfective",
+        "feminine first person"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 149,
+      "target": "Moi przyjaciele napisali do mnie i poczułam się lepiej.",
+      "de": "Meine Freunde haben mir geschrieben und ich habe mich direkt besser gefühlt.",
+      "tags": [
+        "past tense",
+        "masculine-personal plural",
+        "perfective aspect"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 150,
+      "target": "Czy znalazłaś już jakąś siłownię blisko twojego nowego domu?",
+      "de": "Hast du schon ein Fitnessstudio in der Nähe deines neuen Zuhauses gefunden?",
+      "tags": [
+        "past tense",
+        "feminine second person",
+        "genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 151,
+      "target": "Zaplanowałam mój plan nauki do matury i jestem zadowolona.",
+      "de": "Ich habe meinen Lernplan fürs Abi gemacht und bin echt zufrieden.",
+      "tags": [
+        "past tense",
+        "perfective",
+        "first person feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 152,
+      "target": "Uczyłeś się wczoraj na historię czy tylko odpoczywałeś?",
+      "de": "Hast du gestern für Geschichte gelernt oder dich nur ausruht?",
+      "tags": [
+        "past tense",
+        "imperfective",
+        "second person masculine"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 153,
+      "target": "Czy może Pani wyjaśnić tę zasadę gramatyczną z próbnej matury?",
+      "de": "Könnten Sie diese Grammatikregel aus dem Probe-Abi erklären?",
+      "tags": [
+        "modal verb",
+        "polite form",
+        "school"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 154,
+      "target": "Oni nie zdali testu z matematyki, bo był bardzo trudny.",
+      "de": "Sie haben den Mathetest nicht bestanden, weil er echt schwer war.",
+      "tags": [
+        "past tense",
+        "perfective",
+        "third person masculine personal",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 155,
+      "target": "Pisałam wypracowanie przez dwie godziny i w końcu je skończyłam.",
+      "de": "Ich habe zwei Stunden am Aufsatz geschrieben und ihn endlich fertiggestellt.",
+      "tags": [
+        "past tense",
+        "aspect contrast",
+        "first person feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 156,
+      "target": "Czy stresujesz się egzaminem ustnym z języka angielskiego?",
+      "de": "Bist du wegen der mündlichen Englischprüfung gestresst?",
+      "tags": [
+        "present tense",
+        "instrumental case",
+        "school"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 157,
+      "target": "Tak, mam dużo notatek, ale nie wszystko teraz pamiętam.",
+      "de": "Ja, ich habe viele Notizen, aber ich weiß gerade nicht mehr alles.",
+      "tags": [
+        "present tense",
+        "genitive case",
+        "answer"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 158,
+      "target": "Moje przyjaciółki były cały dzień w bibliotece. Szukały książek do prezentacji i je znalazły.",
+      "de": "Meine Freundinnen waren den ganzen Tag in der Bib. Sie haben Bücher für das Referat gesucht und gefunden.",
+      "tags": [
+        "past tense",
+        "non-masculine plural",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 159,
+      "target": "Wybrałam hiszpański na maturę, bo bardzo lubię ten język.",
+      "de": "Ich habe Spanisch fürs Abi gewählt, weil ich diese Sprache liebe.",
+      "tags": [
+        "past tense",
+        "perfective",
+        "first person feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 160,
+      "target": "Rozmawialiście z nauczycielem o nowym terminie oddania prac?",
+      "de": "Habt ihr mit dem Lehrer über den neuen Abgabetermin gesprochen?",
+      "tags": [
+        "past tense",
+        "masculine personal plural",
+        "second person"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 161,
+      "target": "Nie wychodzę dziś wieczorem, bo muszę powtórzyć biologię.",
+      "de": "Ich gehe heute Abend nicht raus, weil ich Bio wiederholen muss.",
+      "tags": [
+        "negation",
+        "present tense",
+        "modal verb"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 162,
+      "target": "Czy może Pan pokazać mi moje wyniki z geografii?",
+      "de": "Könnten Sie mir bitte meine Erdkunde-Ergebnisse zeigen?",
+      "tags": [
+        "modal verb",
+        "polite form",
+        "school"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 163,
+      "target": "Moje koleżanki z klasy były bardzo pomocne podczas projektu.",
+      "de": "Meine Mitschülerinnen waren während des Projekts echt hilfreich.",
+      "tags": [
+        "past tense",
+        "non-masculine plural"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 164,
+      "target": "Dlaczego ona była taka zdenerwowana przed prezentacją o psychologii?",
+      "de": "Warum war sie vor dem Psychologie-Referat so nervös?",
+      "tags": [
+        "past tense",
+        "third person feminine",
+        "school"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 165,
+      "target": "Myślę, że zdrowie psychiczne jest znacznie ważniejsze niż oceny.",
+      "de": "Ich finde, dass die psychische Gesundheit viel wichtiger ist als Noten.",
+      "tags": [
+        "opinion",
+        "present tense"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 166,
+      "target": "Byłyśmy w szkole do szesnastej, a potem poszłyśmy na spacer.",
+      "de": "Wir waren bis 16 Uhr in der Schule und sind dann spazieren gegangen.",
+      "tags": [
+        "past tense",
+        "first person plural feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 167,
+      "target": "Czy masz już konkretny plan na czas po maturze?",
+      "de": "Hast du schon einen konkreten Plan für die Zeit nach dem Abi?",
+      "tags": [
+        "present tense",
+        "genitive case"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 168,
+      "target": "Bardzo doceniam Pani wsparcie podczas moich przygotowań do egzaminu.",
+      "de": "Ich schätze Ihre Unterstützung während meiner Prüfungsvorbereitung sehr.",
+      "tags": [
+        "polite form",
+        "accusative case",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 169,
+      "target": "Nie kupiłam tego drogiego zakreślacza, bo mam wiele innych.",
+      "de": "Ich habe diesen teuren Textmarker nicht gekauft, weil ich noch viele andere habe.",
+      "tags": [
+        "past tense",
+        "perfective",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 170,
+      "target": "On zapomniał swojego zeszytu i był tym bardzo zestresowany.",
+      "de": "Er hat sein Heft vergessen und war deswegen total gestresst.",
+      "tags": [
+        "past tense",
+        "perfective",
+        "third person masculine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 171,
+      "target": "Czy przeczytaliśmy wszystkie wymagane lektury na lekcję polskiego?",
+      "de": "Haben wir alle Pflichtbücher für den Polnischunterricht gelesen?",
+      "tags": [
+        "past tense",
+        "perfective",
+        "first person plural masculine"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 172,
+      "target": "Nie martw się, wczoraj zrobiłeś wszystko na ten test.",
+      "de": "Mach dir keine Sorgen, du hast gestern alles für diesen Test gegeben.",
+      "tags": [
+        "past tense",
+        "comfort",
+        "second person masculine"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 173,
+      "target": "Robiłam research do mojej książki i w końcu znalazłam temat.",
+      "de": "Ich habe für mein Buch recherchiert und schließlich ein Thema gefunden.",
+      "tags": [
+        "past tense",
+        "aspect contrast",
+        "first person feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 174,
+      "target": "Jak organizujesz swój dzień podczas tej sesji egzaminacyjnej?",
+      "de": "Wie organisierst du deinen Tag während dieser Prüfungsphase?",
+      "tags": [
+        "present tense",
+        "school",
+        "time management"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 175,
+      "target": "Nie chciałyśmy się dzisiaj uczyć, więc razem obejrzałyśmy film.",
+      "de": "Wir wollten heute nicht lernen, also haben wir zusammen einen Film geschaut.",
+      "tags": [
+        "past tense",
+        "first person plural feminine",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 176,
+      "target": "Zignorowałam tę wiadomość, bo ona była po prostu nieszczera.",
+      "de": "Ich habe diese Nachricht ignoriert, weil sie einfach unaufrichtig war.",
+      "tags": [
+        "past tense",
+        "perfective aspect",
+        "negation",
+        "conjunction"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 177,
+      "target": "Zawsze mnie wspierałaś, kiedy miałam gorszy dzień w pracy.",
+      "de": "Du hast mich immer unterstützt, wenn ich einen schlechteren Tag bei der Arbeit hatte.",
+      "tags": [
+        "past tense",
+        "imperfective aspect",
+        "feminine forms",
+        "locative case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 178,
+      "target": "One ciągle narzekały i nie miały czasu na moje problemy.",
+      "de": "Die haben ständig nur rumgejammert und hatten keine Zeit für meine Probleme.",
+      "tags": [
+        "past tense",
+        "plural feminine",
+        "non-masculine personal",
+        "negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 179,
+      "target": "Jesteś dla mnie ważna, więc zawsze mam dla ciebie czas.",
+      "de": "Du bist mir wichtig, deshalb habe ich immer Zeit für dich.",
+      "tags": [
+        "present tense",
+        "genitive case",
+        "prepositions",
+        "friendship"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 180,
+      "target": "Dlaczego ona nie powiedziała prawdy? Przecież zawsze byłaś uczciwa.",
+      "de": "Warum hat sie nicht die Wahrheit gesagt? Du warst doch immer ehrlich.",
+      "tags": [
+        "past tense",
+        "perfective aspect",
+        "question",
+        "adjective gender"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 181,
+      "target": "Nie chcę spotkać się z tą grupą, bo czuję tam negatywną energię.",
+      "de": "Ich will mich mit dieser Gruppe nicht treffen, weil ich dort negative Energie spüre.",
+      "tags": [
+        "present tense",
+        "negation",
+        "instrumental case",
+        "modal verbs"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 182,
+      "target": "Czy może Pani polecić jakąś książkę o budowaniu dobrych relacji?",
+      "de": "Können Sie ein Buch über den Aufbau guter Beziehungen empfehlen?",
+      "tags": [
+        "present tense",
+        "Pan/Pani",
+        "locative case",
+        "request"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 183,
+      "target": "Rozmawiałyśmy o tym całą noc i w końcu wszystko wyjaśniłyśmy.",
+      "de": "Wir haben die ganze Nacht darüber geredet und am Ende alles geklärt.",
+      "tags": [
+        "past tense",
+        "aspect contrast",
+        "plural feminine",
+        "prepositional"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 184,
+      "target": "Kiedyś brałam wszystko do siebie, ale teraz już tak nie robię.",
+      "de": "Früher habe ich mir alles zu Herzen genommen, aber jetzt mache ich das nicht mehr.",
+      "tags": [
+        "past tense",
+        "imperfective aspect",
+        "present tense",
+        "negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 185,
+      "target": "Moi rodzice bardzo polubili twoich nowych przyjaciół z Hiszpanii.",
+      "de": "Meine Eltern mochten deine neuen Freunde aus Spanien sehr.",
+      "tags": [
+        "past tense",
+        "masculine personal",
+        "accusative case",
+        "adjective agreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 186,
+      "target": "Czy on naprawdę dotrzymał słowa, czy znowu tylko tak kłamał?",
+      "de": "Hat er wirklich sein Wort gehalten oder hat er wieder nur so gelogen?",
+      "tags": [
+        "past tense",
+        "aspect contrast",
+        "question",
+        "genitive case"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 187,
+      "target": "Nie, dziękuję za zaproszenie, ale dzisiaj potrzebuję wieczoru tylko dla siebie.",
+      "de": "Nein, danke für die Einladung, aber heute brauche ich einen Abend nur für mich.",
+      "tags": [
+        "present tense",
+        "genitive case",
+        "negation",
+        "declining"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 188,
+      "target": "W końcu zrozumiałam, że ten chłopak często mnie oszukiwał.",
+      "de": "Endlich habe ich begriffen, dass dieser Typ mich oft belogen hat.",
+      "tags": [
+        "past tense",
+        "perfective aspect",
+        "imperfective aspect",
+        "accusative case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 189,
+      "target": "Tak, przeprosiłam ją i teraz znowu normalnie rozmawiamy przez telefon.",
+      "de": "Ja, ich habe mich bei ihr entschuldigt und jetzt telefonieren wir wieder ganz normal.",
+      "tags": [
+        "past tense",
+        "perfective aspect",
+        "present tense",
+        "answer"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 190,
+      "target": "Uważam, że on jest toksyczny, ponieważ nigdy nie słucha moich potrzeb.",
+      "de": "Ich finde, er ist toxisch, weil er nie auf meine Bedürfnisse hört.",
+      "tags": [
+        "present tense",
+        "opinion",
+        "genitive case",
+        "conjunction"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 191,
+      "target": "Dzięki, że byłaś ze mną za kulisami i trzymałaś kciuki.",
+      "de": "Danke, dass du hinter den Kulissen bei mir warst und die Daumen gedrückt hast.",
+      "tags": [
+        "past tense",
+        "imperfective aspect",
+        "instrumental case",
+        "feminine forms"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 192,
+      "target": "Jak myślisz, czy on zasługuje na jeszcze jedną szansę?",
+      "de": "Was meinst du, verdient er noch eine Chance?",
+      "tags": [
+        "present tense",
+        "question",
+        "accusative case",
+        "opinion"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 193,
+      "target": "Oni przyszli na moją premierę i kupili te piękne kwiaty.",
+      "de": "Sie sind zu meiner Premiere gekommen und haben diese schönen Blumen gekauft.",
+      "tags": [
+        "past tense",
+        "masculine personal",
+        "perfective aspect",
+        "plural forms"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 194,
+      "target": "Proszę, napisz swoją szczerą opinię, bo bardzo szanuję twoją intuicję.",
+      "de": "Bitte schreib mir deine ehrliche Meinung, weil ich deine Intuition sehr schätze.",
+      "tags": [
+        "imperative",
+        "request",
+        "accusative case",
+        "present tense"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 195,
+      "target": "Moja siostra długo szukała prawdziwej przyjaciółki i wreszcie ją znalazła.",
+      "de": "Meine Schwester hat lange nach einer echten Freundin gesucht und sie endlich gefunden.",
+      "tags": [
+        "past tense",
+        "aspect contrast",
+        "genitive case",
+        "feminine third person"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 196,
+      "target": "Wspólnie uczyłyśmy się hiszpańskiego, więc teraz razem przeprowadzamy się do Malagi.",
+      "de": "Wir haben zusammen Spanisch gelernt, deshalb ziehen wir jetzt zusammen nach Málaga.",
+      "tags": [
+        "past tense",
+        "plural feminine",
+        "present tense",
+        "genitive case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 197,
+      "target": "Powiedziałam nie, bo ten projekt nie pasuje do moich wartości.",
+      "de": "Ich habe nein gesagt, weil dieses Projekt nicht zu meinen Werten passt.",
+      "tags": [
+        "past tense",
+        "perfective aspect",
+        "negation",
+        "boundaries"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 198,
+      "target": "Czy widziałeś, jak oni na siebie patrzyli podczas tej rozmowy?",
+      "de": "Hast du gesehen, wie sie sich während dieses Gesprächs angesehen haben?",
+      "tags": [
+        "past tense",
+        "masculine form",
+        "plural personal",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 199,
+      "target": "Czy ty też poczułaś taką ulgę po tej trudnej rozmowie?",
+      "de": "Hast du auch so eine Erleichterung nach diesem schwierigen Gespräch gespürt?",
+      "tags": [
+        "past tense",
+        "perfective aspect",
+        "question",
+        "feminine form"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 200,
+      "target": "Wczoraj miałam trudny czas i płakałam, ale rano napisałam do przyjaciółki i znowu poczułam radość.",
+      "de": "Gestern hatte ich eine schwere Zeit und habe geweint, aber morgens habe ich einer Freundin geschrieben und wieder Freude gespürt.",
+      "tags": [
+        "past tense",
+        "aspect contrast",
+        "story",
+        "genitive case"
+      ],
+      "kind": "story"
+    }
+  ]
+}

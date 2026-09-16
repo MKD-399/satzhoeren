@@ -1,0 +1,2126 @@
+{
+  "id": "pl-a2-3",
+  "lang": "pl",
+  "langLabel": "Polnisch",
+  "level": "A2",
+  "part": 3,
+  "title": "Polnisch A2 · Teil 3",
+  "sentences": [
+    {
+      "n": 1,
+      "target": "Jest mi smutno, bo kończę szkołę i będę tęsknić.",
+      "de": "Ich bin gerade etwas traurig, weil die Schulzeit endet und ich alle vermissen werde.",
+      "tags": [
+        "dative",
+        "future",
+        "emotions"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 2,
+      "target": "Mam dzisiaj dużo nauki, więc nie pójdę na trening.",
+      "de": "Ich hab heute echt viel zu lernen, deshalb schaffe ich es nicht zum Training.",
+      "tags": [
+        "genitive",
+        "quantity",
+        "negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 3,
+      "target": "Hiszpański jest dla mnie łatwiejszy niż polski, ale oba lubię.",
+      "de": "Spanisch fällt mir leichter als Polnisch, aber ich mag beide Sprachen.",
+      "tags": [
+        "comparative",
+        "genitive",
+        "preposition"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 4,
+      "target": "Czy możesz mi pomóc z tą prezentacją na polski?",
+      "de": "Kannst du mir bei diesem Referat für Polnisch helfen?",
+      "tags": [
+        "dative",
+        "request",
+        "school"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 5,
+      "target": "Idę do biblioteki po nową książkę o historii sztuki.",
+      "de": "Ich gehe kurz in die Bib, um ein neues Kunstgeschichte-Buch zu holen.",
+      "tags": [
+        "genitive",
+        "preposition",
+        "movement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 6,
+      "target": "To był mój najlepszy egzamin w tym roku szkolnym.",
+      "de": "Das war meine beste Prüfung in diesem Schuljahr.",
+      "tags": [
+        "superlative",
+        "past",
+        "school"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 7,
+      "target": "Pokażę wam mój nowy film o planowaniu czasu.",
+      "de": "Ich zeig euch mal mein neues Video über Zeitmanagement.",
+      "tags": [
+        "dative",
+        "future",
+        "social-media"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 8,
+      "target": "Zostało mi tylko pięć dni do egzaminu z matematyki.",
+      "de": "Ich habe nur noch fünf Tage bis zur Matheprüfung.",
+      "tags": [
+        "dative",
+        "genitive",
+        "numbers"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 9,
+      "target": "Co sądzisz o naszej nowej nauczycielce od angielskiego?",
+      "de": "Was hältst du von unserer neuen Englischlehrerin?",
+      "tags": [
+        "genitive",
+        "preposition",
+        "opinion"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 10,
+      "target": "Przepraszam, ale nie mam teraz czasu na dłuższą rozmowę.",
+      "de": "Tut mir leid, aber ich habe gerade keine Zeit für ein längeres Gespräch.",
+      "tags": [
+        "genitive",
+        "negation",
+        "boundary"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 11,
+      "target": "Proszę Pani, czy może Pani powtórzyć to pytanie?",
+      "de": "Entschuldigung, könnten Sie die Frage bitte noch mal wiederholen?",
+      "tags": [
+        "polite-form",
+        "request",
+        "school"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 12,
+      "target": "Jestem wdzięczna za pomoc, którą otrzymałam od moich przyjaciół.",
+      "de": "Ich bin echt dankbar für die Hilfe, die ich von meinen Freunden bekommen habe.",
+      "tags": [
+        "genitive",
+        "preposition",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 13,
+      "target": "Za kilka miesięcy przeprowadzam się do słonecznej Hiszpanii.",
+      "de": "In ein paar Monaten ziehe ich ins sonnige Spanien um.",
+      "tags": [
+        "genitive",
+        "quantity",
+        "future-plans"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 14,
+      "target": "Wczoraj powtarzałam materiał do późna. Byłam bardzo zmęczona, ale dzisiaj czuję się już znacznie lepiej.",
+      "de": "Gestern habe ich bis spät abends Stoff wiederholt. Ich war total k.o., aber heute fühle ich mich schon viel besser.",
+      "tags": [
+        "past",
+        "comparative",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 15,
+      "target": "Ta książka jest ciekawsza od poprzedniej, którą czytałam.",
+      "de": "Dieses Buch ist interessanter als das letzte, das ich gelesen habe.",
+      "tags": [
+        "comparative",
+        "genitive",
+        "preposition"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 16,
+      "target": "Kupiłam mamie kwiaty, bo bardzo mi pomogła ze stresem.",
+      "de": "Ich habe Mama Blumen gekauft, weil sie mir total mit dem Stress geholfen hat.",
+      "tags": [
+        "dative",
+        "past",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 17,
+      "target": "Po szkole pójdę prosto do domu i będę odpoczywać.",
+      "de": "Nach der Schule gehe ich direkt heim und entspanne mich erst mal.",
+      "tags": [
+        "genitive",
+        "preposition",
+        "future"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 18,
+      "target": "Gdzie zamierzasz studiować po zdaniu matury w maju?",
+      "de": "Wo willst du eigentlich studieren, wenn du im Mai dein Abi hast?",
+      "tags": [
+        "genitive",
+        "future-plans",
+        "school"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 19,
+      "target": "Dasz radę, bo uczyłaś się na ten egzamin codziennie.",
+      "de": "Du schaffst das, du hast schließlich jeden Tag für die Prüfung gelernt.",
+      "tags": [
+        "future",
+        "past",
+        "comforting"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 20,
+      "target": "W mojej klasie jest mało osób, które lubią hiszpański.",
+      "de": "In meiner Klasse gibt es nur wenige Leute, die Spanisch mögen.",
+      "tags": [
+        "genitive",
+        "quantity",
+        "school"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 21,
+      "target": "Powiedz mi, czy tobie też jest tutaj tak zimno?",
+      "de": "Sag mal, ist dir hier drin auch so kalt?",
+      "tags": [
+        "dative",
+        "question",
+        "feelings"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 22,
+      "target": "Rano byłam na siłowni i teraz mam więcej energii.",
+      "de": "Ich war heute Morgen im Gym und hab jetzt viel mehr Energie.",
+      "tags": [
+        "past",
+        "comparative",
+        "gym"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 23,
+      "target": "Dlaczego uważasz, że ten temat jest najważniejszy na maturę?",
+      "de": "Warum glaubst du, dass dieses Thema das wichtigste fürs Abi ist?",
+      "tags": [
+        "superlative",
+        "opinion",
+        "school"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 24,
+      "target": "Nie mogę iść do kina bez moich najlepszych przyjaciółek.",
+      "de": "Ohne meine besten Freundinnen gehe ich nicht ins Kino.",
+      "tags": [
+        "genitive",
+        "preposition",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 25,
+      "target": "Chcę napisać moją książkę przed końcem tego roku.",
+      "de": "Ich will mein Buch noch vor Ende des Jahres fertig schreiben.",
+      "tags": [
+        "genitive",
+        "preposition",
+        "goals"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 26,
+      "target": "Nie martw się, zawsze możesz mi zaufać i wszystko powiedzieć.",
+      "de": "Mach dir keine Sorgen, du kannst mir immer vertrauen und alles erzählen.",
+      "tags": [
+        "dative",
+        "personal pronoun",
+        "negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 27,
+      "target": "Jutro wieczorem będę u mojej bliskiej przyjaciółki w Warszawie.",
+      "de": "Morgen Abend bin ich bei einer engen Freundin in Warschau.",
+      "tags": [
+        "genitive",
+        "preposition",
+        "future tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 28,
+      "target": "Moja nowa relacja jest o wiele zdrowsza niż poprzednia.",
+      "de": "Meine neue Beziehung ist viel gesünder als die vorherige.",
+      "tags": [
+        "comparative",
+        "adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 29,
+      "target": "Wydaje mi się, że ona nie mówi nam całej prawdy.",
+      "de": "Ich habe das Gefühl, dass sie uns nicht die ganze Wahrheit sagt.",
+      "tags": [
+        "dative",
+        "personal pronoun",
+        "negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 30,
+      "target": "Nie chcę spędzać czasu z ludźmi bez wzajemnego szacunku.",
+      "de": "Ich will keine Zeit mit Leuten verbringen, bei denen der gegenseitige Respekt fehlt.",
+      "tags": [
+        "genitive",
+        "preposition",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 31,
+      "target": "To była najlepsza rozmowa, jaką miałam od kilku tygodni.",
+      "de": "Das war das beste Gespräch, das ich seit ein paar Wochen hatte.",
+      "tags": [
+        "superlative",
+        "genitive",
+        "quantity"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 32,
+      "target": "Czy możesz pożyczyć jej swój notatnik na kilka godzin?",
+      "de": "Kannst du ihr dein Notizbuch für ein paar Stunden leihen?",
+      "tags": [
+        "dative",
+        "genitive",
+        "quantity"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 33,
+      "target": "Dostałam wczoraj bardzo miłą wiadomość od mojego młodszego brata.",
+      "de": "Ich habe gestern eine voll liebe Nachricht von meinem kleinen Bruder bekommen.",
+      "tags": [
+        "genitive",
+        "preposition",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 34,
+      "target": "Bardzo podoba mi się to, jak dbasz o bliskich.",
+      "de": "Mir gefällt es total, wie du dich um deine Liebsten kümmerst.",
+      "tags": [
+        "dative",
+        "personal pronoun",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 35,
+      "target": "Mamy dzisiaj dziesięć minut na szybką kawę przed treningiem.",
+      "de": "Wir haben heute zehn Minuten Zeit für einen schnellen Kaffee vor dem Training.",
+      "tags": [
+        "genitive",
+        "number",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 36,
+      "target": "Powiem wam szczerze, że potrzebuję teraz trochę więcej spokoju.",
+      "de": "Ich sag euch ehrlich, dass ich gerade etwas mehr Ruhe brauche.",
+      "tags": [
+        "dative",
+        "comparative",
+        "future tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 37,
+      "target": "Ten prezent jest dla mojej siostry na osiemnaste urodziny.",
+      "de": "Das Geschenk ist für meine Schwester zu ihrem achtzehnten Geburtstag.",
+      "tags": [
+        "genitive",
+        "preposition"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 38,
+      "target": "Czuję się teraz silniejsza, bo nauczyłam się mówić „nie”.",
+      "de": "Ich fühle mich jetzt stärker, weil ich gelernt habe, „nein“ zu sagen.",
+      "tags": [
+        "comparative",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 39,
+      "target": "Jest mi dzisiaj bardzo przykro z powodu tej kłótni.",
+      "de": "Mir tut der Streit von heute total leid.",
+      "tags": [
+        "dative",
+        "feeling"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 40,
+      "target": "Czy jedziesz w ten weekend do swojego taty?",
+      "de": "Fährst du dieses Wochenende zu deinem Papa?",
+      "tags": [
+        "genitive",
+        "preposition",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 41,
+      "target": "Daj mi znać, jeśli będziesz potrzebować jakiejkolwiek pomocy.",
+      "de": "Sag mir Bescheid, falls du irgendwie Hilfe brauchst.",
+      "tags": [
+        "dative",
+        "future tense",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 42,
+      "target": "Szanowny Panie, byłam wczoraj u Pana w gabinecie.",
+      "de": "Sehr geehrter Herr, ich war gestern bei Ihnen in der Praxis.",
+      "tags": [
+        "genitive",
+        "preposition",
+        "formal",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 43,
+      "target": "Znałyśmy się sześć lat, ale nasze drogi się rozeszły. Zrozumiałam, że mamy teraz zupełnie inne wartości i cele.",
+      "de": "Wir kannten uns sechs Jahre lang, aber unsere Wege haben sich getrennt. Ich habe gemerkt, dass wir jetzt völlig andere Werte und Ziele haben.",
+      "tags": [
+        "genitive",
+        "number",
+        "past tense"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 44,
+      "target": "Chciałabym pomóc ci w tej trudnej sytuacji, jeśli pozwolisz.",
+      "de": "Ich würde dir gerne in dieser schwierigen Situation helfen, wenn du es zulässt.",
+      "tags": [
+        "dative",
+        "chciałabym"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 45,
+      "target": "Znam wielu ludzi, ale mam tylko kilka prawdziwych przyjaciółek.",
+      "de": "Ich kenne viele Leute, aber ich habe nur wenige echte Freundinnen.",
+      "tags": [
+        "genitive",
+        "quantity"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 46,
+      "target": "Nie odpowiada mi to, jak on traktuje swoje rodzeństwo.",
+      "de": "Mir passt es nicht, wie er mit seinen Geschwistern umgeht.",
+      "tags": [
+        "dative",
+        "negation",
+        "present tense"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 47,
+      "target": "Co najbardziej cenisz u swoich bliskich znajomych?",
+      "de": "Was schätzt du an deinen engen Bekannten am meisten?",
+      "tags": [
+        "superlative",
+        "genitive",
+        "preposition"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 48,
+      "target": "Wróciłam właśnie z bardzo długiego spaceru z moją mamą.",
+      "de": "Ich komme gerade von einem sehr langen Spaziergang mit meiner Mama zurück.",
+      "tags": [
+        "genitive",
+        "preposition",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 49,
+      "target": "Możesz mi pożyczyć tę książkę o psychologii relacji?",
+      "de": "Kannst du mir das Buch über Beziehungspsychologie leihen?",
+      "tags": [
+        "dative",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 50,
+      "target": "Tak, to jest dla mnie teraz najważniejsza sprawa.",
+      "de": "Ja, das ist für mich gerade die wichtigste Angelegenheit.",
+      "tags": [
+        "genitive",
+        "personal pronoun",
+        "superlative"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 51,
+      "target": "Uwielbiam to słońce, bo od razu jest mi weselej.",
+      "de": "Ich liebe diese Sonne, da kriege ich sofort bessere Laune.",
+      "tags": [
+        "dative",
+        "comparative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 52,
+      "target": "Czy kupisz mi kawę bez mleka w tej małej kawiarni?",
+      "de": "Kaufst du mir einen Kaffee ohne Milch in diesem kleinen Café?",
+      "tags": [
+        "dative",
+        "genitive",
+        "preposition"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 53,
+      "target": "Moja nowa przyjaciółka jest starsza ode mnie o dwa lata.",
+      "de": "Meine neue Freundin ist zwei Jahre älter als ich.",
+      "tags": [
+        "comparative",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 54,
+      "target": "Wolę zostać w domu, bo od godziny pada deszcz.",
+      "de": "Ich bleibe lieber zu Hause, weil es seit einer Stunde regnet.",
+      "tags": [
+        "genitive",
+        "preposition"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 55,
+      "target": "Która piosenka podoba ci się najbardziej z tej nowej płyty?",
+      "de": "Welches Lied von dem neuen Album gefällt dir am besten?",
+      "tags": [
+        "dative",
+        "superlative",
+        "genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 56,
+      "target": "Spotkajmy się obok siłowni za piętnaście minut, dobrze?",
+      "de": "Treffen wir uns in fünfzehn Minuten neben dem Gym, okay?",
+      "tags": [
+        "genitive",
+        "preposition",
+        "numbers"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 57,
+      "target": "Nie smakuje mi ta herbata, jest dla mnie za słodka.",
+      "de": "Dieser Tee schmeckt mir nicht, er ist mir zu süß.",
+      "tags": [
+        "negation",
+        "dative",
+        "genitive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 58,
+      "target": "Wczoraj wieczorem grałyśmy w gry planszowe. Było dużo śmiechu i poczułam ogromną wdzięczność.",
+      "de": "Gestern Abend haben wir Brettspiele gespielt. Wir haben viel gelacht und ich war einfach nur dankbar.",
+      "tags": [
+        "past tense",
+        "genitive",
+        "quantities"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 59,
+      "target": "Czy masz już bilet do Hiszpanii na wrzesień?",
+      "de": "Hast du schon dein Ticket nach Spanien für September?",
+      "tags": [
+        "genitive",
+        "preposition"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 60,
+      "target": "Ta książka wydaje mi się lepsza niż jej poprzedni kryminał.",
+      "de": "Dieses Buch kommt mir besser vor als ihr letzter Krimi.",
+      "tags": [
+        "dative",
+        "comparative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 61,
+      "target": "Nic nie szkodzi, każdemu może zdarzyć się gorszy dzień.",
+      "de": "Macht nichts, jeder kann mal einen schlechteren Tag haben.",
+      "tags": [
+        "dative",
+        "comparative"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 62,
+      "target": "Proszę mi powiedzieć, kiedy będzie gotowy mój nowy mikrofon.",
+      "de": "Sagen Sie mir bitte, wann mein neues Mikro fertig ist.",
+      "tags": [
+        "polite request",
+        "dative",
+        "future tense"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 63,
+      "target": "Nie pójdę dzisiaj na spacer bez ciepłej bluzy.",
+      "de": "Ohne einen warmen Hoodie gehe ich heute nicht spazieren.",
+      "tags": [
+        "negation",
+        "genitive",
+        "preposition"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 64,
+      "target": "Jest mi bardzo ciepło, więc pójdę popływać w jeziorze.",
+      "de": "Mir ist total warm, deshalb gehe ich im See schwimmen.",
+      "tags": [
+        "dative",
+        "future tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 65,
+      "target": "Ile osób zaprosiłaś na swoje osiemnaste urodziny?",
+      "de": "Wie viele Leute hast du zu deinem Achtzehnten eingeladen?",
+      "tags": [
+        "genitive",
+        "quantities",
+        "past tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 66,
+      "target": "Czy podoba się Pani ten pomysł na mój kanał?",
+      "de": "Gefällt Ihnen diese Idee für meinen Kanal?",
+      "tags": [
+        "dative",
+        "formal"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 67,
+      "target": "Wieczorami czytam książkę, bo to pomaga mi się wyciszyć.",
+      "de": "Abends lese ich ein Buch, weil mir das hilft, runterzukommen.",
+      "tags": [
+        "dative",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 68,
+      "target": "Czy znasz kogoś mądrzejszego od tego autora?",
+      "de": "Kennst du jemanden, der klüger ist als dieser Autor?",
+      "tags": [
+        "comparative",
+        "genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 69,
+      "target": "Tak, kupię wam te lody czekoladowe po drodze.",
+      "de": "Ja, ich kauf euch das Schokoeis auf dem Weg.",
+      "tags": [
+        "dative",
+        "future tense"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 70,
+      "target": "Nie mamy dużo czasu, musimy iść na przystanek.",
+      "de": "Wir haben nicht viel Zeit, wir müssen zur Haltestelle.",
+      "tags": [
+        "negation",
+        "genitive",
+        "quantities"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 71,
+      "target": "Przed wejściem na scenę bardzo się stresowałam, ale poczułam się pewniej.",
+      "de": "Bevor ich auf die Bühne gegangen bin, war ich echt gestresst, aber dann wurde ich sicherer.",
+      "tags": [
+        "past tense",
+        "comparative"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 72,
+      "target": "Pokaż mi, proszę, swoje zdjęcia z wakacji w Madrycie.",
+      "de": "Zeig mir bitte mal deine Urlaubsfotos aus Madrid.",
+      "tags": [
+        "dative",
+        "genitive",
+        "preposition"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 73,
+      "target": "Czy mieszkasz blisko centrum czy raczej blisko parku?",
+      "de": "Wohnst du nah am Zentrum oder eher am Park?",
+      "tags": [
+        "genitive",
+        "preposition"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 74,
+      "target": "Często słucham muzyki, kiedy jest mi smutno lub nudno.",
+      "de": "Ich höre oft Musik, wenn ich traurig bin oder mich langweile.",
+      "tags": [
+        "dative",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 75,
+      "target": "To jest najpiękniejszy zachód słońca, jaki widziałam w tym roku.",
+      "de": "Das ist der schönste Sonnenuntergang, den ich dieses Jahr gesehen habe.",
+      "tags": [
+        "superlative",
+        "past tense"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 76,
+      "target": "Dziękuję ci za ten czas, który mi poświęciłaś.",
+      "de": "Danke dir für die Zeit, die du dir für mich genommen hast.",
+      "tags": [
+        "dative",
+        "personal-pronouns",
+        "past-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 77,
+      "target": "Czuję się dzisiaj o wiele spokojniejsza niż rok temu.",
+      "de": "Ich fühle mich heute viel gelassener als vor einem Jahr.",
+      "tags": [
+        "comparative",
+        "adjectives",
+        "mental-health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 78,
+      "target": "Podoba mi się ta cisza, bo daje mi wolność.",
+      "de": "Ich mag diese Stille, weil sie mir Freiheit gibt.",
+      "tags": [
+        "dative",
+        "personal-pronouns",
+        "present-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 79,
+      "target": "Za co jesteś dzisiaj najbardziej wdzięczna swojemu ciału?",
+      "de": "Wofür bist du deinem Körper heute am dankbarsten?",
+      "tags": [
+        "superlative",
+        "dative",
+        "gratitude"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 80,
+      "target": "Nie potrzebuję od was rad, tylko waszej obecności.",
+      "de": "Ich brauche keine Ratschläge von euch, nur eure Anwesenheit.",
+      "tags": [
+        "genitive",
+        "prepositions",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 81,
+      "target": "Zrobiłam dzisiaj dziesięć powtórzeń więcej i jestem dumna.",
+      "de": "Ich habe heute zehn Wiederholungen mehr gemacht und bin stolz.",
+      "tags": [
+        "genitive",
+        "numbers",
+        "past-tense",
+        "gym"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 82,
+      "target": "Czy będziesz blisko mnie, kiedy przeprowadzę się do Hiszpanii?",
+      "de": "Wirst du in meiner Nähe sein, wenn ich nach Spanien ziehe?",
+      "tags": [
+        "genitive",
+        "prepositions",
+        "future-tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 83,
+      "target": "Tak, dziękuję Pani za to wsparcie, to było ważne.",
+      "de": "Ja, danke Ihnen für die Unterstützung, das war wichtig.",
+      "tags": [
+        "dative",
+        "formal",
+        "answer"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 84,
+      "target": "Wyszłam na scenę bez strachu i powiedziałam moją prawdę.",
+      "de": "Ich bin ohne Angst auf die Bühne gegangen und habe meine Wahrheit gesagt.",
+      "tags": [
+        "genitive",
+        "prepositions",
+        "past-tense",
+        "public-speaking"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 85,
+      "target": "Czy wasze miłe komentarze też dają wam tyle energii?",
+      "de": "Geben euch eure netten Kommentare auch so viel Energie?",
+      "tags": [
+        "dative",
+        "personal-pronouns",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 86,
+      "target": "Czy pójdziesz ze mną do parku bez telefonu na spacer?",
+      "de": "Gehst du mit mir ohne Handy im Park spazieren?",
+      "tags": [
+        "genitive",
+        "prepositions",
+        "future-tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 87,
+      "target": "Czy ta nowa wersja książki jest lepsza od starej?",
+      "de": "Ist diese neue Buchversion besser als die alte?",
+      "tags": [
+        "comparative",
+        "genitive",
+        "prepositions"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 88,
+      "target": "Kiedyś bardzo bałam się zmian. Teraz kupiłam bilet do Hiszpanii i czuję się naprawdę wolna.",
+      "de": "Früher hatte ich große Angst vor Veränderungen. Jetzt habe ich ein Ticket nach Spanien gekauft und fühle mich echt frei.",
+      "tags": [
+        "past-tense",
+        "genitive",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 89,
+      "target": "Daj mi, proszę, trochę czasu na przemyślenie tej propozycji.",
+      "de": "Gib mir bitte ein bisschen Zeit, um über diesen Vorschlag nachzudenken.",
+      "tags": [
+        "dative",
+        "genitive",
+        "quantities",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 90,
+      "target": "Tak, pomogłaś mi zrozumieć, że jestem już wystarczająco silna.",
+      "de": "Ja, du hast mir geholfen zu verstehen, dass ich schon stark genug bin.",
+      "tags": [
+        "dative",
+        "past-tense",
+        "answer"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 91,
+      "target": "Dziękuję mojemu sercu, że tak dzielnie dla mnie pracuje.",
+      "de": "Ich danke meinem Herzen, dass es so tapfer für mich arbeitet.",
+      "tags": [
+        "dative",
+        "gratitude",
+        "present-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 92,
+      "target": "Co jest dla ciebie ważniejsze: wolność czy stabilizacja?",
+      "de": "Was ist dir wichtiger: Freiheit oder Stabilität?",
+      "tags": [
+        "comparative",
+        "personal-pronouns",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 93,
+      "target": "Tak, u mojej babci zawsze czuję się bardzo bezpiecznie.",
+      "de": "Ja, bei meiner Oma fühle ich mich immer sehr sicher.",
+      "tags": [
+        "genitive",
+        "prepositions",
+        "answer"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 94,
+      "target": "Kup sobie kwiaty, bo zasługujesz na wszystko, co najlepsze.",
+      "de": "Kauf dir Blumen, denn du verdienst nur das Beste.",
+      "tags": [
+        "dative",
+        "superlative",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 95,
+      "target": "Pokaż mi swoją prezentację, zanim wyjdziesz dzisiaj na scenę.",
+      "de": "Zeig mir deine Präsentation, bevor du heute auf die Bühne gehst.",
+      "tags": [
+        "dative",
+        "request",
+        "public-speaking"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 96,
+      "target": "Nie, nie odpoczywam od pracy, tylko od mediów społecznościowych.",
+      "de": "Nein, ich erhole mich nicht von der Arbeit, sondern von Social Media.",
+      "tags": [
+        "genitive",
+        "prepositions",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 97,
+      "target": "Powiem im jutro, jak bardzo cenię ich lojalność.",
+      "de": "Ich werde ihnen morgen sagen, wie sehr ich ihre Loyalität schätze.",
+      "tags": [
+        "dative",
+        "future-tense",
+        "friendship"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 98,
+      "target": "Nie podoba mi się ten sposób rozmowy, więc kończę.",
+      "de": "Diese Art zu reden gefällt mir nicht, also höre ich jetzt auf.",
+      "tags": [
+        "dative",
+        "negation",
+        "boundaries"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 99,
+      "target": "To był najtrudniejszy rok, ale teraz jestem znacznie mądrzejsza.",
+      "de": "Das war das schwierigste Jahr, aber jetzt bin ich wesentlich klüger.",
+      "tags": [
+        "superlative",
+        "comparative",
+        "past-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 100,
+      "target": "Czy mogę ci w czymś dzisiaj pomóc, kochana przyjaciółko?",
+      "de": "Kann ich dir heute bei etwas helfen, meine liebe Freundin?",
+      "tags": [
+        "dative",
+        "question",
+        "friendship"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 101,
+      "target": "Jest mi dzisiaj lekko na duszy, a serce jest spokojne.",
+      "de": "Mir ist heute richtig leicht ums Herz und mein Herz ist ruhig.",
+      "tags": [
+        "dative",
+        "feelings"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 102,
+      "target": "Czy masz wizytę u terapeuty w piątek czy w poniedziałek?",
+      "de": "Hast du den Termin beim Therapeuten am Freitag oder am Montag?",
+      "tags": [
+        "genitive",
+        "prepositions"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 103,
+      "target": "Proszę, nie dzwoń do mnie po wieczornym treningu, potrzebuję ciszy.",
+      "de": "Bitte ruf mich nach dem Abendtraining nicht an, ich brauche Ruhe.",
+      "tags": [
+        "genitive",
+        "prepositions",
+        "boundaries"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 104,
+      "target": "Tak, radzę sobie ze stresem znacznie lepiej niż rok temu.",
+      "de": "Ja, ich komme mit Stress viel besser klar als vor einem Jahr.",
+      "tags": [
+        "comparative",
+        "mental-health"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 105,
+      "target": "Nie chcę rozmawiać o moich błędach bez mojej terapeutki.",
+      "de": "Ich möchte über meine Fehler nicht ohne meine Therapeutin sprechen.",
+      "tags": [
+        "genitive",
+        "prepositions",
+        "boundaries"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 106,
+      "target": "Czy ta nowa okładka mojej książki ci się podoba?",
+      "de": "Gefällt dir das neue Cover für mein Buch?",
+      "tags": [
+        "dative",
+        "opinion"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 107,
+      "target": "Dziękuję mojej babci za te wszystkie lekcje, które mi dała.",
+      "de": "Ich danke meiner Oma für all die Lektionen, die sie mir gegeben hat.",
+      "tags": [
+        "dative",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 108,
+      "target": "Dwa lata temu byłam bardzo zagubiona. Dzisiaj dokładnie wiem, czego chcę i przeprowadzam się do Hiszpanii.",
+      "de": "Vor zwei Jahren war ich total verloren. Heute weiß ich genau, was ich will, und ziehe nach Spanien um.",
+      "tags": [
+        "past-tense",
+        "future-tense",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 109,
+      "target": "Pokaż nam, proszę, swój nowy film o zdrowiu psychicznym.",
+      "de": "Zeig uns bitte dein neues Video über psychische Gesundheit.",
+      "tags": [
+        "dative",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 110,
+      "target": "Ilu godzin snu potrzebujesz na regenerację po tym treningu?",
+      "de": "Wie viele Stunden Schlaf brauchst du zur Regeneration nach diesem Training?",
+      "tags": [
+        "genitive",
+        "quantities"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 111,
+      "target": "Czasami po prostu czuję duży opór przed proszeniem o pomoc.",
+      "de": "Manchmal spüre ich einfach einen großen Widerstand, um Hilfe zu bitten.",
+      "tags": [
+        "feelings",
+        "present-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 112,
+      "target": "To nie najgorszy moment, ale czuję się dzisiaj nieco słabsza.",
+      "de": "Das ist nicht der schlimmste Moment, aber ich fühle mich heute etwas schwächer.",
+      "tags": [
+        "superlative",
+        "comparative",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 113,
+      "target": "Mieszkam bardzo blisko siłowni, więc często tam rano ćwiczę.",
+      "de": "Ich wohne super nah am Fitnessstudio, deshalb trainiere ich dort oft morgens.",
+      "tags": [
+        "genitive",
+        "prepositions"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 114,
+      "target": "Czy może mi Pani polecić jakąś dobrą książkę o relacjach?",
+      "de": "Könnten Sie mir ein gutes Buch über Beziehungen empfehlen?",
+      "tags": [
+        "dative",
+        "polite-form"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 115,
+      "target": "Szczerze mówiąc, to ćwiczenie na plecy wydaje mi się trudniejsze.",
+      "de": "Ehrlich gesagt scheint mir diese Rückenübung schwieriger zu sein.",
+      "tags": [
+        "comparative",
+        "dative"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 116,
+      "target": "Kupię pięć róż dla mojej mamy, bo świętuje dzisiaj urodziny.",
+      "de": "Ich kaufe fünf Rosen für meine Mama, sie feiert heute Geburtstag.",
+      "tags": [
+        "genitive",
+        "quantities",
+        "future-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 117,
+      "target": "Co mu powiedziałaś, kiedy on znowu przekroczył twoją granicę?",
+      "de": "Was hast du ihm gesagt, als er wieder deine Grenze überschritten hat?",
+      "tags": [
+        "dative",
+        "past-tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 118,
+      "target": "Wróciłam właśnie od psychologa i czuję ogromną ulgę.",
+      "de": "Ich komme gerade vom Psychologen und spüre eine riesige Erleichterung.",
+      "tags": [
+        "genitive",
+        "prepositions",
+        "past-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 119,
+      "target": "Wyślij mi ten link do ciekawego artykułu o medytacji.",
+      "de": "Schick mir mal den Link zu dem interessanten Artikel über Meditation.",
+      "tags": [
+        "dative",
+        "genitive",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 120,
+      "target": "Nie mogę iść na ten spacer bez moich wygodnych butów.",
+      "de": "Ohne meine bequemen Schuhe kann ich nicht auf diesen Spaziergang gehen.",
+      "tags": [
+        "genitive",
+        "prepositions",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 121,
+      "target": "To była najtrudniejsza decyzja, jaką podjęłam w tym całym roku.",
+      "de": "Das war die schwierigste Entscheidung, die ich dieses ganze Jahr getroffen habe.",
+      "tags": [
+        "superlative",
+        "past-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 122,
+      "target": "Czy im też podobało się moje wystąpienie o wdzięczności?",
+      "de": "Hat ihnen mein Vortrag über Dankbarkeit auch gefallen?",
+      "tags": [
+        "dative",
+        "past-tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 123,
+      "target": "Znam wielu ludzi, ale mam tylko pięć naprawdę bliskich osób.",
+      "de": "Ich kenne viele Leute, aber ich habe nur fünf wirklich enge Vertraute.",
+      "tags": [
+        "genitive",
+        "quantities"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 124,
+      "target": "Tak, zrobiło mi się teraz znacznie cieplej w tym płaszczu.",
+      "de": "Ja, mir ist jetzt viel wärmer geworden in diesem Mantel.",
+      "tags": [
+        "dative",
+        "comparative"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 125,
+      "target": "Ostatni tydzień był pełen wyzwań i wielu trudnych emocji. Teraz w końcu widzę postęp i jestem z siebie dumna.",
+      "de": "Die letzte Woche war voller Herausforderungen und vieler schwieriger Emotionen. Jetzt sehe ich endlich Fortschritte und bin stolz auf mich.",
+      "tags": [
+        "past-tense",
+        "genitive",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 126,
+      "target": "Gdzie mogę kupić lepszy mikrofon do mojego kanału?",
+      "de": "Wo kann ich ein besseres Mikro für meinen Kanal kaufen?",
+      "tags": [
+        "Comparative",
+        "Genitive",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 127,
+      "target": "Czy możesz sprawdzić, czy mój mikrofon mi dobrze działa?",
+      "de": "Kannst du mal schauen, ob mein Mikrofon bei mir richtig funktioniert?",
+      "tags": [
+        "Dative",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 128,
+      "target": "Piszę do Państwa w sprawie rezerwacji sceny na maj.",
+      "de": "Ich schreibe Ihnen bezüglich der Bühnenreservierung für Mai.",
+      "tags": [
+        "Genitive",
+        "Formal",
+        "Request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 129,
+      "target": "Przed przemówieniem wypiłam trochę wody i głęboko oddychałam.",
+      "de": "Vor dem Vortrag habe ich ein bisschen Wasser getrunken und tief geatmet.",
+      "tags": [
+        "Quantity",
+        "Past",
+        "Feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 130,
+      "target": "Czy publiczności podobała się moja historia o przeprowadzce?",
+      "de": "Hat dem Publikum meine Geschichte über den Umzug gefallen?",
+      "tags": [
+        "Dative",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 131,
+      "target": "Mam jeszcze pięć minut do wejścia na scenę.",
+      "de": "Ich habe noch fünf Minuten, bis ich auf die Bühne gehe.",
+      "tags": [
+        "Numbers",
+        "Genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 132,
+      "target": "To jest moje najważniejsze wystąpienie w tym roku.",
+      "de": "Das ist mein wichtigster Auftritt in diesem Jahr.",
+      "tags": [
+        "Superlative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 133,
+      "target": "Nie lubię występować bez dobrego przygotowania i notatek.",
+      "de": "Ich mag es nicht, ohne gute Vorbereitung und Notizen aufzutreten.",
+      "tags": [
+        "Genitive",
+        "Negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 134,
+      "target": "On dał mi bardzo pomocną informację zwrotną po warsztatach.",
+      "de": "Er hat mir nach dem Workshop echt hilfreiches Feedback gegeben.",
+      "tags": [
+        "Dative",
+        "Past"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 135,
+      "target": "Próba mikrofonu odbędzie się obok tej dużej sceny.",
+      "de": "Der Soundcheck findet neben der großen Bühne statt.",
+      "tags": [
+        "Genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 136,
+      "target": "Jestem dzisiaj bardziej zestresowana niż wczoraj, ale jestem gotowa.",
+      "de": "Ich bin heute aufgeregter als gestern, aber ich bin bereit.",
+      "tags": [
+        "Comparative",
+        "Feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 137,
+      "target": "Dziękuję wam za zaproszenie do waszego ciekawego podcastu.",
+      "de": "Danke euch für die Einladung in euren spannenden Podcast.",
+      "tags": [
+        "Dative",
+        "Genitive"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 138,
+      "target": "Czy masz dużo pomysłów na swój następny film?",
+      "de": "Hast du viele Ideen für dein nächstes Video?",
+      "tags": [
+        "Quantity",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 139,
+      "target": "Czy możesz mi pokazać, gdzie jest ten bezprzewodowy mikrofon?",
+      "de": "Kannst du mir zeigen, wo das Funkmikro ist?",
+      "tags": [
+        "Dative",
+        "Request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 140,
+      "target": "Opowiem wam historię o moim pierwszym występie na scenie.",
+      "de": "Ich erzähle euch mal die Geschichte von meinem ersten Auftritt.",
+      "tags": [
+        "Dative",
+        "Future"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 141,
+      "target": "Na widowni było dzisiaj bardzo dużo ludzi i pozytywnej energii.",
+      "de": "Im Publikum waren heute echt viele Leute und positive Energie.",
+      "tags": [
+        "Quantity",
+        "Past"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 142,
+      "target": "Szukam mniejszej sali na moje warsztaty o pisaniu książki.",
+      "de": "Ich suche einen kleineren Raum für meinen Schreib-Workshop.",
+      "tags": [
+        "Comparative",
+        "Genitive"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 143,
+      "target": "Nie wyjdę na scenę bez mojej butelki wody gazowanej.",
+      "de": "Ohne meine Flasche Sprudelwasser gehe ich nicht auf die Bühne.",
+      "tags": [
+        "Genitive",
+        "Negation",
+        "Future"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 144,
+      "target": "Co sądzisz o moim wstępie do tego nowego filmu?",
+      "de": "Was hältst du von meinem Intro für das neue Video?",
+      "tags": [
+        "Genitive",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 145,
+      "target": "Czy jej podoba się mój sposób mówienia do ludzi?",
+      "de": "Gefällt ihr meine Art, vor Menschen zu sprechen?",
+      "tags": [
+        "Dative",
+        "Genitive",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 146,
+      "target": "Przeprowadzam się do Hiszpanii, więc kończę teraz wszystkie projekty.",
+      "de": "Ich ziehe nach Spanien, deshalb bringe ich gerade alle Projekte zu Ende.",
+      "tags": [
+        "Genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 147,
+      "target": "Czy można zarezerwować salę blisko centrum na moje wystąpienie?",
+      "de": "Kann man einen Saal zentrumsnah für meinen Auftritt buchen?",
+      "tags": [
+        "Genitive",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 148,
+      "target": "Poczułam się lepiej po rozmowie z moimi słuchaczami.",
+      "de": "Nach dem Gespräch mit meinen Zuhörern habe ich mich besser gefühlt.",
+      "tags": [
+        "Comparative",
+        "Past",
+        "Feminine"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 149,
+      "target": "Ćwiczyłam moje przemówienie przez osiem godzin. Byłam zmęczona, ale bardzo szczęśliwa po wszystkim.",
+      "de": "Ich habe acht Stunden lang meinen Vortrag geübt. Ich war müde, aber danach total glücklich.",
+      "tags": [
+        "Numbers",
+        "Story",
+        "Past",
+        "Feminine"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 150,
+      "target": "Proszę, prześlij mi swoją opinię o moim tekście do piątku.",
+      "de": "Bitte schick mir dein Feedback zu meinem Text bis Freitag.",
+      "tags": [
+        "Dative",
+        "Genitive",
+        "Request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 151,
+      "target": "Miło mi, że mój wydawca polubił ten rozdział.",
+      "de": "Freut mich, dass mein Verleger dieses Kapitel mochte.",
+      "tags": [
+        "dative",
+        "past",
+        "statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 152,
+      "target": "Ile stron napisałaś w ciągu ostatnich pięciu dni?",
+      "de": "Wie viele Seiten hast du in den letzten fünf Tagen geschrieben?",
+      "tags": [
+        "genitive",
+        "number",
+        "past",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 153,
+      "target": "Proszę, pożycz mi swój ulubiony kryminał na weekend.",
+      "de": "Leih mir bitte deinen Lieblingskrimi für das Wochenende.",
+      "tags": [
+        "dative",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 154,
+      "target": "Nie pójdę spać bez napisania chociaż jednej strony.",
+      "de": "Ich gehe nicht schlafen, ohne zumindest eine Seite geschrieben zu haben.",
+      "tags": [
+        "genitive",
+        "preposition",
+        "future",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 155,
+      "target": "Ten rozdział o Hiszpanii jest o wiele ciekawszy.",
+      "de": "Das Kapitel über Spanien ist viel interessanter.",
+      "tags": [
+        "comparative",
+        "statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 156,
+      "target": "Czy ta postać też wydaje ci się zbyt smutna?",
+      "de": "Kommt dir dieser Charakter auch zu traurig vor?",
+      "tags": [
+        "dative",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 157,
+      "target": "Tak, mam dużo nowych pomysłów na zakończenie książki.",
+      "de": "Ja, ich habe viele neue Ideen für das Buchende.",
+      "tags": [
+        "genitive",
+        "quantity",
+        "answer"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 158,
+      "target": "Przez tydzień miałam blokadę twórczą. Wczoraj wreszcie zaczęłam pisać i teraz czuję się wolna.",
+      "de": "Ich hatte eine Woche eine Schreibblockade. Gestern habe ich endlich angefangen zu schreiben und jetzt fühle ich mich frei.",
+      "tags": [
+        "past",
+        "feminine",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 159,
+      "target": "Ta historia jest inspirowana listami od mojej babci.",
+      "de": "Diese Geschichte ist von den Briefen meiner Oma inspiriert.",
+      "tags": [
+        "genitive",
+        "preposition",
+        "statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 160,
+      "target": "Co najbardziej podoba się Pani w mojej książce?",
+      "de": "Was gefällt Ihnen an meinem Buch am besten?",
+      "tags": [
+        "dative",
+        "superlative",
+        "usted",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 161,
+      "target": "To jest najtrudniejszy temat, o jakim kiedykolwiek pisałam.",
+      "de": "Das ist das schwierigste Thema, über das ich je geschrieben habe.",
+      "tags": [
+        "superlative",
+        "past",
+        "feminine",
+        "statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 162,
+      "target": "Nie chcę zmieniać tytułu dla pieniędzy czy sławy.",
+      "de": "Ich will den Titel nicht für Geld oder Ruhm ändern.",
+      "tags": [
+        "genitive",
+        "preposition",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 163,
+      "target": "Wydawca obiecał nam pomoc przy promocji mojej książki.",
+      "de": "Der Verleger hat uns Hilfe bei der Buchwerbung versprochen.",
+      "tags": [
+        "dative",
+        "past",
+        "statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 164,
+      "target": "Czy mogę wysłać ten tekst do Twojej redaktorki?",
+      "de": "Kann ich diesen Text an deine Lektorin schicken?",
+      "tags": [
+        "genitive",
+        "preposition",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 165,
+      "target": "Pisanie o moich lękach bardzo mi dzisiaj pomaga.",
+      "de": "Über meine Ängste zu schreiben, hilft mir heute sehr.",
+      "tags": [
+        "dative",
+        "statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 166,
+      "target": "Który bohater jest dla ciebie bardziej autentyczny?",
+      "de": "Welcher Charakter ist für dich authentischer?",
+      "tags": [
+        "genitive",
+        "preposition",
+        "comparative",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 167,
+      "target": "Myślę, że ta wersja jest zdecydowanie lepsza.",
+      "de": "Ich denke, dass diese Version definitiv besser ist.",
+      "tags": [
+        "comparative",
+        "answer"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 168,
+      "target": "Mam dzisiaj mało czasu, bo poprawiam trzeci rozdział.",
+      "de": "Ich habe heute wenig Zeit, weil ich das dritte Kapitel überarbeite.",
+      "tags": [
+        "genitive",
+        "quantity",
+        "statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 169,
+      "target": "Pomóż mi wybrać najlepsze zdjęcie na tył książki.",
+      "de": "Hilf mir, das beste Foto für die Buchrückseite auszuwählen.",
+      "tags": [
+        "dative",
+        "superlative",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 170,
+      "target": "Nie będę pisać nic na siłę bez inspiracji.",
+      "de": "Ich werde nichts erzwingen, wenn ich keine Inspiration habe.",
+      "tags": [
+        "genitive",
+        "preposition",
+        "future",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 171,
+      "target": "Dzięki tobie zrozumiałam, o czym chcę pisać dalej.",
+      "de": "Dank dir habe ich verstanden, worüber ich weiter schreiben will.",
+      "tags": [
+        "dative",
+        "past",
+        "feminine",
+        "statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 172,
+      "target": "Czy ta kawiarnia obok księgarni jest teraz otwarta?",
+      "de": "Ist das Café neben der Buchhandlung gerade offen?",
+      "tags": [
+        "genitive",
+        "preposition",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 173,
+      "target": "W Hiszpanii chciałabym pisać codziennie rano przy kawie.",
+      "de": "In Spanien würde ich gerne jeden Morgen beim Kaffee schreiben.",
+      "tags": [
+        "fixed-conditional",
+        "statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 174,
+      "target": "Czy potrzebujesz dziesięciu minut na przeczytanie tego wstępu?",
+      "de": "Brauchst du zehn Minuten, um diese Einleitung zu lesen?",
+      "tags": [
+        "genitive",
+        "number",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 175,
+      "target": "Nie, jemu nie podoba się mój nowy styl.",
+      "de": "Nein, ihm gefällt mein neuer Stil nicht.",
+      "tags": [
+        "dative",
+        "answer",
+        "negation"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 176,
+      "target": "Ten kolor miniatury bardziej mi się podoba niż czerwony.",
+      "de": "Diese Farbe vom Thumbnail gefällt mir besser als das Rot.",
+      "tags": [
+        "dative",
+        "comparative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 177,
+      "target": "Może Pan sprawdzić jakość światła w tym studiu?",
+      "de": "Könnten Sie mal die Lichtqualität in diesem Studio checken?",
+      "tags": [
+        "genitive",
+        "formal"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 178,
+      "target": "Prześlij mi, proszę, ten plik bez muzyki w tle.",
+      "de": "Schick mir bitte die Datei ohne die Hintergrundmusik.",
+      "tags": [
+        "dative",
+        "genitive"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 179,
+      "target": "Tak, pod moim nowym filmem widzę już dziesięć komentarzy.",
+      "de": "Ja, unter meinem neuen Video stehen schon zehn Kommentare.",
+      "tags": [
+        "genitive",
+        "quantity"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 180,
+      "target": "Taki produkt mi nie pasuje, więc nie zrobię reklamy.",
+      "de": "So ein Produkt passt nicht zu mir, also mache ich keine Werbung.",
+      "tags": [
+        "dative",
+        "genitive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 181,
+      "target": "Montowałam ten materiał przez sześć godzin i jestem dumna.",
+      "de": "Ich habe sechs Stunden an dem Video geschnitten und bin stolz.",
+      "tags": [
+        "past",
+        "quantity",
+        "feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 182,
+      "target": "Pójdziesz ze mną do sklepu po nową kartę?",
+      "de": "Gehst du mit mir in den Laden, um eine neue Karte zu holen?",
+      "tags": [
+        "genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 183,
+      "target": "Czułam się dzisiaj rano gorzej i nie mogłam nagrywać. Usiadłam blisko okna, wypiłam herbatę i poczułam się lepiej.",
+      "de": "Mir ging es heute Morgen schlechter und ich konnte nicht filmen. Ich habe mich ans Fenster gesetzt, Tee getrunken und dann ging es mir besser.",
+      "tags": [
+        "past",
+        "feminine",
+        "genitive",
+        "comparative"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 184,
+      "target": "Pokaż mi swoją listę pomysłów na wspólny odcinek.",
+      "de": "Zeig mir mal deine Ideen-Liste für eine gemeinsame Folge.",
+      "tags": [
+        "dative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 185,
+      "target": "Ile osób z Waszej grupy interesuje się psychologią?",
+      "de": "Wie viele Leute aus eurer Gruppe interessieren sich für Psychologie?",
+      "tags": [
+        "genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 186,
+      "target": "Nagranie wygląda znacznie lepiej od mojego pierwszego vloga.",
+      "de": "Diese Aufnahme sieht viel besser aus als mein erster Vlog.",
+      "tags": [
+        "comparative",
+        "genitive"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 187,
+      "target": "Od kilku dni dbam o dłuższą przerwę od ekranu.",
+      "de": "Seit ein paar Tagen achte ich auf eine längere Bildschirmpause.",
+      "tags": [
+        "genitive",
+        "quantity",
+        "comparative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 188,
+      "target": "Nigdy nie publikuję filmów bez napisów dla widzów.",
+      "de": "Ich poste nie Videos ohne Untertitel für die Zuschauer.",
+      "tags": [
+        "genitive",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 189,
+      "target": "Oni też lubią ten dynamiczny montaż na kanale?",
+      "de": "Mögen die den dynamischen Schnitt auf dem Kanal auch?",
+      "tags": [
+        "pronoun"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 190,
+      "target": "Szukam małego biurka do mojego nowego pokoju w Hiszpanii.",
+      "de": "Ich suche einen kleinen Schreibtisch für mein neues Zimmer in Spanien.",
+      "tags": [
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 191,
+      "target": "Daj mu znać, że jego komentarz bardzo mi pomógł.",
+      "de": "Sag ihm Bescheid, dass mir sein Kommentar echt geholfen hat.",
+      "tags": [
+        "dative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 192,
+      "target": "Masz czas na krótką rozmowę o pięciu projektach?",
+      "de": "Hast du kurz Zeit, um über fünf Projekte zu quatschen?",
+      "tags": [
+        "quantity"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 193,
+      "target": "Jest mi bardzo miło, kiedy czytam Wasze szczere wiadomości.",
+      "de": "Es freut mich total, wenn ich eure ehrlichen Nachrichten lese.",
+      "tags": [
+        "dative"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 194,
+      "target": "Obecny tydzień jest najbardziej pracowity w mojej karierze.",
+      "de": "Diese Woche ist die stressigste in meiner ganzen bisherigen Laufbahn.",
+      "tags": [
+        "superlative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 195,
+      "target": "To naturalne światło wystarczy ci do robienia zdjęć?",
+      "de": "Reicht dir das natürliche Licht zum Fotografieren?",
+      "tags": [
+        "dative",
+        "genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 196,
+      "target": "Nie odpowiada mi ten termin rozmowy w przyszły wtorek.",
+      "de": "Der Termin für das Gespräch nächsten Dienstag passt mir nicht.",
+      "tags": [
+        "dative"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 197,
+      "target": "Dziękuję wam za każdą minutę spędzoną na moim kanale.",
+      "de": "Ich danke euch für jede Minute auf meinem Kanal.",
+      "tags": [
+        "dative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 198,
+      "target": "Który tytuł wydaje ci się bardziej ciekawy dla widzów?",
+      "de": "Welchen Titel findest du für die Zuschauer interessanter?",
+      "tags": [
+        "dative",
+        "comparative",
+        "genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 199,
+      "target": "U nas na kanale zawsze rozmawiamy o ważnych tematach.",
+      "de": "Bei uns auf dem Kanal sprechen wir immer über wichtige Themen.",
+      "tags": [
+        "genitive"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 200,
+      "target": "W Hiszpanii pokażę wam moją nową codzienność i treningi.",
+      "de": "In Spanien zeige ich euch dann meinen neuen Alltag und meine Workouts.",
+      "tags": [
+        "dative",
+        "future"
+      ],
+      "kind": "statement"
+    }
+  ]
+}

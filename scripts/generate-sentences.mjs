@@ -39,6 +39,16 @@ const profile = JSON.parse(readFileSync(join(ROOT, 'scripts', 'specs', '_profile
 const THEMES = spec.themes?.length ? spec.themes : profile.themes;
 
 const norm = (s) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9ñ\s]/g, ' ').replace(/\s+/g, ' ').trim();
+
+// Charset gates: Gemini occasionally returns a whole batch with mojibake
+// (ż→Ŵ, ś→ŗ, dropped umlauts). Anything outside the language's alphabet
+// (plus digits, punctuation, spaces) is rejected before it can reach a deck.
+const CHARSET = {
+  pl: /^[A-Za-ząćęłńóśźżĄĆĘŁŃÓŚŹŻ0-9\s.,;:!?"'„“”()\-–—…%€/&+]+$/u,
+  es: /^[A-Za-záéíóúüñÁÉÍÓÚÜÑ0-9\s.,;:!?¿¡"'«»()\-–—…%€/&+]+$/u,
+  de: /^[A-Za-zäöüßÄÖÜ0-9\s.,;:!?"'„“”‚‘’()\-–—…%€/&+áéíóúñçłśż]+$/u,
+};
+const charsetOk = (s, lang) => (CHARSET[lang] ?? /./).test(s);
 const words = (s) => norm(s).split(' ').filter(Boolean).length;
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -158,6 +168,7 @@ while (accepted.length < TARGET && round < Math.ceil(TARGET / BATCH) * 3) {
     const isStory = String(s.kind || '') === 'story';
     if (w < lo - 2 || w > (isStory ? 32 : hi + 4)) { rejects.len++; continue; }
     if (spec.bannedPhrases.some((b) => norm(target).includes(norm(b)))) { rejects.banned++; continue; }
+    if (!charsetOk(target, spec.lang) || !charsetOk(de, 'de')) { rejects.charset = (rejects.charset || 0) + 1; continue; }
     const k = norm(target);
     if (seen.has(k)) { rejects.dup++; continue; }
     seen.add(k);

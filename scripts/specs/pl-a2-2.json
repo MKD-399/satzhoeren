@@ -1,0 +1,35 @@
+{
+  "id": "pl-a2-2",
+  "lang": "pl",
+  "langLabel": "Polnisch",
+  "langName": "Polish (standard Polish as spoken in Poland today; natural everyday register; ALWAYS correct diacritics ą ć ę ł ń ó ś ź ż). The learner is FEMALE: first-person past/adjective forms are feminine (byłam, zmęczona).",
+  "level": "A2",
+  "wordRange": [
+    6,
+    10
+  ],
+  "register": "Level A2: short but complete everyday sentences from high-frequency words, still REAL speech. Simple subordination is fine (bo, że, kiedy, jeśli, ale, więc). Fillers sparingly: no, właśnie, dobra, w sumie, spoko. Pan/Pani where natural. Profile sentence types stay simple: opinion + reason as two short clauses.",
+  "themes": [
+    "mental health and healing: naming feelings, therapy appointments, good and bad days, setbacks, noticing progress, encouraging someone, asking for help, setting boundaries",
+    "stage and speaking: performances, stage fright, the audience, the microphone, rehearsing a talk, getting feedback, introducing yourself, telling a story, booking someone, writing an enquiry",
+    "writing and the book: chapters, characters, writer's block, a deadline, revising, translating, the publisher, the cover, reading and recommending books",
+    "YouTube and content: filming, editing, thumbnail, title, comments, the community, camera, light, upload schedule, collaborations, labelling ads",
+    "gym and body: training, sets and reps, sore muscles, sportswear, sizes and fit, nutrition, sleep, energy, motivation on days without strength",
+    "moving to a new city abroad: flat hunting, authorities, the bank, groceries, neighbours, a café, public transport, meeting someone, small talk, getting lost, asking for help, homesickness",
+    "school and Abitur: exams, studying, teachers, presentations, grades, stress, planning time, plans for the future",
+    "friendship and relationships: real friendship, toxic people, recognising manipulation, saying no, making up, trust, family, comforting someone",
+    "everyday life and small joys: ice cream on a sunny day, going swimming, a walk just because you can, games with friends, music, coffee, rain at the window, the weekend, cosy evenings",
+    "gratitude and freedom: appreciating something you did not see before, looking back, praising yourself, saying thank you, being proud"
+  ],
+  "bannedPhrases": [
+    "Gdzie jest biblioteka?",
+    "To jest stół",
+    "To jest kot",
+    "Ala ma kota"
+  ],
+  "part": 2,
+  "title": "Polnisch A2 · Teil 2",
+  "focus": "FUTURE: compound imperfective future (będę robić / będę robiła, będziesz, będzie, będziemy, będziecie, będą) for ongoing or repeated actions, and perfective future (zrobię, kupię, napiszę, przeczytam, pójdę, pojadę, zadzwonię, spotkam się) for one-time results; time words jutro, w przyszłym tygodniu, za godzinę, w sobotę, niedługo, wkrótce; plans, promises, small decisions. About 60% of sentences must carry one of these. Also modal verbs with infinitive and reflexive się-verbs (spotkać się, uczyć się, cieszyć się, martwić się, czuć się).",
+  "always": "Everything from A1 and A2 Teil 1: past tense in all persons, aspect contrast in the past, cases as before.",
+  "avoidGrammar": "No conditional (except fixed chciałabym). No dative. No participles, no żeby-clauses."
+}

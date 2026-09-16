@@ -1,0 +1,2178 @@
+{
+  "id": "pl-a2-2",
+  "lang": "pl",
+  "langLabel": "Polnisch",
+  "level": "A2",
+  "part": 2,
+  "title": "Polnisch A2 · Teil 2",
+  "sentences": [
+    {
+      "n": 1,
+      "target": "Jutro pójdę na spacer i kupię moje ulubione lody.",
+      "de": "Morgen mache ich einen Spaziergang und hole mir mein Lieblingseis.",
+      "tags": [
+        "future-perfective",
+        "first-person"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 2,
+      "target": "Będę czytała moją książkę przez cały wieczór, bo pada deszcz.",
+      "de": "Ich werde den ganzen Abend mein Buch lesen, weil es regnet.",
+      "tags": [
+        "future-compound",
+        "feminine",
+        "conjunction-bo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 3,
+      "target": "Spotkasz się ze mną na kawę w sobotę o dwunastej?",
+      "de": "Triffst du dich am Samstag um zwölf mit mir auf einen Kaffee?",
+      "tags": [
+        "future-perfective",
+        "reflexive-się",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 4,
+      "target": "Chcę się dzisiaj dobrze czuć, więc idę na siłownię.",
+      "de": "Ich möchte mich heute gut fühlen, also gehe ich zum Sport.",
+      "tags": [
+        "modal-verb",
+        "reflexive-się",
+        "present-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 5,
+      "target": "Wczoraj widziałam piękny zachód słońca i poczułam dużą wdzięczność.",
+      "de": "Gestern habe ich einen schönen Sonnenuntergang gesehen und war total dankbar.",
+      "tags": [
+        "past-tense",
+        "feminine",
+        "aspect-contrast"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 6,
+      "target": "Przepraszam, nie napiszę dzisiaj tego artykułu, potrzebuję odpoczynku.",
+      "de": "Sorry, ich werde den Artikel heute nicht schreiben, ich brauche eine Pause.",
+      "tags": [
+        "future-perfective",
+        "negation",
+        "genitive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 7,
+      "target": "Będziemy grali w gry planszowe ze znajomymi jutro wieczorem.",
+      "de": "Wir werden morgen Abend mit Freunden Brettspiele spielen.",
+      "tags": [
+        "future-compound",
+        "first-person-plural",
+        "instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 8,
+      "target": "Pływałam w jeziorze, kiedy nagle zaczął padać deszcz.",
+      "de": "Ich war gerade im See schwimmen, als es plötzlich anfing zu regnen.",
+      "tags": [
+        "past-tense",
+        "feminine",
+        "time-conjunction"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 9,
+      "target": "Czy Pan wyśle jutro to nagranie ze sceny?",
+      "de": "Könnten Sie mir morgen die Aufnahme von der Bühne schicken?",
+      "tags": [
+        "future-perfective",
+        "formal-pan",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 10,
+      "target": "Zadzwonię za godzinę, bo teraz nagrywam nowy filmik.",
+      "de": "Ich rufe in einer Stunde an, ich nehme gerade ein Video auf.",
+      "tags": [
+        "future-perfective",
+        "present-tense",
+        "time-word"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 11,
+      "target": "To świetny pomysł, na pewno też tam pójdę.",
+      "de": "Das ist eine super Idee, ich mache auf jeden Fall mit.",
+      "tags": [
+        "future-perfective",
+        "adverb"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 12,
+      "target": "W zeszłym tygodniu kupiłam nowy zeszyt. Jutro zacznę pisać pierwszy rozdział mojej książki.",
+      "de": "Letzte Woche habe ich ein neues Notizbuch gekauft. Morgen fange ich an, das erste Kapitel meines Buches zu schreiben.",
+      "tags": [
+        "past-tense",
+        "future-perfective",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 13,
+      "target": "Nie lubię głośnej muzyki, bo nie mogę się skupić na pracy.",
+      "de": "Ich mag keine laute Musik, weil ich mich dann nicht auf die Arbeit konzentrieren kann.",
+      "tags": [
+        "modal-verb",
+        "reflexive-się",
+        "negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 14,
+      "target": "Za miesiąc przeprowadzę się do Hiszpanii i będę codziennie ćwiczyć.",
+      "de": "In einem Monat ziehe ich nach Spanien und werde jeden Tag trainieren.",
+      "tags": [
+        "future-perfective",
+        "future-compound",
+        "reflexive-się"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 15,
+      "target": "Idziecie ze mną na siłownię czy zostajecie w domu?",
+      "de": "Kommt ihr mit zum Sport oder bleibt ihr zu Hause?",
+      "tags": [
+        "present-tense",
+        "second-person-plural",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 16,
+      "target": "Czy możesz otworzyć okno? W tym pokoju jest bardzo ciepło.",
+      "de": "Kannst du bitte das Fenster aufmachen? Es ist echt warm hier im Zimmer.",
+      "tags": [
+        "modal-verb",
+        "request",
+        "locative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 17,
+      "target": "Wczoraj pierwszy raz mówiłam na scenie i to było niesamowite.",
+      "de": "Gestern habe ich zum ersten Mal auf der Bühne gesprochen und es war der Wahnsinn.",
+      "tags": [
+        "past-tense",
+        "feminine",
+        "adverb"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 18,
+      "target": "Kupię jutro świeże kwiaty. Mój pokój będzie wyglądał lepiej.",
+      "de": "Ich kaufe morgen frische Blumen. Dann sieht mein Zimmer schöner aus.",
+      "tags": [
+        "future-perfective",
+        "future-compound"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 19,
+      "target": "Uwielbiam jesienne wieczory, bo mogę pić herbatę i czytać.",
+      "de": "Ich liebe Herbstabende, weil ich da Tee trinken und lesen kann.",
+      "tags": [
+        "modal-verb",
+        "infinitive",
+        "opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 20,
+      "target": "Moi znajomi przyjdą wieczorem i będziemy razem słuchać muzyki.",
+      "de": "Meine Freunde kommen heute Abend vorbei und wir werden Musik hören.",
+      "tags": [
+        "future-perfective",
+        "future-compound",
+        "third-person-plural"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 21,
+      "target": "Czy oni skończą remont basenu w przyszłym tygodniu?",
+      "de": "Werden sie die Renovierung vom Pool nächste Woche fertigkriegen?",
+      "tags": [
+        "future-perfective",
+        "question",
+        "time-word"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 22,
+      "target": "Nie martw się, wszystko będzie dobrze, jesteś bardzo odważna.",
+      "de": "Mach dir keine Sorgen, alles wird gut, du bist echt mutig.",
+      "tags": [
+        "reflexive-się",
+        "future-compound",
+        "adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 23,
+      "target": "Nie miałam dzisiaj czasu, ale zrobię to jutro rano.",
+      "de": "Ich hatte heute keine Zeit, aber ich mache das morgen früh.",
+      "tags": [
+        "past-tense",
+        "future-perfective",
+        "feminine"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 24,
+      "target": "Chciałabym zapytać, czy ten pokój jest nadal wolny.",
+      "de": "Ich wollte fragen, ob das Zimmer noch frei ist.",
+      "tags": [
+        "chciałabym",
+        "request",
+        "adjective"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 25,
+      "target": "Będę ćwiczyła moją wypowiedź na egzamin DELE przez cały weekend.",
+      "de": "Ich werde das ganze Wochenende meinen Vortrag für die DELE-Prüfung üben.",
+      "tags": [
+        "future-compound",
+        "feminine",
+        "time-word"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 26,
+      "target": "Jestem z siebie dumna, bo skończyłam pierwszą część scenariusza.",
+      "de": "Ich bin stolz auf mich, weil ich den ersten Teil vom Skript fertig habe.",
+      "tags": [
+        "czas przeszły",
+        "aspekt dokonany",
+        "spójnik bo"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 27,
+      "target": "W poniedziałek o dziesiątej będę trenowała z trenerem personalnym.",
+      "de": "Am Montag um zehn trainiere ich mit einem Personal Trainer.",
+      "tags": [
+        "przyszły złożony",
+        "aspekt niedokonany",
+        "narzędnik"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 28,
+      "target": "Będziesz na mnie czekać w parku po lekcji hiszpańskiego?",
+      "de": "Wartest du nach der Spanischstunde im Park auf mich?",
+      "tags": [
+        "przyszły złożony",
+        "pytanie",
+        "miejscownik"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 29,
+      "target": "Wcześniej tego nie widziałam, ale teraz czuję się wolna.",
+      "de": "Früher habe ich das nicht gesehen, aber jetzt fühle ich mich frei.",
+      "tags": [
+        "czas przeszły",
+        "czasownik zwrotny",
+        "negacja"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 30,
+      "target": "Czy może Pan wysłać to nagranie na mój e-mail?",
+      "de": "Könnten Sie die Aufnahme bitte an meine E-Mail schicken?",
+      "tags": [
+        "czasownik modalny",
+        "forma Pan/Pani",
+        "prośba"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 31,
+      "target": "Na pewno zdam ten egzamin, bo dużo się uczyłam.",
+      "de": "Ich werde die Prüfung sicher bestehen, weil ich viel gelernt habe.",
+      "tags": [
+        "przyszły prosty",
+        "czas przeszły",
+        "aspekt dokonany"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 32,
+      "target": "Uważam, że ona dzisiaj bardzo dobrze mówiła na scenie.",
+      "de": "Ich finde, sie hat heute auf der Bühne echt gut gesprochen.",
+      "tags": [
+        "opinia",
+        "czas przeszły",
+        "miejscownik"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 33,
+      "target": "Siedziałam na balkonie i patrzyłam w niebo. Zrozumiałam wtedy, że jestem szczęśliwa.",
+      "de": "Ich saß auf dem Balkon und habe in den Himmel geschaut. Da habe ich begriffen, dass ich glücklich bin.",
+      "tags": [
+        "opowieść",
+        "czas przeszły",
+        "aspekt dokonany"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 34,
+      "target": "Przepraszam, nie pójdę dzisiaj do kina, jestem bardzo zmęczona.",
+      "de": "Sorry, ich gehe heute nicht ins Kino, ich bin total k.o.",
+      "tags": [
+        "przyszły prosty",
+        "negacja",
+        "odmowa"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 35,
+      "target": "W niedzielę będziemy razem oglądać stare zdjęcia i rozmawiać.",
+      "de": "Am Sonntag werden wir zusammen alte Fotos anschauen und quatschen.",
+      "tags": [
+        "przyszły złożony",
+        "liczba mnoga",
+        "aspekt niedokonany"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 36,
+      "target": "Czy pomożecie przy przeprowadzce w przyszłym tygodniu?",
+      "de": "Helft ihr nächste Woche beim Umzug?",
+      "tags": [
+        "przyszły prosty",
+        "pytanie",
+        "miejscownik"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 37,
+      "target": "Nie będziesz się martwić, jeśli wszystko dobrze zaplanujemy.",
+      "de": "Du wirst dir keine Sorgen machen, wenn wir alles gut planen.",
+      "tags": [
+        "przyszły złożony",
+        "przyszły prosty",
+        "czasownik zwrotny"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 38,
+      "target": "Jutro założę nowy dziennik na moje myśli i plany.",
+      "de": "Morgen fange ich ein neues Journal für meine Gedanken und Pläne an.",
+      "tags": [
+        "przyszły prosty",
+        "aspekt dokonany",
+        "biernik"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 39,
+      "target": "Rano kupię kwiaty i postawię je na stole.",
+      "de": "Morgen kaufe ich Blumen und stelle sie auf den Tisch.",
+      "tags": [
+        "przyszły prosty",
+        "aspekt dokonany",
+        "biernik"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 40,
+      "target": "Co będziesz robić, kiedy już przeprowadzisz się do Barcelony?",
+      "de": "Was wirst du machen, wenn du erst mal nach Barcelona umgezogen bist?",
+      "tags": [
+        "przyszły złożony",
+        "przyszły prosty",
+        "pytanie"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 41,
+      "target": "Napisałam trzy strony mojej książki i jestem z siebie dumna.",
+      "de": "Ich habe drei Seiten von meinem Buch geschrieben und bin stolz auf mich.",
+      "tags": [
+        "czas przeszły",
+        "aspekt dokonany",
+        "dopełniacz"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 42,
+      "target": "Tak, wezmę tę torbę, bo jest bardzo lekka i wygodna.",
+      "de": "Ja, ich nehme die Tasche, weil sie total leicht und praktisch ist.",
+      "tags": [
+        "przyszły prosty",
+        "biernik",
+        "odpowiedź"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 43,
+      "target": "Czy chciałby Pan coś wypić przed tym wykładem?",
+      "de": "Möchten Sie vor dem Vortrag etwas trinken?",
+      "tags": [
+        "forma Pan/Pani",
+        "chciałabym",
+        "narzędnik"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 44,
+      "target": "Oni przeprowadzą się do innego miasta w przyszłym roku.",
+      "de": "Sie werden nächstes Jahr in eine andere Stadt ziehen.",
+      "tags": [
+        "przyszły prosty",
+        "liczba mnoga",
+        "miejscownik"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 45,
+      "target": "Pójdziesz ze mną na siłownię w piątek rano?",
+      "de": "Kommst du am Freitagmorgen mit mir zum Sport?",
+      "tags": [
+        "przyszły prosty",
+        "narzędnik",
+        "pytanie"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 46,
+      "target": "Uczę się doceniać małe rzeczy każdego dnia i to działa.",
+      "de": "Ich lerne, jeden Tag die kleinen Dinge zu schätzen, und es funktioniert.",
+      "tags": [
+        "czasownik zwrotny",
+        "czas teraźniejszy",
+        "wdzięczność"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 47,
+      "target": "W przyszłym tygodniu porozmawiam z moją nauczycielką o tym egzaminie.",
+      "de": "Nächste Woche spreche ich mit meiner Lehrerin über die Prüfung.",
+      "tags": [
+        "przyszły prosty",
+        "narzędnik",
+        "miejscownik"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 48,
+      "target": "Nie mogę teraz odebrać, bo przygotowuję się do nowego filmu.",
+      "de": "Ich kann gerade nicht rangehen, weil ich mich auf ein neues Video vorbereite.",
+      "tags": [
+        "czasownik modalny",
+        "czasownik zwrotny",
+        "negacja"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 49,
+      "target": "Spotkałam wczoraj starą przyjaciółkę. Opowiadałyśmy o naszych planach przez dwie godziny.",
+      "de": "Ich habe gestern eine alte Freundin getroffen. Wir haben zwei Stunden lang über unsere Pläne geredet.",
+      "tags": [
+        "czas przeszły",
+        "opowieść",
+        "aspekt dokonany"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 50,
+      "target": "Będziesz dzisiaj ze mną powtarzać hiszpański?",
+      "de": "Lernst du heute mit mir Spanisch?",
+      "tags": [
+        "przyszły złożony",
+        "pytanie",
+        "narzędnik"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 51,
+      "target": "Jutro spotkam się z moją terapeutką i o tym porozmawiamy.",
+      "de": "Morgen treffe ich mich mit meiner Therapeutin und wir reden darüber.",
+      "tags": [
+        "future perfective",
+        "reflexive",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 52,
+      "target": "Wczoraj czułam się bardzo przytłoczona, więc wzięłam dzień wolny.",
+      "de": "Gestern hab ich mich echt überfordert gefühlt, also hab ich mir einen Tag frei genommen.",
+      "tags": [
+        "past tense",
+        "reflexive",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 53,
+      "target": "Widzę postępy, bo teraz umiem lepiej nazywać moje uczucia.",
+      "de": "Ich seh Fortschritte, weil ich meine Gefühle jetzt besser benennen kann.",
+      "tags": [
+        "present tense",
+        "modal",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 54,
+      "target": "Nie pójdę na tę galę, ponieważ muszę dzisiaj odpocząć.",
+      "de": "Ich werde nicht zu dieser Gala gehen, weil ich mich heute ausruhen muss.",
+      "tags": [
+        "future perfective",
+        "modal",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 55,
+      "target": "Będę cię wspierać, kiedy znowu będziesz miała trudniejszy czas.",
+      "de": "Ich werde für dich da sein, wenn du mal wieder eine schwerere Zeit hast.",
+      "tags": [
+        "future imperfective",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 56,
+      "target": "Jak się czujesz po tej ważnej rozmowie z autorem?",
+      "de": "Wie fühlst du dich nach diesem wichtigen Gespräch mit dem Autor?",
+      "tags": [
+        "question",
+        "reflexive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 57,
+      "target": "Chciałabym poprosić o chwilę spokoju, bo mam ciężki dzień.",
+      "de": "Ich würde gerne um einen Moment Ruhe bitten, ich hab gerade einen harten Tag.",
+      "tags": [
+        "request",
+        "chciałabym",
+        "mental health"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 58,
+      "target": "Dzisiaj był gorszy moment, ale jutro spróbuję od nowa.",
+      "de": "Heute gab’s einen Durchhänger, aber morgen versuch ich’s nochmal neu.",
+      "tags": [
+        "past tense",
+        "future perfective",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 59,
+      "target": "Zapisałam wczoraj wieczorem trzy rzeczy, za które jestem wdzięczna.",
+      "de": "Gestern Abend hab ich drei Dinge aufgeschrieben, für die ich dankbar bin.",
+      "tags": [
+        "past tense",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 60,
+      "target": "W przyszłym tygodniu będę odpoczywać i nie będę czytać wiadomości.",
+      "de": "Nächste Woche werd ich mich ausruhen und keine Nachrichten lesen.",
+      "tags": [
+        "future imperfective",
+        "negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 61,
+      "target": "Czy możesz mnie wesprzeć, kiedy będę miała gorszy humor?",
+      "de": "Kannst du mich unterstützen, wenn ich mal schlechtere Laune habe?",
+      "tags": [
+        "question",
+        "modal",
+        "future imperfective"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 62,
+      "target": "Na następnej sesji opowiem o moich obawach przed nowym etapem.",
+      "de": "In der nächsten Sitzung erzähl ich von meinen Ängsten vor dem neuen Lebensabschnitt.",
+      "tags": [
+        "future perfective",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 63,
+      "target": "Czy wy też czasem czujecie taki lęk przed zmianą?",
+      "de": "Spürt ihr manchmal auch diese Angst vor Veränderungen?",
+      "tags": [
+        "question",
+        "reflexive",
+        "plural"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 64,
+      "target": "Ty naprawdę robisz duże kroki i widzę twoją siłę.",
+      "de": "Du machst echt große Schritte und ich seh, wie stark du bist.",
+      "tags": [
+        "present tense",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 65,
+      "target": "Rano płakałam, ale potem wyszłam na słońce i poczułam ulgę.",
+      "de": "Morgens hab ich geweint, aber dann bin ich raus in die Sonne und hab Erleichterung gespürt.",
+      "tags": [
+        "past tense",
+        "story",
+        "mental health"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 66,
+      "target": "Od poniedziałku nie będę sprawdzać mediów społecznościowych przed śniadaniem.",
+      "de": "Ab Montag werd ich vor dem Frühstück nicht mehr in die sozialen Medien schauen.",
+      "tags": [
+        "future imperfective",
+        "negation",
+        "boundaries"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 67,
+      "target": "Czy Pani wie, gdzie mogę szukać wsparcia w Madrycie?",
+      "de": "Wissen Sie, wo ich in Madrid Unterstützung finden kann?",
+      "tags": [
+        "question",
+        "Pan/Pani",
+        "modal"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 68,
+      "target": "Zadzwonię do mojej przyjaciółki, bo dawno z nią nie rozmawiałam.",
+      "de": "Ich ruf meine Freundin an, ich hab schon lange nicht mehr mit ihr geredet.",
+      "tags": [
+        "future perfective",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 69,
+      "target": "Pójdę na trening i dzięki temu poczuję się lepiej.",
+      "de": "Ich geh zum Training und dadurch werd ich mich besser fühlen.",
+      "tags": [
+        "future perfective",
+        "reflexive",
+        "gym"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 70,
+      "target": "Dzisiaj nie potrafię się cieszyć z moich małych sukcesów.",
+      "de": "Heute kann ich mich irgendwie nicht über meine kleinen Erfolge freuen.",
+      "tags": [
+        "negation",
+        "modal",
+        "reflexive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 71,
+      "target": "W Hiszpanii będę się uczyć, jak dbać o swój spokój.",
+      "de": "In Spanien werde ich lernen, wie ich auf meinen inneren Frieden achte.",
+      "tags": [
+        "future imperfective",
+        "reflexive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 72,
+      "target": "Przeczytałam ten artykuł i zrozumiałam, że potrzebuję teraz terapii.",
+      "de": "Ich hab diesen Artikel gelesen und gemerkt, dass ich jetzt eine Therapie brauche.",
+      "tags": [
+        "past tense",
+        "story",
+        "mental health"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 73,
+      "target": "W sobotę po południu będę medytować u siebie w ogrodzie.",
+      "de": "Am Samstagnachmittag werde ich bei mir im Garten meditieren.",
+      "tags": [
+        "future imperfective",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 74,
+      "target": "Czy oni pójdą z nami na te zajęcia grupowe?",
+      "de": "Gehen sie mit uns zu diesem Gruppenkurs?",
+      "tags": [
+        "question",
+        "future perfective"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 75,
+      "target": "Wkrótce znowu poczuję radość i energię do pisania książki.",
+      "de": "Bald werd ich wieder Freude und Energie zum Buchschreiben spüren.",
+      "tags": [
+        "future perfective",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 76,
+      "target": "Jutro sprawdzę mikrofon i nagłośnienie na tej sali.",
+      "de": "Morgen checke ich das Mikrofon und die Anlage in diesem Saal.",
+      "tags": [
+        "future-perfective",
+        "time-word"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 77,
+      "target": "Bardzo się stresowałam przed występem, ale publiczność była wspaniała.",
+      "de": "Vor dem Auftritt war ich echt nervös, aber das Publikum war toll.",
+      "tags": [
+        "past-tense",
+        "reflexive",
+        "feelings"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 78,
+      "target": "Czy nagrasz moją dzisiejszą prezentację telefonem?",
+      "de": "Nimmst du meinen heutigen Vortrag mit dem Handy auf?",
+      "tags": [
+        "future-perfective",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 79,
+      "target": "Będę powtarzać moją przemowę przez całą drogę do Warszawy.",
+      "de": "Ich werde meine Rede die ganze Fahrt nach Warschau über üben.",
+      "tags": [
+        "future-imperfective",
+        "time-word"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 80,
+      "target": "Chciałabym zapytać, czy mają Państwo wolny termin w październiku.",
+      "de": "Ich wollte fragen, ob Sie im Oktober noch einen Termin frei haben.",
+      "tags": [
+        "chciałabym",
+        "inquiry",
+        "Pan/Pani"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 81,
+      "target": "Nie czułam się pewnie na scenie, więc dużo ćwiczyłam.",
+      "de": "Ich habe mich auf der Bühne nicht sicher gefühlt, also habe ich viel geübt.",
+      "tags": [
+        "past-tense",
+        "reflexive",
+        "negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 82,
+      "target": "Po występie na pewno będę potrzebowała godziny spokoju i ciszy.",
+      "de": "Nach dem Auftritt brauche ich bestimmt eine Stunde Ruhe und Stille.",
+      "tags": [
+        "future-imperfective",
+        "feelings"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 83,
+      "target": "Czy możecie wysłać opinie po moim wykładzie?",
+      "de": "Könnt ihr mir nach meinem Vortrag Feedback schicken?",
+      "tags": [
+        "modal-verb",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 84,
+      "target": "W zeszłym roku bałam się mówić, a teraz to kocham.",
+      "de": "Letztes Jahr hatte ich noch Angst zu sprechen, jetzt liebe ich es.",
+      "tags": [
+        "past-tense",
+        "contrast"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 85,
+      "target": "Za tydzień przedstawię moją nową historię na dużym wydarzeniu.",
+      "de": "In einer Woche präsentiere ich meine neue Geschichte auf einem großen Event.",
+      "tags": [
+        "future-perfective",
+        "time-word"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 86,
+      "target": "Nie zapomnę wziąć mojego tabletu na próbę w czwartek.",
+      "de": "Ich werde nicht vergessen, mein Tablet am Donnerstag zur Probe mitzunehmen.",
+      "tags": [
+        "future-perfective",
+        "negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 87,
+      "target": "Kiedy zobaczyłam te wszystkie osoby, poczułam ogromną wdzięczność.",
+      "de": "Als ich all diese Leute gesehen habe, war ich total dankbar.",
+      "tags": [
+        "past-tense",
+        "story",
+        "feelings"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 88,
+      "target": "Będziemy rozmawiać o mojej książce podczas jutrzejszej rozmowy.",
+      "de": "Wir werden morgen bei unserem Gespräch über mein Buch sprechen.",
+      "tags": [
+        "future-imperfective",
+        "time-word"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 89,
+      "target": "Czy Pan zarezerwuje dla mnie miejsce blisko sceny?",
+      "de": "Reservieren Sie mir bitte einen Platz nah an der Bühne?",
+      "tags": [
+        "future-perfective",
+        "Pan/Pani",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 90,
+      "target": "Muszę napisać e-mail i zaprosić gości na mój kanał.",
+      "de": "Ich muss eine Mail schreiben und Gäste für meinen Kanal einladen.",
+      "tags": [
+        "modal-verb",
+        "infinitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 91,
+      "target": "Cieszę się, że tyle osób przyszło na moje spotkanie autorskie.",
+      "de": "Ich freue mich, dass so viele Leute zu meiner Lesung gekommen sind.",
+      "tags": [
+        "reflexive",
+        "past-tense"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 92,
+      "target": "Nie będę dzisiaj odpowiadać na komentarze, bo muszę się skupić.",
+      "de": "Ich werde heute nicht auf Kommentare antworten, weil ich mich konzentrieren muss.",
+      "tags": [
+        "future-imperfective",
+        "negation",
+        "reflexive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 93,
+      "target": "Czy ty też zawsze tak bardzo boisz się mikrofonu?",
+      "de": "Hast du auch immer so Angst vor dem Mikrofon?",
+      "tags": [
+        "reflexive",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 94,
+      "target": "Zrobię sobie krótką przerwę, bo zaraz wchodzę na scenę.",
+      "de": "Ich mache kurz Pause, ich muss gleich auf die Bühne.",
+      "tags": [
+        "future-perfective",
+        "reflexive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 95,
+      "target": "Wczoraj kupiłam nową sukienkę, w której wystąpię w Madrycie.",
+      "de": "Ich habe gestern ein neues Kleid gekauft, das ich in Madrid tragen werde.",
+      "tags": [
+        "past-tense",
+        "future-perfective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 96,
+      "target": "Przepraszam, ale nie mogę teraz rozmawiać o szczegółach występu.",
+      "de": "Sorry, aber ich kann gerade nicht über die Details vom Auftritt sprechen.",
+      "tags": [
+        "modal-verb",
+        "negation",
+        "boundary"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 97,
+      "target": "Myślę, że ta historia poruszy serca moich słuchaczy.",
+      "de": "Ich glaube, diese Geschichte wird meine Zuhörer wirklich berühren.",
+      "tags": [
+        "opinion",
+        "future-perfective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 98,
+      "target": "Jak długo będziesz dzisiaj ćwiczyć swoją rolę przed lustrem?",
+      "de": "Wie lange übst du heute deine Rolle vor dem Spiegel?",
+      "tags": [
+        "future-imperfective",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 99,
+      "target": "Napisałam scenariusz do nowego filmu i jutro go nagram.",
+      "de": "Ich habe das Skript für das neue Video fertig und nehme es morgen auf.",
+      "tags": [
+        "past-tense",
+        "future-perfective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 100,
+      "target": "Panie Marku, czy przygotuje Pan dla nas wodę na scenę?",
+      "de": "Herr Marek, bereiten Sie uns bitte Wasser auf der Bühne vor?",
+      "tags": [
+        "future-perfective",
+        "request",
+        "Pan/Pani"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 101,
+      "target": "W przyszłym tygodniu poprawię szósty rozdział mojej książki.",
+      "de": "Nächste Woche überarbeite ich das sechste Kapitel meines Buches.",
+      "tags": [
+        "future perfective",
+        "time word",
+        "writing"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 102,
+      "target": "Czy wydawnictwo wyśle ten projekt okładki jutro rano?",
+      "de": "Schickt der Verlag diesen Cover-Entwurf morgen früh?",
+      "tags": [
+        "future perfective",
+        "time word",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 103,
+      "target": "Będę się uczyć hiszpańskiego, kiedy skończę pisać tę scenę.",
+      "de": "Ich werde Spanisch lernen, wenn ich mit dem Schreiben dieser Szene fertig bin.",
+      "tags": [
+        "future imperfective",
+        "reflexive",
+        "subordination"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 104,
+      "target": "Czułam się zagubiona, bo moja główna bohaterka była nudna.",
+      "de": "Ich hab mich verloren gefühlt, weil meine Hauptfigur langweilig war.",
+      "tags": [
+        "past tense",
+        "reflexive",
+        "feelings"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 105,
+      "target": "W sobotę spotkam się z autorką, którą bardzo podziwiam.",
+      "de": "Am Samstag treffe ich mich mit einer Autorin, die ich sehr bewundere.",
+      "tags": [
+        "future perfective",
+        "reflexive",
+        "time word"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 106,
+      "target": "Nie mogę się teraz poddać, muszę dokończyć ten rozdział.",
+      "de": "Ich kann jetzt nicht aufgeben, ich muss dieses Kapitel zu Ende bringen.",
+      "tags": [
+        "modal verb",
+        "reflexive",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 107,
+      "target": "Co sądzisz o tym tytule? On będzie idealny do tej historii.",
+      "de": "Was hältst du von diesem Titel? Er wird perfekt zu dieser Geschichte passen.",
+      "tags": [
+        "future imperfective",
+        "opinion",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 108,
+      "target": "Chciałabym zapytać o termin oddania mojej nowej książki.",
+      "de": "Ich würde gerne nach der Abgabefrist für mein neues Buch fragen.",
+      "tags": [
+        "chciałabym",
+        "request",
+        "writing"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 109,
+      "target": "Cały dzień nie miałam pomysłów. Wieczorem poszłam na spacer i nagle wymyśliłam zakończenie.",
+      "de": "Ich hatte den ganzen Tag keine Ideen. Abends bin ich spazieren gegangen und plötzlich hab ich mir das Ende ausgedacht.",
+      "tags": [
+        "past tense",
+        "story",
+        "writing"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 110,
+      "target": "Czy przeczytasz ten tekst, jeśli dzisiaj go skończę?",
+      "de": "Liest du dir den Text durch, wenn ich ihn heute fertig kriege?",
+      "tags": [
+        "future perfective",
+        "question",
+        "subordination"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 111,
+      "target": "To prawda, ten dialog będzie teraz brzmieć o wiele lepiej.",
+      "de": "Das stimmt, dieser Dialog wird jetzt viel besser klingen.",
+      "tags": [
+        "future imperfective",
+        "answer",
+        "writing"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 112,
+      "target": "Nie będę dzisiaj pisać, bo moja głowa potrzebuje odpoczynku.",
+      "de": "Ich werde heute nicht schreiben, weil mein Kopf eine Pause braucht.",
+      "tags": [
+        "future imperfective",
+        "negation",
+        "mental health"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 113,
+      "target": "Za godzinę sprawdzę wszystkie błędy w tym krótkim tekście.",
+      "de": "In einer Stunde korrigiere ich alle Fehler in diesem kurzen Text.",
+      "tags": [
+        "future perfective",
+        "time word",
+        "writing"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 114,
+      "target": "Gdzie schowałaś mój ulubiony notes z pomysłami na książkę?",
+      "de": "Wo hast du mein Lieblingsnotizbuch mit den Buchideen versteckt?",
+      "tags": [
+        "past tense",
+        "question",
+        "writing"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 115,
+      "target": "Jutro rano pójdę na trening, a potem będę pisać.",
+      "de": "Morgen früh gehe ich zum Training und danach schreibe ich.",
+      "tags": [
+        "future perfective",
+        "future imperfective",
+        "gym"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 116,
+      "target": "Czy Pani też uważa, że ten opis jest zbyt smutny?",
+      "de": "Finden Sie auch, dass diese Beschreibung zu traurig ist?",
+      "tags": [
+        "formal",
+        "opinion",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 117,
+      "target": "Ta książka na pewno zmieni życie wielu młodych osób.",
+      "de": "Dieses Buch wird sicher das Leben vieler junger Leute verändern.",
+      "tags": [
+        "future perfective",
+        "writing",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 118,
+      "target": "Kiedy będziemy mogli porozmawiać o ilustracjach do mojej książki?",
+      "de": "Wann können wir mal über die Illustrationen für mein Buch sprechen?",
+      "tags": [
+        "future imperfective",
+        "modal verb",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 119,
+      "target": "Tak, ona ma rację, jutro zmienię imię tego bohatera.",
+      "de": "Ja, sie hat recht, morgen ändere ich den Namen dieser Figur.",
+      "tags": [
+        "future perfective",
+        "answer",
+        "writing"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 120,
+      "target": "Niedługo wybiorę kolory na moją nową stronę o pisaniu.",
+      "de": "Demnächst suche ich die Farben für meine neue Webseite übers Schreiben aus.",
+      "tags": [
+        "future perfective",
+        "time word",
+        "plans"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 121,
+      "target": "Dlaczego nie odbierasz? Zadzwonię później i zapytam o twoją opinię.",
+      "de": "Warum gehst du nicht ran? Ich rufe später an und frage nach deiner Meinung.",
+      "tags": [
+        "future perfective",
+        "question",
+        "friendship"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 122,
+      "target": "Czy może Pan sprawdzić, czy ten plik się otwiera?",
+      "de": "Können Sie kurz schauen, ob die Datei aufgeht?",
+      "tags": [
+        "modal verb",
+        "formal",
+        "reflexive"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 123,
+      "target": "Będę się bardzo cieszyć, jeśli ta historia kogoś zainspiruje.",
+      "de": "Ich werde mich riesig freuen, wenn diese Geschichte jemanden inspiriert.",
+      "tags": [
+        "future imperfective",
+        "reflexive",
+        "subordination"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 124,
+      "target": "Czy wy też macie problem ze skupieniem przy muzyce?",
+      "de": "Habt ihr auch Probleme, euch bei Musik zu konzentrieren?",
+      "tags": [
+        "question",
+        "second person plural",
+        "mental health"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 125,
+      "target": "Wczoraj rozmawiałam z wydawcą. On uważa, że moja książka jest bardzo dobra.",
+      "de": "Gestern hab ich mit dem Verleger gesprochen. Er findet mein Buch sehr gut.",
+      "tags": [
+        "past tense",
+        "story",
+        "writing"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 126,
+      "target": "Czy ty wybierzesz ze mną najlepszą miniaturkę do jutrzejszego filmu?",
+      "de": "Suchst du mit mir das beste Thumbnail für das Video von morgen aus?",
+      "tags": [
+        "future-perfective",
+        "question",
+        "instrumental"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 127,
+      "target": "Jutro będę nagrywała vloga o mojej porannej rutynie przed siłownią.",
+      "de": "Morgen nehme ich einen Vlog über meine Morgenroutine vor dem Gym auf.",
+      "tags": [
+        "future-compound",
+        "time-words",
+        "feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 128,
+      "target": "Montowałam ten film przez cztery godziny i teraz czuję się wykończona.",
+      "de": "Ich habe vier Stunden an dem Video geschnitten und bin jetzt echt fertig.",
+      "tags": [
+        "past-imperfective",
+        "reflexive",
+        "feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 129,
+      "target": "Muszę dzisiaj wieczorem odpisać na wszystkie komentarze pod nowym filmem.",
+      "de": "Ich muss heute Abend noch alle Kommentare unter dem neuen Video beantworten.",
+      "tags": [
+        "modal",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 130,
+      "target": "Będę się martwić, jeśli to światło będzie zbyt ciemne.",
+      "de": "Ich mache mir Sorgen, wenn das Licht zu dunkel sein wird.",
+      "tags": [
+        "future-compound",
+        "reflexive",
+        "opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 131,
+      "target": "Nie wstawię filmu w tym tygodniu, bo potrzebuję przerwy dla zdrowia psychicznego.",
+      "de": "Diese Woche lade ich kein Video hoch, ich brauche eine Pause für meine mentale Gesundheit.",
+      "tags": [
+        "future-perfective",
+        "negation",
+        "genitive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 132,
+      "target": "Chcesz nagrać wspólny film o przeprowadzce do Hiszpanii?",
+      "de": "Hast du Lust, ein gemeinsames Video über den Umzug nach Spanien zu machen?",
+      "tags": [
+        "modal",
+        "question",
+        "locative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 133,
+      "target": "Czy może Pan oznaczyć ten film jako płatną współpracę?",
+      "de": "Könnten Sie dieses Video bitte als bezahlte Partnerschaft markieren?",
+      "tags": [
+        "modal",
+        "polite",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 134,
+      "target": "Nagrałam cały film, ale nie włączyłam mikrofonu. Byłam bardzo zła, ale potem się roześmiałam.",
+      "de": "Ich habe das ganze Video aufgenommen, aber das Mikro nicht angemacht. Ich war echt sauer, aber dann musste ich lachen.",
+      "tags": [
+        "past-perfective",
+        "reflexive",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 135,
+      "target": "Uważam, że ten tytuł przyciągnie więcej osób, bo jest bardzo szczery.",
+      "de": "Ich glaube, der Titel wird mehr Leute ansprechen, weil er total ehrlich ist.",
+      "tags": [
+        "future-perfective",
+        "opinion",
+        "reason"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 136,
+      "target": "W przyszłym miesiącu kupię nową kamerę, więc jakość będzie lepsza.",
+      "de": "Nächsten Monat kaufe ich eine neue Kamera, dann wird die Qualität besser.",
+      "tags": [
+        "future-perfective",
+        "future-compound",
+        "time-words"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 137,
+      "target": "W następnym filmie pokażę, jak przygotowuję się do moich występów na scenie.",
+      "de": "Im nächsten Video zeige ich, wie ich mich auf meine Auftritte vorbereite.",
+      "tags": [
+        "future-perfective",
+        "reflexive",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 138,
+      "target": "Co chcecie zobaczyć w następnym odcinku na moim kanale?",
+      "de": "Was wollt ihr in der nächsten Folge auf meinem Kanal sehen?",
+      "tags": [
+        "modal",
+        "question",
+        "locative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 139,
+      "target": "Nie czytam już negatywnych komentarzy, one nie są dla mnie ważne.",
+      "de": "Ich lese keine negativen Kommentare mehr, die sind mir nicht wichtig.",
+      "tags": [
+        "negation",
+        "genitive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 140,
+      "target": "Nowy film wrzucę w niedzielę o osiemnastej.",
+      "de": "Das neue Video lade ich am Sonntag um 18 Uhr hoch.",
+      "tags": [
+        "future-perfective",
+        "time-words"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 141,
+      "target": "Zacznę nagrywać krótkie fragmenty po hiszpańsku. Będę ćwiczyć przed egzaminem DELE.",
+      "de": "Ich fange an, kurze Clips auf Spanisch aufzunehmen. Ich werde für die DELE-Prüfung üben.",
+      "tags": [
+        "future-perfective",
+        "future-compound",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 142,
+      "target": "Czy ty przesuniesz tę lampę? Moja twarz jest w cieniu.",
+      "de": "Kannst du die Lampe verschieben? Mein Gesicht ist im Schatten.",
+      "tags": [
+        "future-perfective",
+        "question",
+        "locative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 143,
+      "target": "Chciałabym w kolejnym vlogu podzielić się moimi ulubionymi książkami o wdzięczności.",
+      "de": "Ich würde im nächsten Vlog gerne meine Lieblingsbücher über Dankbarkeit vorstellen.",
+      "tags": [
+        "chciałabym",
+        "reflexive",
+        "instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 144,
+      "target": "Oglądałam dzisiaj mój pierwszy występ na scenie i zauważyłam wiele błędów.",
+      "de": "Ich habe mir heute meinen ersten Auftritt angeschaut und viele Fehler bemerkt.",
+      "tags": [
+        "past-imperfective",
+        "past-perfective",
+        "feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 145,
+      "target": "Będziemy nagrywać sesję pytań i odpowiedzi w parku czy u ciebie w domu?",
+      "de": "Filmen wir das Q&A im Park oder bei dir zu Hause?",
+      "tags": [
+        "future-compound",
+        "question",
+        "genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 146,
+      "target": "Jestem bardzo szczęśliwa, bo moja społeczność jest bardzo wspierająca i miła.",
+      "de": "Ich bin total happy, weil meine Community so unterstützend und lieb ist.",
+      "tags": [
+        "feminine",
+        "opinion",
+        "reason"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 147,
+      "target": "Czy sprawdzi Pan, czy link w opisie filmu działa?",
+      "de": "Könnten Sie mal schauen, ob der Link in der Infobox funktioniert?",
+      "tags": [
+        "future-perfective",
+        "polite",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 148,
+      "target": "Za dwie godziny skończę montować napisy i pójdę pobiegać.",
+      "de": "In zwei Stunden bin ich mit den Untertiteln fertig und gehe eine Runde laufen.",
+      "tags": [
+        "future-perfective",
+        "time-words",
+        "motion-verbs"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 149,
+      "target": "Nie lubiłam muzyki w poprzedniej wersji filmu, więc ją usunęłam.",
+      "de": "Mir hat die Musik in der letzten Version nicht gefallen, also habe ich sie gelöscht.",
+      "tags": [
+        "past-imperfective",
+        "past-perfective",
+        "feminine"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 150,
+      "target": "W tym roku będę stawiać na jakość, a nie na ilość.",
+      "de": "Dieses Jahr werde ich auf Qualität setzen und nicht auf Quantität.",
+      "tags": [
+        "future-compound",
+        "time-words"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 151,
+      "target": "Jutro kupię te różowe legginsy, bo mają świetny rozmiar.",
+      "de": "Morgen kaufe ich diese rosa Leggings, weil die Größe super passt.",
+      "tags": [
+        "future perfective",
+        "gym",
+        "clothing"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 152,
+      "target": "Wczoraj zrobiłam mocny trening nóg i dzisiaj mam ogromne zakwasy.",
+      "de": "Gestern hab ich ein hartes Beintraining gemacht und heute hab ich mega Muskelkater.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "body"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 153,
+      "target": "Czy pójdziesz ze mną na siłownię, jeśli nie będę miała siły?",
+      "de": "Gehst du mit mir ins Gym, wenn ich keine Kraft habe?",
+      "tags": [
+        "future perfective",
+        "question",
+        "gym"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 154,
+      "target": "Czy może Pan przynieść te buty o numer większe?",
+      "de": "Könnten Sie diese Schuhe eine Nummer größer bringen?",
+      "tags": [
+        "modal verb",
+        "request",
+        "formal"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 155,
+      "target": "Lubię ćwiczyć rano, bo mam wtedy najwięcej energii.",
+      "de": "Ich trainiere gerne morgens, weil ich da am meisten Energie habe.",
+      "tags": [
+        "present tense",
+        "opinion",
+        "energy"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 156,
+      "target": "W przyszłym tygodniu spróbuję nowej jogi, bo potrzebuję więcej spokoju.",
+      "de": "Nächste Woche probiere ich mal ein neues Yoga aus, weil ich mehr Ruhe brauche.",
+      "tags": [
+        "future perfective",
+        "mental health",
+        "time words"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 157,
+      "target": "Ile serii jeszcze będziesz robić na tej maszynie?",
+      "de": "Wie viele Sätze machst du noch an diesem Gerät?",
+      "tags": [
+        "future imperfective",
+        "question",
+        "gym"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 158,
+      "target": "Nie pójdę dziś na jogę, muszę się wreszcie dobrze wyspać.",
+      "de": "Ich gehe heute nicht zum Yoga, ich muss endlich mal ordentlich ausschlafen.",
+      "tags": [
+        "future perfective",
+        "negation",
+        "sleep"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 159,
+      "target": "W zeszłym roku nie podniosłam tego ciężaru. Dzisiaj zrobiłam trzy serie i poczułam się bardzo silna.",
+      "de": "Letztes Jahr hab ich das Gewicht nicht hochbekommen. Heute hab ich drei Sätze gemacht und mich richtig stark gefühlt.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "story",
+        "reflexive"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 160,
+      "target": "Spotkasz się ze mną przed wejściem do klubu fitness o szesnastej?",
+      "de": "Treffen wir uns um vier vor dem Eingang zum Fitnessstudio?",
+      "tags": [
+        "future perfective",
+        "reflexive",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 161,
+      "target": "Dzisiaj jestem bardzo zmęczona, więc będę robiła tylko lekki stretching.",
+      "de": "Heute bin ich echt k.o., also mache ich nur leichtes Stretching.",
+      "tags": [
+        "future imperfective",
+        "feminine",
+        "body"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 162,
+      "target": "Chciałabym zapytać, czy mogę zawiesić karnet na czas przeprowadzki.",
+      "de": "Ich würde gerne fragen, ob ich mein Abo während des Umzugs pausieren kann.",
+      "tags": [
+        "modal verb",
+        "request",
+        "moving"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 163,
+      "target": "To prawda, dobra dieta to podstawa zdrowego stylu życia.",
+      "de": "Das stimmt, eine gute Ernährung ist die Basis für einen gesunden Lifestyle.",
+      "tags": [
+        "present tense",
+        "nutrition",
+        "opinion"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 164,
+      "target": "Na pewno dasz radę zrobić jeszcze dwa powtórzenia!",
+      "de": "Du schaffst sicher noch zwei Wiederholungen!",
+      "tags": [
+        "future perfective",
+        "motivation",
+        "gym"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 165,
+      "target": "Będę częściej trenowała na świeżym powietrzu, kiedy zamieszkam w Hiszpanii.",
+      "de": "Ich werde öfter draußen trainieren, wenn ich in Spanien wohne.",
+      "tags": [
+        "future imperfective",
+        "moving",
+        "feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 166,
+      "target": "Przepraszam, ale teraz nie chcę rozmawiać o mojej wadze.",
+      "de": "Sorry, aber ich möchte gerade nicht über mein Gewicht reden.",
+      "tags": [
+        "negation",
+        "modal verb",
+        "mental health"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 167,
+      "target": "Czy ty też zawsze zapominasz wziąć ręcznik na trening?",
+      "de": "Vergisst du auch immer dein Handtuch fürs Training?",
+      "tags": [
+        "question",
+        "gym",
+        "habits"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 168,
+      "target": "Kiedyś tylko biegałam, ale teraz codziennie podnoszę duże ciężary.",
+      "de": "Früher bin ich nur gelaufen, aber jetzt hebe ich jeden Tag schwere Gewichte.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "aspect contrast"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 169,
+      "target": "Po tym treningu wezmę długą kąpiel i poczuję ogromną wdzięczność.",
+      "de": "Nach dem Training nehme ich ein langes Bad und bin dann einfach nur dankbar.",
+      "tags": [
+        "future perfective",
+        "gratitude",
+        "body"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 170,
+      "target": "Musisz słuchać swojego ciała i odpoczywać, kiedy jesteś bardzo zmęczona.",
+      "de": "Du musst auf deinen Körper hören und dich ausruhen, wenn du richtig müde bist.",
+      "tags": [
+        "modal verb",
+        "body",
+        "feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 171,
+      "target": "Czy Pani wie, jak włączyć tę nową bieżnię?",
+      "de": "Wissen Sie, wie man dieses neue Laufband einschaltet?",
+      "tags": [
+        "formal",
+        "question",
+        "gym"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 172,
+      "target": "Długo szukałam idealnej torby sportowej. Wczoraj wreszcie ją znalazłam i jutro zabiorę ją na siłownię.",
+      "de": "Ich habe lange nach der perfekten Sporttasche gesucht. Gestern hab ich sie endlich gefunden und morgen nehme ich sie mit ins Gym.",
+      "tags": [
+        "past tense",
+        "future perfective",
+        "story",
+        "feminine"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 173,
+      "target": "Zaraz wypiję ten zielony koktajl i będę miała więcej siły.",
+      "de": "Ich trinke gleich diesen grünen Smoothie und habe dann mehr Kraft.",
+      "tags": [
+        "future perfective",
+        "future imperfective",
+        "nutrition"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 174,
+      "target": "Czy wy też będziecie ćwiczyć w ten weekend?",
+      "de": "Werdet ihr am Wochenende auch trainieren?",
+      "tags": [
+        "future imperfective",
+        "plural",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 175,
+      "target": "Jutro pójdziemy na lody, jeśli będzie ładna pogoda.",
+      "de": "Morgen gehen wir Eis essen, wenn das Wetter schön ist.",
+      "tags": [
+        "future simple",
+        "conjunction",
+        "everyday life"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 176,
+      "target": "Będę doceniać moje postępy, nawet kiedy będę czuła się słaba.",
+      "de": "Ich werde meine Fortschritte schätzen, auch wenn ich mich mal schwach fühle.",
+      "tags": [
+        "future compound",
+        "reflexive verbs",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 177,
+      "target": "Czy chcesz posłuchać ze mną tej nowej piosenki?",
+      "de": "Willst du mit mir dieses neue Lied anhören?",
+      "tags": [
+        "modal verbs",
+        "everyday life",
+        "music"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 178,
+      "target": "Wczoraj siedziałam przy oknie i słuchałam deszczu.",
+      "de": "Gestern saß ich am Fenster und habe dem Regen zugehört.",
+      "tags": [
+        "past tense",
+        "aspect contrast",
+        "small joys"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 179,
+      "target": "W przyszłym tygodniu spakuję wszystkie moje książki do Hiszpanii.",
+      "de": "Nächste Woche packe ich alle meine Bücher für Spanien ein.",
+      "tags": [
+        "future simple",
+        "time words",
+        "moving"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 180,
+      "target": "Czy możesz wysłać ten adres na mój telefon?",
+      "de": "Kannst du die Adresse an mein Handy schicken?",
+      "tags": [
+        "modal verbs",
+        "request",
+        "organisational"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 181,
+      "target": "Nie będę dzisiaj grała w tę grę, bo potrzebuję ciszy.",
+      "de": "Ich werde heute dieses Spiel nicht mitspielen, weil ich Ruhe brauche.",
+      "tags": [
+        "future compound",
+        "negation",
+        "boundary"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 182,
+      "target": "Czy w sobotę będziesz pływać w tym dużym jeziorze?",
+      "de": "Gehst du am Samstag in diesem großen See schwimmen?",
+      "tags": [
+        "future compound",
+        "time words",
+        "everyday life"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 183,
+      "target": "Kupiłam pyszną kawę i poszłam na spacer. Zobaczyłam małego psa i to sprawiło, że się uśmiechnęłam.",
+      "de": "Ich habe mir einen leckeren Kaffee gekauft und bin spazieren gegangen. Ich habe einen kleinen Hund gesehen und das hat mich zum Lächeln gebracht.",
+      "tags": [
+        "past tense",
+        "tiny story",
+        "small joys"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 184,
+      "target": "Uważam, że prawdziwa przyjaźń jest ważniejsza niż wielki sukces.",
+      "de": "Ich finde, dass wahre Freundschaft wichtiger ist als großer Erfolg.",
+      "tags": [
+        "opinion",
+        "mental health",
+        "conjunction"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 185,
+      "target": "Zadzwonię do ciebie później, kiedy skończę pić moją herbatę.",
+      "de": "Ich rufe dich später an, wenn ich meinen Tee fertig getrunken habe.",
+      "tags": [
+        "future simple",
+        "everyday life",
+        "friendship"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 186,
+      "target": "Czy ty też lubisz zapach kawy o poranku?",
+      "de": "Magst du den Kaffeegeruch am Morgen auch so sehr?",
+      "tags": [
+        "present tense",
+        "everyday life",
+        "small joys"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 187,
+      "target": "Tak, zgadzam się, ten wieczór był naprawdę przytulny i spokojny.",
+      "de": "Ja, ich stimme dir zu, dieser Abend war wirklich gemütlich und friedlich.",
+      "tags": [
+        "past tense",
+        "adjectives",
+        "answer"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 188,
+      "target": "Jutro nagram krótki film o moim nowym dzienniku wdzięczności.",
+      "de": "Morgen nehme ich ein kurzes Video über mein neues Dankbarkeitstagebuch auf.",
+      "tags": [
+        "future simple",
+        "youtube",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 189,
+      "target": "Panie Kowalski, czy będzie Pan mógł potrzymać te ciężkie drzwi?",
+      "de": "Herr Kowalski, könnten Sie wohl kurz diese schwere Tür aufhalten?",
+      "tags": [
+        "future simple",
+        "polite request",
+        "pan/pani"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 190,
+      "target": "Co robisz wieczorem? Może pogramy w karty u mnie?",
+      "de": "Was machst du heute Abend? Vielleicht spielen wir bei mir Karten?",
+      "tags": [
+        "future simple",
+        "everyday life",
+        "games"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 191,
+      "target": "Będę próbowała być dla siebie bardziej miła każdego dnia.",
+      "de": "Ich werde versuchen, jeden Tag gütiger zu mir selbst zu sein.",
+      "tags": [
+        "future compound",
+        "mental health",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 192,
+      "target": "Spacerowaliśmy przez godzinę i rozmawialiśmy o naszej ulubionej muzyce.",
+      "de": "Wir sind eine Stunde lang spazieren gegangen und haben über unsere Lieblingsmusik geredet.",
+      "tags": [
+        "past tense",
+        "music",
+        "everyday life"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 193,
+      "target": "Przepraszam, ale nie przyjdę na te zajęcia w piątek.",
+      "de": "Tut mir leid, aber ich werde am Freitag nicht zu dem Kurs kommen.",
+      "tags": [
+        "future simple",
+        "negation",
+        "organisational"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 194,
+      "target": "Jak się czujesz, kiedy słuchasz deszczu za oknem?",
+      "de": "Wie fühlst du dich, wenn du dem Regen vor dem Fenster zuhörst?",
+      "tags": [
+        "reflexive verbs",
+        "question",
+        "small joys"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 195,
+      "target": "Zjem moją ulubioną czekoladę, kiedy tylko wrócę do domu.",
+      "de": "Ich esse meine Lieblingsschokolade, sobald ich nach Hause komme.",
+      "tags": [
+        "future simple",
+        "small joys",
+        "everyday life"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 196,
+      "target": "Będę uczyła się hiszpańskich słówek, kiedy będę jechać pociągiem.",
+      "de": "Ich werde spanische Vokabeln lernen, wenn ich mit dem Zug fahre.",
+      "tags": [
+        "future compound",
+        "learning",
+        "moving"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 197,
+      "target": "Czy będzie Pan mógł otworzyć okno za chwilę?",
+      "de": "Könnten Sie gleich kurz das Fenster öffnen?",
+      "tags": [
+        "future simple",
+        "polite request",
+        "pan/pani"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 198,
+      "target": "Dzisiaj wstałam wcześnie i poczułam dużą wdzięczność. Słońce świeciło, a kawa smakowała idealnie.",
+      "de": "Heute bin ich früh aufgestanden und habe große Dankbarkeit gespürt. Die Sonne schien und der Kaffee hat perfekt geschmeckt.",
+      "tags": [
+        "past tense",
+        "tiny story",
+        "gratitude"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 199,
+      "target": "W następnym filmie opowiem o moich lękach przed przeprowadzką.",
+      "de": "Im nächsten Video werde ich über meine Ängste vor dem Umzug sprechen.",
+      "tags": [
+        "future simple",
+        "youtube",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 200,
+      "target": "Wierzę, że dobrze napiszę tę maturę, bo dużo się uczyłam.",
+      "de": "Ich glaube, dass ich diese Abi-Prüfung gut schreiben werde, weil ich viel gelernt habe.",
+      "tags": [
+        "future-perfective",
+        "past-tense",
+        "reflexive-verbs",
+        "school"
+      ],
+      "kind": "statement"
+    }
+  ]
+}
