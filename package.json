@@ -9,7 +9,7 @@
     "preview": "vite preview --port=3003",
     "lint": "tsc --noEmit",
     "audio": "node scripts/generate-audio.mjs",
-    "deploy": "node scripts/audio-manifest.mjs && vite build && gh-pages -d dist --nojekyll"
+    "deploy": "bash scripts/deploy.sh"
   },
   "dependencies": {
     "lucide-react": "^0.546.0",
