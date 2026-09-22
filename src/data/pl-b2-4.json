@@ -1,0 +1,2136 @@
+{
+  "id": "pl-b2-4",
+  "lang": "pl",
+  "langLabel": "Polnisch",
+  "level": "B2",
+  "part": 4,
+  "title": "Polnisch B2 · Teil 4",
+  "sentences": [
+    {
+      "n": 1,
+      "target": "Muszę wziąć się w garść, bo mimo że dzisiaj kompletnie nie mam siły, trening sam się nie zrobi.",
+      "de": "Ich muss mich zusammenreißen, denn obwohl ich heute echt keine Kraft habe, macht sich das Training nicht von alleine.",
+      "tags": [
+        "mimo że",
+        "wziąć się w garść",
+        "feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 2,
+      "target": "Czy mogłabyś mi podpowiedzieć, jak dobrać obciążenie, żeby nie przesadzić, ale jednocześnie poczuć progres w seriach?",
+      "de": "Könntest du mir einen Tipp geben, wie ich das Gewicht wähle, damit ich es nicht übertreibe, aber gleichzeitig Fortschritte in den Sätzen spüre?",
+      "tags": [
+        "question",
+        "vocabulary: gym"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 3,
+      "target": "Z jednej strony kocham ten ból po treningu, z drugiej strony boję się, że jutro nie wstanę z łóżka.",
+      "de": "Einerseits liebe ich diesen Schmerz nach dem Training, andererseits habe ich Angst, dass ich morgen nicht aus dem Bett komme.",
+      "tags": [
+        "z jednej strony ... z drugiej strony",
+        "opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 4,
+      "target": "Przyznaję, że ostatnio zaniedbałam dietę, ale od poniedziałku wracam do liczenia makroskładników i regularnego picia wody.",
+      "de": "Ich gebe zu, dass ich die Ernährung zuletzt vernachlässigt habe, aber ab Montag zähle ich wieder Makros und trinke regelmäßig Wasser.",
+      "tags": [
+        "przyznaję, że",
+        "feminine",
+        "vocabulary: nutrition"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 5,
+      "target": "Szanowna Pani, uprzejmie proszę o informację, czy posiadają Państwo w ofercie karnety obejmujące zajęcia z jogi i pilatesu.",
+      "de": "Sehr geehrte Frau, ich bitte höflich um Information, ob Sie Abonnements im Angebot haben, die Yoga- und Pilateskurse beinhalten.",
+      "tags": [
+        "uprzejmie proszę",
+        "formal",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 6,
+      "target": "Wczoraj położyłam się wcześniej i spałam pełne osiem godzin. Dzięki temu dzisiaj mam mnóstwo energii na nagrywki.",
+      "de": "Gestern bin ich früher schlafen gegangen und habe volle acht Stunden geschlafen. Dadurch habe ich heute jede Menge Energie für die Aufnahmen.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 7,
+      "target": "Nie do końca się zgadzam, że cardio jest nudne, o ile słucha się w trakcie inspirujących podcastów.",
+      "de": "Ich stimme nicht ganz zu, dass Cardio langweilig ist, solange man dabei inspirierende Podcasts hört.",
+      "tags": [
+        "nie do końca się zgadzam",
+        "o ile",
+        "softening disagreement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 8,
+      "target": "Przeprowadzka do Hiszpanii to wyzwanie, ale wierzę, że dam sobie radę, jeśli tylko zachowam spokój i cierpliwość.",
+      "de": "Der Umzug nach Spanien ist eine Herausforderung, aber ich glaube, dass ich das hinkriege, wenn ich nur ruhig und geduldig bleibe.",
+      "tags": [
+        "dać sobie radę",
+        "future",
+        "moving"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 9,
+      "target": "Słodycze na śniadanie są zupełnie nie w moim stylu, wolę zjeść porządny omlet, żeby mieć siłę na siłowni.",
+      "de": "Süßigkeiten zum Frühstück sind absolut nicht mein Ding; ich esse lieber ein ordentliches Omelett, um Kraft fürs Gym zu haben.",
+      "tags": [
+        "nie w moim stylu",
+        "preference"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 10,
+      "target": "Hej, czy orientujesz się, jakiej firmy są te legginsy, które miałaś na sobie wczoraj? Wyglądały na bardzo wygodne.",
+      "de": "Hey, weißt du zufällig, von welcher Marke die Leggings sind, die du gestern anhattest? Sie sahen sehr bequem aus.",
+      "tags": [
+        "question",
+        "clothing",
+        "past tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 11,
+      "target": "Owszem, te ćwiczenia są trudne, jednak nie zamierzam się poddawać, dopóki nie zrobię dziesięciu czystych powtórzeń w serii.",
+      "de": "Ja, diese Übungen sind schwierig, aber ich habe nicht vor aufzugeben, bis ich zehn saubere Wiederholungen im Satz schaffe.",
+      "tags": [
+        "owszem ... jednak",
+        "dopóki ... nie",
+        "gym"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 12,
+      "target": "Moim zdaniem regularne dbanie o ciało to najlepszy sposób, by okazać sobie wdzięczność za to, co codziennie robimy.",
+      "de": "Meiner Meinung nach ist regelmäßige Körperpflege der beste Weg, um sich selbst Dankbarkeit für das zu zeigen, was wir täglich leisten.",
+      "tags": [
+        "moim zdaniem",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 13,
+      "target": "Czy mógłbyś mnie zaasekurować przy ostatniej serii wyciskania, w razie gdyby zabrakło mi sił w połowie ruchu?",
+      "de": "Könntest du mich beim letzten Satz Bankdrücken sichern, für den Fall, dass mir auf halbem Weg die Kraft ausgeht?",
+      "tags": [
+        "w razie gdyby",
+        "request",
+        "gym"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 14,
+      "target": "Każdy czasem ma doła, ale najważniejsze to umieć złapać oddech i przypomnieć sobie, po co w ogóle zaczęliśmy.",
+      "de": "Jeder hat mal einen Durchhänger, aber das Wichtigste ist, mal durchzuatmen und sich daran zu erinnern, warum wir überhaupt angefangen haben.",
+      "tags": [
+        "mieć doła",
+        "złapać oddech",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 15,
+      "target": "Zanim wejdę na scenę, zawsze robię kilka głębokich wdechów, żeby opanować stres i poczuć się pewniej w swoim ciele.",
+      "de": "Bevor ich auf die Bühne gehe, mache ich immer ein paar tiefe Atemzüge, um den Stress zu bewältigen und mich in meinem Körper sicherer zu fühlen.",
+      "tags": [
+        "zanim",
+        "public speaking",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 16,
+      "target": "Nie ma sprawy, chętnie pożyczę ci moją gumę oporową, pod warunkiem że oddasz mi ją przed moim popołudniowym treningiem.",
+      "de": "Kein Ding, ich leihe dir gerne mein Widerstandsband, unter der Bedingung, dass du es mir vor meinem Nachmittagstraining zurückgibst.",
+      "tags": [
+        "nie ma sprawy",
+        "pod warunkiem że",
+        "answer"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 17,
+      "target": "Chociaż zakwasy dają mi się we znaki, nie zamierzam odpuszczać dzisiejszego treningu nóg, bo idę na całość w tym miesiącu.",
+      "de": "Obwohl mir der Muskelkater zu schaffen macht, werde ich das heutige Beintraining nicht ausfallen lassen, denn diesen Monat gehe ich aufs Ganze.",
+      "tags": [
+        "chociaż",
+        "iść na całość",
+        "gym"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 18,
+      "target": "Skoro już jesteśmy przy temacie zdrowia, może wybierzemy się razem na długi spacer zamiast siedzieć cały wieczór przed ekranem?",
+      "de": "Da wir gerade beim Thema Gesundheit sind: Sollen wir vielleicht zusammen einen langen Spaziergang machen, statt den ganzen Abend vor dem Bildschirm zu sitzen?",
+      "tags": [
+        "skoro",
+        "zamiast",
+        "suggestion"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 19,
+      "target": "Nie da się ukryć, że odpowiedni fit ubrań sportowych ma ogromny wpływ na pewność siebie podczas wykonywania martwego ciągu.",
+      "de": "Es lässt sich nicht leugnen, dass der richtige Sitz der Sportkleidung einen riesigen Einfluss auf das Selbstbewusstsein beim Kreuzheben hat.",
+      "tags": [
+        "nie da się ukryć, że",
+        "gym",
+        "vocabulary: clothing"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 20,
+      "target": "Trzymaj kciuki za mój dzisiejszy sprawdzian siły, bo naprawdę zależy mi na tym, żeby pobić swój życiowy rekord.",
+      "de": "Drück mir die Daumen für meinen heutigen Krafttest, denn es liegt mir wirklich viel daran, meine Bestleistung zu knacken.",
+      "tags": [
+        "trzymaj kciuki",
+        "request",
+        "gym"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 21,
+      "target": "Kupiłam ostatnio te buty do biegania w mniejszym rozmiarze i niestety strasznie mnie obcierają, więc muszę je jutro wymienić.",
+      "de": "Ich habe letztens diese Laufschuhe eine Nummer kleiner gekauft und leider reiben sie mich schrecklich auf, also muss ich sie morgen umtauschen.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 22,
+      "target": "Trudno się z tym nie zgodzić, że regeneracja jest tak samo ważna jak sam trening, choć czasem o tym zapominamy.",
+      "de": "Dem kann man kaum widersprechen, dass Regeneration genauso wichtig ist wie das Training selbst, obwohl wir das manchmal vergessen.",
+      "tags": [
+        "trudno się z tym nie zgodzić",
+        "choć",
+        "gym"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 23,
+      "target": "On ma głowę na karku i zawsze układa plan treningowy tak, żeby uniknąć kontuzji, co bardzo w nim cenię.",
+      "de": "Er hat was im Köpfchen und erstellt den Trainingsplan immer so, dass Verletzungen vermieden werden, was ich sehr an ihm schätze.",
+      "tags": [
+        "mieć głowę na karku",
+        "third person",
+        "gym"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 24,
+      "target": "Czy wiecie może, czy w Walencji są siłownie plenerowe, z których można korzystać za darmo o każdej porze dnia?",
+      "de": "Wisst ihr vielleicht, ob es in Valencia Outdoor-Gyms gibt, die man zu jeder Tageszeit kostenlos nutzen kann?",
+      "tags": [
+        "question",
+        "plural",
+        "moving"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 25,
+      "target": "Powoli wychodzę na prostą po ostatniej przerwie od ćwiczeń i czuję, że moja motywacja wraca na właściwe tory.",
+      "de": "Ich bin nach der letzten Trainingspause langsam wieder auf dem Damm und spüre, dass meine Motivation wieder in die richtigen Bahnen kommt.",
+      "tags": [
+        "wyjść na prostą",
+        "feminine",
+        "gym"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 26,
+      "target": "Szanowny Panie, uprzejmie proszę o przesłanie wzoru umowy najmu, abym mogła go przeanalizować przed podpisaniem dokumentów.",
+      "de": "Sehr geehrter Herr, ich bitte Sie höflich um die Zusendung des Muster-Mietvertrags, damit ich ihn vor der Unterzeichnung prüfen kann.",
+      "tags": [
+        "formuła grzecznościowa",
+        "e-mail",
+        "tryb przypuszczający"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 27,
+      "target": "Skoro oboje przeprowadzamy się do Walencji w tym samym czasie, może wspólnie poszukamy jakiegoś przytulnego mieszkania?",
+      "de": "Da wir beide zur gleichen Zeit nach Valencia ziehen, wollen wir vielleicht zusammen nach einer gemütlichen Wohnung suchen?",
+      "tags": [
+        "skoro",
+        "przeprowadzka",
+        "pytanie"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 28,
+      "target": "Mimo że w nowym mieście jeszcze nikogo nie znam, zapisałam się na boks, żeby chociaż trochę złapać oddech.",
+      "de": "Obwohl ich in der neuen Stadt noch niemanden kenne, habe ich mich beim Boxen angemeldet, um mal kurz durchzuatmen.",
+      "tags": [
+        "mimo że",
+        "idiom: złapać oddech",
+        "emocje"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 29,
+      "target": "Obawiam się, że ten pokój jest za mały na moje biurko, więc niestety muszę zrezygnować z tej oferty.",
+      "de": "Ich fürchte, dass dieses Zimmer zu klein für meinen Schreibtisch ist, deshalb muss ich das Angebot leider ablehnen.",
+      "tags": [
+        "obawiam się, że",
+        "mieszkanie",
+        "odmowa"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 30,
+      "target": "Przyznaję, że stresuję się wyjazdem, ale jednocześnie czuję ogromną wdzięczność za tę szansę, którą dostałam od losu.",
+      "de": "Ich gebe zu, dass mich der Umzug stresst, aber gleichzeitig bin ich total dankbar für diese Chance, die ich bekommen habe.",
+      "tags": [
+        "przyznaję, że",
+        "wdzięczność",
+        "uczucia"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 31,
+      "target": "Czy mogłaby mi Pani wyjaśnić, jak skasować ten bilet w aplikacji, zanim przyjedzie metro, bo kompletnie się pogubiłam?",
+      "de": "Könnten Sie mir erklären, wie ich das Ticket in der App entwerte, bevor die Metro kommt? Ich blicke gerade gar nicht durch.",
+      "tags": [
+        "zanim",
+        "prośba o pomoc",
+        "komunikacja miejska"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 32,
+      "target": "Zamiast siedzieć cały dzień w domu, poszłam do kawiarni popracować nad książką, o ile nikt nie będzie hałasował.",
+      "de": "Anstatt den ganzen Tag zu Hause zu sitzen, bin ich ins Café gegangen, um an meinem Buch zu schreiben, sofern niemand Lärm macht.",
+      "tags": [
+        "zamiast",
+        "o ile",
+        "pisanie"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 33,
+      "target": "Dzień dobry, właśnie wprowadziłam się obok i chciałam się tylko przywitać, w razie gdyby potrzebowali Państwo jakiejś pomocy.",
+      "de": "Guten Tag, ich bin gerade nebenan eingezogen und wollte mich nur kurz vorstellen, falls Sie mal Hilfe brauchen sollten.",
+      "tags": [
+        "w razie gdyby",
+        "sąsiedzi",
+        "uprzejmość"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 34,
+      "target": "Szczerze mówiąc, mam w nosie to, co pomyślą o moich błędach językowych, dopóki udaje mi się skutecznie porozumieć.",
+      "de": "Ehrlich gesagt ist es mir schnuppe, was die Leute über meine Sprachfehler denken, solange ich mich irgendwie verständigen kann.",
+      "tags": [
+        "szczerze mówiąc",
+        "idiom: mieć coś w nosie",
+        "dopóki"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 35,
+      "target": "Czy w razie gdyby mój dowód osobisty wygasł w przyszłym miesiącu, mogę podczas wizyty w banku okazać paszport?",
+      "de": "Kann ich bei meinem Banktermin auch den Reisepass vorzeigen, falls mein Personalausweis nächsten Monat abläuft?",
+      "tags": [
+        "w razie gdyby",
+        "formalności",
+        "bank"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 36,
+      "target": "Trudno się z tym nie zgodzić, że samotność w obcym kraju bywa przytłaczająca, ale staram się zachować spokój.",
+      "de": "Man kann kaum bestreiten, dass Einsamkeit in einem fremden Land erdrückend sein kann, aber ich versuche, ruhig zu bleiben.",
+      "tags": [
+        "trudno się z tym nie zgodzić, że",
+        "emocje",
+        "przeprowadzka"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 37,
+      "target": "Przepraszam, czy orientuje się Pan, gdzie znajdę mleko owsiane, bo od dłuższego czasu krążę między tymi samymi regałami?",
+      "de": "Entschuldigung, wissen Sie zufällig, wo ich Hafermilch finde? Ich laufe schon ewig zwischen denselben Regalen hin und her.",
+      "tags": [
+        "zakupy",
+        "pytanie",
+        "prośba o pomoc"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 38,
+      "target": "Trzymam kciuki za twoje poszukiwania pokoju w Madrycie i mam nadzieję, że wkrótce będziemy mogły pójść na kawę.",
+      "de": "Ich drücke dir die Daumen bei deiner Zimmersuche in Madrid und hoffe, dass wir bald mal einen Kaffee trinken gehen können.",
+      "tags": [
+        "idiom: trzymać kciuki",
+        "przyjaźń",
+        "wsparcie"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 39,
+      "target": "Muszę się już powoli zbierać, bo za dwadzieścia minut mam umówione oglądanie mieszkania na drugim końcu miasta.",
+      "de": "Ich muss mich jetzt langsam auf den Weg machen, weil ich in zwanzig Minuten eine Wohnungsbesichtigung am anderen Ende der Stadt habe.",
+      "tags": [
+        "idiom: zbierać się",
+        "mieszkanie",
+        "czas"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 40,
+      "target": "Z jednej strony kusi mnie centrum, z drugiej strony wolę spokojniejszą dzielnicę, żeby móc swobodnie nagrywać filmy.",
+      "de": "Einerseits reizt mich das Zentrum, andererseits bevorzuge ich ein ruhigeres Viertel, um ungestört Videos aufnehmen zu können.",
+      "tags": [
+        "z jednej strony ... z drugiej strony",
+        "opinia",
+        "YouTube"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 41,
+      "target": "Rozumiem Państwa argumenty, ale wolałabym podpisać umowę na rok, pod warunkiem że czynsz nie ulegnie zmianie.",
+      "de": "Ich verstehe Ihre Argumente, würde den Vertrag aber lieber für ein Jahr unterschreiben, sofern sich die Miete nicht ändert.",
+      "tags": [
+        "rozumiem, ale",
+        "pod warunkiem że",
+        "negocjacje"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 42,
+      "target": "Postanowiłam pójść na całość i wynająć to jasne studio z widokiem na morze, nawet jeśli przekracza mój budżet.",
+      "de": "Ich habe beschlossen, aufs Ganze zu gehen und dieses helle Studio mit Meerblick zu mieten, auch wenn es mein Budget sprengt.",
+      "tags": [
+        "idiom: iść na całość",
+        "nawet jeśli",
+        "decyzja"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 43,
+      "target": "Nie ma sprawy, chętnie pożyczę ci mapę okolicy, o ile oddasz mi ją jutro rano przed moim wyjściem.",
+      "de": "Kein Problem, ich leihe dir gerne den Stadtplan, sofern du ihn mir morgen früh vor meinem Aufbruch zurückgibst.",
+      "tags": [
+        "idiom: nie ma sprawy",
+        "o ile",
+        "uprzejmość"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 44,
+      "target": "Wczoraj zupełnie nie mogłam trafić pod wskazany adres i gdyby nie pomoc przypadkowego przechodnia, pewnie błądziłabym do nocy.",
+      "de": "Gestern habe ich die Adresse einfach nicht gefunden, und ohne die Hilfe eines Passanten wäre ich wohl bis in die Nacht herumgeirrt.",
+      "tags": [
+        "story",
+        "tryb przypuszczający",
+        "miasto"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 45,
+      "target": "Nie do końca się zgadzam, że przeprowadzka to tylko stres, bo dla mnie to przede wszystkim ekscytujący nowy rozdział.",
+      "de": "Ich stimme nicht ganz zu, dass ein Umzug nur Stress bedeutet, denn für mich ist es vor allem ein aufregendes neues Kapitel.",
+      "tags": [
+        "nie do końca się zgadzam",
+        "opinia",
+        "zmiana"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 46,
+      "target": "Dasz sobie radę w tej nowej pracy, bo masz przecież ogromne doświadczenie i świetnie potrafisz dogadywać się z ludźmi.",
+      "de": "Du wirst das in dem neuen Job schon deichseln, du hast ja massig Erfahrung und kannst super mit Menschen umgehen.",
+      "tags": [
+        "idiom: dać sobie radę",
+        "wsparcie",
+        "motywacja"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 47,
+      "target": "Chociaż dzisiejsze załatwianie spraw w urzędzie było wyczerpujące, cieszę się, że mam to już za sobą i mogę odpocząć.",
+      "de": "Obwohl der Behördengang heute anstrengend war, bin ich froh, dass ich es hinter mir habe und mich jetzt ausruhen kann.",
+      "tags": [
+        "chociaż",
+        "ulga",
+        "biurokracja"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 48,
+      "target": "Czy wie Pani może, o której godzinie zamykają ten mały sklepik na rogu, bo muszę kupić jeszcze wodę?",
+      "de": "Wissen Sie vielleicht, um wie viel Uhr der kleine Laden an der Ecke schließt? Ich muss noch Wasser kaufen.",
+      "tags": [
+        "pytanie",
+        "uprzejmość",
+        "zakupy"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 49,
+      "target": "Zanim spakuję ostatnią walizkę, muszę jeszcze raz sprawdzić, czy zabrałam wszystkie dokumenty potrzebne do wynajęcia mieszkania.",
+      "de": "Bevor ich den letzten Koffer packe, muss ich nochmal prüfen, ob ich alle Unterlagen für die Wohnungsmiete dabei habe.",
+      "tags": [
+        "zanim",
+        "organizacja",
+        "przeprowadzka"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 50,
+      "target": "Owszem, tęsknię czasem za domem, jednak wierzę, że ta zmiana pomoże mi się rozwinąć i spojrzeć na świat inaczej.",
+      "de": "Sicher, ich habe manchmal Heimweh, aber ich glaube, dass dieser Wechsel mir hilft zu wachsen und die Welt anders zu sehen.",
+      "tags": [
+        "owszem... jednak",
+        "tęsknota",
+        "rozwój"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 51,
+      "target": "Nawet jeśli stresuję się maturą, staram się pamiętać, że to tylko etap, który wkrótce będę miała za sobą.",
+      "de": "Auch wenn ich wegen des Abis gestresst bin, versuche ich daran zu denken, dass das nur eine Phase ist, die ich bald hinter mir habe.",
+      "tags": [
+        "nawet jeśli",
+        "feminine forms",
+        "mieć coś za sobą"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 52,
+      "target": "Z jednej strony oceny są ważne przy rekrutacji, ale z drugiej strony nie definiują tego, jaką jestem osobą.",
+      "de": "Einerseits sind Noten wichtig für die Bewerbung, aber andererseits definieren sie nicht, was für ein Mensch ich bin.",
+      "tags": [
+        "z jednej strony ... z drugiej strony",
+        "giving opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 53,
+      "target": "Czy mogłabyś rzucić okiem na moją prezentację z polskiego, pod warunkiem że znajdziesz chwilę wolnego czasu w weekend?",
+      "de": "Könntest du mal einen Blick auf meine Polnisch-Präsentation werfen, vorausgesetzt, du findest am Wochenende ein bisschen Zeit?",
+      "tags": [
+        "pod warunkiem że",
+        "polite request",
+        "idiom"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 54,
+      "target": "Gdy tylko zdam ostatni egzamin ustny, wylatuję do Hiszpanii, żeby w końcu złapać oddech po tym całym maratonie.",
+      "de": "Sobald ich die letzte mündliche Prüfung bestanden habe, fliege ich nach Spanien, um nach diesem ganzen Marathon endlich mal durchzuatmen.",
+      "tags": [
+        "gdy tylko",
+        "złapać oddech"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 55,
+      "target": "Szanowna Pani Profesor, uprzejmie proszę o informację, czy zakres materiału na sprawdzian obejmuje również rozdział o romantyzmie.",
+      "de": "Sehr geehrte Frau Professor, ich bitte höflich um Information, ob der Stoff für die Klassenarbeit auch das Kapitel über die Romantik umfasst.",
+      "tags": [
+        "formal register",
+        "uprzejmie proszę"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 56,
+      "target": "Miałam wczoraj strasznego doła przez nadmiar nauki, ale dzisiaj muszę wziąć się w garść i dokończyć ten projekt.",
+      "de": "Gestern hatte ich wegen des ganzen Lernstoffs einen totalen Durchhänger, aber heute muss ich mich zusammenreißen und das Projekt fertigmachen.",
+      "tags": [
+        "mieć doła",
+        "wziąć się w garść",
+        "feminine past"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 57,
+      "target": "Zamiast kuć wszystkiego na pamięć, wolę zrozumieć logikę tych wzorów matematycznych, żeby nie zapomnieć ich podczas matury.",
+      "de": "Anstatt alles auswendig zu lernen, verstehe ich lieber die Logik hinter den Matheformeln, damit ich sie im Abi nicht vergesse.",
+      "tags": [
+        "zamiast",
+        "everyday language"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 58,
+      "target": "Nie do końca się zgadzam, że system szkolny przygotowuje nas do dorosłości, choć przyznaję, że uczy dyscypliny.",
+      "de": "Ich stimme nicht ganz zu, dass das Schulsystem uns aufs Erwachsensein vorbereitet, obwohl ich zugebe, dass man Disziplin lernt.",
+      "tags": [
+        "nie do końca się zgadzam",
+        "choć",
+        "przyznaję, że"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 59,
+      "target": "Zanim wejdę na aulę, żeby wygłosić przemówienie pożegnalne, muszę upewnić się, że mikrofon i rzutnik działają bez zarzutu.",
+      "de": "Bevor ich in die Aula gehe, um die Abschlussrede zu halten, muss ich sichergehen, dass Mikro und Beamer einwandfrei funktionieren.",
+      "tags": [
+        "zanim",
+        "future planning"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 60,
+      "target": "Dasz sobie radę z tą biologią, bo masz przecież głowę na karku i uczyłaś się regularnie przez cały rok.",
+      "de": "Du wirst das mit Bio schon schaffen, denn du hast ja was im Köpfchen und hast das ganze Jahr über regelmäßig gelernt.",
+      "tags": [
+        "dać sobie radę",
+        "mieć głowę na karku"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 61,
+      "target": "Mimo że nauka zajmuje mi teraz całe dnie, czuję ogromną wdzięczność za przyjaciół, którzy zawsze mnie wspierają.",
+      "de": "Obwohl das Lernen gerade meine ganzen Tage ausfüllt, bin ich wahnsinnig dankbar für meine Freunde, die mich immer unterstützen.",
+      "tags": [
+        "mimo że",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 62,
+      "target": "Muszę się już powoli zbierać, bo za kwadrans mam spotkanie z korepetytorem, a jeszcze nie powtórzyłam słówek.",
+      "de": "Ich muss mich langsam mal aufmachen, weil ich in einer Viertelstunde beim Nachhilfelehrer sein muss und noch keine Vokabeln wiederholt habe.",
+      "tags": [
+        "zbierać się",
+        "feminine past"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 63,
+      "target": "Obawiam się, że nie dam rady pójść z wami do kina, dopóki nie skończę pisać wypracowania z historii.",
+      "de": "Ich fürchte, ich schaffe es nicht mit euch ins Kino, solange ich den Geschichtsaufsatz nicht fertig geschrieben habe.",
+      "tags": [
+        "obawiam się",
+        "dopóki ... nie"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 64,
+      "target": "O ile nie dostanę wyników wcześniej, zacznę szukać szkoły językowej w Madrycie dopiero w połowie lipca.",
+      "de": "Sofern ich die Ergebnisse nicht früher bekomme, fange ich erst Mitte Juli an, in Madrid nach einer Sprachschule zu suchen.",
+      "tags": [
+        "o ile nie",
+        "future plans"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 65,
+      "target": "Szczerze mówiąc, mam w nosie złośliwe komentarze na temat mojego kierunku studiów, skoro to moja pasja.",
+      "de": "Ehrlich gesagt sind mir hämische Kommentare über meine Studienwahl egal, da es schließlich meine Leidenschaft ist.",
+      "tags": [
+        "szczerze mówiąc",
+        "mieć w nosie",
+        "skoro"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 66,
+      "target": "Czy wiesz może, czy podczas egzaminu z chemii możemy używać kalkulatorów, czy wszystko musimy liczyć w pamięci?",
+      "de": "Weißt du zufällig, ob wir in der Chemieprüfung Taschenrechner benutzen dürfen oder ob wir alles im Kopf rechnen müssen?",
+      "tags": [
+        "real question",
+        "school context"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 67,
+      "target": "Byłam tak wykończona po prezentacji maturalnej, że zasnęłam w autobusie i przejechałam swój przystanek o kilka kilometrów.",
+      "de": "Ich war nach der Abi-Präsentation so fertig, dass ich im Bus eingeschlafen bin und meine Haltestelle um mehrere Kilometer verpasst habe.",
+      "tags": [
+        "story",
+        "feminine forms"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 68,
+      "target": "Co prawda ten sprawdzian z fizyki był wyjątkowo trudny, ale myślę, że całkiem nieźle sobie z nim poradziłam.",
+      "de": "Zwar war dieser Physiktest extrem schwer, aber ich glaube, ich habe ihn ganz gut hingekriegt.",
+      "tags": [
+        "co prawda ... ale",
+        "poradzić sobie"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 69,
+      "target": "Mam zamiar iść na całość z treningami dopiero po maturze, bo teraz priorytetem jest redakcja mojej książki.",
+      "de": "Ich habe vor, erst nach dem Abi beim Training voll aufs Ganze zu gehen, weil gerade das Lektorat meines Buches Priorität hat.",
+      "tags": [
+        "iść na całość",
+        "personal goals"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 70,
+      "target": "Będę wdzięczna za potwierdzenie, że moje zgłoszenie na warsztaty dla młodych pisarzy dotarło do Państwa i jest kompletne.",
+      "de": "Ich wäre dankbar für eine Bestätigung, dass meine Anmeldung für den Workshop für junge Autoren bei Ihnen eingegangen und vollständig ist.",
+      "tags": [
+        "będę wdzięczna",
+        "polite request",
+        "formal"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 71,
+      "target": "Mam nadzieję, że wkrótce wyjdę na prostą z harmonogramem na YouTube, bo ostatnio szkoła pochłonęła mnie całkowicie.",
+      "de": "Ich hoffe, dass ich mit meinem YouTube-Zeitplan bald wieder Land sehe, weil mich die Schule zuletzt total vereinnahmt hat.",
+      "tags": [
+        "wyjść na prostą",
+        "personal interest"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 72,
+      "target": "Wyścig o czerwony pasek na świadectwie to zupełnie nie w moim stylu, bo wolę skupić się na pasjach.",
+      "de": "Das Rennen um eine Eins im Zeugnis ist absolut nicht mein Ding, weil ich mich lieber auf meine Leidenschaften konzentriere.",
+      "tags": [
+        "nie w moim stylu",
+        "school theme"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 73,
+      "target": "Nie ma sprawy, prześlę ci notatki z ostatniego wykładu o psychologii, gdy tylko znajdę chwilę, żeby je zeskanować.",
+      "de": "Kein Ding, ich schicke dir die Notizen aus der letzten Psychologie-Vorlesung, sobald ich einen Moment zum Scannen finde.",
+      "tags": [
+        "nie ma sprawy",
+        "gdy tylko"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 74,
+      "target": "Jak radzisz sobie ze stresem przed egzaminami ustnymi, czy masz może jakieś sprawdzone sposoby na opanowanie drżenia głosu?",
+      "de": "Wie gehst du mit dem Stress vor mündlichen Prüfungen um, hast du vielleicht bewährte Methoden, um das Zittern in der Stimme zu bändigen?",
+      "tags": [
+        "real question",
+        "mental health"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 75,
+      "target": "Byłam dzisiaj niesamowicie spięta przed lekcją, jednak krótka rozmowa z moją wychowawczynią sprawiła, że od razu poczułam się lepiej.",
+      "de": "Ich war heute vor der Stunde wahnsinnig angespannt, aber ein kurzes Gespräch mit meiner Klassenlehrerin hat bewirkt, dass ich mich sofort besser fühlte.",
+      "tags": [
+        "story",
+        "jednak",
+        "feminine forms"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 76,
+      "target": "Z jednej strony cenię naszą relację, ale z drugiej strony czuję, że ostatnio brakuje mi przestrzeni.",
+      "de": "Einerseits schätze ich unsere Freundschaft, aber andererseits habe ich das Gefühl, dass mir in letzter Zeit der Freiraum fehlt.",
+      "tags": [
+        "z jednej strony ... z drugiej strony",
+        "giving opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 77,
+      "target": "Odniosłam wrażenie, że próbujesz wzbudzić we mnie poczucie winy, a to jest zupełnie nie w moim stylu.",
+      "de": "Ich hatte den Eindruck, dass du versuchst, mir ein schlechtes Gewissen einzureden, und das ist absolut nicht mein Ding.",
+      "tags": [
+        "nie w moim stylu",
+        "recognising manipulation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 78,
+      "target": "Nie martw się, każdemu zdarza się mieć doła, więc po prostu daj sobie czas na odpoczynek.",
+      "de": "Mach dir keinen Kopf, jeder hat mal einen Durchhänger, also gönn dir einfach etwas Zeit zum Ausruhen.",
+      "tags": [
+        "mieć doła",
+        "comforting"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 79,
+      "target": "Czy uważasz, że po takim kłamstwie da się jeszcze odbudować zaufanie, czy lepiej od razu odpuścić?",
+      "de": "Glaubst du, dass man nach so einer Lüge das Vertrauen wieder aufbauen kann, oder sollte man es lieber gleich lassen?",
+      "tags": [
+        "real question",
+        "trust"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 80,
+      "target": "Mimo że bardzo lubię Kasię, muszę ograniczyć z nią kontakt, bo jej negatywne podejście strasznie mnie przytłacza.",
+      "de": "Obwohl ich Kasia sehr mag, muss ich den Kontakt einschränken, weil mich ihre negative Einstellung total erdrückt.",
+      "tags": [
+        "mimo że",
+        "toxic people"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 81,
+      "target": "Przepraszam za to, co powiedziałam wczoraj w emocjach, bo tak naprawdę w ogóle tak nie myślę.",
+      "de": "Entschuldigung für das, was ich gestern aus dem Affekt heraus gesagt habe, eigentlich denke ich nämlich gar nicht so.",
+      "tags": [
+        "tak naprawdę",
+        "making up"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 82,
+      "target": "Jak się czujesz po tej rozmowie z mamą, czy udało wam się w końcu dojść do porozumienia?",
+      "de": "Wie fühlst du dich nach dem Gespräch mit deiner Mutter, konntet ihr euch endlich einigen?",
+      "tags": [
+        "dojść do porozumienia",
+        "family"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 83,
+      "target": "Obawiam się, że nie dam rady wpaść, ponieważ obiecałam przyjaciółce, że pomogę jej dzisiaj z przeprowadzką.",
+      "de": "Ich fürchte, ich schaffe es nicht vorbeizukommen, weil ich einer Freundin versprochen habe, ihr heute beim Umzug zu helfen.",
+      "tags": [
+        "obawiam się, że",
+        "declining"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 84,
+      "target": "Przyznaję, że to dla ciebie ważne, jednak nie mogę wziąć na siebie kolejnego obowiązku w tym tygodniu.",
+      "de": "Ich gebe zu, dass das wichtig für dich ist, aber ich kann mir diese Woche nicht noch eine Verpflichtung aufhalsen.",
+      "tags": [
+        "przyznaję, że",
+        "saying no"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 85,
+      "target": "Jestem niesamowicie wdzięczna, że jesteś, bo przy tobie zawsze mogę być sobą i niczego nie udawać.",
+      "de": "Ich bin unglaublich dankbar, dass es dich gibt, weil ich bei dir immer ich selbst sein kann und mich nicht verstellen muss.",
+      "tags": [
+        "gratitude",
+        "friendship"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 86,
+      "target": "Moim zdaniem prawdziwa przyjaźń nie polega na lajkowaniu zdjęć, lecz na byciu obok, gdy dzieje się coś trudnego.",
+      "de": "Meiner Meinung nach besteht wahre Freundschaft nicht darin, Bilder zu liken, sondern füreinander da zu sein, wenn es schwierig wird.",
+      "tags": [
+        "moim zdaniem",
+        "giving opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 87,
+      "target": "Mogłabyś mi doradzić, jak powiedzieć Markowi, że jego zachowanie mnie rani, nie wywołując przy tym kłótni?",
+      "de": "Könntest du mir einen Rat geben, wie ich Marek sagen kann, dass mich sein Verhalten verletzt, ohne gleich einen Streit auszulösen?",
+      "tags": [
+        "doradzić",
+        "relationships"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 88,
+      "target": "Nawet jeśli będę w Hiszpanii, obiecuję, że znajdę czas na nasze długie rozmowy przez kamerkę w niedziele.",
+      "de": "Selbst wenn ich in Spanien bin, verspreche ich, dass ich Zeit für unsere langen Videoanrufe am Sonntag finden werde.",
+      "tags": [
+        "nawet jeśli",
+        "moving abroad"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 89,
+      "target": "Swoją drogą, zauważyłaś, że ona zawsze komplementuje cię tylko wtedy, gdy inni na nas patrzą?",
+      "de": "Übrigens, ist dir aufgefallen, dass sie dir immer nur dann Komplimente macht, wenn andere uns zuschauen?",
+      "tags": [
+        "swoją drogą",
+        "manipulation"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 90,
+      "target": "Byłam pewna, że to szczera relacja, ale gdy tylko zaczęły się problemy, ona po prostu zniknęła.",
+      "de": "Ich war sicher, dass es eine ehrliche Freundschaft ist, aber sobald die Probleme anfingen, ist sie einfach verschwunden.",
+      "tags": [
+        "gdy tylko",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 91,
+      "target": "Skoro czujesz, że ta relacja cię wykańcza, może warto zrobić krok w tył i złapać oddech?",
+      "de": "Wenn du das Gefühl hast, dass dich diese Beziehung fertig macht, wäre es vielleicht gut, einen Schritt zurückzutreten und mal durchzuatmen?",
+      "tags": [
+        "skoro",
+        "złapać oddech"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 92,
+      "target": "Nie ma sprawy, zawsze będę ci kibicować, bo wiem, jak dużo pracy włożyłaś w ten projekt.",
+      "de": "Kein Ding, ich werde dich immer unterstützen, weil ich weiß, wie viel Arbeit du in dieses Projekt gesteckt hast.",
+      "tags": [
+        "nie ma sprawy",
+        "support"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 93,
+      "target": "Trudno się z tym nie zgodzić, że oczekiwania rodziców bywają męczące, ale ostatecznie to nasze życie.",
+      "de": "Man kann schwer widersprechen, dass die Erwartungen der Eltern anstrengend sein können, aber letztendlich ist es unser Leben.",
+      "tags": [
+        "trudno się z tym nie zgodzić",
+        "family"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 94,
+      "target": "Pod warunkiem że będziesz szanować moją prywatność, możemy spróbować wspólnie zaplanować ten wyjazd do babci.",
+      "de": "Unter der Bedingung, dass du meine Privatsphäre respektierst, können wir versuchen, die Fahrt zur Oma gemeinsam zu planen.",
+      "tags": [
+        "pod warunkiem że",
+        "setting boundaries"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 95,
+      "target": "Dopóki nie wyjaśniłyśmy sobie wszystkiego przy kawie, myślałam, że jesteś na mnie zła o tamten głupi komentarz.",
+      "de": "Bis wir nicht alles bei einem Kaffee geklärt hatten, dachte ich, du wärst wegen dieses dämlichen Kommentars sauer auf mich.",
+      "tags": [
+        "dopóki ... nie",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 96,
+      "target": "Szczerze mówiąc, mam w nosie bycie popularną, o ile mam wokół siebie kilka naprawdę zaufanych osób.",
+      "de": "Ehrlich gesagt ist es mir völlig egal, beliebt zu sein, solange ich ein paar wirklich vertrauenswürdige Leute um mich habe.",
+      "tags": [
+        "mam w nosie",
+        "o ile"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 97,
+      "target": "Trzymam kciuki za twoją rozmowę o staż, bo masz głowę na karku i na pewno ich oczarujesz.",
+      "de": "Ich drücke dir die Daumen für dein Praktikumsgespräch, denn du hast was im Köpfchen und wirst sie sicher verzaubern.",
+      "tags": [
+        "trzymam kciuki",
+        "mieć głowę na karku"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 98,
+      "target": "Zanim znowu mu zaufasz, zastanów się proszę, czy on naprawdę się zmienił, czy to tylko puste słowa.",
+      "de": "Bevor du ihm wieder vertraust, überleg dir bitte, ob er sich wirklich geändert hat oder ob das nur leere Worte sind.",
+      "tags": [
+        "zanim",
+        "trust"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 99,
+      "target": "W gruncie rzeczy cieszę się, że cię poznałam, bo dzięki tobie zaczęłam bardziej wierzyć w siebie.",
+      "de": "Im Grunde genommen bin ich froh, dass ich dich kennengelernt habe, weil ich durch dich angefangen habe, mehr an mich zu glauben.",
+      "tags": [
+        "w gruncie rzeczy",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 100,
+      "target": "Uwielbiam słuchać lofi, gdy za oknem pada deszcz, bo to pomaga mi złapać oddech po całym dniu.",
+      "de": "Ich liebe es, Lofi zu hören, wenn es draußen regnet, weil es mir hilft, nach dem ganzen Tag mal durchzuatmen.",
+      "tags": [
+        "złapać oddech",
+        "everyday life",
+        "small joys"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 101,
+      "target": "Czy Twoim zdaniem lepiej iść na spacer przed kawą czy po niej, żeby najlepiej wykorzystać poranek?",
+      "de": "Sollte man deiner Meinung nach lieber vor oder nach dem Kaffee spazieren gehen, um den Morgen am besten zu nutzen?",
+      "tags": [
+        "moim zdaniem",
+        "question",
+        "everyday life"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 102,
+      "target": "Mogłybyśmy pójść popływać w jeziorze dzisiaj po południu, pod warunkiem że woda nie będzie lodowata?",
+      "de": "Könnten wir heute Nachmittag im See schwimmen gehen, unter der Bedingung, dass das Wasser nicht eiskalt ist?",
+      "tags": [
+        "pod warunkiem że",
+        "request",
+        "small joys"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 103,
+      "target": "W ten weekend zamierzam iść na całość z redakcją książki, bo w końcu mam w domu upragniony spokój.",
+      "de": "Dieses Wochenende ziehe ich das mit der Überarbeitung meines Buches voll durch, weil ich endlich die ersehnte Ruhe habe.",
+      "tags": [
+        "iść na całość",
+        "statement",
+        "writing"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 104,
+      "target": "Czy to prawda, że te rzemieślnicze lody na rogu są najlepsze w mieście, czy to tylko świetny marketing?",
+      "de": "Stimmt es, dass dieses handgemachte Eis an der Ecke das beste der Stadt ist, oder ist das nur gutes Marketing?",
+      "tags": [
+        "question",
+        "small joys"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 105,
+      "target": "Mimo że lekko kropiło, poszłam na długi spacer. Gdy dotarłam do parku, nagle wyszło słońce i było magicznie.",
+      "de": "Obwohl es leicht nieselte, bin ich lange spazieren gegangen. Als ich im Park ankam, kam die Sonne raus und es war magisch.",
+      "tags": [
+        "mimo że",
+        "gdy",
+        "story",
+        "small joys"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 106,
+      "target": "Rozumiem Twoje argumenty, ale nie do końca się zgadzam, że gry planszowe to najlepszy pomysł na dzisiejszy wieczór.",
+      "de": "Ich verstehe deine Argumente, aber ich stimme nicht ganz zu, dass Brettspiele die beste Idee für heute Abend sind.",
+      "tags": [
+        "rozumiem, ale",
+        "nie do końca się zgadzam",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 107,
+      "target": "Nie da się ukryć, że czuję ogromną wdzięczność, gdy mogę po prostu posiedzieć z książką i dobrą kawą.",
+      "de": "Man kann nicht leugnen, dass ich große Dankbarkeit spüre, wenn ich einfach mit einem Buch und gutem Kaffee dasitzen kann.",
+      "tags": [
+        "nie da się ukryć",
+        "gratitude",
+        "small joys"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 108,
+      "target": "Czy mógłbyś zerknąć na moją technikę przy przysiadach, w razie gdybym za bardzo pochylała się do przodu?",
+      "de": "Könntest du mal kurz auf meine Technik bei den Kniebeugen schauen, falls ich mich zu weit nach vorne lehne?",
+      "tags": [
+        "w razie gdyby",
+        "request",
+        "gym"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 109,
+      "target": "Miałam ostatnio lekkiego doła, ale spacer po lesie i świeże powietrze pomogły mi szybko wziąć się w garść.",
+      "de": "Ich hatte letztens einen kleinen Durchhänger, aber der Waldspaziergang und die frische Luft haben mir geholfen, mich zu fangen.",
+      "tags": [
+        "mieć doła",
+        "wziąć się w garść",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 110,
+      "target": "Dopóki mam na uszach słuchawki i dobrą playlistę, nawet długa podróż do Hiszpanii nie wydaje mi się straszna.",
+      "de": "Solange ich Kopfhörer aufhabe und eine gute Playlist höre, macht mir selbst die lange Reise nach Spanien keine Angst.",
+      "tags": [
+        "dopóki",
+        "nawet jeśli",
+        "moving"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 111,
+      "target": "Obawiam się, że nie dam rady wrzucić dzisiaj nowego filmu, o ile internet nie zacznie wkrótce działać stabilnie.",
+      "de": "Ich befürchte, dass ich das neue Video heute nicht hochladen kann, außer das Internet läuft bald mal stabil.",
+      "tags": [
+        "obawiam się",
+        "o ile",
+        "negation",
+        "youtube"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 112,
+      "target": "Z jednej strony kocham smak kawy, z drugiej strony powinnam ograniczać kofeinę, żeby lepiej sypiać przed nagrywkami.",
+      "de": "Einerseits liebe ich den Geschmack von Kaffee, andererseits sollte ich Koffein einschränken, um vor den Drehs besser zu schlafen.",
+      "tags": [
+        "z jednej strony",
+        "z drugiej strony",
+        "everyday life"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 113,
+      "target": "Możesz mi polecić jakieś spokojne utwory, bo naprawdę potrzebuję dzisiaj wieczorem robić wszystko na totalnym luzie?",
+      "de": "Kannst du mir ein paar ruhige Tracks empfehlen? Ich muss heute Abend echt mal alles ganz entspannt angehen.",
+      "tags": [
+        "na luzie",
+        "request",
+        "music"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 114,
+      "target": "Ona ma głowę na karku i zawsze wie, jak mnie pocieszyć, kiedy stresuję się zbliżającym się wystąpieniem.",
+      "de": "Sie hat echt was im Köpfchen und weiß immer, wie sie mich aufmuntern kann, wenn ich wegen des Auftritts gestresst bin.",
+      "tags": [
+        "mieć głowę na karku",
+        "friendship",
+        "public speaking"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 115,
+      "target": "Owszem, deszcz bywa irytujący, jednak sprawia, że wieczór spędzony w domu pod kocykiem jest jeszcze bardziej przytulny.",
+      "de": "Sicher, Regen kann nerven, aber er macht den Abend zu Hause unter der Decke nur noch gemütlicher.",
+      "tags": [
+        "owszem",
+        "jednak",
+        "small joys"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 116,
+      "target": "Czy mogłaby Pani sprawdzić, czy basen jest dzisiaj otwarty do godziny dwudziestej drugiej, tak jak podano na stronie?",
+      "de": "Könnten Sie bitte nachsehen, ob das Schwimmbad heute bis 22 Uhr offen ist, so wie es auf der Website steht?",
+      "tags": [
+        "usted",
+        "polite request",
+        "everyday life"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 117,
+      "target": "Zanim skończę pisać ten rozdział, chcę się upewnić, że dialogi brzmią naturalnie i nie są zbyt sztywne.",
+      "de": "Bevor ich dieses Kapitel fertigschreibe, will ich sichergehen, dass die Dialoge natürlich klingen und nicht zu hölzern sind.",
+      "tags": [
+        "zanim",
+        "writing",
+        "statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 118,
+      "target": "Skoro mamy wolną sobotę, co powiecie na to, żebyśmy ruszyli na cały dzień w góry zamiast siedzieć w mieście?",
+      "de": "Da wir einen freien Samstag haben, was haltet ihr davon, wenn wir den ganzen Tag in die Berge fahren, statt in der Stadt zu hocken?",
+      "tags": [
+        "skoro",
+        "zamiast",
+        "weekend",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 119,
+      "target": "Przekombinowane i drogie desery są zupełnie nie w moim stylu, bo najbardziej cenię sobie proste, owocowe lody.",
+      "de": "Überkandidelte und teure Desserts sind absolut nicht mein Ding, weil ich einfache Fruchteis-Sorten am meisten schätze.",
+      "tags": [
+        "nie w moim stylu",
+        "negation",
+        "small joys"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 120,
+      "target": "Będę pisać tak długo, dopóki nie poczuję, że ta historia przekazuje wszystko to, co mam teraz w sercu.",
+      "de": "Ich werde so lange schreiben, bis ich das Gefühl habe, dass diese Geschichte all das ausdrückt, was ich gerade im Herzen trage.",
+      "tags": [
+        "dopóki nie",
+        "writing",
+        "statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 121,
+      "target": "Czy planujecie wpaść do mnie wieczorem na maraton starych filmów, czy wolicie po prostu odpocząć po całym tygodniu?",
+      "de": "Habt ihr vor, heute Abend für einen alten Film-Marathon vorbeizukommen, oder wollt ihr euch nach der Woche lieber ausruhen?",
+      "tags": [
+        "vosotros",
+        "question",
+        "weekend"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 122,
+      "target": "To niby nic wielkiego, ale naprawdę doceniam fakt, że pamiętałeś o mojej ulubionej herbacie z płatkami róż.",
+      "de": "Das ist zwar keine große Sache, aber ich weiß es echt zu schätzen, dass du an meinen Lieblingstee mit Rosenblättern gedacht hast.",
+      "tags": [
+        "nie ma sprawy",
+        "gratitude",
+        "friendship"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 123,
+      "target": "Przyznaję, że zamiast cieszyć się piękną pogodą, spędziłam dziś zbyt dużo czasu przed ekranem telefonu, co było błędem.",
+      "de": "Ich gebe zu, dass ich heute zu viel Zeit am Handy verbracht habe, anstatt das schöne Wetter zu genießen, was ein Fehler war.",
+      "tags": [
+        "przyznaję, że",
+        "zamiast",
+        "mental health"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 124,
+      "target": "Oni w końcu wyszli na prostą po tej trudnej przeprowadzce, co daje mi dużą nadzieję przed moim wyjazdem.",
+      "de": "Sie sind nach dem schwierigen Umzug endlich über den Berg, was mir für meine eigene Abreise viel Hoffnung gibt.",
+      "tags": [
+        "wyjść na prostą",
+        "moving",
+        "statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 125,
+      "target": "Jestem z siebie niesamowicie dumna, że mimo ogromnego stresu udało mi się nagrać ten film bez żadnych wpadek.",
+      "de": "Ich bin echt mega stolz auf mich, dass ich das Video trotz des ganzen Stresses ohne Versprecher aufgenommen habe.",
+      "tags": [
+        "mimo że",
+        "mimo",
+        "self-praise",
+        "pretérito perfecto"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 126,
+      "target": "Czy ty też czujesz tę niesamowitą wolność i lekkość, gdy w końcu domkniesz projekt, nad którym pracowałaś miesiącami?",
+      "de": "Spürst du auch diese krasse Freiheit und Leichtigkeit, wenn du ein Projekt endlich abschließt, an dem du monatelang gearbeitet hast?",
+      "tags": [
+        "gdy",
+        "freedom",
+        "present tense",
+        "feminine"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 127,
+      "target": "W gruncie rzeczy wcześniej tego nie dostrzegałam, ale dziękuję, że zauważyłaś, jak ogromny postęp zrobiłam w tym roku.",
+      "de": "Eigentlich hab ich das vorher gar nicht so gesehen, aber danke, dass dir aufgefallen ist, was für Fortschritte ich dieses Jahr gemacht habe.",
+      "tags": [
+        "w gruncie rzeczy",
+        "gratitude",
+        "past tense",
+        "feminine"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 128,
+      "target": "Chociaż będzie mi brakować mojego pokoju, to myśl o nowym początku w Hiszpanii dosłownie dodaje mi skrzydeł.",
+      "de": "Auch wenn mir mein Zimmer fehlen wird, verleiht mir der Gedanke an den Neuanfang in Spanien total Flügel.",
+      "tags": [
+        "chociaż",
+        "idiom",
+        "moving",
+        "future tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 129,
+      "target": "Możesz mi napisać, co najbardziej cenisz w naszej relacji, bo chciałabym to uwiecznić w moim dzienniku wdzięczności?",
+      "de": "Könntest du mir schreiben, was du an unserer Freundschaft am meisten schätzt? Ich würde das gerne in meinem Dankbarkeitstagebuch festhalten.",
+      "tags": [
+        "bo",
+        "gratitude",
+        "request",
+        "conditional"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 130,
+      "target": "Nie zamierzam panikować z powodu przeprowadzki, pod warunkiem że przygotuję sobie szczegółową listę zadań na pierwszy tydzień.",
+      "de": "Ich werde wegen des Umzugs nicht in Panik verfallen, vorausgesetzt, ich erstelle mir eine detaillierte To-Do-Liste für die erste Woche.",
+      "tags": [
+        "pod warunkiem że",
+        "moving",
+        "negation",
+        "future tense"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 131,
+      "target": "Nie uważasz, że lepiej mówić prosto z serca, zamiast uczyć się każdego słowa przemówienia na blachę?",
+      "de": "Findest du nicht auch, dass es besser ist, frei heraus zu sprechen, anstatt jedes Wort der Rede auswendig zu lernen?",
+      "tags": [
+        "zamiast",
+        "softening",
+        "opinion",
+        "idiom"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 132,
+      "target": "Dzisiaj na siłowni podniosłam ciężar, który wydawał mi się nieosiągalny, i jestem niesamowicie wdzięczna mojemu ciału za jego siłę.",
+      "de": "Heute im Gym hab ich ein Gewicht gestemmt, das mir unerreichbar schien, und ich bin meinem Körper so dankbar für seine Kraft.",
+      "tags": [
+        "past tense",
+        "gym",
+        "gratitude",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 133,
+      "target": "Z jednej strony pisanie książki bywa wyczerpujące, ale z drugiej to najbardziej uwalniające doświadczenie, jakiego doznałam.",
+      "de": "Einerseits ist das Buchschreiben echt anstrengend, aber andererseits ist es die befreiendste Erfahrung, die ich je gemacht habe.",
+      "tags": [
+        "z jednej strony",
+        "z drugiej strony",
+        "writing",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 134,
+      "target": "Nie ma sprawy, naprawdę doceniam, że poświęciłaś czas na przeczytanie mojego szkicu i podzieliłaś się szczerymi uwagami.",
+      "de": "Kein Ding, ich schätze es echt total, dass du dir die Zeit für mein Skript genommen und mir ehrliches Feedback gegeben hast.",
+      "tags": [
+        "nie ma sprawy",
+        "gratitude",
+        "past tense",
+        "feminine"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 135,
+      "target": "Szanowni Państwo, uprzejmie proszę o informację, czy istnieje możliwość zawieszenia karnetu na czas mojego kilkumiesięcznego pobytu za granicą.",
+      "de": "Sehr geehrte Damen und Herren, ich bitte höflich um Information, ob die Möglichkeit besteht, meine Mitgliedschaft für die Dauer meines Auslandsaufenthalts zu pausieren.",
+      "tags": [
+        "formal",
+        "moving",
+        "request",
+        "gym"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 136,
+      "target": "Zastanawiam się, czy nie powinnyśmy bardziej skupić się na byciu tu i teraz, zamiast ciągle nagrywać story?",
+      "de": "Ich frage mich, ob wir uns nicht mehr auf das Hier und Jetzt konzentrieren sollten, anstatt ständig Storys aufzunehmen.",
+      "tags": [
+        "zamiast",
+        "mental health",
+        "opinion",
+        "softening"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 137,
+      "target": "W razie gdybym zdecydowała się wysłać moje książki kurierem do Hiszpanii, czy orientujesz się, która firma oferuje najlepsze stawki?",
+      "de": "Falls ich mich dazu entscheide, meine Bücher per Kurier nach Spanien zu schicken, weißt du zufällig, welche Firma die besten Preise hat?",
+      "tags": [
+        "w razie gdyby",
+        "moving",
+        "question",
+        "conditional"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 138,
+      "target": "Nie do końca się zgadzam, że każdy rozdział musi być idealny, zanim w ogóle zacznę pisać kolejną część książki.",
+      "de": "Ich finde nicht unbedingt, dass jedes Kapitel perfekt sein muss, bevor ich überhaupt am nächsten Teil des Buches weiterschreibe.",
+      "tags": [
+        "nie do końca się zgadzam",
+        "zanim",
+        "writing",
+        "softening"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 139,
+      "target": "Nawet jeśli nie wszystko pójdzie po mojej myśli, czuję wdzięczność za samą odwagę, by spróbować czegoś zupełnie nowego.",
+      "de": "Auch wenn nicht alles nach Plan läuft, bin ich dankbar für den Mut, überhaupt mal was ganz Neues auszuprobieren.",
+      "tags": [
+        "nawet jeśli",
+        "gratitude",
+        "future tense",
+        "freedom"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 140,
+      "target": "Pamiętasz może tytuł tego podcastu, którego słuchałyśmy razem? Pomógł mi złapać oddech w bardzo stresującym momencie.",
+      "de": "Weißt du noch, wie dieser Podcast hieß, den wir zusammen gehört haben? Er hat mir echt geholfen, in einem stressigen Moment mal durchzuatmen.",
+      "tags": [
+        "złapać oddech",
+        "idiom",
+        "mental health",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 141,
+      "target": "Trudno się z tym nie zgodzić, że systematyczność to podstawa, nawet jeśli poświęcam na naukę hiszpańskiego tylko kwadrans dziennie.",
+      "de": "Da kann man schwer widersprechen: Beständigkeit ist alles, selbst wenn ich nur eine Viertelstunde am Tag Spanisch lerne.",
+      "tags": [
+        "trudno się z tym nie zgodzić",
+        "nawet jeśli",
+        "DELE",
+        "opinion"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 142,
+      "target": "Mam głowę na karku, więc wiem, że poradzę sobie z wszelkimi problemami technicznymi podczas dzisiejszej transmisji na żywo.",
+      "de": "Ich bin ja nicht auf den Kopf gefallen, also weiß ich, dass ich mit technischen Problemen beim heutigen Livestream klarkomme.",
+      "tags": [
+        "mieć głowę na karku",
+        "dać sobie radę",
+        "idiom",
+        "YouTube"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 143,
+      "target": "Dlaczego ciągłe porównywanie się do innych miałoby być w moim stylu, skoro najbardziej cenię sobie własną drogę?",
+      "de": "Warum sollte es mein Ding sein, mich ständig mit anderen zu vergleichen, wenn ich doch meinen eigenen Weg am meisten schätze?",
+      "tags": [
+        "nie w moim stylu",
+        "skoro",
+        "mental health",
+        "idiom"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 144,
+      "target": "Skoro ty masz już za sobą przeprowadzkę do innego kraju, to co było dla ciebie największym wyzwaniem na samym początku?",
+      "de": "Da du ja schon mal in ein anderes Land gezogen bist, was war für dich am Anfang die größte Herausforderung?",
+      "tags": [
+        "skoro",
+        "moving",
+        "question",
+        "past tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 145,
+      "target": "Postanowiłam pójść na całość i zapisać się na te zaawansowane warsztaty, mimo że wcześniej brakowało mi pewności siebie.",
+      "de": "Ich hab mich dazu entschieden, aufs Ganze zu gehen und mich für den Fortgeschrittenen-Workshop anzumelden, obwohl mir früher das Selbstvertrauen fehlte.",
+      "tags": [
+        "iść na całość",
+        "mimo że",
+        "idiom",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 146,
+      "target": "Przejrzałam dzisiaj moje stare pamiętniki i uświadomiłam sobie, jak bardzo się zmieniłam, za co czuję ogromną dumę i wdzięczność.",
+      "de": "Ich hab heute meine alten Tagebücher durchgesehen und gemerkt, wie sehr ich mich verändert habe, worauf ich echt stolz und wofür ich dankbar bin.",
+      "tags": [
+        "past tense",
+        "feminine",
+        "gratitude",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 147,
+      "target": "Obawiam się, że nie dam rady dołączyć do dzisiejszego wideo-czatu, ale na pewno nadrobimy zaległości jutro rano przy kawie.",
+      "de": "Ich fürchte, ich schaffe es heute nicht zum Video-Call, aber wir holen das morgen früh bei einem Kaffee definitiv nach.",
+      "tags": [
+        "obawiam się",
+        "softening",
+        "future tense",
+        "friendship"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 148,
+      "target": "Dopóki będę szczera sama ze sobą, mam poczucie, że poradzę sobie z każdym wyzwaniem, jakie postawi przede mną życie.",
+      "de": "Solange ich ehrlich zu mir selbst bleibe, habe ich das Gefühl, dass ich jede Herausforderung meistere, die das Leben mir stellt.",
+      "tags": [
+        "dopóki",
+        "dać sobie radę",
+        "mental health",
+        "future tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 149,
+      "target": "Chociaż uwielbiam kontakt z moimi widzami, muszę na kilka dni zniknąć z sieci, żeby po prostu złapać oddech.",
+      "de": "Auch wenn ich den Kontakt zu meinen Zuschauern liebe, muss ich mal für ein paar Tage abtauchen, um einfach mal durchzuatmen.",
+      "tags": [
+        "chociaż",
+        "idiom: złapać oddech"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 150,
+      "target": "Nie da się ukryć, że terapia bywa wyczerpująca, ale widzę postępy i czuję się coraz pewniej w swoich decyzjach.",
+      "de": "Man kann nicht leugnen, dass Therapie anstrengend sein kann, aber ich sehe Fortschritte und fühle mich bei meinen Entscheidungen immer sicherer.",
+      "tags": [
+        "nie da się ukryć, że"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 151,
+      "target": "Jeśli masz dzisiaj gorszy dzień, po prostu odpuść i odpocznij, zamiast zmuszać się do bycia produktywną na siłę.",
+      "de": "Wenn du heute einen schlechten Tag hast, lass einfach locker und ruh dich aus, statt dich mit Gewalt zur Produktivität zu zwingen.",
+      "tags": [
+        "zamiast",
+        "feminine form"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 152,
+      "target": "Moim zdaniem praktyka wdzięczności to nie jest tylko modny trend, lecz realne narzędzie, które pomaga przetrwać gorsze chwile.",
+      "de": "Meiner Meinung nach ist Dankbarkeit nicht nur ein Modetrend, sondern ein echtes Tool, das hilft, die schlechten Momente zu überstehen.",
+      "tags": [
+        "moim zdaniem"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 153,
+      "target": "Czy mogłybyśmy dzisiaj nie rozmawiać o moich planach na przyszłość, bo czuję, że potrzebuję chwili spokoju i regeneracji?",
+      "de": "Könnten wir heute vielleicht mal nicht über meine Zukunftspläne reden? Ich merke, dass ich gerade einfach Ruhe und Erholung brauche.",
+      "tags": [
+        "conditional",
+        "setting boundaries"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 154,
+      "target": "Powoli wychodzę na prostą po tym trudnym miesiącu i w końcu mam ochotę wrócić do pisania mojej książki.",
+      "de": "Nach diesem harten Monat geht es langsam wieder bergauf und ich habe endlich wieder Lust, an meinem Buch weiterzuschreiben.",
+      "tags": [
+        "idiom: wyjść na prostą"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 155,
+      "target": "Z jednej strony cieszę się na ten wyjazd, z drugiej strony obawiam się, czy poradzę sobie z samotnością.",
+      "de": "Einerseits freue ich mich auf die Reise, andererseits habe ich etwas Angst davor, wie ich mit dem Alleinsein klarkommen werde.",
+      "tags": [
+        "z jednej strony",
+        "z drugiej strony",
+        "obawiam się, że"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 156,
+      "target": "Nie do końca się zgadzam, że wystarczy tylko myśleć pozytywnie, aby wyjść z dołka i poczuć się lepiej.",
+      "de": "Ich stimme nicht ganz zu, dass es reicht, einfach nur positiv zu denken, um aus einem Tief rauszukommen.",
+      "tags": [
+        "nie do końca się zgadzam",
+        "idiom: mieć doła"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 157,
+      "target": "Szanowna Pani, czy byłaby możliwość przesunięcia naszej czwartkowej sesji na wcześniejszą godzinę, w razie gdyby zwolnił się termin?",
+      "de": "Sehr geehrte Frau, gäbe es die Möglichkeit, unsere Sitzung am Donnerstag vorzuziehen, falls ein Termin frei werden sollte?",
+      "tags": [
+        "formal",
+        "w razie gdyby"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 158,
+      "target": "Owszem, trening na siłowni poprawia mi humor, jednak nie zawsze mam siłę, by wyjść z domu w gorsze dni.",
+      "de": "Sicher, das Training im Gym bessert meine Laune auf, aber an schlechten Tagen fehlt mir manchmal einfach die Kraft, überhaupt rauszugehen.",
+      "tags": [
+        "owszem",
+        "jednak"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 159,
+      "target": "Usiadłam dzisiaj w parku i przez dziesięć minut tylko słuchałam ptaków; to niesamowite, jak taka mała rzecz pomaga złapać oddech.",
+      "de": "Ich saß heute im Park und habe zehn Minuten lang nur den Vögeln zugehört; Wahnsinn, wie sehr so eine Kleinigkeit beim Durchatmen hilft.",
+      "tags": [
+        "story",
+        "idiom: złapać oddech"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 160,
+      "target": "Dasz sobie radę z tą prezentacją, bo masz głowę na karku i świetnie radzisz sobie ze stresem przed publicznością.",
+      "de": "Du wirst das mit dem Referat hinkriegen, du bist ja schlau und kannst echt gut mit Stress vor Publikum umgehen.",
+      "tags": [
+        "idiom: dać sobie radę",
+        "idiom: mieć głowę na karku"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 161,
+      "target": "Przyznaję, że to świetna propozycja, ale muszę odmówić, dopóki nie zadbam o własną równowagę między pracą a odpoczynkiem.",
+      "de": "Ich gebe zu, dass das ein tolles Angebot ist, aber ich muss absagen, solange ich meine Work-Life-Balance nicht im Griff habe.",
+      "tags": [
+        "przyznaję, że",
+        "dopóki... nie"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 162,
+      "target": "Nawet jeśli dzieli nas wiele kilometrów, czuję ogromną wdzięczność za to, że zawsze mogę do Ciebie zadzwonić i pogadać.",
+      "de": "Auch wenn uns viele Kilometer trennen, bin ich total dankbar dafür, dass ich dich immer anrufen und quatschen kann.",
+      "tags": [
+        "nawet jeśli"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 163,
+      "target": "Mimo że obudziłam się dzisiaj w kiepskim nastroju, poszłam na spacer, żeby chociaż trochę przewietrzyć głowę i zmienić perspektywę.",
+      "de": "Obwohl ich heute mit mieser Laune aufgewacht bin, bin ich spazieren gegangen, um wenigstens etwas den Kopf freizubekommen.",
+      "tags": [
+        "mimo że",
+        "feminine form"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 164,
+      "target": "Robię wszystko na luzie i nie pozwalam, żeby presja otoczenia wpływała na moje tempo pracy nad nowym rozdziałem.",
+      "de": "Ich gehe alles ganz entspannt an und lasse nicht zu, dass der Druck von außen das Tempo bei meinem neuen Kapitel bestimmt.",
+      "tags": [
+        "idiom: robić coś na luzie"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 165,
+      "target": "O ile pogoda dopisze, planuję spędzić całą sobotę na łonie natury, żeby w końcu odpocząć od miejskiego zgiełku.",
+      "de": "Sofern das Wetter mitspielt, plane ich den ganzen Samstag in der Natur zu verbringen, um mal vom Stadttrubel abzuschalten.",
+      "tags": [
+        "o ile"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 166,
+      "target": "Postanowiłam pójść na całość i zapisać się na ten kurs malarstwa intuicyjnego, zamiast ciągle analizować każdy mój krok.",
+      "de": "Ich habe beschlossen, aufs Ganze zu gehen und mich für diesen Malkurs anzumelden, statt ständig jeden Schritt zu zerdenken.",
+      "tags": [
+        "idiom: iść na całość",
+        "zamiast"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 167,
+      "target": "Czy mógłbyś mi podpowiedzieć, jak wyznaczać granice w relacjach z ludźmi, którzy nieustannie naruszają moją prywatność?",
+      "de": "Könntest du mir einen Tipp geben, wie ich Grenzen gegenüber Leuten setze, die ständig meine Privatsphäre missachten?",
+      "tags": [
+        "setting boundaries",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 168,
+      "target": "Musiałam wziąć się w garść i przestać rozpamiętywać błędy z przeszłości, bo to tylko niepotrzebnie odbierało mi energię.",
+      "de": "Ich musste mich zusammenreißen und aufhören, über alte Fehler nachzugrübeln, weil mir das nur unnötig Energie geraubt hat.",
+      "tags": [
+        "idiom: wziąć się w garść",
+        "feminine form"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 169,
+      "target": "W każdym razie staram się codziennie znajdować przynajmniej jedną rzecz, za którą jestem szczerze wdzięczna.",
+      "de": "Jedenfalls versuche ich, jeden Tag mindestens eine Sache zu finden, für die ich ehrlich dankbar bin.",
+      "tags": [
+        "discourse marker",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 170,
+      "target": "Muszę się już zbierać na jogę, bo to jedyny moment w ciągu dnia, kiedy naprawdę potrafię się całkowicie wyciszyć.",
+      "de": "Ich muss jetzt mal los zum Yoga, das ist der einzige Moment am Tag, in dem ich wirklich ganz zur Ruhe komme.",
+      "tags": [
+        "idiom: zbierać się"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 171,
+      "target": "Mam w nosie to, co inni myślą o moich metodach radzenia sobie ze stresem, dopóki one faktycznie mi pomagają.",
+      "de": "Es ist mir völlig egal, was andere über meine Methoden zur Stressbewältigung denken, solange sie mir wirklich helfen.",
+      "tags": [
+        "idiom: mieć w nosie",
+        "dopóki"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 172,
+      "target": "Trudno się z tym nie zgodzić, że proces gojenia ran po trudnych przeżyciach nie jest liniowy i miewa swoje wzloty i upadki.",
+      "de": "Da kann man schwer widersprechen: Der Heilungsprozess nach schwierigen Erlebnissen verläuft nicht linear und hat seine Höhen und Tiefen.",
+      "tags": [
+        "trudno się z tym nie zgodzić"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 173,
+      "target": "Szanowni Państwo, piszę z zapytaniem o możliwość wynajęcia sali na kameralne spotkanie autorskie w przyszłym miesiącu.",
+      "de": "Sehr geehrte Damen und Herren, ich schreibe Ihnen, um mich nach der Möglichkeit zu erkundigen, nächsten Monat einen Raum für eine kleine Autorenlesung zu mieten.",
+      "tags": [
+        "formal enquiry",
+        "future tense"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 174,
+      "target": "Nie ma sprawy, Twoja prezentacja była świetna, a uwagi dotyczące modulacji głosu to tylko drobne sugestie.",
+      "de": "Kein Ding, dein Vortrag war echt gut, und die Anmerkungen zur Modulation waren nur kleine Tipps.",
+      "tags": [
+        "nie ma sprawy",
+        "feedback"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 175,
+      "target": "Mimo że mam już spore doświadczenie w nagrywaniu, wystąpienia na żywo wciąż wywołują u mnie drżenie rąk.",
+      "de": "Obwohl ich schon ziemlich viel Erfahrung mit Aufnahmen habe, zittern mir bei Live-Auftritten immer noch die Hände.",
+      "tags": [
+        "mimo że",
+        "stage fright"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 176,
+      "target": "Zanim wyjdę na scenę, muszę koniecznie sprawdzić, czy mikrofon krawatowy jest dobrze przypięty i czy mnie słychać.",
+      "de": "Bevor ich auf die Bühne gehe, muss ich unbedingt checken, ob das Ansteckmikro richtig sitzt und ob man mich hört.",
+      "tags": [
+        "zanim",
+        "technical check"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 177,
+      "target": "Jak oceniasz reakcję publiczności na mój żart, bo szczerze mówiąc, obawiałam się, że zapadnie niezręczna cisza?",
+      "de": "Wie fandest du die Reaktion vom Publikum auf meinen Witz? Ich hatte ehrlich gesagt Schiss, dass es total unangenehm leise bleibt.",
+      "tags": [
+        "szczerze mówiąc",
+        "obawiać się"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 178,
+      "target": "Rozumiem Państwa propozycję, ale obawiam się, że ze względu na przeprowadzkę do Hiszpanii nie dam rady dojechać.",
+      "de": "Ich verstehe Ihr Angebot, aber ich fürchte, dass ich es wegen meines Umzugs nach Spanien nicht schaffen werde zu kommen.",
+      "tags": [
+        "rozumiem, ale",
+        "obawiam się, że"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 179,
+      "target": "Kiedyś zapomniałam tekstu w połowie przemówienia. Na szczęście mam głowę na karku, więc szybko zaczęłam improwizować.",
+      "de": "Einmal habe ich mitten in der Rede meinen Text vergessen. Zum Glück bin ich nicht auf den Kopf gefallen und habe einfach improvisiert.",
+      "tags": [
+        "mieć głowę na karku",
+        "past tense"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 180,
+      "target": "Czy w Hiszpanii publiczność reaguje bardziej żywiołowo niż w Polsce, czy powinnam przygotować się na większy dystans?",
+      "de": "Reagiert das Publikum in Spanien lebhafter als in Polen, oder sollte ich mich auf mehr Distanz einstellen?",
+      "tags": [
+        "comparative",
+        "culture"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 181,
+      "target": "Będę trzymać kciuki za Twoją jutrzejszą prelekcję, bo wiem, jak dużo serca i pracy włożyłaś w przygotowania.",
+      "de": "Ich drücke dir für deinen Vortrag morgen ganz fest die Daumen, weil ich weiß, wie viel Herzblut du reingesteckt hast.",
+      "tags": [
+        "trzymać kciuki",
+        "support"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 182,
+      "target": "Z jednej strony chcę być profesjonalna, ale z drugiej zależy mi na tym, by brzmieć autentycznie.",
+      "de": "Einerseits will ich professionell sein, aber andererseits ist es mir wichtig, dass ich authentisch rüberkomme.",
+      "tags": [
+        "z jednej strony",
+        "z drugiej strony"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 183,
+      "target": "Udawanie kogoś innego tylko po to, by zdobyć popularność na scenie, jest absolutnie nie w moim stylu.",
+      "de": "Sich zu verstellen, nur um auf der Bühne beliebt zu sein, ist absolut nicht mein Ding.",
+      "tags": [
+        "nie w moim stylu",
+        "values"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 184,
+      "target": "Czy byłaby możliwość przesłania mi nagrania z występu, abym mogła przeanalizować swoje błędy i nad nimi popracować?",
+      "de": "Gäbe es die Möglichkeit, mir die Aufnahme vom Auftritt zu schicken, damit ich meine Fehler analysieren und daran arbeiten kann?",
+      "tags": [
+        "conditional",
+        "self-improvement"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 185,
+      "target": "Dopóki nie zejdę ze sceny i nie schowam mikrofonu, nie będę w stanie w pełni złapać oddechu.",
+      "de": "Solange ich nicht von der Bühne runter bin und das Mikro weggepackt habe, kann ich nicht richtig durchatmen.",
+      "tags": [
+        "dopóki... nie",
+        "złapać oddech"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 186,
+      "target": "Trudno się z tym nie zgodzić, że kontakt wzrokowy z widownią buduje zaufanie szybciej niż najlepsza prezentacja.",
+      "de": "Man kann dem kaum widersprechen, dass Augenkontakt zum Publikum schneller Vertrauen aufbaut als die beste Präsentation.",
+      "tags": [
+        "trudno się z tym nie zgodzić",
+        "opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 187,
+      "target": "Po negatywnym komentarzu pod filmem musiałam wziąć się w garść i przypomnieć sobie, dlaczego w ogóle nagrywam.",
+      "de": "Nach einem fiesen Kommentar unter dem Video musste ich mich erst mal zusammenreißen und mich daran erinnern, warum ich das mache.",
+      "tags": [
+        "wziąć się w garść",
+        "mental health"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 188,
+      "target": "Chętnie wystąpię u Państwa w grudniu, o ile zapewnią Państwo odpowiednie oświetlenie potrzebne do nagrania vloga.",
+      "de": "Ich trete im Dezember gerne bei Ihnen auf, sofern Sie für die passende Beleuchtung für meinen Vlog sorgen.",
+      "tags": [
+        "o ile",
+        "conditions"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 189,
+      "target": "Postanowiłam iść na całość i zorganizować spotkanie w Walencji, chociaż mój hiszpański nie jest jeszcze płynny.",
+      "de": "Ich hab mich entschieden, aufs Ganze zu gehen und ein Treffen in Valencia zu organisieren, obwohl mein Spanisch noch nicht flüssig ist.",
+      "tags": [
+        "iść na całość",
+        "chociaż"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 190,
+      "target": "Czy mogliby mi Państwo podpowiedzieć, jakiego typu złącza są dostępne, w razie gdyby mój adapter nie pasował?",
+      "de": "Könnten Sie mir sagen, welche Anschlüsse vorhanden sind, falls mein Adapter nicht passen sollte?",
+      "tags": [
+        "w razie gdyby",
+        "tech question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 191,
+      "target": "Moim zdaniem najciekawsze historie to te, w których nie boimy się przyznać do własnych lęków i słabości.",
+      "de": "Meiner Meinung nach sind die interessantesten Geschichten die, in denen wir uns trauen, über unsere Ängste und Schwächen zu sprechen.",
+      "tags": [
+        "moim zdaniem",
+        "authenticity"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 192,
+      "target": "Nie miej doła z powodu tego przejęzyczenia, bo nikt z publiczności nawet nie zauważył, że coś poszło źle.",
+      "de": "Lass den Kopf wegen des Versprechers nicht hängen, vom Publikum hat doch keiner gemerkt, dass was schiefgelaufen ist.",
+      "tags": [
+        "mieć doła",
+        "comforting"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 193,
+      "target": "Nawet jeśli znam swoje przemówienie na pamięć, zawsze powtarzam je kilka razy przed lustrem, żeby dopracować gesty.",
+      "de": "Selbst wenn ich meine Rede auswendig kann, gehe ich sie immer ein paar Mal vor dem Spiegel durch, um die Gestik zu üben.",
+      "tags": [
+        "nawet jeśli",
+        "practice"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 194,
+      "target": "Uprzejmie proszę o szczery feedback po moim wystąpieniu, ponieważ zależy mi na ciągłym doskonaleniu warsztatu mówcy.",
+      "de": "Ich bitte höflich um ehrliches Feedback nach meinem Auftritt, da es mir wichtig ist, an meiner Rhetorik zu feilen.",
+      "tags": [
+        "uprzejmie proszę",
+        "professionalism"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 195,
+      "target": "Myślałam, że prezentacja się nie otworzy, ale na szczęście dałam sobie radę i wszystko poszło zgodnie z planem.",
+      "de": "Ich dachte erst, die Präsi öffnet sich nicht, aber zum Glück habe ich es hingekriegt und alles lief nach Plan.",
+      "tags": [
+        "dać sobie radę",
+        "problem solving"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 196,
+      "target": "Co prawda przed kamerą czuję się swobodniej, ale energia żywej publiczności daje mi znacznie więcej motywacji.",
+      "de": "Zwar fühle ich mich vor der Kamera wohler, aber die Energie von echtem Publikum motiviert mich viel mehr.",
+      "tags": [
+        "co prawda... ale",
+        "comparison"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 197,
+      "target": "Jestem ogromnie wdzięczna za możliwość podzielenia się moją historią z tak inspirującą grupą młodych ludzi.",
+      "de": "Ich bin mega dankbar für die Chance, meine Geschichte mit so einer inspirierenden Gruppe junger Leute zu teilen.",
+      "tags": [
+        "gratitude",
+        "closing"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 198,
+      "target": "Szanowny Panie, czy byłaby możliwość przesunięcia terminu oddania manuskryptu, o ile nie wpłynie to znacząco na datę premiery?",
+      "de": "Sehr geehrter Herr, bestünde die Möglichkeit, die Abgabefrist für das Manuskript zu verschieben, sofern das den Erscheinungstermin nicht zu sehr beeinflusst?",
+      "tags": [
+        "conditional",
+        "formal-request",
+        "o ile"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 199,
+      "target": "Jak oceniasz ten nowy rozdział, bo szczerze mówiąc, obawiam się, że główna bohaterka wyszła zbyt melancholijnie?",
+      "de": "Wie findest du das neue Kapitel? Ehrlich gesagt habe ich Angst, dass die Hauptfigur etwas zu melancholisch rüberkommt.",
+      "tags": [
+        "question",
+        "softening",
+        "opinion",
+        "szczerze mówiąc"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 200,
+      "target": "Zamiast stresować się recenzjami, skupiam się na wdzięczności za to, że odważyłam się w końcu opowiedzieć tę historię.",
+      "de": "Anstatt mich wegen der Rezensionen zu stressen, konzentriere ich mich lieber darauf, wie dankbar ich bin, dass ich mich endlich getraut habe, diese Geschichte zu erzählen.",
+      "tags": [
+        "discourse-marker",
+        "gratitude",
+        "first-person-past",
+        "zamiast"
+      ],
+      "kind": "statement"
+    }
+  ]
+}

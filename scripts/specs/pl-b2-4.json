@@ -1,0 +1,35 @@
+{
+  "id": "pl-b2-4",
+  "lang": "pl",
+  "langLabel": "Polnisch",
+  "langName": "Polish (standard Polish as spoken in Poland today; natural everyday register; ALWAYS correct diacritics ą ć ę ł ń ó ś ź ż). The learner is FEMALE: first-person past/adjective forms are feminine (byłam, zmęczona).",
+  "level": "B2",
+  "wordRange": [
+    10,
+    18
+  ],
+  "register": "Level B2: fluent, nuanced everyday Polish with natural complex sentences; colloquial and semi-formal registers both appear; idioms and discourse markers as real speakers use them (szczerze mówiąc, tak naprawdę, w gruncie rzeczy, no właśnie, swoją drogą, w każdym razie). Formal e-mail register where the situation calls for it (Szanowna Pani, uprzejmie proszę, z góry dziękuję, z poważaniem).",
+  "themes": [
+    "mental health and healing: naming feelings, therapy appointments, good and bad days, setbacks, noticing progress, encouraging someone, asking for help, setting boundaries",
+    "stage and speaking: performances, stage fright, the audience, the microphone, rehearsing a talk, getting feedback, introducing yourself, telling a story, booking someone, writing an enquiry",
+    "writing and the book: chapters, characters, writer's block, a deadline, revising, translating, the publisher, the cover, reading and recommending books",
+    "YouTube and content: filming, editing, thumbnail, title, comments, the community, camera, light, upload schedule, collaborations, labelling ads",
+    "gym and body: training, sets and reps, sore muscles, sportswear, sizes and fit, nutrition, sleep, energy, motivation on days without strength",
+    "moving to a new city abroad: flat hunting, authorities, the bank, groceries, neighbours, a café, public transport, meeting someone, small talk, getting lost, asking for help, homesickness",
+    "school and Abitur: exams, studying, teachers, presentations, grades, stress, planning time, plans for the future",
+    "friendship and relationships: real friendship, toxic people, recognising manipulation, saying no, making up, trust, family, comforting someone",
+    "everyday life and small joys: ice cream on a sunny day, going swimming, a walk just because you can, games with friends, music, coffee, rain at the window, the weekend, cosy evenings",
+    "gratitude and freedom: appreciating something you did not see before, looking back, praising yourself, saying thank you, being proud"
+  ],
+  "bannedPhrases": [
+    "Gdzie jest biblioteka?",
+    "To jest stół",
+    "To jest kot",
+    "Ala ma kota"
+  ],
+  "part": 4,
+  "title": "Polnisch B2 · Teil 4",
+  "focus": "DISCOURSE and argumentation: concessive and conditional connectors (mimo że, chociaż / choć, o ile, w razie gdyby, pod warunkiem że, nawet jeśli, skoro, zanim, dopóki … nie, póki, gdy tylko, zamiast, oprócz tego, że), giving an opinion with reasons and counter-arguments (z jednej strony … z drugiej strony, co prawda … ale, owszem … jednak, moim zdaniem, nie da się ukryć, że, trudno się z tym nie zgodzić, przyznaję, że), softening and disagreeing politely (nie do końca się zgadzam, rozumiem, ale…, może i tak, jednak…, obawiam się, że), and everyday IDIOMS used naturally (mieć coś w nosie, nie ma sprawy, dać sobie radę, wziąć się w garść, mieć doła, złapać oddech, trzymać kciuki, iść na całość, zbierać się, nie w moim stylu, mieć głowę na karku, wyjść na prostą, robić coś na luzie). About 60% of sentences must carry one of these. Last B2 Teil: sentences may reach into C1 in length and richness, but stay spoken and personal.",
+  "always": "Everything from A1–B2 Teil 3.",
+  "avoidGrammar": "Avoid vulgar slang and literary archaisms."
+}

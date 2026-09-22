@@ -1,0 +1,2071 @@
+{
+  "id": "pl-b2-2",
+  "lang": "pl",
+  "langLabel": "Polnisch",
+  "level": "B2",
+  "part": 2,
+  "title": "Polnisch B2 · Teil 2",
+  "sentences": [
+    {
+      "n": 1,
+      "target": "Poszłyśmy we czwórkę na lody, żeby uczcić ten niesamowicie ciepły, słoneczny wieczór nad rzeką.",
+      "de": "Wir sind zu viert Eis essen gegangen, um diesen unglaublich warmen, sonnigen Abend am Fluss zu feiern.",
+      "tags": [
+        "collective numerals",
+        "feminine plural"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 2,
+      "target": "Powiedziano mi, że basen będzie już otwarty, a tymczasem pocałowałam klamkę i wróciłam do domu.",
+      "de": "Mir wurde gesagt, dass das Schwimmbad schon offen ist, aber ich stand vor verschlossener Tür und bin wieder heim.",
+      "tags": [
+        "impersonal past",
+        "idiom"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 3,
+      "target": "Gdybym była wiedziała, że to pisanie zajmie mi tyle czasu, nie planowałabym aż tylu spacerów.",
+      "de": "Hätte ich gewusst, dass das Schreiben so viel Zeit frisst, hätte ich nicht so viele Spaziergänge geplant.",
+      "tags": [
+        "past conditional",
+        "feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 4,
+      "target": "Wybierasz się dzisiaj do Kasi i Tomka, czy wolisz zostać w łóżku z kubkiem gorącej herbaty?",
+      "de": "Gehst du heute zu Kasia und Tomek oder bleibst du lieber mit einer Tasse heißem Tee im Bett?",
+      "tags": [
+        "name declension",
+        "genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 5,
+      "target": "Czy o moim nowym filmie na YouTubie będzie się mówić jeszcze przed oficjalną premierą w niedzielę?",
+      "de": "Wird man über mein neues YouTube-Video schon vor der offiziellen Premiere am Sonntag sprechen?",
+      "tags": [
+        "impersonal się",
+        "future"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 6,
+      "target": "Odwiedziło mnie dziś dwoje przyjaciół i spędziliśmy przemiły wieczór, grając w planszówki i jedząc pizzę.",
+      "de": "Heute haben mich zwei Freunde besucht und wir hatten einen total netten Abend mit Brettspielen und Pizza.",
+      "tags": [
+        "collective numerals"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 7,
+      "target": "Idę właśnie do państwa Nowaków, żeby pożyczyć tę książkę, o której opowiadali mi w zeszłym tygodniu.",
+      "de": "Ich gehe gerade zu den Nowaks, um mir das Buch auszuleihen, von dem sie mir letzte Woche erzählt haben.",
+      "tags": [
+        "surname declension",
+        "genitive plural"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 8,
+      "target": "Nie byłabym poszła pływać w tym jeziorze, gdyby woda nie była tak idealnie przejrzysta i ciepła.",
+      "de": "Ich wäre nicht in dem See schwimmen gegangen, wenn das Wasser nicht so perfekt klar und warm gewesen wäre.",
+      "tags": [
+        "past conditional",
+        "feminine"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 9,
+      "target": "Niestety odwołano dzisiejszy koncert plenerowy z powodu burzy, więc musimy wymyślić coś innego na ten wieczór.",
+      "de": "Leider wurde das Open-Air-Konzert wegen des Gewitters abgesagt, also müssen wir uns was anderes für heute Abend überlegen.",
+      "tags": [
+        "impersonal past"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 10,
+      "target": "Dawniej zupełnie inaczej patrzyło się na odpoczynek, a teraz doceniam każdą chwilę spokoju z dobrą muzyką.",
+      "de": "Früher hat man Erholung ganz anders gesehen, aber heute schätze ich jeden Moment Ruhe mit guter Musik.",
+      "tags": [
+        "impersonal się",
+        "past"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 11,
+      "target": "Wybraliśmy się na trening w pięcioro, co szczerze mówiąc było dość chaotyczne, ale za to bardzo wesołe.",
+      "de": "Wir sind zu fünft zum Training gegangen, was ehrlich gesagt ziemlich chaotisch, aber dafür sehr lustig war.",
+      "tags": [
+        "collective numerals"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 12,
+      "target": "Rozmawiałam o tym długo z Anią i Piotrem i oboje uważają, że przeprowadzka do Hiszpanii to świetny pomysł.",
+      "de": "Ich habe lange mit Ania und Piotr darüber geredet und beide finden, dass der Umzug nach Spanien eine super Idee ist.",
+      "tags": [
+        "name declension",
+        "collective quantifier"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 13,
+      "target": "Przyjęto mnie na ten kurs językowy w Walencji, więc muszę zacząć planować wszystko ze sporym wyprzedzeniem.",
+      "de": "Ich wurde für diesen Sprachkurs in Valencia angenommen, also muss ich anfangen, alles mit ordentlich Vorlauf zu planen.",
+      "tags": [
+        "impersonal past"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 14,
+      "target": "Mogłabym była kupić te piękne kwiaty na targu, gdybym tylko miała przy sobie wystarczająco dużo gotówki.",
+      "de": "Ich hätte diese schönen Blumen auf dem Markt kaufen können, wenn ich nur genug Bargeld dabei gehabt hätte.",
+      "tags": [
+        "past conditional",
+        "feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 15,
+      "target": "Czy moglibyśmy porozmawiać o pani Kowalskiej i jej uwagach do mojego ostatniego tekstu o zdrowiu psychicznym?",
+      "de": "Könnten wir kurz über Frau Kowalska und ihre Anmerkungen zu meinem letzten Text über mentale Gesundheit sprechen?",
+      "tags": [
+        "name declension",
+        "locative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 16,
+      "target": "Szanowna Pani Kowalska, uprzejmie proszę o potwierdzenie, czy moja rezerwacja sali na warsztaty została już ostatecznie sfinalizowana.",
+      "de": "Sehr geehrte Frau Kowalska, ich bitte höflich um Bestätigung, ob meine Saalreservierung für den Workshop endgültig abgeschlossen ist.",
+      "tags": [
+        "formal",
+        "passive voice"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 17,
+      "target": "Uwielbiam ten moment, kiedy po całym dniu pracy mogę wreszcie usiąść przy oknie i słuchać padającego deszczu.",
+      "de": "Ich liebe diesen Moment, wenn ich mich nach dem ganzen Tag Arbeit endlich ans Fenster setzen und dem Regen zuhören kann.",
+      "tags": [
+        "present tense",
+        "participle"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 18,
+      "target": "Słuchaj, masz może ochotę wyskoczyć jutro rano na kawę i krótki spacer, zanim słońce zacznie za mocno grzać?",
+      "de": "Du, hast du vielleicht Lust, morgen früh kurz auf einen Kaffee und einen Spaziergang rauszugehen, bevor die Sonne zu stark brennt?",
+      "tags": [
+        "question",
+        "future"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 19,
+      "target": "Bardzo dziękuję za zaproszenie na grę, ale tym razem muszę odpuścić, bo obiecałam sobie wieczór tylko dla siebie.",
+      "de": "Vielen Dank für die Einladung zum Spielen, aber diesmal muss ich passen, weil ich mir einen Abend nur für mich versprochen habe.",
+      "tags": [
+        "negation",
+        "reflexive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 20,
+      "target": "Znalazłam dziś w starej kurtce bilet z mojego pierwszego wystąpienia. Poczułam ogromną wdzięczność za to, gdzie teraz jestem.",
+      "de": "Ich habe heute in einer alten Jacke das Ticket von meinem ersten Auftritt gefunden. Ich war total dankbar dafür, wo ich jetzt stehe.",
+      "tags": [
+        "story",
+        "feminine past"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 21,
+      "target": "Nie przejmuj się tym błędem, każdemu zdarza się zapomnieć o czymś ważnym, zwłaszcza gdy ma się tyle na głowie.",
+      "de": "Mach dir nichts aus dem Fehler, jedem passiert es mal, was Wichtiges zu vergessen, besonders wenn man so viel um die Ohren hat.",
+      "tags": [
+        "imperative",
+        "idiom"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 22,
+      "target": "Po dzisiejszym treningu na siłowni czuję się niesamowicie zmęczona, ale ta dawka endorfin była mi naprawdę bardzo potrzebna.",
+      "de": "Nach dem heutigen Training im Gym bin ich unfassbar müde, aber diese Dosis Endorphine habe ich gerade echt gebraucht.",
+      "tags": [
+        "feminine",
+        "adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 23,
+      "target": "To niesamowite, jak zwykła gałka lodów pistacjowych potrafi poprawić humor w taką deszczową i senną niedzielę jak dzisiaj.",
+      "de": "Wahnsinn, wie eine simple Kugel Pistazieneis die Laune an so einem regnerischen, verschlafenen Sonntag wie heute heben kann.",
+      "tags": [
+        "statement",
+        "descriptive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 24,
+      "target": "Moja trenerka powiedziała, że robię ogromne postępy, co daje mi mnóstwo motywacji do dalszej pracy nad swoją kondycją.",
+      "de": "Meine Trainerin meinte, dass ich riesige Fortschritte mache, was mir total viel Motivation gibt, weiter an meiner Fitness zu arbeiten.",
+      "tags": [
+        "reported speech"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 25,
+      "target": "Jak myślisz, co tak naprawdę sprawia, że niektóre przyjaźnie trwają latami, mimo że dzieli nas tyle kilometrów?",
+      "de": "Was glaubst du eigentlich, woran es liegt, dass manche Freundschaften jahrelang halten, obwohl so viele Kilometer zwischen uns liegen?",
+      "tags": [
+        "question",
+        "complex sentence"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 26,
+      "target": "Zrobiono mi wielką przysługę, nie pozwalając mi na ten wyjazd, bo wtedy odkryłam, co naprawdę kocham.",
+      "de": "Man hat mir einen riesigen Gefallen getan, als man mich damals nicht hat verreisen lassen, denn so habe ich entdeckt, was ich wirklich liebe.",
+      "tags": [
+        "impersonal past",
+        "-no/-to",
+        "conjunction"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 27,
+      "target": "Wybieramy się we czworo na to spotkanie autorskie, żeby wspólnie świętować mój mały sukces literacki.",
+      "de": "Wir gehen zu viert zu dieser Autorenlesung, um gemeinsam meinen kleinen literarischen Erfolg zu feiern.",
+      "tags": [
+        "collective numerals",
+        "purpose clause"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 28,
+      "target": "Nie poczułabym takiej wolności, gdybym była została w starym kręgu znajomych, którzy mnie ciągle ograniczali.",
+      "de": "Ich hätte nicht so eine Freiheit gespürt, wenn ich in meinem alten Bekanntenkreis geblieben wäre, der mich ständig eingeschränkt hat.",
+      "tags": [
+        "past conditional",
+        "irrealis",
+        "relative clause"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 29,
+      "target": "Będzie się o tym projekcie dużo pisać, ale dla mnie najważniejsze jest to, komu realnie pomogłam.",
+      "de": "Über dieses Projekt wird man viel schreiben, aber für mich ist am wichtigsten, wem ich wirklich geholfen habe.",
+      "tags": [
+        "impersonal future",
+        "się-construction"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 30,
+      "target": "Idę jutro z Kubą i Martą do tej nowej kawiarni, żeby podziękować im za wsparcie przy filmie.",
+      "de": "Ich gehe morgen mit Kuba und Marta in dieses neue Café, um ihnen für die Unterstützung beim Video zu danken.",
+      "tags": [
+        "declension of names",
+        "instrumental",
+        "purpose clause"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 31,
+      "target": "Wczoraj nareszcie ogłoszono wyniki konkursu i nie mogę uwierzyć, że moje opowiadanie zdobyło wyróżnienie.",
+      "de": "Gestern wurden endlich die Wettbewerbsergebnisse bekannt gegeben und ich kann nicht glauben, dass meine Erzählung eine Auszeichnung bekommen hat.",
+      "tags": [
+        "impersonal past",
+        "-no/-to",
+        "emotions"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 32,
+      "target": "Przez lata nie zauważałam, jak wiele mam, a teraz codziennie wieczorem zapisuję trzy rzeczy, za które dziękuję.",
+      "de": "Jahrelang habe ich nicht gemerkt, wie viel ich eigentlich habe, und jetzt schreibe ich jeden Abend drei Dinge auf, für die ich dankbar bin.",
+      "tags": [
+        "aspect",
+        "gratitude",
+        "present tense"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 33,
+      "target": "Czy uważasz, że przeprowadzka do Hiszpanii pozwoli nam obu bardziej docenić to, co zostawiamy w domu?",
+      "de": "Glaubst du, dass der Umzug nach Spanien uns beiden erlauben wird, das, was wir zu Hause lassen, mehr zu schätzen?",
+      "tags": [
+        "future tense",
+        "opinion",
+        "personal pronouns"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 34,
+      "target": "Bardzo doceniam twoją propozycję, ale muszę odmówić, bo teraz skupiam się głównie na kończeniu mojej książki.",
+      "de": "Ich schätze dein Angebot sehr, aber ich muss absagen, weil ich mich gerade vor allem auf den Abschluss meines Buches konzentriere.",
+      "tags": [
+        "boundary",
+        "present tense",
+        "gerund"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 35,
+      "target": "Jestem z siebie dumna, bo mimo gorszego dnia poszłam na trening i zrobiłam wszystko, co zaplanowałam.",
+      "de": "Ich bin stolz auf mich, weil ich trotz eines schlechten Tages zum Training gegangen bin und alles durchgezogen habe, was ich mir vorgenommen hatte.",
+      "tags": [
+        "prepositions",
+        "past tense",
+        "self-praise"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 36,
+      "target": "Spędziłam popołudnie z trojgiem przyjaciół, rozmawiając o naszych planach na przyszłość i pijąc pyszną kawę.",
+      "de": "Ich habe den Nachmittag mit drei Freunden verbracht, wobei wir über unsere Zukunftspläne sprachen und leckeren Kaffee tranken.",
+      "tags": [
+        "collective numerals",
+        "adverbial participle",
+        "instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 37,
+      "target": "Przyjęto moją propozycję tematu na kolejną prelekcję, więc muszę zacząć przygotowywać prezentację o wdzięczności i wolności.",
+      "de": "Mein Themenvorschlag für den nächsten Vortrag wurde angenommen, also muss ich anfangen, die Präsentation über Dankbarkeit und Freiheit vorzubereiten.",
+      "tags": [
+        "impersonal past",
+        "-no/-to",
+        "conjunction"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 38,
+      "target": "Gdybym była wiedziała, że gramatyka hiszpańska jest tak logiczna, zaczęłabym naukę znacznie wcześniej.",
+      "de": "Hätte ich gewusst, dass die spanische Grammatik so logisch ist, hätte ich viel früher mit dem Lernen angefangen.",
+      "tags": [
+        "past conditional",
+        "irrealis",
+        "comparative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 39,
+      "target": "W moim domu zawsze dużo mówiło się o emocjach, co pomogło mi zbudować zdrowe relacje z ludźmi.",
+      "de": "In meinem Elternhaus wurde immer viel über Emotionen gesprochen, was mir geholfen hat, gesunde Beziehungen zu Menschen aufzubauen.",
+      "tags": [
+        "impersonal past",
+        "się-construction",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 40,
+      "target": "Uważam, że wolność to przede wszystkim możliwość wyboru własnej drogi, nawet jeśli inni jej nie rozumieją.",
+      "de": "Ich finde, Freiheit ist vor allem die Möglichkeit, den eigenen Weg zu wählen, selbst wenn andere ihn nicht verstehen.",
+      "tags": [
+        "opinion",
+        "negation",
+        "abstract nouns"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 41,
+      "target": "Jak myślisz, czy powinnam częściej opowiadać na kanale o tym, jak radzę sobie z krytyką?",
+      "de": "Was meinst du, sollte ich auf dem Kanal öfter darüber erzählen, wie ich mit Kritik umgehe?",
+      "tags": [
+        "modal verbs",
+        "question",
+        "social media"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 42,
+      "target": "Nie bierz tego do siebie, po prostu niektórzy ludzie nie potrafią cieszyć się z cudzych sukcesów.",
+      "de": "Nimm dir das nicht zu Herzen, manche Leute können sich einfach nicht über die Erfolge anderer freuen.",
+      "tags": [
+        "imperative",
+        "comforting",
+        "negation"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 43,
+      "target": "Szanowny Panie, byłabym wdzięczna za informację, kiedy dokładnie zostaną wysłane materiały do egzaminu DELE.",
+      "de": "Sehr geehrter Herr, ich wäre Ihnen für eine Information dankbar, wann genau die Materialien für die DELE-Prüfung verschickt werden.",
+      "tags": [
+        "formal register",
+        "conditional",
+        "passive voice"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 44,
+      "target": "Kiedyś bałam się sceny, a dziś czuję tam niesamowitą wolność. To dowód, że warto przełamywać lęki.",
+      "de": "Früher hatte ich Angst vor der Bühne, und heute fühle ich dort eine unglaubliche Freiheit. Das beweist, dass es sich lohnt, Ängste zu überwinden.",
+      "tags": [
+        "past tense",
+        "contrast",
+        "mental health"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 45,
+      "target": "Wspólnie z Anią i Markiem przygotowaliśmy listę rzeczy, które chcemy zobaczyć w Madrycie zaraz po przeprowadzce.",
+      "de": "Zusammen mit Ania und Marek haben wir eine Liste mit Dingen vorbereitet, die wir direkt nach dem Umzug in Madrid sehen wollen.",
+      "tags": [
+        "declension of names",
+        "instrumental",
+        "plural past"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 46,
+      "target": "Zapomniano o moich prośbach dotyczących nagłośnienia, więc musiałam improwizować przed całą publicznością, co było stresujące.",
+      "de": "Man hat meine Wünsche bezüglich der Beschallung vergessen, also musste ich vor dem gesamten Publikum improvisieren, was stressig war.",
+      "tags": [
+        "impersonal past",
+        "-no/-to",
+        "adjectives"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 47,
+      "target": "Nasi rodzice oboje bardzo nas wspierają w decyzji o wyjeździe, za co jestem im ogromnie wdzięczna.",
+      "de": "Unsere Eltern unterstützen uns beide sehr bei der Entscheidung wegzugehen, wofür ich ihnen unendlich dankbar bin.",
+      "tags": [
+        "collective numerals",
+        "gratitude",
+        "prepositions"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 48,
+      "target": "Nie mogłabym była osiągnąć tego wszystkiego bez twojego wsparcia, więc dziękuję, że zawsze przy mnie byłeś.",
+      "de": "Ich hätte das alles ohne deine Unterstützung nicht erreichen können, also danke, dass du immer für mich da warst.",
+      "tags": [
+        "past conditional",
+        "irrealis",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 49,
+      "target": "Dawniej rzadziej zwracało się uwagę na drobne gesty, a teraz to właśnie one dają mi najwięcej siły.",
+      "de": "Früher hat man seltener auf kleine Gesten geachtet, aber jetzt sind es genau die, die mir am meisten Kraft geben.",
+      "tags": [
+        "impersonal past",
+        "się-construction",
+        "comparative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 50,
+      "target": "Wczoraj na sesji poruszono temat moich granic i szczerze mówiąc, poczułam ogromną ulgę po tej rozmowie.",
+      "de": "Gestern in der Therapiestunde wurde das Thema Grenzen angesprochen und ehrlich gesagt war ich danach total erleichtert.",
+      "tags": [
+        "impersonal past -no",
+        "discourse markers",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 51,
+      "target": "Wyszliśmy z moim rodzeństwem we troje do parku, żeby po prostu pobyć razem bez żadnych rozpraszaczy.",
+      "de": "Ich bin mit meinen beiden Geschwistern in den Park gegangen, um einfach mal ohne Ablenkungen Zeit zu dritt zu verbringen.",
+      "tags": [
+        "collective numerals",
+        "purpose clause",
+        "family"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 52,
+      "target": "Muszę koniecznie pogadać z Agatą i Krzyśkiem o tym, jak zorganizować nasze pożegnanie przed moim wyjazdem.",
+      "de": "Ich muss unbedingt mit Agata und Krzysiek quatschen, wie wir unsere Abschiedsparty vor meinem Umzug organisieren.",
+      "tags": [
+        "declension of names",
+        "prepositions",
+        "moving"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 53,
+      "target": "Nie byłabym tak szybko zauważyła tego postępu, gdyby nie regularne zapisywanie przemyśleń w moim dzienniku.",
+      "de": "Ich hätte diesen Fortschritt nicht so schnell bemerkt, wenn ich nicht regelmäßig meine Gedanken in mein Journal schreiben würde.",
+      "tags": [
+        "past conditional",
+        "mental health",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 54,
+      "target": "Wierzę, że o problemach ze zdrowiem psychicznym będzie się mówiło coraz odważniej i bez zbędnego wstydu.",
+      "de": "Ich glaube, dass man über psychische Probleme immer mutiger und ohne unnötige Scham sprechen wird.",
+      "tags": [
+        "impersonal się future",
+        "mental health",
+        "opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 55,
+      "target": "Przepraszam, ale nie mogę teraz rozmawiać, bo potrzebuję chwili ciszy po wystąpieniu, więc zdzwonimy się jutro?",
+      "de": "Tut mir leid, ich kann gerade nicht reden, ich brauche nach dem Auftritt kurz Ruhe. Wollen wir morgen telefonieren?",
+      "tags": [
+        "setting boundaries",
+        "future tense",
+        "public speaking"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 56,
+      "target": "Przyjęto moją rezygnację z tamtego projektu ze zrozumieniem, co uświadomiło mi, że niepotrzebnie tak się stresowałam.",
+      "de": "Meine Kündigung bei dem Projekt wurde mit Verständnis aufgenommen, was mir gezeigt hat, dass ich mich umsonst so gestresst habe.",
+      "tags": [
+        "impersonal past -to",
+        "mental health",
+        "reflection"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 57,
+      "target": "Czy słyszałaś, że u państwa Wiśniewskich otworzono to nowe studio jogi, o którym tyle opowiadała Magda?",
+      "de": "Hast du gehört, dass bei den Wiśniewskis dieses neue Yoga-Studio aufgemacht hat, von dem Magda so viel erzählt hat?",
+      "tags": [
+        "impersonal past -no",
+        "declension of surnames",
+        "hobbies"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 58,
+      "target": "Gdybyś mi nie była przypomniała o wizycie u fizjoterapeuty, pewnie znowu bym o niej kompletnie zapomniała.",
+      "de": "Wenn du mich nicht an den Termin beim Physio erinnert hättest, hätte ich ihn wahrscheinlich wieder komplett vergessen.",
+      "tags": [
+        "past conditional",
+        "health",
+        "friendship"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 59,
+      "target": "Nasze czworo przyjaciół zawsze wie, jak mnie rozweselić, kiedy mam gorszy dzień i nic mi się nie chce.",
+      "de": "Unsere vier Freunde wissen immer, wie sie mich aufmuntern können, wenn ich einen miesen Tag habe und zu nichts Lust habe.",
+      "tags": [
+        "collective numerals",
+        "mental health",
+        "friendship"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 60,
+      "target": "Moim zdaniem dbanie o higienę cyfrową jest kluczowe, ponieważ nadmiar bodźców bardzo negatywnie wpływa na nastrój.",
+      "de": "Meiner Meinung nach ist digitale Hygiene total wichtig, weil zu viele Reize sich negativ auf die Stimmung auswirken.",
+      "tags": [
+        "giving opinion",
+        "mental health",
+        "digital well-being"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 61,
+      "target": "Kiedyś zlekceważono moje objawy zmęczenia, więc teraz kładę duży nacisk na to, by słuchać swojego ciała.",
+      "de": "Früher wurden meine Erschöpfungssymptome ignoriert, deshalb achte ich jetzt extrem darauf, auf meinen Körper zu hören.",
+      "tags": [
+        "impersonal past -no",
+        "mental health",
+        "self-care"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 62,
+      "target": "Mogłabym była wcześniej wyznaczyć tę granicę, ale bałam się, że kogoś urażę i popsuję nasze relacje.",
+      "de": "Ich hätte diese Grenze schon früher ziehen können, aber ich hatte Angst, jemanden zu verletzen und die Beziehung zu ruinieren.",
+      "tags": [
+        "past conditional",
+        "setting boundaries",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 63,
+      "target": "Jak myślisz, czy pójście we dwoje na ten warsztat z komunikacji to dobry pomysł dla naszej relacji?",
+      "de": "Was meinst du, wäre es eine gute Idee für unsere Beziehung, wenn wir zu zweit zu diesem Kommunikations-Workshop gehen?",
+      "tags": [
+        "collective numerals",
+        "real questions",
+        "relationships"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 64,
+      "target": "Kiedyś dużo rzadziej prosiło się o pomoc, a dzisiaj wiemy, że to oznaka siły, a nie słabości.",
+      "de": "Früher hat man viel seltener um Hilfe gebeten, aber heute wissen wir, dass das ein Zeichen von Stärke ist, nicht von Schwäche.",
+      "tags": [
+        "impersonal się past",
+        "mental health",
+        "social change"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 65,
+      "target": "Szanowna Pani Nowak, uprzejmie proszę o przesłanie numeru konta, abym mogła dokonać wpłaty za udział w seminarium.",
+      "de": "Sehr geehrte Frau Nowak, ich bitte Sie höflich um Zusendung der Kontonummer, damit ich die Gebühr für das Seminar überweisen kann.",
+      "tags": [
+        "formal email",
+        "polite request",
+        "professionalism"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 66,
+      "target": "Dziś poczułam dumę, bo zamiast uciekać w pracę, pozwoliłam sobie na smutek i po prostu go przeżyłam.",
+      "de": "Heute war ich stolz auf mich, weil ich mich nicht in die Arbeit gestürzt, sondern die Traurigkeit einfach mal zugelassen habe.",
+      "tags": [
+        "first person past",
+        "mental health",
+        "healing"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 67,
+      "target": "Wybieram się z Michałem i Zuzią na wystawę, która skupia się na wdzięczności w sztuce współczesnej.",
+      "de": "Ich gehe mit Michał und Zuzia zu einer Ausstellung, bei der es um Dankbarkeit in der zeitgenössischen Kunst geht.",
+      "tags": [
+        "declension of names",
+        "hobbies",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 68,
+      "target": "Naprawdę nie chcę o tym teraz dyskutować, ponieważ czuję, że emocje biorą górę i powiem coś przykrego.",
+      "de": "Ich will das jetzt wirklich nicht diskutieren, weil ich merke, dass die Emotionen hochkochen und ich dann was Fieses sage.",
+      "tags": [
+        "declining",
+        "emotional intelligence",
+        "boundaries"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 69,
+      "target": "Nie poczułabym się tak pewnie na scenie, gdybym była nie ćwiczyła tej prezentacji przed moimi znajomymi.",
+      "de": "Ich hätte mich auf der Bühne nicht so sicher gefühlt, wenn ich die Präsentation nicht vorher vor meinen Freunden geübt hätte.",
+      "tags": [
+        "past conditional",
+        "public speaking",
+        "preparation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 70,
+      "target": "W ogłoszeniu podano, że spotkanie zaczyna się o osiemnastej, ale niestety zmieniono salę w ostatniej chwili.",
+      "de": "In der Anzeige stand, dass das Treffen um sechs anfängt, aber leider wurde der Raum im letzten Moment geändert.",
+      "tags": [
+        "impersonal past -no",
+        "organisational",
+        "setbacks"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 71,
+      "target": "Oboje z Markiem uznaliśmy, że tydzień bez mediów społecznościowych to dokładnie to, czego teraz najbardziej potrzebujemy.",
+      "de": "Marek und ich haben beide beschlossen, dass eine Woche ohne Social Media genau das ist, was wir gerade am meisten brauchen.",
+      "tags": [
+        "collective numerals",
+        "mental health",
+        "self-care"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 72,
+      "target": "Sądzę, że warto celebrować nawet małe sukcesy, bo to buduje w nas poczucie sprawstwa i daje motywację.",
+      "de": "Ich finde, man sollte auch kleine Erfolge feiern, weil das unser Selbstwirksamkeitsgefühl stärkt und motiviert.",
+      "tags": [
+        "giving opinion",
+        "mental health",
+        "growth"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 73,
+      "target": "Wczoraj miałam gorszy wieczór, więc po prostu poczytałam książkę. Dziś obudziłam się z zupełnie nową energią.",
+      "de": "Gestern Abend ging's mir nicht so gut, also hab ich einfach gelesen. Heute bin ich mit ganz neuer Energie aufgewacht.",
+      "tags": [
+        "story",
+        "mental health",
+        "resilience"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 74,
+      "target": "W Hiszpanii na pewno będzie się nam żyło inaczej, co pozwoli mi wreszcie skupić się na pisaniu.",
+      "de": "In Spanien werden wir sicher anders leben, was mir endlich erlauben wird, mich auf mein Buch zu konzentrieren.",
+      "tags": [
+        "impersonal się future",
+        "moving",
+        "writing"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 75,
+      "target": "Zaproszono mnie do wygłoszenia krótkiej mowy, co szczerze mówiąc, trochę mnie na początku zestresowało.",
+      "de": "Ich wurde eingeladen, eine kurze Rede zu halten, was mich ehrlich gesagt anfangs etwas gestresst hat.",
+      "tags": [
+        "impersonal past",
+        "emotions",
+        "public speaking"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 76,
+      "target": "Nie byłabym tak panikowała przed wejściem na scenę, gdybym była sprawdziła wcześniej działanie mikrofonu.",
+      "de": "Ich hätte vor dem Auftritt nicht so Panik geschoben, wenn ich vorher die Funktion des Mikrofons geprüft hätte.",
+      "tags": [
+        "past conditional",
+        "irrealis",
+        "stage fright"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 77,
+      "target": "Wybraliśmy się na ten festiwal we czworo, żeby wspólnie posłuchać inspirujących prelekcji o podróżach.",
+      "de": "Wir sind zu viert zu diesem Festival gefahren, um uns gemeinsam inspirierende Reisevorträge anzuhören.",
+      "tags": [
+        "collective numerals",
+        "group activity"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 78,
+      "target": "Idę wieczorem do Tomka i Karoliny, żeby przećwiczyć przy nich moją prezentację przed kamerą.",
+      "de": "Ich gehe heute Abend zu Tomek und Karolina, um vor ihnen meine Präsentation vor der Kamera zu üben.",
+      "tags": [
+        "declension of names",
+        "rehearsal"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 79,
+      "target": "Ciekawi mnie, czy o moim nowym wystąpieniu na kanale będzie się mówić z taką pasją.",
+      "de": "Ich bin gespannt, ob man über meinen neuen Talk auf dem Kanal mit so viel Leidenschaft sprechen wird.",
+      "tags": [
+        "impersonal się future",
+        "YouTube"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 80,
+      "target": "Czy mogłabyś mi szczerze powiedzieć, co myślisz o tempie mojej mowy w tej części?",
+      "de": "Könntest du mir ehrlich sagen, was du vom Tempo meiner Rede in diesem Teil hältst?",
+      "tags": [
+        "conditional",
+        "feedback"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 81,
+      "target": "Zmieniono termin nagrania, więc mam teraz dwa dodatkowe dni na dopracowanie scenariusza mojej książki.",
+      "de": "Der Aufnahmetermin wurde geändert, also habe ich jetzt zwei zusätzliche Tage, um am Skript für mein Buch zu feilen.",
+      "tags": [
+        "impersonal past",
+        "writing"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 82,
+      "target": "Bardzo żałuję, bo byłabym chętnie wystąpiła, gdybym była dostała zaproszenie przynajmniej tydzień wcześniej.",
+      "de": "Es tut mir sehr leid, denn ich wäre gerne aufgetreten, wenn ich die Einladung wenigstens eine Woche früher bekommen hätte.",
+      "tags": [
+        "past conditional",
+        "declination"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 83,
+      "target": "Na widowni siedziało kilkoro dzieci, które z wielkim zaciekawieniem słuchały moich opowieści o Hiszpanii.",
+      "de": "Im Publikum saßen einige Kinder, die meinen Geschichten über Spanien mit großem Interesse lauschten.",
+      "tags": [
+        "collective numerals",
+        "audience"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 84,
+      "target": "Szanowny Panie, piszę z zapytaniem, czy istnieje możliwość zarezerwowania sali na moje przyszłe warsztaty.",
+      "de": "Sehr geehrter Herr, ich schreibe Ihnen, um zu fragen, ob es möglich ist, einen Raum für meine künftigen Workshops zu reservieren.",
+      "tags": [
+        "formal",
+        "enquiry"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 85,
+      "target": "Kiedyś zupełnie inaczej przygotowywało się do wystąpień, bez tych wszystkich nowoczesnych mikrofonów i świateł.",
+      "de": "Früher hat man sich ganz anders auf Auftritte vorbereitet, ohne all diese modernen Mikrofone und Lichter.",
+      "tags": [
+        "impersonal się past",
+        "reflection"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 86,
+      "target": "Po nagraniu filmu wpadliśmy na chwilę do Nowaków, żeby podziękować im za pomoc przy sprzęcie.",
+      "de": "Nach dem Videodreh sind wir kurz bei den Nowaks vorbeigegangen, um uns für die Hilfe mit dem Equipment zu bedanken.",
+      "tags": [
+        "declension of names",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 87,
+      "target": "No właśnie, też tak uważam, że autentyczność na scenie jest ważniejsza niż idealnie wyuczona treść.",
+      "de": "Genau, ich finde auch, dass Authentizität auf der Bühne wichtiger ist als ein perfekt auswendig gelernter Inhalt.",
+      "tags": [
+        "discourse markers",
+        "opinion"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 88,
+      "target": "Czy wiesz może, o której godzinie otwarto bramy dla publiczności, bo chciałabym sprawdzić akustykę?",
+      "de": "Weißt du zufällig, um wie viel Uhr der Einlass für das Publikum war, da ich gerne die Akustik prüfen würde?",
+      "tags": [
+        "impersonal past",
+        "logistics"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 89,
+      "target": "Mogłabyś mi pomóc z tym ćwiczeniem, bo nie chciałabym nabawić się kontuzji przed wyjazdem?",
+      "de": "Könntest du mir bei dieser Übung helfen, da ich mir vor der Abreise keine Verletzung zuziehen möchte?",
+      "tags": [
+        "conditional",
+        "gym"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 90,
+      "target": "Powiedziano mi po występie, że mój głos brzmiał bardzo pewnie, co dodało mi sporo odwagi.",
+      "de": "Man hat mir nach dem Auftritt gesagt, dass meine Stimme sehr sicher klang, was mir ziemlich viel Mut gegeben hat.",
+      "tags": [
+        "impersonal past",
+        "confidence"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 91,
+      "target": "Miałam trudny dzień, bo zapomniano o moich rekwizytach, ale publiczność była tak wyrozumiała, że wyszło świetnie.",
+      "de": "Ich hatte einen harten Tag, weil man meine Requisiten vergessen hatte, aber das Publikum war so verständnisvoll, dass es toll wurde.",
+      "tags": [
+        "impersonal past",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 92,
+      "target": "Czy rozmawiałaś już z panią Kowalską o tym, jak powinny wyglądać napisy w moim nowym filmie?",
+      "de": "Hast du schon mit Frau Kowalska darüber gesprochen, wie die Untertitel in meinem neuen Video aussehen sollen?",
+      "tags": [
+        "declension of names",
+        "YouTube"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 93,
+      "target": "Oboje z bratem wybieramy się do Madrytu, żeby sprawdzić mieszkania przed moją oficjalną przeprowadzką.",
+      "de": "Mein Bruder und ich fahren beide nach Madrid, um Wohnungen vor meinem offiziellen Umzug anzuschauen.",
+      "tags": [
+        "collective numerals",
+        "moving"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 94,
+      "target": "Przykro mi, ale nie mogłabym była przyjąć tego zaproszenia, nawet gdybym miała wtedy wolny wieczór.",
+      "de": "Es tut mir leid, aber ich hätte diese Einladung nicht annehmen können, selbst wenn ich an dem Abend Zeit gehabt hätte.",
+      "tags": [
+        "past conditional",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 95,
+      "target": "Jak myślisz, czy o twoim pomyśle na scenariusz będzie się pisać w ogólnopolskich mediach?",
+      "de": "Glaubst du, dass man über deine Skript-Idee in den landesweiten Medien schreiben wird?",
+      "tags": [
+        "impersonal się future",
+        "fame"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 96,
+      "target": "Szczerze mówiąc, nie byłabym tak spokojna, gdyby nie ta długa rozmowa z Anią przed samym wejściem.",
+      "de": "Ehrlich gesagt wäre ich nicht so ruhig gewesen, wenn nicht das lange Gespräch mit Ania kurz vor dem Auftritt gewesen wäre.",
+      "tags": [
+        "past conditional",
+        "friendship"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 97,
+      "target": "Uprzejmie proszę o informację, czy na sali będzie dostępny mikrofon bezprzewodowy, abym mogła swobodnie gestykulować.",
+      "de": "Ich bitte höflich um Information, ob im Saal ein Funkmikrofon verfügbar sein wird, damit ich frei gestikulieren kann.",
+      "tags": [
+        "formal request",
+        "performance"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 98,
+      "target": "Czy uważasz, że we dwoje łatwiej jest dbać o zdrowie psychiczne w tak stresującym środowisku?",
+      "de": "Glaubst du, dass es zu zweit einfacher ist, in so einem stressigen Umfeld auf die mentale Gesundheit zu achten?",
+      "tags": [
+        "collective numerals",
+        "mental health"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 99,
+      "target": "Moim zdaniem, gdyby o problemach z tremą mówiło się częściej, młodzi mówcy czuliby mniejszą presję.",
+      "de": "Meiner Meinung nach würden junge Redner weniger Druck verspüren, wenn man öfter über Probleme mit Lampenfieber sprechen würde.",
+      "tags": [
+        "impersonal się past",
+        "opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 100,
+      "target": "Nie zrozumiałabym motywacji głównej bohaterki, gdybym nie była przeczytała wcześniej tamtej książki psychologicznej.",
+      "de": "Ich hätte die Motivation der Hauptfigur nicht verstanden, wenn ich nicht vorher dieses Psychologiebuch gelesen hätte.",
+      "tags": [
+        "past conditional",
+        "irrealis",
+        "feminine form"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 101,
+      "target": "Zdecydowano, że okładka książki będzie błękitna, co szczerze mówiąc bardzo mnie cieszy.",
+      "de": "Es wurde entschieden, dass das Buchcover hellblau wird, was mich ehrlich gesagt sehr freut.",
+      "tags": [
+        "impersonal past -no / -to",
+        "discourse marker"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 102,
+      "target": "Idę właśnie do Marka i Kasi, żeby pokazać im najnowszy rozdział mojej powieści.",
+      "de": "Ich gehe gerade zu Marek und Kasia, um ihnen das neueste Kapitel meines Romans zu zeigen.",
+      "tags": [
+        "declension of names"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 103,
+      "target": "Dwoje moich znajomych przeczytało już szkic i oboje uważają, że zakończenie jest zbyt smutne.",
+      "de": "Zwei meiner Bekannten haben den Entwurf schon gelesen und beide finden, dass das Ende zu traurig ist.",
+      "tags": [
+        "collective numerals",
+        "quantifier"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 104,
+      "target": "Po premierze będzie się dużo pisać o tej książce, ale na razie skupiam się na poprawkach.",
+      "de": "Nach der Premiere wird viel über dieses Buch geschrieben werden, aber vorerst konzentriere ich mich auf Korrekturen.",
+      "tags": [
+        "impersonal się future"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 105,
+      "target": "Czy słyszałeś może, czy zaczęto już tłumaczyć na polski najnowszą powieść mojego ulubionego autora?",
+      "de": "Hast du vielleicht gehört, ob schon angefangen wurde, den neuesten Roman meines Lieblingsautors ins Polnische zu übersetzen?",
+      "tags": [
+        "impersonal past -no / -to",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 106,
+      "target": "Wybacz, ale nie dam rady pójść na siłownię, bo wydawca wyznaczył mi bardzo krótki termin.",
+      "de": "Tut mir leid, aber ich schaffe es nicht ins Fitnessstudio, weil der Verleger mir eine sehr knappe Deadline gesetzt hat.",
+      "tags": [
+        "negation",
+        "vocabulary"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 107,
+      "target": "Byłabym skończyła ten rozdział wczoraj, gdyby mój laptop nie był się zepsuł w najgorszym momencie.",
+      "de": "Ich hätte dieses Kapitel gestern beendet, wenn mein Laptop nicht im schlimmsten Moment kaputtgegangen wäre.",
+      "tags": [
+        "past conditional",
+        "irrealis"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 108,
+      "target": "Poszłyśmy we trójkę na trening, żeby przewietrzyć głowy przed kolejnym dniem spędzonym przy klawiaturze.",
+      "de": "Wir sind zu dritt zum Training gegangen, um den Kopf vor einem weiteren Tag vor der Tastatur frei zu bekommen.",
+      "tags": [
+        "collective numerals",
+        "feminine form"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 109,
+      "target": "Rozmawiałam z panią Nowak o ilustracjach i muszę przyznać, że była pod ogromnym wrażeniem moich pomysłów.",
+      "de": "Ich habe mit Frau Nowak über die Illustrationen gesprochen und ich muss zugeben, sie war von meinen Ideen schwer beeindruckt.",
+      "tags": [
+        "declension of surnames"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 110,
+      "target": "Przez tydzień miałam blokadę twórczą. W końcu poszłam na spacer i nagle dialogi same zaczęły się układać.",
+      "de": "Ich hatte eine Woche lang eine Schreibblockade. Schließlich ging ich spazieren und plötzlich fügten sich die Dialoge von selbst.",
+      "tags": [
+        "story",
+        "feminine form"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 111,
+      "target": "Mówiło się kiedyś, że debiutantom jest trudniej, ale teraz rynek wydawniczy wygląda zupełnie inaczej.",
+      "de": "Früher sagte man, dass es Debütanten schwerer haben, aber jetzt sieht der Buchmarkt ganz anders aus.",
+      "tags": [
+        "impersonal się past"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 112,
+      "target": "Czy masz do polecenia jakieś książki, które łączą temat zdrowia psychicznego z naprawdę wciągającą fabułą?",
+      "de": "Kannst du irgendwelche Bücher empfehlen, die das Thema psychische Gesundheit mit einer echt packenden Handlung verbinden?",
+      "tags": [
+        "question",
+        "opinion"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 113,
+      "target": "Szanowny Panie, uprzejmie proszę o informację, czy mój manuskrypt został już przekazany bezpośrednio do działu redakcji.",
+      "de": "Sehr geehrter Herr, ich bitte höflich um Auskunft, ob mein Manuskript bereits direkt an die Redaktionsabteilung weitergeleitet wurde.",
+      "tags": [
+        "formal email",
+        "passive voice"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 114,
+      "target": "Szczerze mówiąc, byłabym znacznie lepiej zdała ten próbny egzamin, gdybym była więcej ćwiczyła słownictwo.",
+      "de": "Ehrlich gesagt hätte ich diese Probeprüfung viel besser bestanden, wenn ich mehr Vokabeln geübt hätte.",
+      "tags": [
+        "past conditional",
+        "irrealis",
+        "feminine form"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 115,
+      "target": "Moje czworo rodzeństwa przyjedzie na spotkanie autorskie, co jest dla mnie niesamowicie ważnym gestem wsparcia.",
+      "de": "Meine vier Geschwister kommen zur Autorenlesung, was für mich eine wahnsinnig wichtige Geste der Unterstützung ist.",
+      "tags": [
+        "collective numerals"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 116,
+      "target": "Zrecenzowano mój projekt bardzo pozytywnie, choć skrytykowano niektóre postacie za to, że są zbyt idealne.",
+      "de": "Mein Projekt wurde sehr positiv rezensiert, obwohl einige Charaktere dafür kritisiert wurden, dass sie zu ideal sind.",
+      "tags": [
+        "impersonal past -no / -to"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 117,
+      "target": "Jak myślisz, czy po mojej przeprowadzce do Hiszpanii nadal będziemy mieć dla siebie tyle czasu?",
+      "de": "Was glaubst du, werden wir nach meinem Umzug nach Spanien immer noch so viel Zeit füreinander haben?",
+      "tags": [
+        "question",
+        "future tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 118,
+      "target": "Nie sądzę, żebym była napisała tak szczerą książkę, gdybym nie była zdecydowała się wcześniej na terapię.",
+      "de": "Ich glaube nicht, dass ich ein so ehrliches Buch geschrieben hätte, wenn ich mich nicht vorher für eine Therapie entschieden hätte.",
+      "tags": [
+        "negation",
+        "past conditional",
+        "irrealis"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 119,
+      "target": "Kupiłam to piękne wydanie wierszy dla Piotra i Moniki w podziękowaniu za ich pomoc przy korekcie.",
+      "de": "Ich habe diese schöne Gedichtausgabe für Piotr und Monika gekauft, als Dankeschön für ihre Hilfe beim Korrektorat.",
+      "tags": [
+        "declension of names"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 120,
+      "target": "Czuję ogromną wdzięczność, kiedy widzę, że moje przemyślenia realnie pomagają komuś poczuć się mniej samotnym.",
+      "de": "Ich empfinde große Dankbarkeit, wenn ich sehe, dass meine Gedanken jemandem wirklich helfen, sich weniger allein zu fühlen.",
+      "tags": [
+        "statement",
+        "emotions"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 121,
+      "target": "Czy mogłabyś nagrać ze mną krótki film o naszych ulubionych książkach na mój kanał na YouTubie?",
+      "de": "Könntest du mit mir ein kurzes Video über unsere Lieblingsbücher für meinen YouTube-Kanal aufnehmen?",
+      "tags": [
+        "request",
+        "conditional"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 122,
+      "target": "Ogłoszono właśnie, że festiwal literacki zostanie przesunięty, więc mam dwa dodatkowe tygodnie na dopracowanie tekstu.",
+      "de": "Es wurde gerade bekannt gegeben, dass das Literaturfestival verschoben wird, also habe ich zwei zusätzliche Wochen, um am Text zu feilen.",
+      "tags": [
+        "impersonal past -no / -to",
+        "passive voice"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 123,
+      "target": "Właściwie to byłabym wybrała zupełnie inną czcionkę, gdybym była wiedziała, że ta będzie taka nieczytelna.",
+      "de": "Eigentlich hätte ich eine ganz andere Schriftart gewählt, wenn ich gewusst hätte, dass diese so unleserlich sein würde.",
+      "tags": [
+        "past conditional",
+        "irrealis"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 124,
+      "target": "Jak radzisz sobie z tym specyficznym uczuciem, że to, co napisałaś, wciąż nie jest wystarczająco dobre?",
+      "de": "Wie gehst du mit diesem speziellen Gefühl um, dass das, was du geschrieben hast, immer noch nicht gut genug ist?",
+      "tags": [
+        "question",
+        "feminine form"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 125,
+      "target": "Widzowie często pytają, jak radzę sobie z montażem, więc nagrałam o tym krótki film dla początkujących.",
+      "de": "Meine Zuschauer fragen oft, wie ich das mit dem Schnitt mache, also habe ich ein kurzes Video für Anfänger aufgenommen.",
+      "tags": [
+        "past tense",
+        "feminine form",
+        "prepositions"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 126,
+      "target": "W wywiadzie wspomniano o zasadach oznaczania współprac, co wywołało sporą dyskusję w komentarzach pod moim filmem.",
+      "de": "Im Interview wurden die Regeln für die Kennzeichnung von Kooperationen erwähnt, was eine ziemliche Diskussion in meinen Kommentaren ausgelöst hat.",
+      "tags": [
+        "impersonal past -no/-to",
+        "noun declension"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 127,
+      "target": "Nie byłabym wrzuciła tego filmu, gdybym była wiedziała, że w drugiej części oświetlenie wyszło tak fatalnie.",
+      "de": "Ich hätte das Video nicht hochgeladen, wenn ich gewusst hätte, dass das Licht im zweiten Teil so schrecklich geworden ist.",
+      "tags": [
+        "past conditional",
+        "irrealis",
+        "feminine form"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 128,
+      "target": "Nasza piątka z siłowni wystąpiła w moim nowym vlogu, żeby pokazać, jak ważna jest wzajemna motywacja.",
+      "de": "Wir fünf aus dem Fitnessstudio sind in meinem neuen Vlog aufgetreten, um zu zeigen, wie wichtig gegenseitige Motivation ist.",
+      "tags": [
+        "collective numerals",
+        "prepositions"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 129,
+      "target": "Rozmawiałam wczoraj z Karolem i Olą o tym, jak ustawić statyw, żeby uniknąć tych dziwnych cieni.",
+      "de": "Ich habe gestern mit Karol und Ola darüber gesprochen, wie man das Stativ aufstellt, um diese komischen Schatten zu vermeiden.",
+      "tags": [
+        "declension of names",
+        "past tense",
+        "instrumental case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 130,
+      "target": "Kiedyś na YouTubie częściej nagrywało się długie vlogi, a teraz królują krótkie i bardzo dynamiczne formy.",
+      "de": "Früher hat man auf YouTube öfter lange Vlogs gedreht, aber jetzt dominieren kurze und sehr dynamische Formate.",
+      "tags": [
+        "impersonal się construction",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 131,
+      "target": "Czy myślisz, że u pani Garcia będzie dość światła, żebym mogła nagrywać filmy bez dodatkowych lamp?",
+      "de": "Glaubst du, dass es bei Frau Garcia genug Licht geben wird, damit ich dort ohne zusätzliche Lampen filmen kann?",
+      "tags": [
+        "declension of names",
+        "future tense",
+        "genitive case"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 132,
+      "target": "Niestety nie wrzucono jeszcze mojego najnowszego filmu, mimo że zaplanowałam premierę punktualnie na osiemnastą w niedzielę.",
+      "de": "Leider wurde mein neuestes Video noch nicht hochgeladen, obwohl ich die Premiere pünktlich für Sonntag um achtzehn Uhr geplant hatte.",
+      "tags": [
+        "impersonal past -no/-to",
+        "conjunctions"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 133,
+      "target": "Byłabym kupiła ten lepszy mikrofon wcześniej, gdyby mi ktoś był powiedział, jak bardzo poprawia on profesjonalizm.",
+      "de": "Ich hätte dieses bessere Mikrofon schon früher gekauft, wenn mir jemand gesagt hätte, wie sehr es die Professionalität steigert.",
+      "tags": [
+        "past conditional",
+        "irrealis",
+        "feminine form"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 134,
+      "target": "Ciekawe, czy kilkoro moich stałych widzów zechciałoby wziąć udział w szczerym Q&A przed moim wyjazdem?",
+      "de": "Interessant wäre, ob ein paar meiner Stammzuschauer Lust hätten, bei einem ehrlichen Q&A vor meiner Abreise mitzumachen?",
+      "tags": [
+        "collective numerals",
+        "conditional mood"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 135,
+      "target": "W gruncie rzeczy poczułam się bardzo doceniona, gdy przeczytałam te wszystkie konstruktywne opinie pod moim vlogiem.",
+      "de": "Im Grunde genommen habe ich mich sehr wertgeschätzt gefühlt, als ich all diese konstruktiven Meinungen unter meinem Vlog gelesen habe.",
+      "tags": [
+        "discourse markers",
+        "past tense",
+        "feminine form"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 136,
+      "target": "Będzie się o tym filmie dużo mówić, bo porusza tematy, o których na YouTubie rzadko się wspomina.",
+      "de": "Man wird viel über dieses Video sprechen, weil es Themen anspricht, die auf YouTube selten erwähnt werden.",
+      "tags": [
+        "impersonal się construction",
+        "future tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 137,
+      "target": "Szanowny Panie, uprzejmie proszę o informację, czy linki do produktów w opisie filmu muszą być specjalnie oznaczone.",
+      "de": "Sehr geehrter Herr, ich bitte höflich um Information, ob die Produktlinks in der Videobeschreibung speziell gekennzeichnet sein müssen.",
+      "tags": [
+        "formal register",
+        "passive voice",
+        "prepositions"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 138,
+      "target": "Oboje z moim montażystą uznaliśmy, że ten fragment o mentalnym zmęczeniu jest zbyt osobisty, by go publikować.",
+      "de": "Sowohl mein Cutter als auch ich fanden, dass dieser Ausschnitt über mentale Erschöpfung zu persönlich ist, um ihn zu veröffentlichen.",
+      "tags": [
+        "collective numerals",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 139,
+      "target": "Wczoraj nagrywałam trzy godziny, a potem okazało się, że mikrofon był wyłączony. Poczułam ogromną frustrację, ale nagrałam wszystko od nowa.",
+      "de": "Gestern habe ich drei Stunden lang aufgenommen und dann stellte sich heraus, dass das Mikro aus war. Ich war extrem frustriert, aber hab alles nochmal gedreht.",
+      "tags": [
+        "story",
+        "past tense",
+        "feminine form"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 140,
+      "target": "Przyjęto moją prośbę o zmianę miniatury, bo poprzednia była zbyt chaotyczna i kompletnie nie pasowała do nastroju.",
+      "de": "Mein Wunsch, das Thumbnail zu ändern, wurde akzeptiert, weil das vorherige zu chaotisch war und null zur Stimmung passte.",
+      "tags": [
+        "impersonal past -no/-to",
+        "adjectives"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 141,
+      "target": "Nigdy nie byłabym pomyślała, że prowadzenie kanału przyniesie mi tyle prawdziwych przyjaźni, gdybym była nie spróbowała.",
+      "de": "Ich hätte niemals gedacht, dass mir der Kanal so viele echte Freundschaften bringen würde, wenn ich es nicht einfach versucht hätte.",
+      "tags": [
+        "past conditional",
+        "irrealis",
+        "feminine form"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 142,
+      "target": "Jakie macie sprawdzone sposoby na zachowanie balansu między życiem prywatnym a ciągłym tworzeniem treści do internetu?",
+      "de": "Was sind eure bewährten Methoden, um die Balance zwischen Privatleben und dem ständigen Erstellen von Internet-Content zu halten?",
+      "tags": [
+        "question",
+        "prepositions",
+        "noun declension"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 143,
+      "target": "Zapytałam Martę i Tomka, czy pomogliby mi wybrać najlepsze ujęcie do okładki mojego nowego, hiszpańskiego e-booka.",
+      "de": "Ich habe Marta und Tomek gefragt, ob sie mir helfen würden, den besten Shot für das Cover meines neuen spanischen E-Books auszusuchen.",
+      "tags": [
+        "declension of names",
+        "conditional mood",
+        "reported speech"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 144,
+      "target": "Dawniej zupełnie inaczej patrzyło się na statystyki, a teraz najbardziej zależy mi na prawdziwej relacji ze społecznością.",
+      "de": "Früher hat man ganz anders auf die Statistiken geschaut, heute ist mir die echte Beziehung zur Community am wichtigsten.",
+      "tags": [
+        "impersonal się construction",
+        "past tense",
+        "dative case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 145,
+      "target": "Przykro mi, ale muszę odmówić udziału w tej kampanii, ponieważ nie identyfikuję się z wartościami waszej marki.",
+      "de": "Es tut mir leid, aber ich muss die Teilnahme an dieser Kampagne ablehnen, da ich mich nicht mit den Werten eurer Marke identifiziere.",
+      "tags": [
+        "negation",
+        "genitive case",
+        "conjunctions"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 146,
+      "target": "Zaprosiłam czworo moich najwierniejszych obserwatorów na kawę, żeby osobiście podziękować im za obecność pod moimi postami.",
+      "de": "Ich habe vier meiner treuesten Follower auf einen Kaffee eingeladen, um mich persönlich für ihre Präsenz unter meinen Posts zu bedanken.",
+      "tags": [
+        "collective numerals",
+        "dative case",
+        "feminine form"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 147,
+      "target": "Powiedziano nam, że algorytm promuje teraz materiały, które niosą ze sobą konkretną wartość edukacyjną lub emocjonalną.",
+      "de": "Man hat uns gesagt, dass der Algorithmus jetzt Inhalte pusht, die einen konkreten pädagogischen oder emotionalen Wert haben.",
+      "tags": [
+        "impersonal past -no/-to",
+        "reported speech",
+        "adjectives"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 148,
+      "target": "Uprzejmie proszę o przesłanie specyfikacji technicznej sprzętu, który zamierzają Państwo udostępnić mi do testów w przyszłym tygodniu.",
+      "de": "Ich bitte höflich um die Zusendung der technischen Spezifikationen für das Equipment, das Sie mir nächste Woche zum Testen bereitstellen wollen.",
+      "tags": [
+        "formal register",
+        "request",
+        "future tense"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 149,
+      "target": "Powiedziano mi, że siłownia jest zamknięta w święta, więc musiałam na szybko zmienić swój plan treningowy.",
+      "de": "Mir wurde gesagt, dass das Fitnessstudio an den Feiertagen zu ist, also musste ich meinen Trainingsplan spontan ändern.",
+      "tags": [
+        "impersonal past",
+        "conjunctions"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 150,
+      "target": "Nie byłabym kupiła tych legginsów, gdybym była wiedziała, że będą tak bardzo prześwitywać podczas robienia przysiadów.",
+      "de": "Ich hätte diese Leggings nicht gekauft, wenn ich gewusst hätte, dass sie bei Kniebeugen so krass durchscheinen.",
+      "tags": [
+        "past conditional",
+        "gym vocabulary"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 151,
+      "target": "Wybrałyśmy się na trening we trójkę, co było super motywujące, bo nawzajem pilnowałyśmy swojej techniki.",
+      "de": "Wir sind zu dritt zum Training gegangen, was echt motivierend war, weil wir gegenseitig auf unsere Technik geachtet haben.",
+      "tags": [
+        "collective numerals",
+        "feminine plural"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 152,
+      "target": "Rozmawiałam długo z Anią o odżywkach białkowych i ona uważa, że powinnam bardziej zadbać o regenerację.",
+      "de": "Ich hab lange mit Ania über Proteinpulver gequatscht und sie findet, ich sollte mehr auf meine Regeneration achten.",
+      "tags": [
+        "declension of names",
+        "nutrition"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 153,
+      "target": "Dawniej na siłowniach ćwiczyło się głównie siłowo, a teraz coraz częściej zwraca się uwagę na mobilność.",
+      "de": "Früher hat man im Gym hauptsächlich auf Kraft trainiert, aber heute wird immer mehr auf Mobilität geachtet.",
+      "tags": [
+        "impersonal się",
+        "comparison"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 154,
+      "target": "Szanowny Panie, uprzejmie proszę o informację, czy w Państwa klubie są dostępne treningi personalne dla kobiet.",
+      "de": "Sehr geehrter Herr, ich bitte höflich um Information, ob in Ihrem Club Personal Training für Frauen angeboten wird.",
+      "tags": [
+        "formal register",
+        "polite request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 155,
+      "target": "Byłabym poszła wczoraj na jogę, gdybym nie była tak niesamowicie obolała po poniedziałkowym treningu nóg.",
+      "de": "Ich wäre gestern zum Yoga gegangen, wenn ich nach dem Beintraining am Montag nicht so einen krassen Muskelkater gehabt hätte.",
+      "tags": [
+        "past conditional",
+        "adjectives"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 156,
+      "target": "Dostrzeżono moje postępy w sylwetce, co szczerze mówiąc, bardzo poprawiło mi humor po tak ciężkim tygodniu.",
+      "de": "Meine körperlichen Fortschritte wurden bemerkt, was mir ehrlich gesagt nach so einer harten Woche echt den Tag gerettet hat.",
+      "tags": [
+        "impersonal past",
+        "idiom"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 157,
+      "target": "Odwiedziło mnie dwoje znajomych z siłowni i wspólnie ugotowaliśmy pyszny, wysokobiałkowy obiad tuż po treningu.",
+      "de": "Zwei Freunde aus dem Gym haben mich besucht und wir haben direkt nach dem Training zusammen ein leckeres proteinreiches Mittagessen gekocht.",
+      "tags": [
+        "collective numerals",
+        "prepositions"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 158,
+      "target": "Jestem z siebie dumna, bo mimo braku sił, zrobiłam chociaż krótką sesję rozciągania zamiast całkiem odpuszczać.",
+      "de": "Ich bin stolz auf mich, weil ich trotz null Energie wenigstens eine kurze Dehneinheit gemacht habe, statt es ganz sein zu lassen.",
+      "tags": [
+        "mental health",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 159,
+      "target": "Spotkałam się z Markiem pod siłownią, żeby oddać mu jego pas kulturystyczny, który pożyczyłam w zeszłym tygodniu.",
+      "de": "Ich habe mich mit Marek am Gym getroffen, um ihm seinen Gewichtheber-Gürtel zurückzugeben, den ich mir letzte Woche geliehen hatte.",
+      "tags": [
+        "declension of names",
+        "relative clauses"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 160,
+      "target": "Czy uważasz, że liczenie każdej kalorii jest konieczne, czy wystarczy po prostu słuchać potrzeb swojego organizmu?",
+      "de": "Glaubst du, dass man wirklich jede Kalorie zählen muss, oder reicht es, einfach auf die Bedürfnisse seines Körpers zu hören?",
+      "tags": [
+        "question",
+        "nutrition"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 161,
+      "target": "W moim następnym filmie będzie się mówić o tym, jak kluczowy dla wyników jest głęboki sen.",
+      "de": "In meinem nächsten Video wird es darum gehen, wie wichtig tiefer Schlaf für die Ergebnisse ist.",
+      "tags": [
+        "impersonal się future",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 162,
+      "target": "Zamówiłam ten sportowy komplet w rozmiarze S, ale obawiam się, że po praniu może się trochę skurczyć.",
+      "de": "Ich habe dieses Sportset in Größe S bestellt, aber ich habe Angst, dass es nach dem Waschen etwas einlaufen könnte.",
+      "tags": [
+        "first person",
+        "clothing"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 163,
+      "target": "Wczoraj na siłowni zapomniano o uzupełnieniu wody w dystrybutorze, więc po serii martwych ciągów byłam wykończona.",
+      "de": "Gestern wurde im Gym vergessen, den Wasserspender aufzufüllen, also war ich nach den Sätzen Kreuzheben total am Ende.",
+      "tags": [
+        "impersonal past",
+        "gym vocabulary"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 164,
+      "target": "Czuję ogromną wdzięczność do Kasi i Piotra, bo oboje zawsze pilnują, bym nie przesadzała z obciążeniem.",
+      "de": "Ich bin Kasia und Piotr total dankbar, weil beide immer darauf achten, dass ich es mit den Gewichten nicht übertreibe.",
+      "tags": [
+        "declension of names",
+        "collective numerals"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 165,
+      "target": "Bardzo dziękuję za propozycję wspólnego treningu, ale dzisiaj potrzebuję czasu na regenerację i spokojny spacer.",
+      "de": "Vielen Dank für das Angebot zusammen zu trainieren, aber heute brauche ich Zeit für Regeneration und einen entspannten Spaziergang.",
+      "tags": [
+        "declining",
+        "gratitude"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 166,
+      "target": "Przed wejściem na scenę zawsze sprawdzam, czy moje ubranie dobrze leży, by czuć się w pełni swobodnie.",
+      "de": "Bevor ich auf die Bühne gehe, checke ich immer, ob meine Kleidung gut sitzt, damit ich mich völlig frei fühle.",
+      "tags": [
+        "public speaking",
+        "subordinate clause"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 167,
+      "target": "Czy wiesz może, czy u pani Rodriguez w Maladze są jakieś fajne zajęcia z pilatesu po angielsku?",
+      "de": "Weißt du zufällig, ob es bei Frau Rodriguez in Malaga coole Pilates-Kurse auf Englisch gibt?",
+      "tags": [
+        "declension of names",
+        "moving to spain"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 168,
+      "target": "Gdyby nie to niesamowite światło w szatni, pewnie nie byłabym zrobiła tego zdjęcia tuż po treningu.",
+      "de": "Wäre das Licht in der Umkleide nicht so mega gewesen, hätte ich das Foto direkt nach dem Training wohl nicht gemacht.",
+      "tags": [
+        "past conditional",
+        "gym vocabulary"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 169,
+      "target": "Wymieniono stare hantle na nowe, więc teraz ćwiczenia na barki wykonuje się znacznie przyjemniej i bezpieczniej.",
+      "de": "Die alten Hanteln wurden durch neue ersetzt, deshalb macht das Schultertraining jetzt viel mehr Spaß und ist sicherer.",
+      "tags": [
+        "impersonal past",
+        "impersonal się"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 170,
+      "target": "Mogłabyś mi doradzić, które witaminy warto brać przy tak intensywnym trybie życia i przeprowadzce do Hiszpanii?",
+      "de": "Könntest du mir raten, welche Vitamine man bei so einem intensiven Lifestyle und dem Umzug nach Spanien nehmen sollte?",
+      "tags": [
+        "request",
+        "nutrition"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 171,
+      "target": "Miałam dziś zero motywacji, ale pomyślałam o swojej przyszłości w Hiszpanii i od razu poczułam przypływ energii.",
+      "de": "Ich hatte heute null Motivation, aber dann hab ich an meine Zukunft in Spanien gedacht und sofort einen Energieschub bekommen.",
+      "tags": [
+        "mental health",
+        "motivation"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 172,
+      "target": "Wybraliśmy się we czworo na zdrowe smoothie, żeby pogadać o naszych celach treningowych na nadchodzący miesiąc.",
+      "de": "Wir sind zu viert ein gesundes Smoothie trinken gegangen, um über unsere Trainingsziele für den nächsten Monat zu quatschen.",
+      "tags": [
+        "collective numerals",
+        "gym vocabulary"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 173,
+      "target": "Szanowna Pani, byłabym wdzięczna za informację, czy istnieje możliwość zamrożenia karnetu na czas mojego wyjazdu.",
+      "de": "Sehr geehrte Frau, ich wäre dankbar für eine Information, ob die Möglichkeit besteht, die Mitgliedschaft während meiner Reise zu pausieren.",
+      "tags": [
+        "formal register",
+        "conditional"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 174,
+      "target": "Powiedziano mi w banku, że moje konto zostanie aktywowane dopiero po dostarczeniu hiszpańskiego numeru NIE.",
+      "de": "Man hat mir in der Bank gesagt, dass mein Konto erst nach Einreichung der spanischen NIE-Nummer aktiviert wird.",
+      "tags": [
+        "Impersonal past",
+        "Passive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 175,
+      "target": "Nie byłabym się tak szybko spakowała, gdyby nie pomoc Ani i Marka w ubiegły weekend.",
+      "de": "Ich wäre nicht so schnell fertig mit Packen gewesen, wenn Ania und Marek mir letztes Wochenende nicht geholfen hätten.",
+      "tags": [
+        "Past conditional",
+        "Declension"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 176,
+      "target": "Poznałam już moich nowych sąsiadów; to młode małżeństwo z dwojgiem uroczych dzieci, którzy mieszkają naprzeciwko.",
+      "de": "Ich habe schon meine neuen Nachbarn kennengelernt; es ist ein junges Ehepaar mit zwei reizenden Kindern, die gegenüber wohnen.",
+      "tags": [
+        "Collective numerals",
+        "Statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 177,
+      "target": "Ciekawa jestem, czy w tej małej kawiarni na rogu będzie się organizować spotkania dla ekspatów.",
+      "de": "Ich bin gespannt, ob in diesem kleinen Café an der Ecke Treffen für Expats organisiert werden.",
+      "tags": [
+        "Impersonal się",
+        "Future"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 178,
+      "target": "Szczerze mówiąc, dopadła mnie dziś tęsknota, bo przypomniano mi o naszych wspólnych wieczorach przy herbacie.",
+      "de": "Um ehrlich zu sein, hat mich heute das Heimweh gepackt, weil ich an unsere gemeinsamen Tee-Abende erinnert wurde.",
+      "tags": [
+        "Impersonal past",
+        "Answer"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 179,
+      "target": "Czy mogłabyś mi wyjaśnić, jak działają te bilety okresowe, bo kompletnie pogubiłam się w tutejszym systemie?",
+      "de": "Könntest du mir erklären, wie diese Zeitkarten funktionieren, weil ich im hiesigen System völlig den Durchblick verloren habe?",
+      "tags": [
+        "Request",
+        "Conditional"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 180,
+      "target": "Mogłabym była wynająć tamtą kawalerkę, gdybym nie była zwlekała z decyzją o jeden dzień za długo.",
+      "de": "Ich hätte dieses Studio mieten können, wenn ich mit der Entscheidung nicht einen Tag zu lange gezögert hätte.",
+      "tags": [
+        "Past conditional",
+        "Statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 181,
+      "target": "Poszłyśmy we dwie z moją nową współlokatorką na targ, żeby kupić świeże owoce i lokalne sery.",
+      "de": "Wir sind zu zweit mit meiner neuen Mitbewohnerin zum Markt gegangen, um frisches Obst und lokalen Käse zu kaufen.",
+      "tags": [
+        "Collective numerals",
+        "Statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 182,
+      "target": "Szanowna Pani, uprzejmie proszę o informację, czy na spotkanie mogę zaprosić dwoje moich asystentów.",
+      "de": "Sehr geehrte Frau, ich bitte höflich um Information, ob ich zu dem Treffen zwei meiner Assistenten mitbringen darf.",
+      "tags": [
+        "Collective numerals",
+        "Request",
+        "Formal"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 183,
+      "target": "Kiedy dotarłam na miejsce, okazało się, że zamknięto biuro wcześniej, więc musiałam wrócić tam następnego dnia.",
+      "de": "Als ich ankam, stellte sich heraus, dass das Büro früher geschlossen wurde, also musste ich am nächsten Tag nochmal hin.",
+      "tags": [
+        "Impersonal past",
+        "Story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 184,
+      "target": "Nie chciałabym dzisiaj nigdzie wychodzić, bo czuję, że potrzebuję wieczoru tylko dla siebie, by ochłonąć po przeprowadzce.",
+      "de": "Ich möchte heute nirgendwo hingehen, weil ich das Gefühl habe, einen Abend nur für mich zu brauchen, um nach dem Umzug runterzukommen.",
+      "tags": [
+        "Negation",
+        "Conditional"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 185,
+      "target": "Umówiłam się z Karoliną i Januszem w parku, żeby poćwiczyć hiszpańskie zwroty przed jutrzejszym spotkaniem w urzędzie.",
+      "de": "Ich habe mich mit Karolina und Janusz im Park verabredet, um spanische Sätze vor dem morgigen Termin beim Amt zu üben.",
+      "tags": [
+        "Declension",
+        "Statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 186,
+      "target": "No właśnie, też uważam, że mieszkanie z obcokrajowcami to świetny pomysł, ponieważ zmusza nas to do rozwoju.",
+      "de": "Genau, ich finde auch, dass das Wohnen mit Ausländern eine tolle Idee ist, weil es uns dazu zwingt, uns weiterzuentwickeln.",
+      "tags": [
+        "Opinion",
+        "Answer"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 187,
+      "target": "Czy u państwa Nowakowskich też tak długo czeka się na podłączenie internetu w nowym mieszkaniu?",
+      "de": "Dauert es bei den Nowaks auch so lange, bis das Internet in der neuen Wohnung freigeschaltet wird?",
+      "tags": [
+        "Declension",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 188,
+      "target": "Na moim ostatnim vlogu dużo mówiło się o lęku przed zmianą, co bardzo poruszyło moją społeczność.",
+      "de": "In meinem letzten Vlog wurde viel über die Angst vor Veränderung gesprochen, was meine Community sehr bewegt hat.",
+      "tags": [
+        "Impersonal się",
+        "Statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 189,
+      "target": "Zgubiono mój bagaż podczas przesiadki, więc musiałam przetrwać pierwsze dwa dni w Maladze bez swoich rzeczy.",
+      "de": "Mein Gepäck ging beim Umsteigen verloren, also musste ich die ersten zwei Tage in Málaga ohne meine Sachen klarkommen.",
+      "tags": [
+        "Impersonal past",
+        "Story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 190,
+      "target": "Naprawdę podziwiam twoją odwagę i cieszę się, że we dwoje możemy wspierać się w tej nowej rzeczywistości.",
+      "de": "Ich bewundere deinen Mut wirklich und freue mich, dass wir uns zu zweit in dieser neuen Realität unterstützen können.",
+      "tags": [
+        "Collective numerals",
+        "Answer"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 191,
+      "target": "Zupełnie inaczej podeszłabym do przeprowadzki, gdybym była wcześniej uwierzyła w swoje umiejętności językowe.",
+      "de": "Ich wäre ganz anders an den Umzug herangegangen, wenn ich früher an meine Sprachkenntnisse geglaubt hätte.",
+      "tags": [
+        "Past conditional",
+        "Statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 192,
+      "target": "Mogłabyś mi ewentualnie wskazać drogę do tej siłowni, o której wspominałaś u Marty?",
+      "de": "Könntest du mir eventuell den Weg zu dem Fitnessstudio zeigen, von dem du bei Marta erzählt hast?",
+      "tags": [
+        "Declension",
+        "Request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 193,
+      "target": "W nowym otoczeniu będzie się ode mnie wymagać więcej samodzielności, ale czuję, że jestem na to gotowa.",
+      "de": "In der neuen Umgebung wird von mir mehr Selbstständigkeit verlangt werden, aber ich fühle mich bereit dazu.",
+      "tags": [
+        "Impersonal się",
+        "Future"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 194,
+      "target": "Wybieram się jutro z Filipem i Agnieszką sprawdzić tę nową piekarnię, o której wszyscy w okolicy teraz mówią.",
+      "de": "Ich gehe morgen mit Filip und Agnieszka diese neue Bäckerei auschecken, von der gerade alle in der Gegend reden.",
+      "tags": [
+        "Declension",
+        "Statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 195,
+      "target": "Przykro mi, ale nie mogłabym była pójść z wami na tę kolację, bo obiecałam pomóc Kasi w przeprowadzce.",
+      "de": "Tut mir leid, aber ich hätte nicht mit euch zum Essen gehen können, weil ich versprochen habe, Kasia beim Umzug zu helfen.",
+      "tags": [
+        "Past conditional",
+        "Negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 196,
+      "target": "Gdzie właściwie kupiono te pyszne oliwki, które przynieśliście wczoraj na nasze małe powitanie?",
+      "de": "Wo wurden eigentlich diese leckeren Oliven gekauft, die ihr gestern zu unserer kleinen Einweihung mitgebracht habt?",
+      "tags": [
+        "Impersonal past",
+        "Question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 197,
+      "target": "Gdybym była wcześniej zweryfikowała rozkład jazdy, nie byłabym spędziła godziny czekając na spóźniony autobus do centrum.",
+      "de": "Wenn ich früher den Fahrplan gecheckt hätte, hätte ich nicht eine Stunde auf den verspäteten Bus ins Zentrum gewartet.",
+      "tags": [
+        "Past conditional",
+        "Story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 198,
+      "target": "U profesora Nowaka powiedziano nam, że w tym roku egzaminy maturalne zostaną przeprowadzone w zupełnie nowej formule.",
+      "de": "Bei Professor Nowak wurde uns gesagt, dass die Abiturprüfungen dieses Jahr in einem völlig neuen Format durchgeführt werden.",
+      "tags": [
+        "impersonal past -no",
+        "declension of surnames",
+        "school",
+        "passive voice"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 199,
+      "target": "Czy we dwoje z Łukaszem dacie radę ogarnąć ten projekt na fizykę przed waszym wyjazdem?",
+      "de": "Schafft ihr beide das zusammen mit Lukas, das Physikprojekt vor eurer Abreise fertigzukriegen?",
+      "tags": [
+        "collective numerals",
+        "declension of names",
+        "school"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 200,
+      "target": "Nie byłabym tak panikowała przed maturą z hiszpańskiego, gdybym była wcześniej zaczęła systematycznie powtarzać słownictwo.",
+      "de": "Ich hätte vor dem Spanisch-Abi nicht so Panik geschoben, wenn ich früher angefangen hätte, regelmäßig Vokabeln zu wiederholen.",
+      "tags": [
+        "past conditional",
+        "school",
+        "negation"
+      ],
+      "kind": "negation"
+    }
+  ]
+}
