@@ -1,0 +1,2218 @@
+{
+  "id": "pl-b1-1",
+  "lang": "pl",
+  "langLabel": "Polnisch",
+  "level": "B1",
+  "part": 1,
+  "title": "Polnisch B1 · Teil 1",
+  "sentences": [
+    {
+      "n": 1,
+      "target": "Przez tydzień planowałam ten film, a wczoraj go w końcu nagrałam.",
+      "de": "Ich habe das Video eine Woche lang geplant und gestern habe ich es endlich aufgenommen.",
+      "tags": [
+        "aspect",
+        "past tense",
+        "contrast"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 2,
+      "target": "Długo uczyłam się stawiać granice i teraz czuję się o wiele lepiej.",
+      "de": "Ich habe lange gelernt, Grenzen zu setzen, und jetzt fühle ich mich viel besser.",
+      "tags": [
+        "aspect",
+        "reflexive",
+        "adverb comparison"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 3,
+      "target": "Czy moglibyście mi powiedzieć, jak poradziliście sobie z tym nagłym lękiem?",
+      "de": "Könntet ihr mir sagen, wie ihr mit dieser plötzlichen Angst umgegangen seid?",
+      "tags": [
+        "conditional",
+        "aspect",
+        "plural"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 4,
+      "target": "Zawsze piłam kawę rano, ale dzisiaj wypiłam tylko herbatę, żeby się wyciszyć.",
+      "de": "Ich habe morgens immer Kaffee getrunken, aber heute habe ich nur Tee getrunken, um runterzukommen.",
+      "tags": [
+        "aspect",
+        "habit vs one-time",
+        "subordination"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 5,
+      "target": "Nie czytaj tych negatywnych komentarzy, bo one tylko niepotrzebnie psują ci humor.",
+      "de": "Lies diese negativen Kommentare nicht, die vermiesen dir bloß unnötig die Laune.",
+      "tags": [
+        "imperative",
+        "negation",
+        "imperfective"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 6,
+      "target": "Zaczęłam czytać tę nową książkę o psychologii, ale jeszcze jej nie skończyłam.",
+      "de": "Ich habe angefangen, dieses neue Psychologiebuch zu lesen, aber ich habe es noch nicht fertig gelesen.",
+      "tags": [
+        "aspect",
+        "genitive after negation",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 7,
+      "target": "Słuchałam twojego podcastu o wdzięczności i muszę przyznać, że bardzo mi pomógł.",
+      "de": "Ich habe deinen Podcast über Dankbarkeit gehört und muss zugeben, dass er mir sehr geholfen hat.",
+      "tags": [
+        "aspect",
+        "dative",
+        "subordination"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 8,
+      "target": "Czy możesz mi pożyczyć swój notatnik, kiedy już go cały przeczytasz?",
+      "de": "Kannst du mir dein Notizbuch leihen, wenn du es schon ganz durchgelesen hast?",
+      "tags": [
+        "aspect",
+        "future",
+        "possessive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 9,
+      "target": "Szczerze mówiąc, rzadko prosiłam o pomoc, ale teraz uczę się to robić.",
+      "de": "Ehrlich gesagt habe ich selten um Hilfe gebeten, aber jetzt lerne ich, es zu tun.",
+      "tags": [
+        "aspect",
+        "filler",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 10,
+      "target": "Wczoraj cały wieczór dzwoniłam do ciebie, ale niestety nie odebrałaś telefonu.",
+      "de": "Gestern Abend habe ich den ganzen Abend versucht dich anzurufen, aber du bist leider nicht rangegangen.",
+      "tags": [
+        "aspect",
+        "past tense",
+        "negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 11,
+      "target": "Muszę dzisiaj wcześniej pójść spać, żeby jutro rano wstać z nową energią.",
+      "de": "Ich muss heute früher schlafen gehen, um morgen früh mit neuer Energie aufzustehen.",
+      "tags": [
+        "aspect",
+        "future",
+        "purpose clause"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 12,
+      "target": "On zawsze dużo obiecuje, ale rzadko dotrzymuje słowa, co mnie trochę smuci.",
+      "de": "Er verspricht immer viel, aber hält selten sein Wort, was mich ein bisschen traurig macht.",
+      "tags": [
+        "aspect",
+        "present tense",
+        "third person"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 13,
+      "target": "Moja terapeutka powiedziała, że powinnam częściej robić sobie takie krótkie przerwy.",
+      "de": "Meine Therapeutin hat gesagt, dass ich öfter mal solche kurzen Pausen machen sollte.",
+      "tags": [
+        "reported speech",
+        "aspect",
+        "dative reflexive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 14,
+      "target": "Czy przygotowała Pani już wszystkie dokumenty potrzebne do mojej przeprowadzki do Hiszpanii?",
+      "de": "Haben Sie schon alle Dokumente vorbereitet, die für meinen Umzug nach Spanien nötig sind?",
+      "tags": [
+        "formal",
+        "aspect",
+        "prepositions"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 15,
+      "target": "Przepraszam, że nie odpisałam od razu, ale naprawdę potrzebowałam chwili dla siebie.",
+      "de": "Sorry, dass ich nicht sofort geantwortet habe, aber ich habe echt einen Moment für mich gebraucht.",
+      "tags": [
+        "aspect",
+        "past tense",
+        "apology"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 16,
+      "target": "Zawsze bałam się występować na scenie, ale wczoraj wreszcie to zrobiłam.",
+      "de": "Ich hatte immer Angst, auf der Bühne aufzutreten, aber gestern habe ich es endlich getan.",
+      "tags": [
+        "aspect",
+        "past tense",
+        "emotions"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 17,
+      "target": "Nie rób tego tylko dlatego, że inni tak robią, słuchaj swojej intuicji.",
+      "de": "Mach das nicht nur, weil die anderen es so machen, hör auf deine Intuition.",
+      "tags": [
+        "imperative",
+        "negation",
+        "subordination"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 18,
+      "target": "Kiedy zaczęłaś regularnie trenować na siłowni i jak to wpłynęło na twoje samopoczucie?",
+      "de": "Wann hast du angefangen, regelmäßig im Fitnessstudio zu trainieren, und wie hat das dein Wohlbefinden beeinflusst?",
+      "tags": [
+        "aspect",
+        "past tense",
+        "instrumental"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 19,
+      "target": "Mam nadzieję, że szybko wyzdrowiejesz i będziemy mogły się wkrótce spotkać.",
+      "de": "Ich hoffe, dass du schnell gesund wirst und wir uns bald treffen können.",
+      "tags": [
+        "future tense",
+        "aspect",
+        "wishes"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 20,
+      "target": "Często kupowałam niepotrzebne rzeczy, a teraz wolę oszczędzać pieniądze na podróże.",
+      "de": "Früher habe ich oft unnötiges Zeug gekauft, jetzt spare ich das Geld lieber für Reisen.",
+      "tags": [
+        "aspect",
+        "contrast",
+        "habitual past"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 21,
+      "target": "Dostałam dzisiaj bardzo miły e-mail od czytelniczki, który bardzo mnie wzruszył.",
+      "de": "Ich habe heute eine sehr nette E-Mail von einer Leserin bekommen, die mich sehr gerührt hat.",
+      "tags": [
+        "aspect",
+        "past tense",
+        "relative clause"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 22,
+      "target": "Czy chciałaby Pani zobaczyć moje portfolio, zanim podejmiemy naszą ostateczną decyzję?",
+      "de": "Möchten Sie mein Portfolio sehen, bevor wir unsere endgültige Entscheidung treffen?",
+      "tags": [
+        "formal",
+        "aspect",
+        "future tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 23,
+      "target": "Zjadłam zdrowe śniadanie i od razu poczułam się lepiej, to niesamowite.",
+      "de": "Ich habe ein gesundes Frühstück gegessen und mich sofort besser gefühlt, das ist unglaublich.",
+      "tags": [
+        "aspect",
+        "past tense",
+        "reflexive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 24,
+      "target": "Zawsze zapominałam o piciu wody, więc teraz ustawiam sobie specjalne przypomnienia.",
+      "de": "Ich habe das Wassertrinken immer vergessen, also stelle ich mir jetzt spezielle Erinnerungen ein.",
+      "tags": [
+        "aspect",
+        "habitual past",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 25,
+      "target": "Bardzo dziękuję za to pytanie, bo jest ono dla mnie niezwykle ważne.",
+      "de": "Vielen Dank für diese Frage, denn sie ist mir extrem wichtig.",
+      "tags": [
+        "gratitude",
+        "subordination",
+        "prepositions"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 26,
+      "target": "Przez całą sobotę pisałam konspekt wystąpienia i w końcu wieczorem go napisałam.",
+      "de": "Ich habe den ganzen Samstag an der Gliederung für den Vortrag geschrieben und sie abends endlich fertiggeschrieben.",
+      "tags": [
+        "aspect",
+        "past tense",
+        "pisać/napisać"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 27,
+      "target": "Zawsze brałam głęboki oddech, ale tym razem o tym zapomniałam i strasznie panikowałam.",
+      "de": "Eigentlich habe ich immer tief durchgeatmet, aber diesmal habe ich es vergessen und total Panik bekommen.",
+      "tags": [
+        "aspect",
+        "brać/wziąć",
+        "past tense",
+        "emotion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 28,
+      "target": "Czy mógłby mi Pan powiedzieć, co powinnam poprawić w moim występie następnym razem?",
+      "de": "Könnten Sie mir sagen, was ich bei meinem Auftritt beim nächsten Mal verbessern sollte?",
+      "tags": [
+        "conditional",
+        "dative",
+        "mówić/powiedzieć",
+        "formal"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 29,
+      "target": "Kiedyś zawsze sprawdzałam mikrofon, ale dzisiaj zupełnie o tym zapomniałam przed samym wystąpieniem.",
+      "de": "Früher habe ich das Mikrofon immer gecheckt, aber heute habe ich das vor dem Auftritt total vergessen.",
+      "tags": [
+        "aspect",
+        "past tense",
+        "zapominać/zapomnieć"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 30,
+      "target": "Szanowny Panie, chciałabym zapytać, czy Państwa sala jest dostępna w wybranym przeze mnie terminie.",
+      "de": "Sehr geehrter Herr, ich wollte fragen, ob Ihr Saal zum von mir gewählten Termin verfügbar ist.",
+      "tags": [
+        "formal email",
+        "conditional",
+        "prepositions"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 31,
+      "target": "Publiczność uważnie słuchała, kiedy opowiadałam o przeprowadzce, a potem wszyscy zaczęli głośno klaskać.",
+      "de": "Das Publikum hat aufmerksam zugehört, als ich vom Umzug erzählt habe, und dann fingen alle an laut zu klatschen.",
+      "tags": [
+        "past tense",
+        "aspect",
+        "zaczynać/zacząć"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 32,
+      "target": "Zwykle bardzo się stresowałam, ale tym razem poczułam spokój, gdy weszłam na scenę.",
+      "de": "Normalerweise war ich immer sehr gestresst, aber diesmal habe ich Ruhe gespürt, als ich auf die Bühne ging.",
+      "tags": [
+        "aspect",
+        "past tense",
+        "emotion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 33,
+      "target": "Nie pokazuj jeszcze nikomu tego filmu, bo wciąż nie skończyłam go montować.",
+      "de": "Zeig das Video bitte noch niemandem, ich bin mit dem Schnitt noch nicht fertig.",
+      "tags": [
+        "imperative",
+        "negation",
+        "aspect",
+        "kończyć/skończyć"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 34,
+      "target": "Stałam za kurtyną i serce mi waliło. Zobaczyłam przyjaciółkę w pierwszym rzędzie i się uśmiechnęłam.",
+      "de": "Ich stand hinter dem Vorhang und mein Herz hat gerast. Dann sah ich meine Freundin in der ersten Reihe und musste lächeln.",
+      "tags": [
+        "story",
+        "past tense",
+        "aspect"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 35,
+      "target": "Możesz mówić trochę wolniej, żeby każdy mógł dobrze zrozumieć twoje ważne przesłanie?",
+      "de": "Kannst du ein bisschen langsamer sprechen, damit jeder deine wichtige Botschaft gut verstehen kann?",
+      "tags": [
+        "question",
+        "subordination",
+        "żeby"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 36,
+      "target": "Często mówiłam za szybko, ale dzisiaj powiedziałam wszystko powoli i bardzo wyraźnie.",
+      "de": "Oft habe ich zu schnell gesprochen, aber heute habe ich alles langsam und sehr deutlich gesagt.",
+      "tags": [
+        "aspect",
+        "mówić/powiedzieć",
+        "comparison"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 37,
+      "target": "Przepraszam, ale nie odpowiem na to pytanie, ponieważ jest ono dla mnie zbyt osobiste.",
+      "de": "Tut mir leid, aber auf diese Frage werde ich nicht antworten, weil sie mir zu persönlich ist.",
+      "tags": [
+        "negation",
+        "future tense",
+        "boundaries"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 38,
+      "target": "Jutro będę nagrywać nowy film, a potem szybko wyślę go do mojego montażysty.",
+      "de": "Morgen werde ich ein neues Video aufnehmen und es danach direkt an meinen Cutter schicken.",
+      "tags": [
+        "aspect",
+        "future tense",
+        "dative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 39,
+      "target": "Ćwiczyłam dzisiaj rano na siłowni, żeby przewietrzyć głowę przed tym ważnym wieczornym występem.",
+      "de": "Ich war heute Morgen im Gym, um den Kopf vor diesem wichtigen Auftritt heute Abend frei zu bekommen.",
+      "tags": [
+        "past tense",
+        "gym",
+        "instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 40,
+      "target": "Czy ta scena jest znacznie większa niż ta, na której występowałam w zeszłym miesiącu?",
+      "de": "Ist diese Bühne deutlich größer als die, auf der ich letzten Monat stand?",
+      "tags": [
+        "comparison",
+        "locative",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 41,
+      "target": "Jak w sumie radzisz sobie z ludźmi, którzy zostawiają złośliwe komentarze pod twoimi filmami?",
+      "de": "Wie gehst du eigentlich mit Leuten um, die fiese Kommentare unter deinen Videos hinterlassen?",
+      "tags": [
+        "question",
+        "plural",
+        "instrumental"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 42,
+      "target": "Jestem bardzo wdzięczna, że przyszliście tutaj dzisiaj tak licznie, aby poznać moją perspektywę.",
+      "de": "Ich bin sehr dankbar, dass ihr heute so zahlreich gekommen seid, um meine Perspektive kennenzulernen.",
+      "tags": [
+        "gratitude",
+        "past tense",
+        "plural"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 43,
+      "target": "Uczyłaś się hiszpańskiego tylko w szkole czy uczyłaś się też sama w domu?",
+      "de": "Hast du Spanisch nur in der Schule gelernt oder hast du auch selbst zu Hause gelernt?",
+      "tags": [
+        "question",
+        "aspect",
+        "learning"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 44,
+      "target": "Czytałam Pani e-mail kilka razy, zanim w końcu zdecydowałam się na niego odpisać.",
+      "de": "Ich habe Ihre E-Mail mehrmals gelesen, bevor ich mich schließlich entschieden habe, darauf zu antworten.",
+      "tags": [
+        "aspect",
+        "formal",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 45,
+      "target": "Kontaktuję się z Państwem, ponieważ jestem zainteresowana współpracą przy nowym projekcie dla młodzieży.",
+      "de": "Ich kontaktiere Sie, da ich an einer Zusammenarbeit bei einem neuen Jugendprojekt interessiert bin.",
+      "tags": [
+        "formal email",
+        "instrumental",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 46,
+      "target": "Pamiętasz, jak rok temu tylko oglądałam innych, a dzisiaj to ja stoję tutaj?",
+      "de": "Weißt du noch, wie ich vor einem Jahr nur den anderen zugeschaut habe und heute stehe ich selbst hier?",
+      "tags": [
+        "question",
+        "aspect",
+        "story"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 47,
+      "target": "Cały wieczór przygotowywałam te slajdy, ale w końcu przygotowałam coś, co wygląda profesjonalnie.",
+      "de": "Ich habe den ganzen Abend an diesen Slides gesessen, aber am Ende habe ich etwas Professionelles erstellt.",
+      "tags": [
+        "aspect",
+        "past tense",
+        "przygotowywać/przygotować"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 48,
+      "target": "Robię te zadania z gramatyki od godziny i jeszcze nie zrobiłam nawet połowy strony.",
+      "de": "Ich mache diese Grammatikaufgaben schon seit einer Stunde und habe noch nicht mal die halbe Seite geschafft.",
+      "tags": [
+        "aspect",
+        "robić/zrobić",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 49,
+      "target": "Widziałaś może, gdzie położyłam moje notatki? Przed chwilą trzymałam je w ręku.",
+      "de": "Hast du vielleicht gesehen, wo ich meine Notizen hingelegt habe? Vorhin hatte ich sie noch in der Hand.",
+      "tags": [
+        "question",
+        "aspect",
+        "past tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 50,
+      "target": "Dziękuję bardzo za uwagę i mam nadzieję, że moja historia chociaż trochę was zainspirowała.",
+      "de": "Vielen Dank für die Aufmerksamkeit und ich hoffe, dass meine Geschichte euch zumindest ein bisschen inspiriert hat.",
+      "tags": [
+        "gratitude",
+        "past tense",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 51,
+      "target": "Całe popołudnie poprawiałam ten trudny rozdział i wreszcie dzisiaj rano go poprawiłam.",
+      "de": "Ich habe den ganzen Nachmittag an diesem schwierigen Kapitel herumkorrigiert und heute Morgen habe ich es endlich fertig verbessert.",
+      "tags": [
+        "past tense",
+        "aspect contrast",
+        "perfective/imperfective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 52,
+      "target": "Zwykle rzadko czytam kryminały, ale ten od ciebie przeczytałam w jeden wieczór.",
+      "de": "Normalerweise lese ich selten Krimis, aber den von dir habe ich an einem einzigen Abend durchgelesen.",
+      "tags": [
+        "present tense",
+        "past tense",
+        "aspect contrast",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 53,
+      "target": "Próbowałam się do Państwa dodzwonić kilka razy, ale niestety nikt nie odbierał.",
+      "de": "Ich habe mehrmals versucht, Sie telefonisch zu erreichen, aber leider hat niemand abgehoben.",
+      "tags": [
+        "past tense",
+        "aspect",
+        "formal",
+        "negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 54,
+      "target": "Zawsze pisałam wieczorami, ale dzisiaj napisałam kilka stron już przed śniadaniem.",
+      "de": "Früher habe ich immer abends geschrieben, aber heute habe ich schon vor dem Frühstück ein paar Seiten fertiggeschrieben.",
+      "tags": [
+        "past tense",
+        "aspect contrast",
+        "adverbial of time"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 55,
+      "target": "Nie czekaj na natchnienie, po prostu zacznij tworzyć chociaż jeden akapit.",
+      "de": "Warte nicht auf Inspiration, fang einfach an, wenigstens einen Absatz zu kreieren.",
+      "tags": [
+        "imperative",
+        "negation",
+        "aspect",
+        "instrumental"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 56,
+      "target": "Możesz mi polecić jakąś książkę, która naprawdę zmieniła twój sposób myślenia?",
+      "de": "Kannst du mir irgendein Buch empfehlen, das deine Denkweise wirklich verändert hat?",
+      "tags": [
+        "question",
+        "dative",
+        "perfective aspect",
+        "subordinate clause"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 57,
+      "target": "Przez dwa miesiące wymyślałam głównego bohatera i w końcu wczoraj go wymyśliłam.",
+      "de": "Zwei Monate lang habe ich mir die Hauptfigur ausgedacht und gestern hatte ich sie endlich fertig konzipiert.",
+      "tags": [
+        "past tense",
+        "aspect contrast",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 58,
+      "target": "Dziękuję za propozycję, ale zdecydowałam, że sama zajmę się tłumaczeniem mojej książki.",
+      "de": "Danke für das Angebot, aber ich habe beschlossen, dass ich mich selbst um die Übersetzung meines Buches kümmere.",
+      "tags": [
+        "perfective aspect",
+        "future tense",
+        "genitive",
+        "instrumental"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 59,
+      "target": "Moja przyjaciółka czytała każdy szkic. Gdy zobaczyła gotową książkę, po prostu mnie przytuliła.",
+      "de": "Meine Freundin hat jeden Entwurf gelesen. Als sie das fertige Buch sah, hat sie mich einfach umarmt.",
+      "tags": [
+        "story",
+        "aspect contrast",
+        "past tense",
+        "accusative"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 60,
+      "target": "Czy mogłabyś zerknąć na ten opis i powiedzieć mi, czy go nie zepsułam?",
+      "de": "Könntest du mal kurz auf diese Beschreibung schauen und mir sagen, ob ich sie nicht vermasselt habe?",
+      "tags": [
+        "conditional",
+        "question",
+        "perfective aspect",
+        "negation"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 61,
+      "target": "Długo uczyłam się techniki tego ćwiczenia i dzisiaj wreszcie nauczyłam się je robić poprawnie.",
+      "de": "Ich habe lange die Technik dieser Übung gelernt und heute habe ich endlich gelernt, sie richtig auszuführen.",
+      "tags": [
+        "past tense",
+        "aspect contrast",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 62,
+      "target": "Zawsze bałam się mówić o emocjach, ale przy tobie czuję, że mogę być szczera.",
+      "de": "Ich hatte immer Angst, über Gefühle zu sprechen, aber bei dir habe ich das Gefühl, ehrlich sein zu können.",
+      "tags": [
+        "imperfective aspect",
+        "locative",
+        "present tense",
+        "adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 63,
+      "target": "Długo sprawdzałam skrzynkę i w końcu zobaczyłam, że mój mail do wydawnictwa dotarł.",
+      "de": "Ich habe lange meinen Posteingang gecheckt und schließlich gesehen, dass meine Mail beim Verlag angekommen ist.",
+      "tags": [
+        "past tense",
+        "aspect contrast",
+        "dative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 64,
+      "target": "Kiedyś tylko marzyłam o Hiszpanii, a teraz naprawdę tam jadę i będę tam mieszkać.",
+      "de": "Früher habe ich nur von Spanien geträumt, aber jetzt fahre ich wirklich dorthin und werde dort wohnen.",
+      "tags": [
+        "imperfective aspect",
+        "future tense",
+        "locative",
+        "motion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 65,
+      "target": "To prawda, usuwałam ten fragment wiele razy, bo nie pasował do reszty historii.",
+      "de": "Das stimmt, ich habe diesen Abschnitt viele Male gelöscht, weil er nicht zum Rest der Geschichte passte.",
+      "tags": [
+        "imperfective aspect",
+        "past tense",
+        "genitive",
+        "subordinate clause"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 66,
+      "target": "Cały dzień montowałam ten film o wdzięczności i wreszcie go dzisiaj zmontowałam.",
+      "de": "Ich habe den ganzen Tag an diesem Video über Dankbarkeit geschnitten und heute habe ich es endlich fertig montiert.",
+      "tags": [
+        "past tense",
+        "aspect contrast",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 67,
+      "target": "Ta biografia jest o wiele ciekawsza niż powieść, którą pożyczyłam od ciebie w zeszłym tygodniu.",
+      "de": "Diese Biografie ist viel interessanter als der Roman, den ich mir letzte Woche von dir ausgeliehen habe.",
+      "tags": [
+        "comparison",
+        "perfective aspect",
+        "genitive",
+        "subordinate clause"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 68,
+      "target": "Nie przeszkadzaj mi teraz, proszę, bo właśnie kończę pisać bardzo ważny rozdział.",
+      "de": "Stör mich jetzt bitte nicht, denn ich schreibe gerade an einem sehr wichtigen Kapitel zu Ende.",
+      "tags": [
+        "imperative",
+        "negation",
+        "imperfective aspect",
+        "present tense"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 69,
+      "target": "Jestem wam wszystkim bardzo wdzięczna, że wspieracie mnie w tym całym procesie.",
+      "de": "Ich bin euch allen sehr dankbar, dass ihr mich in diesem ganzen Prozess unterstützt.",
+      "tags": [
+        "dative",
+        "present tense",
+        "subordinate clause",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 70,
+      "target": "W przyszłym miesiącu spróbuję stworzyć drugą część, chociaż wiem, że będzie to trudne.",
+      "de": "Nächsten Monat werde ich versuchen, den zweiten Teil zu erschaffen, obwohl ich weiß, dass das schwierig wird.",
+      "tags": [
+        "future tense",
+        "perfective aspect",
+        "subordinate clause",
+        "adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 71,
+      "target": "Który z tych tytułów bardziej do was przemawia i dlaczego tak uważacie?",
+      "de": "Welcher dieser Titel spricht euch mehr an und warum findet ihr das?",
+      "tags": [
+        "question",
+        "genitive",
+        "present tense",
+        "plural"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 72,
+      "target": "Codziennie rano zapisywałam swoje myśli i wczoraj zapisałam ostatnią stronę w tym zeszycie.",
+      "de": "Jeden Morgen habe ich meine Gedanken notiert und gestern habe ich die letzte Seite in diesem Heft vollgeschrieben.",
+      "tags": [
+        "past tense",
+        "aspect contrast",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 73,
+      "target": "Byłam wczoraj bardzo smutna, więc poszłam do księgarni i kupiłam sobie piękny album.",
+      "de": "Ich war gestern sehr traurig, also bin ich in die Buchhandlung gegangen und habe mir einen schönen Bildband gekauft.",
+      "tags": [
+        "story",
+        "past tense",
+        "perfective aspect",
+        "dative"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 74,
+      "target": "Bardzo dziękuję za Państwa cenne uwagi i postaram się jak najszybciej je wprowadzić.",
+      "de": "Vielen Dank für Ihre wertvollen Anmerkungen und ich werde mich bemühen, sie so schnell wie möglich umzusetzen.",
+      "tags": [
+        "formal",
+        "future tense",
+        "perfective aspect",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 75,
+      "target": "Przez dwie godziny wybierałam zdjęcie na miniaturkę i w końcu wybrałam to najbardziej naturalne.",
+      "de": "Ich habe zwei Stunden lang am Thumbnail-Bild herumgebastelt, bis ich mich endlich für das natürlichste entschieden habe.",
+      "tags": [
+        "aspect-contrast",
+        "past-tense",
+        "superlative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 76,
+      "target": "Długo myślałam nad tym tytułem i w końcu wczoraj wieczorem go wymyśliłam.",
+      "de": "Ich habe ewig über den Titel nachgedacht und ihn gestern Abend schließlich gefunden.",
+      "tags": [
+        "aspect-contrast",
+        "past-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 77,
+      "target": "Dziękuję za ofertę współpracy, ale obecnie nie promuję produktów, których sama nie używam.",
+      "de": "Danke für das Kooperationsangebot, aber aktuell bewerbe ich keine Produkte, die ich nicht selbst nutze.",
+      "tags": [
+        "negation",
+        "relative-clause",
+        "genitive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 78,
+      "target": "Nagrywałam ten odcinek trzy razy, bo za każdym razem zapominałam o włączeniu mikrofonu.",
+      "de": "Ich habe diese Folge dreimal aufgenommen, weil ich jedes Mal vergessen habe, das Mikro einzuschalten.",
+      "tags": [
+        "aspect-imperfective",
+        "past-tense",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 79,
+      "target": "Czy używasz zewnętrznego oświetlenia, kiedy nagrywasz swoje filmy w pochmurne dni?",
+      "de": "Benutzt du eigentlich externes Licht, wenn du deine Videos an bewölkten Tagen drehst?",
+      "tags": [
+        "present-tense",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 80,
+      "target": "Wczoraj opublikowałam krótki film o Hiszpanii i nie spodziewałam się, że tyle osób go skomentuje.",
+      "de": "Gestern habe ich ein kurzes Video über Spanien gepostet und nicht damit gerechnet, dass so viele Leute es kommentieren würden.",
+      "tags": [
+        "past-tense",
+        "negation",
+        "future-perfective"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 81,
+      "target": "Czy mógłbyś wyciąć te fragmenty, w których zbyt często robię długie pauzy?",
+      "de": "Könntest du bitte die Stellen rausschneiden, an denen ich zu oft lange Pausen mache?",
+      "tags": [
+        "conditional",
+        "request",
+        "aspect-perfective"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 82,
+      "target": "Ta nowa kamera jest znacznie lżejsza niż moja poprzednia, więc łatwiej będzie mi vlogować.",
+      "de": "Diese neue Kamera ist viel leichter als meine alte, damit wird das Vloggen viel einfacher.",
+      "tags": [
+        "comparison",
+        "future-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 83,
+      "target": "Jestem niesamowicie wdzięczna za wasze wsparcie pod ostatnim filmem o zdrowiu psychicznym.",
+      "de": "Ich bin wahnsinnig dankbar für euren Support unter dem letzten Video über mentale Gesundheit.",
+      "tags": [
+        "adjective-feminine",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 84,
+      "target": "Dzisiaj planuję posty na Instagram, a jutro rano wreszcie je opublikuję.",
+      "de": "Heute plane ich Instagram-Posts und morgen früh veröffentliche ich sie endlich.",
+      "tags": [
+        "aspect-contrast",
+        "future-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 85,
+      "target": "Cały wieczór montowałam ten wywiad i dopiero przed chwilą go skończyłam.",
+      "de": "Ich habe den ganzen Abend an dem Interview geschnitten und bin erst vorhin fertig geworden.",
+      "tags": [
+        "aspect-contrast",
+        "past-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 86,
+      "target": "Nie przejmuj się statystykami na początku, bo najważniejsza jest radość z tworzenia.",
+      "de": "Mach dir am Anfang keinen Kopf wegen der Statistiken, der Spaß am Erschaffen ist am wichtigsten.",
+      "tags": [
+        "imperative",
+        "negation",
+        "instrumental"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 87,
+      "target": "Szanowni Państwo, czy planują Państwo kampanię reklamową skierowaną do polskiej publiczności w Hiszpanii?",
+      "de": "Sehr geehrte Damen und Herren, planen Sie eine Werbekampagne für das polnische Publikum in Spanien?",
+      "tags": [
+        "formal",
+        "question",
+        "dative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 88,
+      "target": "Ktoś napisał wczoraj w komentarzu, że moje filmy pomagają mu przetrwać trudniejsze chwile.",
+      "de": "Jemand hat gestern einen Kommentar geschrieben, dass meine Videos ihm durch schwere Zeiten helfen.",
+      "tags": [
+        "past-perfective",
+        "subordination"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 89,
+      "target": "Zawsze szłam na siłownię, kiedy czułam stres, ale dzisiaj wyjątkowo zostałam w domu.",
+      "de": "Normalerweise bin ich immer zum Sport, wenn ich Stress hatte, aber heute bin ich ausnahmsweise zu Hause geblieben.",
+      "tags": [
+        "aspect-contrast",
+        "past-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 90,
+      "target": "Zwykle wrzucałam filmy w środy, ale od przyszłego tygodnia będę to robić w niedziele.",
+      "de": "Eigentlich habe ich Videos immer mittwochs hochgeladen, aber ab nächster Woche mache ich das sonntags.",
+      "tags": [
+        "aspect-imperfective",
+        "future-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 91,
+      "target": "Czy możesz przeczytać ten szkic i powiedzieć mi, czy zakończenie nie jest zbyt nagłe?",
+      "de": "Kannst du dir den Entwurf mal durchlesen und mir sagen, ob das Ende nicht zu abrupt ist?",
+      "tags": [
+        "aspect-perfective",
+        "question",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 92,
+      "target": "Oglądałam dzisiaj hiszpańskie kanały i szczerze mówiąc zrozumiałam prawie wszystko bez napisów.",
+      "de": "Ich habe heute spanische Kanäle geschaut und ehrlich gesagt fast alles ohne Untertitel verstanden.",
+      "tags": [
+        "aspect-contrast",
+        "past-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 93,
+      "target": "Próbowałam przesłać ten duży plik kilka razy, ale internet ciągle przerywał połączenie.",
+      "de": "Ich habe mehrmals versucht, die große Datei hochzuladen, aber das Internet hat ständig die Verbindung abgebrochen.",
+      "tags": [
+        "aspect-imperfective",
+        "past-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 94,
+      "target": "Chciałabym zaprosić Cię do wspólnego nagrania o tym, jak zachować autentyczność w sieci.",
+      "de": "Ich würde dich gerne zu einer gemeinsamen Aufnahme darüber einladen, wie man im Netz authentisch bleibt.",
+      "tags": [
+        "conditional",
+        "aspect-perfective"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 95,
+      "target": "Zawsze sprawdzałam opisy dwa razy, a tym razem kompletnie o tym zapomniałam.",
+      "de": "Ich habe die Beschreibungen sonst immer doppelt gecheckt, aber diesmal habe ich es total vergessen.",
+      "tags": [
+        "aspect-contrast",
+        "past-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 96,
+      "target": "Niestety nie wezmę udziału w tym projekcie, ponieważ muszę teraz skupić się na przeprowadzce.",
+      "de": "Leider werde ich an diesem Projekt nicht teilnehmen, weil ich mich jetzt auf den Umzug konzentrieren muss.",
+      "tags": [
+        "future-perfective",
+        "negation",
+        "locative"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 97,
+      "target": "Wyszłam na scenę i nagle poczułam, że zapomniałam tekstu. Po prostu zaczęłam mówić od serca.",
+      "de": "Ich bin auf die Bühne gegangen und plötzlich merkte ich, dass ich meinen Text vergessen hatte. Ich habe dann einfach frei Schnauze geredet.",
+      "tags": [
+        "story",
+        "past-perfective"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 98,
+      "target": "Wolicie, kiedy pokazuję moje codzienne życie, czy wolicie bardziej dopracowane, merytoryczne materiały?",
+      "de": "Ist es euch lieber, wenn ich mein Alltagsleben zeige, oder wollt ihr lieber aufwendiger produzierte Inhalte?",
+      "tags": [
+        "question",
+        "comparison"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 99,
+      "target": "Długo uczyłam się obsługi tego programu i wczoraj w końcu nauczyłam się go używać.",
+      "de": "Ich habe lange gelernt, wie man dieses Programm bedient, und gestern habe ich es endlich kapiert.",
+      "tags": [
+        "aspect-contrast",
+        "past-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 100,
+      "target": "Przez godzinę robiłam martwy ciąg i wreszcie zrobiłam swoją nową życiówkę.",
+      "de": "Ich hab eine Stunde Kreuzheben gemacht und endlich meine neue Bestleistung geschafft.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "instrumental case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 101,
+      "target": "Zawsze rano jadłam owsiankę, ale dzisiaj zjadłam omlet, żeby mieć więcej białka.",
+      "de": "Morgens hab ich immer Haferflocken gegessen, aber heute gab's Omelett für mehr Protein.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "genitive case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 102,
+      "target": "Czy te legginsy w rozmiarze S będą na mnie pasować, czy są mniejsze niż standardowe?",
+      "de": "Wird mir die Leggings in S passen oder fällt die kleiner aus als normal?",
+      "tags": [
+        "future tense",
+        "comparison",
+        "locative case"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 103,
+      "target": "Długo odpoczywałam po treningu i w końcu odpoczęłam na tyle, żeby zacząć pisać.",
+      "de": "Ich hab mich lange nach dem Training ausgeruht und bin jetzt endlich fit zum Schreiben.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "infinitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 104,
+      "target": "Długo próbowałam podnieść ten ciężar i dzisiaj w końcu go podniosłam. Czułam ogromną dumę, bo pracowałam na ten moment przez kilka miesięcy.",
+      "de": "Ich hab ewig versucht, das Gewicht zu heben, und heute hab ich's endlich geschafft. Ich war mega stolz, weil ich Monate darauf hingearbeitet habe.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "tiny story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 105,
+      "target": "Jakie trzy rzeczy sprawiły, że poczułaś dzisiaj wdzięczność, mimo że miałaś gorszy dzień?",
+      "de": "Welche drei Dinge haben dich heute dankbar gemacht, obwohl der Tag echt mies war?",
+      "tags": [
+        "past tense",
+        "accusative case",
+        "subordination"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 106,
+      "target": "Często piłam napoje energetyczne, ale od miesiąca nie wypiłam ani jednej puszki.",
+      "de": "Ich hab oft Energydrinks getrunken, aber seit einem Monat hab ich keine Dose mehr angerührt.",
+      "tags": [
+        "aspect contrast",
+        "negation",
+        "genitive case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 107,
+      "target": "Moja koleżanka długo wybierała nowe buty i w końcu wybrała te najdroższe.",
+      "de": "Meine Freundin hat ewig nach neuen Schuhen gesucht und am Ende die teuersten genommen.",
+      "tags": [
+        "aspect contrast",
+        "comparison",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 108,
+      "target": "Czy mógłby mi Pan doradzić, która siłownia w Walencji ma najlepszą strefę wolnych ciężarów?",
+      "de": "Könnten Sie mir sagen, welches Gym in Valencia den besten Freihantelbereich hat?",
+      "tags": [
+        "conditional",
+        "formal",
+        "superlative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 109,
+      "target": "Zawsze kupowałam gotowe koktajle, ale dzisiaj sama kupiłam składniki i zrobiłam własny.",
+      "de": "Ich hab sonst immer fertige Shakes gekauft, aber heute hab ich die Zutaten selbst besorgt und ihn selbst gemacht.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "accusative case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 110,
+      "target": "Pożycz mi proszę swoją grubą bluzę, bo po treningu zawsze jest mi bardzo zimno.",
+      "de": "Leihst du mir bitte deinen dicken Hoodie? Nach dem Sport ist mir immer total kalt.",
+      "tags": [
+        "imperative",
+        "dative case",
+        "prepositions"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 111,
+      "target": "Przez kilka dni źle sypiałam, ale tej nocy w końcu wyspałam się porządnie.",
+      "de": "Ich hab ein paar Tage echt schlecht geschlafen, aber heute Nacht war ich endlich mal ausgeschlafen.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "adverbs"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 112,
+      "target": "Moja książka jest dla mnie o wiele trudniejsza niż nauka hiszpańskiego do egzaminu.",
+      "de": "Mein Buch ist für mich eine viel größere Herausforderung als das Spanischlernen für die Prüfung.",
+      "tags": [
+        "comparison",
+        "genitive case",
+        "dative case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 113,
+      "target": "Szukałam kluczyka do szafki przez dziesięć minut, aż wreszcie go znalazłam w torbie.",
+      "de": "Ich hab zehn Minuten lang meinen Spindschlüssel gesucht, bis ich ihn in der Tasche fand.",
+      "tags": [
+        "aspect contrast",
+        "locative case",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 114,
+      "target": "Zwykle biegałam na bieżni, ale dzisiaj po prostu pobiegałam chwilę w parku dla odmiany.",
+      "de": "Normalerweise war ich immer auf dem Laufband, aber heute bin ich mal im Park gejoggt.",
+      "tags": [
+        "aspect contrast",
+        "locative case",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 115,
+      "target": "Często trenowaliśmy razem, ale wczoraj po raz pierwszy potrenowaliśmy zupełnie oddzielnie.",
+      "de": "Wir haben oft zusammen trainiert, aber gestern haben wir zum ersten Mal völlig getrennt trainiert.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "plural forms"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 116,
+      "target": "Szanuję swoje ciało nie za to, jak wygląda, ale za to, ile potrafi znieść.",
+      "de": "Ich respektiere meinen Körper nicht für sein Aussehen, sondern dafür, was er alles schafft.",
+      "tags": [
+        "present tense",
+        "accusative case",
+        "subordination"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 117,
+      "target": "Zaczynałam ten trening trzy razy, ale dopiero teraz naprawdę go zaczęłam z pasją.",
+      "de": "Ich hab dieses Training dreimal angefangen, aber erst jetzt bin ich mit Leidenschaft dabei.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "instrumental case"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 118,
+      "target": "Chciałabym zapytać, czy oferują Państwo zniżki studenckie na karnet roczny w Państwa klubie.",
+      "de": "Ich wollte fragen, ob Sie Studentenrabatte auf die Jahresmitgliedschaft in Ihrem Club anbieten.",
+      "tags": [
+        "conditional",
+        "formal",
+        "locative case"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 119,
+      "target": "Przez tydzień uczyłam się tej nowej choreografii i dzisiaj rano wreszcie się jej nauczyłam.",
+      "de": "Ich hab die Woche an der neuen Choreo gearbeitet und heute Morgen saß sie endlich.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "genitive case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 120,
+      "target": "Cieszę się, że jesteście moimi przyjaciółkami, bo zawsze potraficie mnie zmotywować do działania.",
+      "de": "Schön, dass ihr meine Freundinnen seid, ihr motiviert mich einfach immer wieder aufs Neue.",
+      "tags": [
+        "plural forms",
+        "instrumental case",
+        "subordination"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 121,
+      "target": "Czy on naprawdę wierzy, że same suplementy wystarczą, żeby zbudować taką masę mięśniową?",
+      "de": "Glaubt der echt, dass Supplemente allein reichen, um so viel Muskelmasse aufzubauen?",
+      "tags": [
+        "present tense",
+        "accusative case",
+        "subordination"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 122,
+      "target": "Zawsze brałam prysznic na siłowni, ale dzisiaj wzięłam go w domu, bo zapomniałam ręcznika.",
+      "de": "Normal hab ich im Gym geduscht, aber heute bin ich zu Hause unter die Dusche, weil ich mein Handtuch vergessen habe.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "locative case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 123,
+      "target": "Nie lubię ćwiczyć wieczorem, ponieważ potem mam zbyt dużo energii i nie mogę zasnąć.",
+      "de": "Ich trainiere ungern abends, weil ich dann zu viel Energie hab und nicht einschlafen kann.",
+      "tags": [
+        "negation",
+        "genitive case",
+        "present tense"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 124,
+      "target": "Szukałam ogłoszeń przez cały tydzień i wczoraj wreszcie znalazłam to wymarzone mieszkanie.",
+      "de": "Ich habe die ganze Woche nach Anzeigen gesucht und gestern endlich diese Traumwohnung gefunden.",
+      "tags": [
+        "aspect",
+        "locative",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 125,
+      "target": "Próbowałam dojść do metra sama, ale w końcu musiałam zapytać kogoś o drogę.",
+      "de": "Ich hab versucht, alleine zur U-Bahn zu finden, aber am Ende musste ich jemanden nach dem Weg fragen.",
+      "tags": [
+        "aspect",
+        "past tense",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 126,
+      "target": "Tęsknię za domem, ale codziennie dzwonię do mamy i wczoraj długo rozmawiałyśmy.",
+      "de": "Ich hab Heimweh, aber ich telefoniere jeden Tag mit Mama und gestern haben wir echt lange gequatscht.",
+      "tags": [
+        "aspect",
+        "instrumental",
+        "feelings"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 127,
+      "target": "Często piję tutaj kawę, ale dzisiaj zamówiłam herbatę miętową, żeby trochę się uspokoić.",
+      "de": "Normalerweise trinke ich hier immer Kaffee, aber heute habe ich Minztee bestellt, um ein bisschen runterzukommen.",
+      "tags": [
+        "aspect",
+        "contrast",
+        "purpose clause"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 128,
+      "target": "Próbowałam otworzyć konto przez internet, ale w końcu musiałam przyjść do banku osobiście.",
+      "de": "Ich hab erst versucht, das Konto online zu eröffnen, aber letztendlich musste ich doch persönlich zur Bank.",
+      "tags": [
+        "aspect",
+        "past tense",
+        "prepositions"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 129,
+      "target": "Właśnie się wprowadzam do mieszkania obok i mam nadzieję, że szybko się tutaj zadomowię.",
+      "de": "Ich ziehe gerade nebenan ein und hoffe, dass ich mich hier schnell einlebe.",
+      "tags": [
+        "aspect",
+        "present tense",
+        "future tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 130,
+      "target": "Codziennie uczę się nowych słówek i dzisiaj wreszcie zapamiętałam te wszystkie trudne czasowniki.",
+      "de": "Ich lerne jeden Tag Vokabeln und heute habe ich mir endlich all diese schwierigen Verben gemerkt.",
+      "tags": [
+        "aspect",
+        "genitive",
+        "learning"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 131,
+      "target": "Czy dostanę tutaj świeże awokado, czy powinnam raczej iść na ten większy targ?",
+      "de": "Kriege ich hier frische Avocados oder sollte ich eher zu dem größeren Markt gehen?",
+      "tags": [
+        "question",
+        "future tense",
+        "shopping"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 132,
+      "target": "Mogłabyś mi pomóc z tymi walizkami, bo właśnie wnoszę je na czwarte piętro?",
+      "de": "Könntest du mir kurz mit den Koffern helfen? Ich schleppe sie gerade in den vierten Stock hoch.",
+      "tags": [
+        "request",
+        "instrumental",
+        "aspect"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 133,
+      "target": "Zapisuję w moim dzienniku wszystko, co mnie spotyka, i wczoraj zapisałam aż pięć stron.",
+      "de": "Ich schreibe alles in mein Tagebuch, was ich so erlebe, und gestern habe ich ganze fünf Seiten vollgeschrieben.",
+      "tags": [
+        "aspect",
+        "locative",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 134,
+      "target": "Jechałam autobusem w złym kierunku, ale na szczęście szybko się zorientowałam i wysiadłam.",
+      "de": "Ich bin mit dem Bus in die falsche Richtung gefahren, aber zum Glück habe ich es schnell gemerkt und bin ausgestiegen.",
+      "tags": [
+        "aspect",
+        "past tense",
+        "movement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 135,
+      "target": "Moim zdaniem to miasto jest o wiele głośniejsze niż Berlin, ale bardzo mi się podoba.",
+      "de": "Meiner Meinung nach ist die Stadt viel lauter als Berlin, aber sie gefällt mir total gut.",
+      "tags": [
+        "comparison",
+        "opinion",
+        "instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 136,
+      "target": "Szukałam siłowni z fajnym klimatem i dzisiaj w końcu zapisałam się do małego klubu.",
+      "de": "Ich habe nach einem Gym mit guter Atmosphäre gesucht und mich heute endlich in einem kleinen Club angemeldet.",
+      "tags": [
+        "aspect",
+        "past tense",
+        "gym"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 137,
+      "target": "Dziękuję za zaproszenie, ale muszę dzisiaj skończyć ten ważny tekst, który wczoraj zaczęłam pisać.",
+      "de": "Danke für die Einladung, aber ich muss heute diesen wichtigen Text fertigmachen, den ich gestern angefangen habe.",
+      "tags": [
+        "aspect",
+        "negation",
+        "relative clause"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 138,
+      "target": "Przez miesiąc segregowałam moje rzeczy i wczoraj wreszcie spakowałam ten ostatni, wielki karton.",
+      "de": "Ich habe einen Monat lang meine Sachen aussortiert und gestern endlich den letzten großen Karton gepackt.",
+      "tags": [
+        "aspect",
+        "past tense",
+        "moving"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 139,
+      "target": "Czy wiedzą Państwo, w które dni tygodnia ten lokalny rynek jest otwarty najdłużej?",
+      "de": "Wissen Sie zufällig, an welchen Wochentagen dieser lokale Markt am längsten offen hat?",
+      "tags": [
+        "question",
+        "polite form",
+        "time expressions"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 140,
+      "target": "Czasami czuję się zagubiona w nowym miejscu, ale wiem, że to normalny etap zmiany.",
+      "de": "Manchmal fühle ich mich an dem neuen Ort etwas verloren, aber ich weiß, dass das ein ganz normaler Teil der Veränderung ist.",
+      "tags": [
+        "statement",
+        "adjective",
+        "mental health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 141,
+      "target": "Możesz mi polecić jakąś przytulną kawiarnię, w której mogłabym spokojnie popracować z laptopem?",
+      "de": "Kannst du mir ein gemütliches Café empfehlen, in dem ich in Ruhe mit dem Laptop arbeiten kann?",
+      "tags": [
+        "request",
+        "conditional",
+        "lifestyle"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 142,
+      "target": "Stałam w kolejce przez dwie godziny. Kiedy w końcu podeszłam do okienka, urzędnik poprosił o dowód.",
+      "de": "Ich stand zwei Stunden lang Schlange. Als ich endlich am Schalter war, wollte der Beamte meinen Ausweis sehen.",
+      "tags": [
+        "story",
+        "aspect",
+        "past tense"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 143,
+      "target": "Bardzo miło mi cię poznać, słyszałam o tobie wiele dobrych rzeczy od naszej wspólnej koleżanki.",
+      "de": "Schön dich kennenzulernen, ich habe schon viel Gutes über dich von unserer gemeinsamen Freundin gehört.",
+      "tags": [
+        "statement",
+        "genitive",
+        "social"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 144,
+      "target": "W Niemczech zawsze wstawałam wcześnie, a tutaj wstaję trochę później, żeby cieszyć się słońcem.",
+      "de": "In Deutschland bin ich immer früh aufgestanden, aber hier stehe ich etwas später auf, um die Sonne zu genießen.",
+      "tags": [
+        "aspect",
+        "comparison",
+        "lifestyle"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 145,
+      "target": "Długo analizowałam mapę, ale i tak zgubiłam się w tych wąskich uliczkach starego miasta.",
+      "de": "Ich habe die Karte ewig studiert, aber ich habe mich trotzdem in diesen engen Gassen der Altstadt verlaufen.",
+      "tags": [
+        "aspect",
+        "negation",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 146,
+      "target": "Jutro będę zwiedzać starówkę, a wieczorem na pewno napiszę o tym krótki post na Instagram.",
+      "de": "Morgen werde ich die Altstadt besichtigen und abends schreibe ich bestimmt einen kurzen Post dazu auf Instagram.",
+      "tags": [
+        "aspect",
+        "future tense",
+        "travel"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 147,
+      "target": "Pytałam już kilka osób, ale nikt nie wiedział, jak działają te nowe liczniki prądu.",
+      "de": "Ich habe schon ein paar Leute gefragt, aber niemand wusste, wie diese neuen Stromzähler funktionieren.",
+      "tags": [
+        "aspect",
+        "negation",
+        "apartment"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 148,
+      "target": "Cieszę się, że jesteś, bo Twoje wiadomości zawsze poprawiają mi humor w trudne dni.",
+      "de": "Schön, dass es dich gibt, deine Nachrichten hellen meine Stimmung an schweren Tagen immer auf.",
+      "tags": [
+        "statement",
+        "dative",
+        "friendship"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 149,
+      "target": "Uczyłam się do matury z polskiego całą noc, ale i tak nie nauczyłam się wszystkiego.",
+      "de": "Ich habe die ganze Nacht für das Polnisch-Abi gelernt, aber ich habe trotzdem nicht alles geschafft.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 150,
+      "target": "Zawsze robiłam notatki na papierze, ale dzisiaj po raz pierwszy zrobiłam je na tablecie.",
+      "de": "Ich habe meine Notizen immer auf Papier gemacht, aber heute habe ich sie zum ersten Mal auf dem Tablet erstellt.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 151,
+      "target": "Dzwoniłam do sekretariatu trzy razy, żeby zapytać o wyniki, aż w końcu się dodzwoniłam.",
+      "de": "Ich habe dreimal im Sekretariat angerufen, um nach den Ergebnissen zu fragen, bis ich schließlich durchgekommen bin.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "dative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 152,
+      "target": "Zastanawiam się, czy powinnam studiować w Polsce, czy jednak od razu wyjechać do Hiszpanii.",
+      "de": "Ich überlege, ob ich in Polen studieren soll oder doch lieber direkt nach Spanien gehe.",
+      "tags": [
+        "present tense",
+        "locative",
+        "future"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 153,
+      "target": "Czytałam to pytanie trzy razy, zanim w ogóle zrozumiałam, o co chodzi w tym zadaniu.",
+      "de": "Ich habe mir die Frage dreimal durchgelesen, bevor ich überhaupt kapiert habe, worum es in der Aufgabe geht.",
+      "tags": [
+        "aspect",
+        "past tense",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 154,
+      "target": "Wiem, że matura jest ważna, ale moje zdrowie psychiczne jest dla mnie teraz ważniejsze.",
+      "de": "Ich weiß, dass das Abi wichtig ist, aber meine mentale Gesundheit ist mir gerade wichtiger.",
+      "tags": [
+        "comparison",
+        "nominative",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 155,
+      "target": "Pisałam tę prezentację przez tydzień i wczoraj wreszcie napisałam ostatni slajd o moich planach.",
+      "de": "Ich habe eine Woche lang an dieser Präsentation gesessen und gestern endlich die letzte Folie über meine Pläne fertiggeschrieben.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 156,
+      "target": "Oglądałam filmiki o studiowaniu za granicą i wczoraj obejrzałam jeden o uniwersytecie w Madrycie.",
+      "de": "Ich habe mir Videos übers Auslandsstudium angeschaut und gestern habe ich eins über die Uni in Madrid gesehen.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 157,
+      "target": "Czy mógłby Pan mi wyjaśnić, jak przeliczyć moje niemieckie oceny na polski system punktowy?",
+      "de": "Könnten Sie mir erklären, wie ich meine deutschen Noten in das polnische Punktesystem umrechne?",
+      "tags": [
+        "conditional",
+        "polite form",
+        "accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 158,
+      "target": "Cieszę się, że przygotowujemy się do egzaminów razem, bo w grupie czuję się pewniej.",
+      "de": "Ich freue mich, dass wir uns zusammen auf die Prüfungen vorbereiten, weil ich mich in der Gruppe sicherer fühle.",
+      "tags": [
+        "present tense",
+        "dative",
+        "comparison"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 159,
+      "target": "Brałam korepetycje z matematyki przez rok, ale przed samym egzaminem wzięłam jeszcze jedną lekcję.",
+      "de": "Ich hatte ein Jahr lang Mathe-Nachhilfe, aber direkt vor der Prüfung habe ich noch eine extra Stunde genommen.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 160,
+      "target": "Kończyłam ten projekt na historię bardzo długo, ale dzisiaj rano wreszcie go skończyłam.",
+      "de": "Ich war ewig dabei, dieses Geschichtsprojekt fertigzumachen, aber heute Morgen habe ich es endlich abgeschlossen.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 161,
+      "target": "Jak myślisz, czy lepiej uczyć się wszystkiego na pamięć, czy raczej starać się zrozumieć mechanizmy?",
+      "de": "Was meinst du, ist es besser, alles auswendig zu lernen, oder sollte man eher versuchen, die Zusammenhänge zu verstehen?",
+      "tags": [
+        "present tense",
+        "infinitive",
+        "accusative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 162,
+      "target": "Zawsze dawałam z siebie wszystko w szkole, ale teraz muszę dać sobie trochę spokoju.",
+      "de": "In der Schule habe ich immer alles gegeben, aber jetzt muss ich mir mal ein bisschen Ruhe gönnen.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 163,
+      "target": "Weszłam do klasy i poczułam stres. Spojrzałam na arkusz, wzięłam głęboki oddech i wszystko sobie przypomniałam.",
+      "de": "Ich bin ins Klassenzimmer gekommen und war total gestresst. Ich hab aufs Blatt geschaut, tief durchgeatmet und plötzlich wusste ich alles wieder.",
+      "tags": [
+        "perfective aspect",
+        "past tense",
+        "sequence of events"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 164,
+      "target": "Przepraszam, ale nie pójdę z wami dzisiaj na pizzę, bo muszę jeszcze powtórzyć słówka.",
+      "de": "Tut mir leid, aber ich komme heute nicht mit zum Pizzaessen, ich muss noch Vokabeln wiederholen.",
+      "tags": [
+        "future tense",
+        "negation",
+        "accusative"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 165,
+      "target": "Zazwyczaj wstawałam o siódmej, ale przed egzaminem wstałam o piątej, żeby jeszcze raz wszystko przejrzeć.",
+      "de": "Normalerweise bin ich um sieben aufgestanden, aber vor der Prüfung bin ich um fünf hoch, um alles nochmal durchzugehen.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 166,
+      "target": "Często zapominałam zabrać legitymację, ale dzisiaj o niej nie zapomniałam i mam ją w torbie.",
+      "de": "Ich habe oft vergessen, meinen Schülerausweis mitzunehmen, aber heute habe ich dran gedacht und er ist in der Tasche.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 167,
+      "target": "Uczę się hiszpańskiego do DELE i w końcu nauczyłam się odróżniać te wszystkie czasy przeszłe.",
+      "de": "Ich lerne Spanisch für das DELE und habe es endlich gelernt, all diese Vergangenheitsformen zu unterscheiden.",
+      "tags": [
+        "aspect contrast",
+        "present tense",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 168,
+      "target": "Jeśli zdam maturę na dziewięćdziesiąt procent, będę mogła aplikować na dowolną uczelnię w Hiszpanii.",
+      "de": "Wenn ich das Abi mit neunzig Prozent schaffe, kann ich mich an jeder beliebigen Uni in Spanien bewerben.",
+      "tags": [
+        "future tense",
+        "conditional",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 169,
+      "target": "Spotykaliśmy się co tydzień w kawiarni, żeby rozmawiać o książkach, i wczoraj spotkaliśmy się ostatni raz.",
+      "de": "Wir haben uns jede Woche im Café getroffen, um über Bücher zu reden, und gestern haben wir uns das letzte Mal getroffen.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 170,
+      "target": "Jestem wdzięczna mojej nauczycielce, że tak cierpliwie tłumaczyła mi te wszystkie zawiłości gramatyczne.",
+      "de": "Ich bin meiner Lehrerin dankbar, dass sie mir die ganzen grammatikalischen Feinheiten so geduldig erklärt hat.",
+      "tags": [
+        "dative",
+        "past tense",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 171,
+      "target": "Zaczynałam pisać ten esej kilka razy, ale dopiero dzisiaj zaczęłam go pisać naprawdę konkretnie.",
+      "de": "Ich habe mehrmals angefangen, diesen Essay zu schreiben, aber erst heute habe ich so richtig konkret damit losgelegt.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 172,
+      "target": "Co robisz, żeby nie panikować, kiedy widzisz na egzaminie pytanie, na które nie znasz odpowiedzi?",
+      "de": "Was machst du, um nicht in Panik zu geraten, wenn du in der Prüfung eine Frage siehst, auf die du keine Antwort weißt?",
+      "tags": [
+        "present tense",
+        "infinitive",
+        "locative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 173,
+      "target": "Zawsze jadłam śniadanie w biegu, ale dzisiaj zjadłam je spokojnie, żeby mieć siłę na test.",
+      "de": "Früher habe ich mein Frühstück immer zwischen Tür und Angel gegessen, aber heute habe ich es in Ruhe genossen, um Kraft für den Test zu haben.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "accusative"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 174,
+      "target": "Przez miesiąc znosiłam jego humory, ale wczoraj w końcu powiedziałam 'stop'.",
+      "de": "Ich habe einen Monat lang seine Launen ertragen, aber gestern habe ich endlich einen Schlussstrich gezogen.",
+      "tags": [
+        "aspect contrast",
+        "past tense",
+        "boundary"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 175,
+      "target": "Ufałam jej przez lata, ale jedno kłamstwo sprawiło, że przestałam wierzyć w naszą relację.",
+      "de": "Ich habe ihr jahrelang vertraut, aber eine einzige Lüge hat dafür gesorgt, dass ich nicht mehr an unsere Freundschaft glaube.",
+      "tags": [
+        "aspect contrast",
+        "friendship",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 176,
+      "target": "Zawsze kłóciłam się z siostrą, ale teraz, gdy wyjeżdżam, zaczynamy się w końcu dogadywać.",
+      "de": "Ich habe mich immer mit meiner Schwester gestritten, aber jetzt, wo ich wegziehe, verstehen wir uns endlich.",
+      "tags": [
+        "aspect contrast",
+        "family",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 177,
+      "target": "Długo analizowałam jej zachowanie i wczoraj zrozumiałam, że ona po prostu mną manipuluje.",
+      "de": "Ich habe ihr Verhalten lange analysiert und gestern begriffen, dass sie mich einfach nur manipuliert.",
+      "tags": [
+        "aspect contrast",
+        "toxic people",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 178,
+      "target": "Czułam się urażona, ale kiedy ona do mnie zadzwoniła i przeprosiła, od razu poczułam ulgę.",
+      "de": "Ich war echt beleidigt, aber als sie anrief und sich entschuldigte, war ich sofort erleichtert.",
+      "tags": [
+        "aspect contrast",
+        "friendship",
+        "past tense"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 179,
+      "target": "Chciałabym przyjść na twoje urodziny, ale muszę odmówić, ponieważ potrzebuję wieczoru tylko dla siebie.",
+      "de": "Ich würde echt gerne zu deinem Geburtstag kommen, aber ich muss absagen, weil ich einen Abend für mich brauche.",
+      "tags": [
+        "conditional",
+        "declining",
+        "mental health"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 180,
+      "target": "Co dla Ciebie oznacza prawdziwa lojalność w relacji, w której nie ma żadnych tajemnic?",
+      "de": "Was bedeutet für dich wahre Loyalität in einer Beziehung, in der es keine Geheimnisse gibt?",
+      "tags": [
+        "question",
+        "friendship",
+        "locative case"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 181,
+      "target": "Zawsze dzwoniłaś do mnie w niedzielę, a wczoraj nie zadzwoniłaś i trochę się martwię.",
+      "de": "Du hast mich sonst immer sonntags angerufen, aber gestern kam nichts und ich mache mir etwas Sorgen.",
+      "tags": [
+        "aspect contrast",
+        "friendship",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 182,
+      "target": "Moim zdaniem dobra przyjaźń polega na tym, że możemy milczeć i nie czuć się nieswojo.",
+      "de": "Meiner Meinung nach macht eine gute Freundschaft aus, dass man auch mal schweigen kann, ohne dass es komisch ist.",
+      "tags": [
+        "opinion",
+        "friendship",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 183,
+      "target": "Jestem Ci bardzo wdzięczna, że wysłuchałaś mnie wczoraj, bo naprawdę potrzebowałam z kimś porozmawiać.",
+      "de": "Ich bin dir so dankbar, dass du mir gestern zugehört hast, ich musste echt mal mit jemandem reden.",
+      "tags": [
+        "aspect contrast",
+        "gratitude",
+        "past tense"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 184,
+      "target": "Szanowni Państwo, czy mogliby Państwo przesłać mi warunki współpracy przy wydaniu mojej nowej książki?",
+      "de": "Sehr geehrte Damen und Herren, könnten Sie mir bitte die Konditionen für eine Zusammenarbeit bei meiner Buchveröffentlichung zusenden?",
+      "tags": [
+        "formal",
+        "request",
+        "future tense"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 185,
+      "target": "Nie będę dłużej ignorować twoich złośliwych uwag, więc proszę, przestań do mnie pisać.",
+      "de": "Ich werde deine fiesen Bemerkungen nicht länger ignorieren, also hör bitte auf, mir zu schreiben.",
+      "tags": [
+        "negation",
+        "boundary",
+        "imperative"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 186,
+      "target": "Jak myślisz, czy powinnam dać jej drugą szansę, czy raczej powinnam definitywnie zakończyć tę znajomość?",
+      "de": "Was meinst du, soll ich ihr noch eine Chance geben oder den Kontakt lieber endgültig abbrechen?",
+      "tags": [
+        "question",
+        "aspect contrast",
+        "friendship"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 187,
+      "target": "Ona zawsze mówiła mi miłe rzeczy, a wczoraj powiedziała coś, co naprawdę mnie zabolało.",
+      "de": "Sie hat sonst immer nur Nettes gesagt, aber gestern hat sie etwas gesagt, was mich echt verletzt hat.",
+      "tags": [
+        "aspect contrast",
+        "toxic people",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 188,
+      "target": "Będę trzymać za ciebie kciuki, kiedy będziesz stać na scenie, bo wiem, jak ciężko pracowałaś.",
+      "de": "Ich drücke dir ganz fest die Daumen, wenn du auf der Bühne stehst, ich weiß ja, wie hart du gearbeitet hast.",
+      "tags": [
+        "encouragement",
+        "future tense",
+        "friendship"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 189,
+      "target": "Bardzo dziękuję za zaproszenie, ale niestety nie przyjdę, bo muszę odpocząć po całym tygodniu.",
+      "de": "Vielen Dank für die Einladung, aber ich schaffe es leider nicht, ich muss mich von der Woche erholen.",
+      "tags": [
+        "declining",
+        "future tense",
+        "mental health"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 190,
+      "target": "Czy Twoim zdaniem nasza przyjaźń przetrwa tę odległość, kiedy już na stałe przeprowadzę się do Hiszpanii?",
+      "de": "Glaubst du, unsere Freundschaft hält die Entfernung aus, wenn ich erst mal fest nach Spanien gezogen bin?",
+      "tags": [
+        "question",
+        "aspect contrast",
+        "Spain"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 191,
+      "target": "Pomagałam jej sprzątać mieszkanie przez cały dzień i w końcu posprzątałyśmy wszystko przed jej wyjazdem.",
+      "de": "Ich habe ihr den ganzen Tag beim Putzen geholfen und am Ende haben wir vor ihrer Abreise alles fertig bekommen.",
+      "tags": [
+        "aspect contrast",
+        "friendship",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 192,
+      "target": "Czuję, że przy tobie nie muszę niczego udawać i po prostu mogę być sobą.",
+      "de": "Ich habe das Gefühl, dass ich mich bei dir nicht verstellen muss und einfach ich selbst sein kann.",
+      "tags": [
+        "friendship",
+        "feelings",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 193,
+      "target": "Chciałabym zapytać, czy mogliby Państwo zarezerwować dla nas stolik w spokojniejszej części restauracji?",
+      "de": "Ich wollte fragen, ob Sie uns einen Tisch in einem ruhigeren Bereich des Restaurants reservieren könnten?",
+      "tags": [
+        "polite",
+        "request",
+        "locative case"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 194,
+      "target": "Moja mama zawsze mnie wspierała, ale wczoraj po raz pierwszy naprawdę mnie zrozumiała.",
+      "de": "Meine Mama war immer für mich da, aber gestern hat sie mich zum ersten Mal so richtig verstanden.",
+      "tags": [
+        "aspect contrast",
+        "family",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 195,
+      "target": "Nie proś mnie więcej o pożyczkę, bo już kilka razy ci pożyczałam i nigdy nie oddałeś.",
+      "de": "Frag mich nicht mehr nach Geld, ich hab dir schon öfter was geliehen und du hast es nie zurückgegeben.",
+      "tags": [
+        "aspect contrast",
+        "boundary",
+        "imperative"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 196,
+      "target": "Cały tydzień przygotowywałam się do tej rozmowy i wczoraj w końcu ją przeprowadziłam. Poczułam ogromną ulgę.",
+      "de": "Ich habe mich die ganze Woche auf das Gespräch vorbereitet und es gestern endlich hinter mich gebracht. Was für eine Erleichterung.",
+      "tags": [
+        "aspect contrast",
+        "story",
+        "feelings"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 197,
+      "target": "Moglibyście mi powiedzieć, jak długo ona szukała tego miejsca i czy w końcu je znalazła?",
+      "de": "Könntet ihr mir sagen, wie lange sie nach diesem Ort gesucht hat und ob sie ihn schließlich gefunden hat?",
+      "tags": [
+        "aspect system",
+        "question",
+        "past tense",
+        "conditional"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 198,
+      "target": "Tak, bardzo chciałyśmy pójść razem na basen i dzisiaj w końcu tam poszłyśmy.",
+      "de": "Ja, wir wollten unbedingt zusammen ins Schwimmbad gehen und heute sind wir endlich dort hingegangen.",
+      "tags": [
+        "aspect system",
+        "past tense",
+        "first person plural"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 199,
+      "target": "Szanowni Państwo, czy mogliby Państwo powtórzyć to ostatnie zdanie, bo nie zdążyłam go zapisać?",
+      "de": "Sehr geehrte Damen und Herren, könnten Sie bitte den letzten Satz wiederholen, da ich ihn nicht mitschreiben konnte?",
+      "tags": [
+        "aspect system",
+        "request",
+        "formal",
+        "conditional"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 200,
+      "target": "Zawsze porównywałam się do innych, ale dzisiaj wreszcie doceniłam swoją własną, unikalną drogę.",
+      "de": "Ich habe mich immer mit anderen verglichen, aber heute habe ich endlich meinen eigenen, einzigartigen Weg schätzen gelernt.",
+      "tags": [
+        "aspekt niedokonany",
+        "aspekt dokonany",
+        "czas przeszły",
+        "narzędnik",
+        "spójnik"
+      ],
+      "kind": "statement"
+    }
+  ]
+}

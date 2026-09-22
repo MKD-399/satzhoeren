@@ -1,0 +1,2242 @@
+{
+  "id": "pl-b1-2",
+  "lang": "pl",
+  "langLabel": "Polnisch",
+  "level": "B1",
+  "part": 2,
+  "title": "Polnisch B1 · Teil 2",
+  "sentences": [
+    {
+      "n": 1,
+      "target": "Chodzę codziennie do tej małej kawiarni, która ma najlepsze lody pistacjowe w mieście.",
+      "de": "Ich gehe jeden Tag in dieses kleine Café, das das beste Pistazieneis der Stadt hat.",
+      "tags": [
+        "chodzić",
+        "który",
+        "nominative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 2,
+      "target": "Czy pojedziesz ze mną nad jezioro, kiedy tylko wyjdzie trochę słońca?",
+      "de": "Fährst du mit mir zum See, sobald die Sonne ein bisschen rauskommt?",
+      "tags": [
+        "pojechać",
+        "wyjść",
+        "future"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 3,
+      "target": "To jest ta piosenka, o której ci mówiłam, kiedy szłyśmy razem na trening.",
+      "de": "Das ist das Lied, von dem ich dir erzählt habe, als wir zusammen zum Training gelaufen sind.",
+      "tags": [
+        "iść",
+        "który",
+        "locative",
+        "past"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 4,
+      "target": "Czy mogłabyś przynieść mi tę książkę, którą zostawiłam wczoraj na twoim biurku?",
+      "de": "Könntest du mir das Buch mitbringen, das ich gestern auf deinem Schreibtisch liegen gelassen habe?",
+      "tags": [
+        "przynieść",
+        "który",
+        "accusative",
+        "conditional"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 5,
+      "target": "Szanowny Panie, piszę z zapytaniem o termin, w którym mogłabym odebrać moją legitymację.",
+      "de": "Sehr geehrter Herr, ich schreibe Ihnen bezüglich eines Termins, an dem ich meinen Ausweis abholen könnte.",
+      "tags": [
+        "odebrać",
+        "który",
+        "locative",
+        "formal"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 6,
+      "target": "Wczoraj wieczorem wyszłam na spacer bez telefonu. Przeszłam całą drogę do parku i poczułam się naprawdę wolna.",
+      "de": "Gestern Abend bin ich ohne Handy spazieren gegangen. Ich bin den ganzen Weg zum Park gelaufen und habe mich richtig frei gefühlt.",
+      "tags": [
+        "wyjść",
+        "przejść",
+        "past"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 7,
+      "target": "Bardzo lubię pić kawę na tarasie, bo wtedy mogę spokojnie zaplanować cały mój tydzień.",
+      "de": "Ich trinke total gerne Kaffee auf der Terrasse, weil ich dann ganz entspannt meine ganze Woche planen kann.",
+      "tags": [
+        "bo",
+        "present",
+        "instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 8,
+      "target": "Przepraszam, ale nie wejdę dzisiaj do wody, bo jest dla mnie zdecydowanie za zimna.",
+      "de": "Sorry, aber ich gehe heute nicht ins Wasser, dafür ist es mir definitiv zu kalt.",
+      "tags": [
+        "wejść",
+        "negation",
+        "future"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 9,
+      "target": "O której godzinie wracasz dzisiaj do domu, żebyśmy mogły pograć w te nowe karty?",
+      "de": "Wann bist du heute wieder zu Hause, damit wir die neuen Karten spielen können?",
+      "tags": [
+        "wracać",
+        "żeby",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 10,
+      "target": "Właśnie wchodzę do pociągu i mam nadzieję, że dojadę na miejsce przed zachodem słońca.",
+      "de": "Ich steige gerade in den Zug und hoffe, dass ich noch vor Sonnenuntergang ankomme.",
+      "tags": [
+        "wchodzić",
+        "dojechać",
+        "future"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 11,
+      "target": "Tamta dziewczyna, z której kanału na YouTube dużo się uczę, mówi bardzo ciekawe rzeczy.",
+      "de": "Das Mädchen, von dessen YouTube-Kanal ich viel lerne, erzählt echt interessante Sachen.",
+      "tags": [
+        "który",
+        "genitive",
+        "present"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 12,
+      "target": "Zobacz, jak pięknie pada deszcz, więc zaparzmy sobie herbatę i włączmy jakiś fajny film.",
+      "de": "Schau mal, wie schön es regnet, lass uns einen Tee machen und irgendeinen coolen Film anmachen.",
+      "tags": [
+        "imperative",
+        "present"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 13,
+      "target": "Często jeżdżę rowerem do lasu, żeby po prostu posłuchać ptaków i odpocząć od ekranu.",
+      "de": "Ich fahre oft mit dem Rad in den Wald, um einfach den Vögeln zuzuhören und mal weg vom Bildschirm zu kommen.",
+      "tags": [
+        "jeździć",
+        "żeby",
+        "instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 14,
+      "target": "Czy możesz zabrać ze sobą te gazety, które leżą w przedpokoju na małej szafce?",
+      "de": "Kannst du die Zeitungen mitnehmen, die im Flur auf dem kleinen Schrank liegen?",
+      "tags": [
+        "zabrać",
+        "który",
+        "nominative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 15,
+      "target": "Szczerze mówiąc, wolę takie małe momenty radości od wielkich i głośnych wydarzeń.",
+      "de": "Ehrlich gesagt sind mir solche kleinen Glücksmomente lieber als große, laute Events.",
+      "tags": [
+        "present",
+        "opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 16,
+      "target": "Ten kolega, któremu pożyczyłam notatki z hiszpańskiego, jeszcze mi ich nie oddał.",
+      "de": "Der Kumpel, dem ich die Spanisch-Notizen geliehen habe, hat sie mir noch nicht zurückgegeben.",
+      "tags": [
+        "który",
+        "dative",
+        "past"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 17,
+      "target": "Kiedy wychodziłam z siłowni, spotkałam dawną koleżankę, której nie widziałam od kilku lat.",
+      "de": "Als ich aus dem Fitnessstudio kam, habe ich eine alte Freundin getroffen, die ich seit Jahren nicht gesehen hatte.",
+      "tags": [
+        "wychodzić",
+        "który",
+        "genitive",
+        "past"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 18,
+      "target": "Może przejdziemy się kawałek, zamiast od razu wsiadać do autobusu, skoro jest tak ładnie?",
+      "de": "Wollen wir vielleicht ein Stück laufen, statt direkt den Bus zu nehmen, wo es gerade so schön ist?",
+      "tags": [
+        "przejść się",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 19,
+      "target": "Tak, to prawda, ta kawiarnia, do której mnie zaprosiłeś, ma naprawdę niesamowity klimat.",
+      "de": "Ja, das stimmt, das Café, in das du mich eingeladen hast, hat echt eine unglaubliche Atmosphäre.",
+      "tags": [
+        "który",
+        "genitive",
+        "answer"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 20,
+      "target": "Chciałabym częściej odwiedzać takie miejsca, w których czuję się tak swobodnie i bezpiecznie.",
+      "de": "Ich würde gerne öfter solche Orte besuchen, an denen ich mich so ungezwungen und sicher fühle.",
+      "tags": [
+        "odwiedzać",
+        "który",
+        "locative",
+        "conditional"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 21,
+      "target": "Niosę właśnie ciężką paczkę z nowym sprzętem, więc nie mogę teraz zbyt długo rozmawiać.",
+      "de": "Ich trage gerade ein schweres Paket mit neuem Equipment, deswegen kann ich gerade nicht lange reden.",
+      "tags": [
+        "nieść",
+        "present"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 22,
+      "target": "Moja trenerka, z którą ćwiczę na siłowni, zawsze potrafi mnie dobrze zmotywować do działania.",
+      "de": "Meine Trainerin, mit der ich im Gym trainiere, schafft es immer, mich richtig zu motivieren.",
+      "tags": [
+        "który",
+        "instrumental",
+        "present"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 23,
+      "target": "Nareszcie dojechaliśmy do Hiszpanii i nie mogę się doczekać, aż pójdziemy rano na plażę.",
+      "de": "Endlich sind wir in Spanien angekommen und ich kann es kaum erwarten, dass wir morgen an den Strand gehen.",
+      "tags": [
+        "dojechać",
+        "past",
+        "future"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 24,
+      "target": "Czy wiesz, o której godzinie przylatuje samolot, którym Twoi rodzice wracają z wakacji?",
+      "de": "Weißt du, um wie viel Uhr das Flugzeug landet, mit dem deine Eltern aus dem Urlaub zurückkommen?",
+      "tags": [
+        "przylatywać",
+        "który",
+        "instrumental",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 25,
+      "target": "Uwielbiam te wieczory, kiedy czytam moją książkę, a za oknem delikatnie stuka deszcz.",
+      "de": "Ich liebe diese Abende, wenn ich mein Buch lese und draußen der Regen leise ans Fenster klopft.",
+      "tags": [
+        "present",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 26,
+      "target": "Tak bardzo się cieszę, że przyszłaś na mój występ, to dużo dla mnie znaczy.",
+      "de": "Ich freue mich so sehr, dass du zu meinem Auftritt gekommen bist, das bedeutet mir echt viel.",
+      "tags": [
+        "prefixed verb of motion",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 27,
+      "target": "Kiedy biegam rano po lesie, czuję, że mam wreszcie czas tylko dla siebie.",
+      "de": "Wenn ich morgens durch den Wald laufe, habe ich das Gefühl, endlich mal Zeit nur für mich zu haben.",
+      "tags": [
+        "indeterminate motion verb",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 28,
+      "target": "Jestem dumna z tej decyzji, którą podjęłam rok temu, bo zmieniła moje życie.",
+      "de": "Ich bin stolz auf die Entscheidung, die ich vor einem Jahr getroffen habe, weil sie mein Leben verändert hat.",
+      "tags": [
+        "relative clause",
+        "past tense",
+        "feminine form"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 29,
+      "target": "Czy myślisz, że dojedziemy do Malagi przed wieczorem, jeśli wyjedziemy teraz z Sewilli?",
+      "de": "Meinst du, wir kommen vor dem Abend in Málaga an, wenn wir jetzt in Sevilla losfahren?",
+      "tags": [
+        "prefixed verb of motion",
+        "future tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 30,
+      "target": "Nie musisz mi pomagać, lubię nosić te ciężkie hantle, bo czuję się wtedy silna.",
+      "de": "Du musst mir nicht helfen, ich trage diese schweren Hanteln gerne, weil ich mich dann stark fühle.",
+      "tags": [
+        "indeterminate motion verb",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 31,
+      "target": "Dziękuję za zaproszenie, ale nie przyjdę dziś, bo potrzebuję wieczoru w samotności.",
+      "de": "Danke für die Einladung, aber ich komme heute nicht, weil ich einen Abend für mich brauche.",
+      "tags": [
+        "prefixed verb of motion",
+        "future tense",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 32,
+      "target": "Spójrz na to zdjęcie. To był dzień, w którym zrozumiałam, że wolność to stan umysłu.",
+      "de": "Schau dir das Foto an. Das war der Tag, an dem ich verstanden habe, dass Freiheit eine Einstellung ist.",
+      "tags": [
+        "relative clause",
+        "past tense",
+        "imperative"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 33,
+      "target": "Czy wy też chodzicie na tę samą siłownię, którą otworzyli niedaleko waszego domu?",
+      "de": "Geht ihr auch in dasselbe Fitnessstudio, das sie in der Nähe von eurem Haus eröffnet haben?",
+      "tags": [
+        "indeterminate motion verb",
+        "relative clause"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 34,
+      "target": "Tak, lecę do Barcelony już w przyszłym tygodniu i jestem tym mega podekscytowana.",
+      "de": "Ja, ich fliege schon nächste Woche nach Barcelona und bin total aufgeregt deswegen.",
+      "tags": [
+        "determinate motion verb",
+        "present tense"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 35,
+      "target": "To jest ta przyjaciółka, której mogę powiedzieć o moich wszystkich największych obawach.",
+      "de": "Das ist die Freundin, der ich all meine größten Ängste anvertrauen kann.",
+      "tags": [
+        "relative clause",
+        "dative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 36,
+      "target": "Czy mógłbyś przynieść mi mój notes, który leży na stole w kuchni?",
+      "de": "Könntest du mir mein Notizbuch bringen, das auf dem Küchentisch liegt?",
+      "tags": [
+        "prefixed verb of motion",
+        "relative clause",
+        "conditional"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 37,
+      "target": "Czy Ty też doceniasz to, że od lat jeździmy razem w góry na wakacje?",
+      "de": "Schätzt du es auch so sehr, dass wir seit Jahren zusammen in den Bergen Urlaub machen?",
+      "tags": [
+        "indeterminate motion verb",
+        "gratitude"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 38,
+      "target": "Dlaczego uważasz, że warto mówić głośno o swoich błędach na scenie?",
+      "de": "Warum findest du, dass es sich lohnt, offen über seine Fehler auf der Bühne zu sprechen?",
+      "tags": [
+        "opinion",
+        "prepositional case"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 39,
+      "target": "Wyszłam dziś wcześniej z domu, bo potrzebowałam chwili ciszy przed nagrywaniem filmu.",
+      "de": "Ich bin heute früher von zu Hause losgegangen, weil ich einen Moment Ruhe vor dem Videodreh brauchte.",
+      "tags": [
+        "prefixed verb of motion",
+        "past tense",
+        "reasoning"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 40,
+      "target": "O której zwykle wracasz z zajęć hiszpańskiego, jeśli idziesz potem jeszcze na zakupy?",
+      "de": "Wann kommst du normalerweise vom Spanischkurs zurück, wenn du danach noch einkaufen gehst?",
+      "tags": [
+        "prefixed verb of motion",
+        "determinate motion verb"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 41,
+      "target": "Nie będę dzisiaj sprawdzać maili, bo obiecałam sobie dzień całkowitego odpoczynku od pracy.",
+      "de": "Ich werde heute keine Mails checken, weil ich mir einen Tag komplette Auszeit versprochen habe.",
+      "tags": [
+        "future tense",
+        "negation",
+        "boundary setting"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 42,
+      "target": "Czy to jest ten kurs, o którym wspominałaś wczoraj na swoim kanale?",
+      "de": "Ist das der Kurs, den du gestern auf deinem Kanal erwähnt hast?",
+      "tags": [
+        "relative clause",
+        "locative",
+        "past tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 43,
+      "target": "Chciałabym cię odwiedzić w Hiszpanii, kiedy tylko znajdę trochę czasu między moimi projektami.",
+      "de": "Ich würde dich gerne in Spanien besuchen, sobald ich zwischen meinen Projekten etwas Zeit finde.",
+      "tags": [
+        "prefixed verb of motion",
+        "conditional",
+        "future tense"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 44,
+      "target": "Przeszłam długą drogę, żeby polubić siebie taką, jaka jestem naprawdę, i jestem wdzięczna.",
+      "de": "Ich habe einen langen Weg hinter mir, um mich so zu mögen, wie ich wirklich bin, und ich bin dankbar.",
+      "tags": [
+        "prefixed verb of motion",
+        "past tense",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 45,
+      "target": "Czy my naprawdę możemy pojechać tam, gdzie chcemy, i robić to, co kochamy?",
+      "de": "Können wir wirklich dorthin fahren, wo wir wollen, und das tun, was wir lieben?",
+      "tags": [
+        "prefixed verb of motion",
+        "freedom"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 46,
+      "target": "To był moment, którego nigdy nie zapomnę, bo poczułam wtedy ogromną wdzięczność i spokój.",
+      "de": "Das war ein Moment, den ich nie vergessen werde, weil ich da enorme Dankbarkeit und Ruhe gespürt habe.",
+      "tags": [
+        "relative clause",
+        "genitive",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 47,
+      "target": "Czy mogłabyś zabrać tę kawę, którą zrobiłam dla ciebie, zanim zupełnie wystygnie?",
+      "de": "Könntest du den Kaffee mitnehmen, den ich für dich gemacht habe, bevor er ganz kalt wird?",
+      "tags": [
+        "prefixed verb of motion",
+        "relative clause",
+        "conditional"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 48,
+      "target": "Oni zawsze mnie wspierali, w sumie to dzięki nim jestem dzisiaj taką wolną osobą.",
+      "de": "Sie haben mich immer unterstützt, eigentlich bin ich ihretwegen heute so ein freier Mensch.",
+      "tags": [
+        "past tense",
+        "instrumental case",
+        "gratitude"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 49,
+      "target": "Zanim weszłam na scenę, wzięłam głęboki oddech i pomyślałam, że dam z siebie wszystko.",
+      "de": "Bevor ich auf die Bühne gegangen bin, habe ich tief durchgeatmet und gedacht, dass ich mein Bestes gebe.",
+      "tags": [
+        "prefixed verb of motion",
+        "past tense",
+        "feminine form"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 50,
+      "target": "Wczoraj po sesji terapii wyszłam na długi spacer, żeby spokojnie poukładać myśli.",
+      "de": "Gestern nach der Therapiestunde bin ich lange spazieren gegangen, um in Ruhe meine Gedanken zu ordnen.",
+      "tags": [
+        "motion-verb-prefix",
+        "past-tense",
+        "feminine"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 51,
+      "target": "Czy wiesz, o której godzinie przychodzi ta dziewczyna, z którą mam nagrać wywiad?",
+      "de": "Weißt du, um wie viel Uhr das Mädchen kommt, mit der ich das Interview aufnehmen soll?",
+      "tags": [
+        "motion-verb-prefix",
+        "relative-clause",
+        "instrumental"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 52,
+      "target": "Mam takie dni, w których po prostu muszę pobyć sama ze swoimi emocjami.",
+      "de": "Ich habe solche Tage, an denen ich einfach mit meinen Emotionen allein sein muss.",
+      "tags": [
+        "relative-clause",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 53,
+      "target": "Czy mogłabyś przynieść mi tę wodę, która stoi na blacie w kuchni?",
+      "de": "Könntest du mir kurz das Wasser bringen, das in der Küche auf der Arbeitsplatte steht?",
+      "tags": [
+        "motion-verb-prefix",
+        "relative-clause",
+        "nominative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 54,
+      "target": "Tak, w sumie czuję się dzisiaj lepiej, bo rano pobiegałam chwilę w parku.",
+      "de": "Ja, eigentlich fühle ich mich heute besser, weil ich morgens kurz im Park joggen war.",
+      "tags": [
+        "motion-verb-aspect",
+        "past-tense",
+        "feminine"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 55,
+      "target": "Nie chcę tam iść, bo czuję, że ta rozmowa zabierze mi całą energię.",
+      "de": "Ich will da nicht hingehen, weil ich das Gefühl habe, dass mir dieses Gespräch die ganze Energie raubt.",
+      "tags": [
+        "motion-verb-determinate",
+        "future-tense"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 56,
+      "target": "Moim zdaniem warto płakać, ponieważ tłumienie smutku wcale nie pomaga nam iść naprzód.",
+      "de": "Meiner Meinung nach ist es wichtig zu weinen, weil es uns gar nicht hilft voranzukommen, wenn wir Trauer unterdrücken.",
+      "tags": [
+        "opinion",
+        "motion-verb-determinate"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 57,
+      "target": "Kiedy szłam na siłownię, poczułam nagle lęk. Usiadłam na ławce, oddychałam głęboko i on po prostu odpłynął.",
+      "de": "Als ich zum Fitnessstudio ging, spürte ich plötzlich Angst. Ich setzte mich auf eine Bank, atmete tief durch und sie verflog einfach.",
+      "tags": [
+        "motion-verb-determinate",
+        "story",
+        "past-tense"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 58,
+      "target": "Jesteś jedyną osobą, której mogę zaufać, kiedy mam naprawdę beznadziejny humor.",
+      "de": "Du bist die einzige Person, der ich vertrauen kann, wenn ich echt mies drauf bin.",
+      "tags": [
+        "relative-clause",
+        "dative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 59,
+      "target": "Zanim wyjadę do Hiszpanii, chcę odwiedzić wszystkie miejsca, które są dla mnie ważne.",
+      "de": "Bevor ich nach Spanien ziehe, möchte ich alle Orte besuchen, die mir wichtig sind.",
+      "tags": [
+        "motion-verb-prefix",
+        "relative-clause",
+        "plural"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 60,
+      "target": "Czuję, że wchodzę w nowy etap życia i to mnie trochę przeraża.",
+      "de": "Ich spüre, dass ich in eine neue Lebensphase eintrete, und das macht mir ein bisschen Angst.",
+      "tags": [
+        "motion-verb-prefix",
+        "present-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 61,
+      "target": "Jakie są Twoje sposoby na radzenie sobie ze stresem, który pojawia się przed wystąpieniem?",
+      "de": "Was sind deine Methoden, um mit dem Stress umzugehen, der vor einem Auftritt auftaucht?",
+      "tags": [
+        "relative-clause",
+        "nominative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 62,
+      "target": "Nie martw się, każdy ma prawo do gorszego dnia i ty też możesz odpocząć.",
+      "de": "Mach dir keine Sorgen, jeder hat ein Recht auf einen schlechten Tag und du darfst dich auch ausruhen.",
+      "tags": [
+        "imperative",
+        "negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 63,
+      "target": "Jestem wdzięczna za tę rozmowę, która pomogła mi zrozumieć, co tak naprawdę czuję.",
+      "de": "Ich bin dankbar für dieses Gespräch, das mir geholfen hat zu verstehen, was ich wirklich fühle.",
+      "tags": [
+        "relative-clause",
+        "feminine",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 64,
+      "target": "Kiedy noszę te ciężary, czuję, jakbym wyrzucała z siebie całe napięcie z całego dnia.",
+      "de": "Wenn ich diese Gewichte trage, fühle ich mich, als würde ich die ganze Spannung des Tages rauslassen.",
+      "tags": [
+        "motion-verb-indeterminate",
+        "present-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 65,
+      "target": "Przepraszam, ale nie mogę teraz rozmawiać, bo właśnie wychodzę na ważną rozmowę.",
+      "de": "Tut mir leid, ich kann gerade nicht reden, weil ich gerade zu einem wichtigen Gespräch losgehe.",
+      "tags": [
+        "motion-verb-prefix",
+        "present-tense"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 66,
+      "target": "Dzisiaj rano wróciły te trudne wspomnienia, ale wiem, że to tylko chwilowy kryzys.",
+      "de": "Heute Morgen kamen diese schwierigen Erinnerungen zurück, aber ich weiß, dass das nur eine vorübergehende Krise ist.",
+      "tags": [
+        "motion-verb-prefix",
+        "past-tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 67,
+      "target": "Szczerze mówiąc, rzadko jeżdżę autobusem, bo wolę przejść się i przy okazji posłuchać podcastu.",
+      "de": "Ehrlich gesagt fahre ich selten mit dem Bus, weil ich lieber zu Fuß gehe und dabei einen Podcast höre.",
+      "tags": [
+        "motion-verb-indeterminate",
+        "motion-verb-prefix"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 68,
+      "target": "Czy to jest ta książka o psychologii, o której wspominałaś wczoraj na kawie?",
+      "de": "Ist das dieses Psychologiebuch, von dem du gestern beim Kaffeetrinken erzählt hast?",
+      "tags": [
+        "relative-clause",
+        "locative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 69,
+      "target": "Uważam, że granice są zdrowe, bo dzięki nim czujemy się bezpieczniej w relacjach.",
+      "de": "Ich finde, dass Grenzen gesund sind, weil wir uns dadurch in Beziehungen sicherer fühlen.",
+      "tags": [
+        "opinion",
+        "mental-health"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 70,
+      "target": "Muszę zabrać ze sobą wszystkie notatniki, do których pisałam moje teksty przez lata.",
+      "de": "Ich muss alle Notizbücher mitnehmen, in die ich über Jahre meine Texte geschrieben habe.",
+      "tags": [
+        "motion-verb-prefix",
+        "relative-clause",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 71,
+      "target": "Widzę duży postęp, bo coraz rzadziej uciekam od problemów, które mnie bolą.",
+      "de": "Ich sehe große Fortschritte, weil ich immer seltener vor den Problemen weglaufe, die mir wehtun.",
+      "tags": [
+        "relative-clause",
+        "nominative",
+        "plural"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 72,
+      "target": "Czy dojdziemy do tamtego punktu widokowego, zanim zrobi się zupełnie ciemno?",
+      "de": "Schaffen wir es bis zu diesem Aussichtspunkt, bevor es ganz dunkel wird?",
+      "tags": [
+        "motion-verb-prefix",
+        "future-tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 73,
+      "target": "Dziś wstałam z uśmiechem. Zapisałam w dzienniku trzy rzeczy, za które jestem dzisiaj szczerze wdzięczna.",
+      "de": "Heute bin ich mit einem Lächeln aufgestanden. Ich habe drei Dinge in mein Tagebuch geschrieben, für die ich heute ehrlich dankbar bin.",
+      "tags": [
+        "story",
+        "past-tense",
+        "feminine",
+        "relative-clause"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 74,
+      "target": "Szanowni Państwo, piszę z pytaniem, czy mogliby Państwo przesłać mi wymiary sceny, na której wystąpię?",
+      "de": "Sehr geehrte Damen und Herren, ich schreibe Ihnen, um zu fragen, ob Sie mir die Maße der Bühne schicken könnten, auf der ich auftreten werde?",
+      "tags": [
+        "który",
+        "miejscownik",
+        "tryb przypuszczający",
+        "formal"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 75,
+      "target": "Zawsze, gdy podchodzę do mikrofonu, czuję to przyjemne mrowienie w dłoniach.",
+      "de": "Jedes Mal, wenn ich ans Mikrofon trete, spüre ich dieses angenehme Kribbeln in den Händen.",
+      "tags": [
+        "ruch",
+        "prefiks",
+        "czas teraźniejszy"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 76,
+      "target": "Wczoraj weszłam na scenę i nagle zapomniałam tekstu, ale po prostu szczerze się uśmiechnęłam. Publiczność od razu mnie wsparła.",
+      "de": "Gestern bin ich auf die Bühne gegangen und hab plötzlich meinen Text vergessen, aber ich hab einfach ehrlich gelächelt. Das Publikum hat mich sofort unterstützt.",
+      "tags": [
+        "ruch",
+        "prefiks",
+        "czas przeszły",
+        "aspekt"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 77,
+      "target": "Czy mogłabyś posłuchać mojego wystąpienia i powiedzieć mi, które fragmenty brzmią najbardziej naturalnie?",
+      "de": "Könntest du dir meinen Vortrag mal anhören und mir sagen, welche Stellen am natürlichsten klingen?",
+      "tags": [
+        "tryb przypuszczający",
+        "który",
+        "mianownik"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 78,
+      "target": "Często biegam po parku i ćwiczę w myślach moją mowę, którą wygłoszę w Madrycie.",
+      "de": "Ich jogge oft durch den Park und übe im Kopf meine Rede, die ich in Madrid halten werde.",
+      "tags": [
+        "ruch",
+        "nieaspektowy",
+        "który",
+        "biernik",
+        "czas przyszły"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 79,
+      "target": "Nie przyjmę tej krytyki, bo osoba, która ją napisała, w ogóle mnie nie zna.",
+      "de": "Ich nehme diese Kritik nicht an, weil die Person, die sie geschrieben hat, mich überhaupt nicht kennt.",
+      "tags": [
+        "negacja",
+        "który",
+        "mianownik",
+        "czas przyszły"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 80,
+      "target": "Tak, właśnie odchodzę od komputera i idę na próbę, więc odezwę się wieczorem.",
+      "de": "Ja, ich mache gerade den Rechner aus und gehe zur Probe, ich melde mich dann heute Abend.",
+      "tags": [
+        "ruch",
+        "prefiks",
+        "czas teraźniejszy"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 81,
+      "target": "Do którego z organizatorów powinnam podejść, żeby sprawdzić, czy mój mikrofon już działa?",
+      "de": "Zu welchem der Organisatoren soll ich gehen, um zu checken, ob mein Mikro schon läuft?",
+      "tags": [
+        "który",
+        "dopełniacz",
+        "ruch",
+        "prefiks"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 82,
+      "target": "Jutro o tej porze będę już lecieć do Walencji na mój pierwszy zagraniczny festiwal.",
+      "de": "Morgen um diese Zeit werde ich schon auf dem Weg nach Valencia zu meinem ersten Auslandsfestival sein.",
+      "tags": [
+        "ruch",
+        "aspektowy",
+        "czas przyszły"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 83,
+      "target": "Jestem bardzo wdzięczna za to pytanie, bo pozwoliło mi ono spojrzeć na temat z innej strony.",
+      "de": "Ich bin echt dankbar für die Frage, weil sie mir ermöglicht hat, das Thema mal von einer anderen Seite zu sehen.",
+      "tags": [
+        "wdzięczność",
+        "czas przeszły",
+        "aspekt"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 84,
+      "target": "Proszę, przynieś mi tę czarną teczkę, w której trzymam wszystkie moje szkice do nowej książki.",
+      "de": "Bitte bring mir die schwarze Mappe, in der ich all meine Skizzen für das neue Buch aufbewahre.",
+      "tags": [
+        "ruch",
+        "prefiks",
+        "tryb rozkazujący",
+        "który",
+        "miejscownik"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 85,
+      "target": "Czy myślisz, że przeprowadzka do Hiszpanii pomoże mi nabrać dystansu do opinii innych ludzi?",
+      "de": "Glaubst du, dass der Umzug nach Spanien mir helfen wird, Abstand zu den Meinungen anderer Leute zu gewinnen?",
+      "tags": [
+        "przyszły",
+        "przeprowadzka",
+        "mental health"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 86,
+      "target": "Właśnie wychodzę z księgarni i niosę kilka nowości, o których na pewno opowiem w filmie.",
+      "de": "Ich komme gerade aus der Buchhandlung und schleppe ein paar Neuheiten ab, über die ich sicher im Video erzählen werde.",
+      "tags": [
+        "ruch",
+        "prefiks",
+        "który",
+        "miejscownik"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 87,
+      "target": "Szczerze mówiąc, wolę mówić do mniejszej grupy, z którą mogę nawiązać prawdziwy kontakt wzrokowy.",
+      "de": "Ehrlich gesagt spreche ich lieber vor einer kleineren Gruppe, mit der ich echten Blickkontakt aufbauen kann.",
+      "tags": [
+        "który",
+        "narzędnik",
+        "opinia"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 88,
+      "target": "Jak często chodzisz na spotkania autorskie, które odbywają się w Twojej okolicy?",
+      "de": "Wie oft gehst du zu Autorenlesungen, die bei dir in der Gegend stattfinden?",
+      "tags": [
+        "ruch",
+        "nieaspektowy",
+        "który",
+        "mianownik"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 89,
+      "target": "Nie pojadę na tę konferencję, jeśli poczuję, że mój organizm potrzebuje teraz więcej spokoju.",
+      "de": "Ich werde nicht zu dieser Konferenz fahren, wenn ich merke, dass mein Körper gerade mehr Ruhe braucht.",
+      "tags": [
+        "ruch",
+        "prefiks",
+        "czas przyszły",
+        "negacja"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 90,
+      "target": "Kiedy zeszłam ze sceny, poczułam taką ulgę, że aż usiadłam na podłodze w garderobie. To było niesamowite doświadczenie.",
+      "de": "Als ich von der Bühne runterkam, war ich so erleichtert, dass ich mich erst mal auf den Boden in der Garderobe gesetzt habe. Das war eine Wahnsinnserfahrung.",
+      "tags": [
+        "ruch",
+        "prefiks",
+        "czas przeszły",
+        "aspekt"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 91,
+      "target": "Przepraszam, czy mógłby Pan pokazać mi, jak włączyć ten bezprzewodowy mikrofon?",
+      "de": "Entschuldigung, könnten Sie mir zeigen, wie man dieses Funkmikrofon einschaltet?",
+      "tags": [
+        "Pan",
+        "tryb przypuszczający",
+        "aspekt"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 92,
+      "target": "Zabierz proszę te wszystkie kable, których już nie używamy, żeby nikt się o nie nie potknął.",
+      "de": "Nimm bitte all die Kabel mit, die wir nicht mehr brauchen, damit niemand darüber stolpert.",
+      "tags": [
+        "ruch",
+        "prefiks",
+        "tryb rozkazujący",
+        "który",
+        "dopełniacz"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 93,
+      "target": "Uważam, że język hiszpański jest kluczem do serc ludzi, których spotkam po przeprowadzce.",
+      "de": "Ich finde, dass Spanisch der Schlüssel zu den Herzen der Menschen ist, die ich nach dem Umzug treffen werde.",
+      "tags": [
+        "który",
+        "dopełniacz",
+        "czas przyszły",
+        "opinia"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 94,
+      "target": "W sumie to rzadko wyjeżdżam bez kamery, bo zawsze znajduję coś ciekawego, co warto nagrać.",
+      "de": "Eigentlich verreise ich selten ohne Kamera, weil ich immer irgendwas Spannendes finde, das es wert ist, gefilmt zu werden.",
+      "tags": [
+        "ruch",
+        "prefiks",
+        "aspekt",
+        "YouTube"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 95,
+      "target": "Przyjdziesz jutro do mnie, żebyśmy mogły razem przećwiczyć ten trudny fragment mojej prezentacji?",
+      "de": "Kommst du morgen zu mir, damit wir zusammen diese schwierige Stelle in meiner Präsentation üben können?",
+      "tags": [
+        "ruch",
+        "prefiks",
+        "aspekt",
+        "czas przyszły"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 96,
+      "target": "Staram się doceniać każdą osobę, która poświęca swój czas, żeby posłuchać moich opowieści.",
+      "de": "Ich versuche, jede Person zu schätzen, die sich die Zeit nimmt, um sich meine Geschichten anzuhören.",
+      "tags": [
+        "który",
+        "mianownik",
+        "wdzięczność"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 97,
+      "target": "Dojechałam właśnie na miejsce i szukam wejścia dla artystów, o którym wspominał organizator.",
+      "de": "Ich bin gerade angekommen und suche den Künstlereingang, den der Veranstalter erwähnt hat.",
+      "tags": [
+        "ruch",
+        "prefiks",
+        "który",
+        "miejscownik"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 98,
+      "target": "Czy wiesz już, do której kawiarni pójdziemy na naszą pierwszą kawę w Madrycie?",
+      "de": "Weißt du schon, in welches Café wir für unseren ersten Kaffee in Madrid gehen werden?",
+      "tags": [
+        "który",
+        "dopełniacz",
+        "ruch",
+        "prefiks",
+        "czas przyszły"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 99,
+      "target": "Nareszcie skończyłam pisać ten rozdział, nad którym siedziałam przez dwa bite tygodnie.",
+      "de": "Ich bin endlich mit dem Kapitel fertig geworden, an dem ich zwei ganze Wochen saß.",
+      "tags": [
+        "aspect",
+        "past tense",
+        "relative clause",
+        "prepositional case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 100,
+      "target": "Moja redaktorka przyjdzie do kawiarni, w której zwykle omawiamy losy głównych bohaterów.",
+      "de": "Meine Lektorin kommt in das Café, in dem wir normalerweise die Charaktere besprechen.",
+      "tags": [
+        "prefixed motion verb",
+        "aspect",
+        "relative clause",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 101,
+      "target": "Muszę dzisiaj zanieść do wydawnictwa tę podpisaną umowę, o którą prosili.",
+      "de": "Ich muss heute den unterschriebenen Vertrag zum Verlag bringen, nach dem sie gefragt haben.",
+      "tags": [
+        "prefixed motion verb",
+        "relative clause",
+        "accusative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 102,
+      "target": "Który z bohaterów wydaje ci się najbardziej interesujący w pierwszej części książki?",
+      "de": "Welche der Figuren findest du im ersten Teil des Buches am interessantesten?",
+      "tags": [
+        "relative pronoun",
+        "adjective comparison",
+        "genitive"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 103,
+      "target": "Często chodzę do biblioteki, żeby szukać inspiracji do opisów miejsc w mojej powieści.",
+      "de": "Ich gehe oft in die Bibliothek, um Inspiration für die Beschreibungen in meinem Roman zu finden.",
+      "tags": [
+        "indeterminate motion verb",
+        "purpose clause",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 104,
+      "target": "Nie skończę dzisiaj tej sceny, bo mam całkowitą blokadę twórczą i brak pomysłów.",
+      "de": "Ich werde diese Szene heute nicht fertigkriegen, ich habe gerade eine totale Schreibblockade.",
+      "tags": [
+        "negation",
+        "aspect",
+        "future tense",
+        "genitive"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 105,
+      "target": "Zabieram ze sobą laptopa do Hiszpanii, żeby móc tam spokojnie dopisać ostatnie rozdziały.",
+      "de": "Ich nehme meinen Laptop mit nach Spanien, um dort in Ruhe die letzten Kapitel fertig zu schreiben.",
+      "tags": [
+        "prefixed motion verb",
+        "purpose clause",
+        "aspect"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 106,
+      "target": "Czy widziałaś już projekt okładki, który przysłał nam wczoraj wieczorem ten grafik?",
+      "de": "Hast du schon den Entwurf für das Cover gesehen, den der Grafiker uns gestern geschickt hat?",
+      "tags": [
+        "relative clause",
+        "aspect",
+        "past tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 107,
+      "target": "Chodziłam po pokoju przez godzinę. Potem usiadłam i napisałam najlepszy dialog w książce.",
+      "de": "Ich bin eine Stunde lang im Zimmer auf und ab gelaufen. Dann habe ich mich hingesetzt und den besten Dialog geschrieben.",
+      "tags": [
+        "indeterminate motion verb",
+        "past tense",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 108,
+      "target": "Czy mogłabyś przeczytać ten rozdział i powiedzieć mi, czy fabuła jest logiczna?",
+      "de": "Könntest du dir dieses Kapitel mal durchlesen und mir sagen, ob die Handlung logisch ist?",
+      "tags": [
+        "conditional mood",
+        "aspect",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 109,
+      "target": "Czasami czuję, że pisanie to jedyny sposób, w który potrafię wyrazić trudne emocje.",
+      "de": "Manchmal habe ich das Gefühl, dass Schreiben der einzige Weg ist, wie ich schwierige Emotionen ausdrücken kann.",
+      "tags": [
+        "relative clause",
+        "accusative",
+        "mental health theme"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 110,
+      "target": "Jadę właśnie na warsztaty dla młodych pisarzy, żeby nauczyć się czegoś zupełnie nowego.",
+      "de": "Ich fahre gerade zu einem Workshop für junge Autoren, um mal was ganz Neues zu lernen.",
+      "tags": [
+        "determinate motion verb",
+        "purpose clause",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 111,
+      "target": "To jest ta koleżanka, z którą omawiam wszystkie nagłe zwroty akcji w książce.",
+      "de": "Das ist die Freundin, mit der ich alle meine Plot-Twists im Buch bespreche.",
+      "tags": [
+        "relative clause",
+        "instrumental case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 112,
+      "target": "Muszę szybko wracać do domu, bo termin oddania tekstu mija już za dwa dni.",
+      "de": "Ich muss schnell nach Hause, weil die Deadline für den Text schon in zwei Tagen ist.",
+      "tags": [
+        "prefixed motion verb",
+        "reasoning"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 113,
+      "target": "Uważam, że to zakończenie jest dobre, ponieważ zostawia czytelnika z wieloma pytaniami.",
+      "de": "Ich finde das Ende gut, weil es den Leser mit vielen Fragen zurücklässt.",
+      "tags": [
+        "opinion",
+        "reasoning",
+        "instrumental case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 114,
+      "target": "Czy wiesz już, kto przetłumaczy moją książkę na hiszpański, kiedy będzie już gotowa?",
+      "de": "Weißt du schon, wer mein Buch ins Spanische übersetzen wird, wenn es fertig ist?",
+      "tags": [
+        "future tense",
+        "aspect",
+        "language learning theme"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 115,
+      "target": "Właśnie przechodzę do pisania piątego rozdziału, który będzie dziać się w słonecznej Maladze.",
+      "de": "Ich gehe jetzt zum fünften Kapitel über, das im sonnigen Malaga spielen wird.",
+      "tags": [
+        "prefixed motion verb",
+        "relative clause",
+        "future tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 116,
+      "target": "Szanowny Panie, czy mógłby Pan mnie poinformować, kiedy książka trafi do sprzedaży?",
+      "de": "Sehr geehrter Herr, könnten Sie mich informieren, wann das Buch im Handel erscheint?",
+      "tags": [
+        "formal address",
+        "conditional mood",
+        "polite request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 117,
+      "target": "Nie poddawaj się, twoja historia jest ważna i wiele osób naprawdę chce ją przeczytać.",
+      "de": "Gib nicht auf, deine Geschichte ist wichtig und viele Leute wollen sie wirklich lesen.",
+      "tags": [
+        "imperative",
+        "encouragement",
+        "aspect"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 118,
+      "target": "Weszłam do księgarni i zobaczyłam moją książkę na głównej półce. Poczułam wtedy wielką dumę.",
+      "de": "Ich bin in den Buchladen gegangen und habe mein Buch im Hauptregal gesehen. Da war ich richtig stolz.",
+      "tags": [
+        "prefixed motion verb",
+        "past tense",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 119,
+      "target": "Jestem wdzięczna za każdy komentarz, który pomaga mi stawać się coraz lepszą pisarką.",
+      "de": "Ich bin dankbar für jeden Kommentar, der mir hilft, eine bessere Autorin zu werden.",
+      "tags": [
+        "gratitude",
+        "relative clause",
+        "instrumental case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 120,
+      "target": "Przyjeżdżam do ciebie teraz, żeby pokazać ci pierwszy wydrukowany egzemplarz mojej nowej powieści.",
+      "de": "Ich komme jetzt zu dir, um dir das erste gedruckte Exemplar meines neuen Romans zu zeigen.",
+      "tags": [
+        "prefixed motion verb",
+        "purpose clause"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 121,
+      "target": "Nie zmienię tej postaci, ponieważ jest ona bardzo bliska mojemu sercu i moim wartościom.",
+      "de": "Ich werde diese Figur nicht ändern, weil sie mir und meinen Werten sehr am Herzen liegt.",
+      "tags": [
+        "negation",
+        "aspect",
+        "dative case"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 122,
+      "target": "Do której grupy czytelników jest Twoim zdaniem skierowana ta historia, o której tyle piszesz?",
+      "de": "An welche Lesergruppe richtet sich eigentlich die Geschichte, über die du so viel schreibst?",
+      "tags": [
+        "relative clause",
+        "genitive",
+        "locative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 123,
+      "target": "Po całodniowym pisaniu zawsze idę na siłownię, żeby przewietrzyć głowę i nabrać energii.",
+      "de": "Nachdem ich den ganzen Tag geschrieben habe, gehe ich immer zum Sport, um den Kopf freizukriegen.",
+      "tags": [
+        "determinate motion verb",
+        "purpose clause",
+        "mental health theme"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 124,
+      "target": "Montuję właśnie film, który nagrałam wczoraj w parku, kiedy szłam na trening.",
+      "de": "Ich schneide gerade das Video, das ich gestern im Park aufgenommen habe, als ich zum Training gelaufen bin.",
+      "tags": [
+        "Relative clause",
+        "Verbs of motion",
+        "Past tense",
+        "Feminine forms"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 125,
+      "target": "Którego aparatu używasz, kiedy jedziesz w góry, żeby nagrywać tam nowe vlogi?",
+      "de": "Welche Kamera benutzt du, wenn du in die Berge fährst, um dort neue Vlogs zu drehen?",
+      "tags": [
+        "Relative clause",
+        "Verbs of motion",
+        "Genitive case"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 126,
+      "target": "Czy mogłabyś przynieść ten statyw, który stoi tam przy dużym oknie w sypialni?",
+      "de": "Könntest du das Stativ mitbringen, das dort am großen Fenster im Schlafzimmer steht?",
+      "tags": [
+        "Relative clause",
+        "Verbs of motion",
+        "Conditional"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 127,
+      "target": "Nie wrzucę dzisiaj tego filmu, bo oświetlenie, którego użyłam, było zdecydowanie za ciemne.",
+      "de": "Ich lade das Video heute nicht hoch, weil das Licht, das ich benutzt habe, eindeutig zu dunkel war.",
+      "tags": [
+        "Relative clause",
+        "Negation",
+        "Genitive case",
+        "Past tense"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 128,
+      "target": "Weszłam dzisiaj do studia, żeby nagrać wspólną rozmowę. Kiedy zobaczyłam te wszystkie profesjonalne lampy, przez chwilę poczułam się naprawdę zestresowana.",
+      "de": "Ich bin heute ins Studio gegangen, um einen Collab-Talk aufzunehmen. Als ich die ganzen Profi-Lampen sah, war ich kurz echt gestresst.",
+      "tags": [
+        "Verbs of motion",
+        "Story",
+        "Past tense",
+        "Feminine forms"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 129,
+      "target": "Tak, widziałam już ten miły komentarz, który pojawił się pod moim ostatnim filmem.",
+      "de": "Ja, ich habe den lieben Kommentar schon gesehen, der unter meinem letzten Video aufgetaucht ist.",
+      "tags": [
+        "Relative clause",
+        "Past tense",
+        "Prepositions"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 130,
+      "target": "Często chodzę na siłownię na piechotę, żeby po drodze posłuchać podcastu o zdrowiu psychicznym.",
+      "de": "Ich gehe oft zu Fuß zum Gym, um unterwegs einen Podcast über mentale Gesundheit zu hören.",
+      "tags": [
+        "Verbs of motion",
+        "Indeterminate",
+        "Purpose clause"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 131,
+      "target": "Czy wiesz, o której godzinie wychodzi nowy odcinek twojej ulubionej hiszpańskiej youtuberki?",
+      "de": "Weißt du, um wie viel Uhr die neue Folge deiner spanischen Lieblings-Youtuberin rauskommt?",
+      "tags": [
+        "Verbs of motion",
+        "Relative clause",
+        "Genitive case"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 132,
+      "target": "Szanowny Panie, piszę z zapytaniem o możliwość współpracy, którą chciałabym nawiązać na moim kanale.",
+      "de": "Sehr geehrter Herr, ich schreibe Ihnen bezüglich einer Kooperationsmöglichkeit, die ich gerne auf meinem Kanal umsetzen würde.",
+      "tags": [
+        "Relative clause",
+        "Formal",
+        "Conditional",
+        "Accusative case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 133,
+      "target": "Zazwyczaj jeżdżę na rowerze do lasu, żeby tam wymyślać nowe tytuły, które przyciągną uwagę widzów.",
+      "de": "Normalerweise fahre ich mit dem Rad in den Wald, um mir dort neue Titel auszudenken, die die Aufmerksamkeit der Zuschauer wecken.",
+      "tags": [
+        "Verbs of motion",
+        "Indeterminate",
+        "Relative clause"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 134,
+      "target": "Marta, możesz sprawdzić, czy mikrofon, który wczoraj kupiłam, dobrze działa z twoim nowym laptopem?",
+      "de": "Marta, kannst du mal checken, ob das Mikro, das ich gestern gekauft habe, gut mit deinem neuen Laptop funktioniert?",
+      "tags": [
+        "Relative clause",
+        "Past tense",
+        "Instrumental case"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 135,
+      "target": "Nie przyjdę dzisiaj na nagranie, bo pociąg, którym miałam dojechać do Warszawy, jest bardzo opóźniony.",
+      "de": "Ich komme heute nicht zum Dreh, weil der Zug, mit dem ich nach Warschau fahren sollte, total verspätet ist.",
+      "tags": [
+        "Verbs of motion",
+        "Relative clause",
+        "Negation",
+        "Instrumental case"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 136,
+      "target": "Niedługo wyjeżdżamy do Hiszpanii, żeby nagrać tam całą serię filmów o naszej przeprowadzce.",
+      "de": "Wir fahren bald nach Spanien, um dort eine ganze Videoreihe über unseren Umzug zu drehen.",
+      "tags": [
+        "Verbs of motion",
+        "Locative case",
+        "Future meaning"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 137,
+      "target": "Czy wy też oglądacie te kanały, na których twórcy pokazują, jak latają dronem nad oceanem?",
+      "de": "Schaut ihr auch diese Kanäle, auf denen die Creator zeigen, wie sie mit der Drohne über den Ozean fliegen?",
+      "tags": [
+        "Relative clause",
+        "Verbs of motion",
+        "Indeterminate",
+        "Locative case"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 138,
+      "target": "Właśnie, uważam, że społeczność, która się wzajemnie wspiera, jest w tym wszystkim najważniejsza.",
+      "de": "Eben, ich finde, dass eine Community, die sich gegenseitig unterstützt, dabei das Wichtigste ist.",
+      "tags": [
+        "Relative clause",
+        "Opinion",
+        "Present tense"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 139,
+      "target": "Jestem wdzięczna każdej osobie, która zdecydowała się zasubskrybować mój kanał i zostawić łapkę.",
+      "de": "Ich bin jeder Person dankbar, die sich entschieden hat, meinen Kanal zu abonnieren und ein Like dazulassen.",
+      "tags": [
+        "Relative clause",
+        "Dative case",
+        "Past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 140,
+      "target": "Zabierz proszę ten aparat, który leży na stole, bo zaraz wychodzimy nagrywać w plenerze.",
+      "de": "Nimm bitte die Kamera mit, die auf dem Tisch liegt, weil wir gleich losgehen, um draußen zu filmen.",
+      "tags": [
+        "Verbs of motion",
+        "Relative clause",
+        "Imperative"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 141,
+      "target": "Niosę właśnie cały mój sprzęt na plażę, bo chcę nagrać tam krótkie przebitki.",
+      "de": "Ich trage gerade mein ganzes Equipment zum Strand, weil ich dort B-Roll filmen will.",
+      "tags": [
+        "Verbs of motion",
+        "Determinate",
+        "Present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 142,
+      "target": "Czy on już wie, że zmontowałam ten trudny materiał, nad którym pracowałam całą ostatnią noc?",
+      "de": "Weiß er schon, dass ich das schwierige Material geschnitten habe, an dem ich die ganze letzte Nacht gearbeitet habe?",
+      "tags": [
+        "Relative clause",
+        "Past tense",
+        "Instrumental case"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 143,
+      "target": "Nie będę już używać tego obiektywu, bo jest po prostu za ciężki, żeby go wszędzie nosić.",
+      "de": "Ich werde dieses Objektiv nicht mehr benutzen, weil es einfach zu schwer ist, um es überallhin mitzuschleppen.",
+      "tags": [
+        "Verbs of motion",
+        "Negation",
+        "Future tense",
+        "Genitive case"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 144,
+      "target": "To jest ta asystentka, której ufam najbardziej przy montowaniu moich długich materiałów.",
+      "de": "Das ist die Assistentin, der ich beim Schneiden meiner langen Videos am meisten vertraue.",
+      "tags": [
+        "Relative clause",
+        "Dative case",
+        "Present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 145,
+      "target": "Jak radzisz sobie ze stresem, który pojawia się, gdy algorytm nagle przestaje promować twoje filmy?",
+      "de": "Wie gehst du mit dem Stress um, der entsteht, wenn der Algorithmus plötzlich aufhört, deine Videos zu pushen?",
+      "tags": [
+        "Relative clause",
+        "Present tense",
+        "Mental health"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 146,
+      "target": "Wróciłam dzisiaj późno do domu, bo nagrywałam ważną rozmowę z koleżanką, która mieszka w Madrycie.",
+      "de": "Ich bin heute spät nach Hause gekommen, weil ich ein wichtiges Gespräch mit einer Freundin aufgenommen habe, die in Madrid lebt.",
+      "tags": [
+        "Verbs of motion",
+        "Relative clause",
+        "Past tense",
+        "Feminine forms"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 147,
+      "target": "Szanowna Pani, czy mogłaby Pani zaznaczyć ten film jako reklamę, o którą prosili nasi sponsorzy?",
+      "de": "Sehr geehrte Frau, könnten Sie dieses Video bitte als Werbung kennzeichnen, wie es unsere Sponsoren gewünscht haben?",
+      "tags": [
+        "Relative clause",
+        "Formal",
+        "Accusative case",
+        "Request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 148,
+      "target": "Nie widziałam jeszcze ostatecznej wersji vloga, ale zaraz wejdę na platformę i to sprawdzę.",
+      "de": "Ich habe die finale Version vom Vlog noch nicht gesehen, aber ich gehe gleich mal auf die Plattform und checke das.",
+      "tags": [
+        "Verbs of motion",
+        "Past tense",
+        "Future tense",
+        "Answer"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 149,
+      "target": "Zazwyczaj chodzę na siłownię na piechotę, żeby zrobić porządną rozgrzewkę przed treningiem.",
+      "de": "Normalerweise gehe ich zu Fuß zum Fitnessstudio, um mich vor dem Training ordentlich aufzuwärmen.",
+      "tags": [
+        "chodzić",
+        "motion verb",
+        "purpose clause"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 150,
+      "target": "Mam dzisiaj straszne zakwasy, więc tylko przejdę się do parku i zaraz wrócę.",
+      "de": "Ich habe heute so krassen Muskelkater, deshalb gehe ich nur eine Runde im Park spazieren und komme gleich zurück.",
+      "tags": [
+        "przejść się",
+        "wrócić",
+        "prefixed motion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 151,
+      "target": "Mam na sobie te nowe legginsy, które kupiłam specjalnie na mój wyjazd do Hiszpanii.",
+      "de": "Ich trage gerade diese neuen Leggings, die ich extra für meine Reise nach Spanien gekauft habe.",
+      "tags": [
+        "które",
+        "relative clause",
+        "accusative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 152,
+      "target": "Czy wiesz, która odżywka białkowa jest najlepsza dla osoby, która w ogóle nie je nabiału?",
+      "de": "Weißt du, welches Proteinpulver am besten für jemanden ist, der gar keine Milchprodukte isst?",
+      "tags": [
+        "która",
+        "relative clause",
+        "nominative"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 153,
+      "target": "Źle spałam, więc nie pójdę dziś ćwiczyć, bo muszę wreszcie zacząć słuchać swojego ciała.",
+      "de": "Ich habe schlecht geschlafen, also gehe ich heute nicht zum Training, weil ich endlich anfangen muss, auf meinen Körper zu hören.",
+      "tags": [
+        "pójść",
+        "prefixed motion",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 154,
+      "target": "To jest ta dziewczyna, o której ci mówiłam, że robi na siłowni niesamowite postępy.",
+      "de": "Das ist das Mädchen, von dem ich dir erzählt habe, dass sie im Fitnessstudio unglaubliche Fortschritte macht.",
+      "tags": [
+        "o której",
+        "relative clause",
+        "locative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 155,
+      "target": "Właśnie wyszłam z treningu i szczerze mówiąc, czuję się teraz o niebo lepiej.",
+      "de": "Ich bin gerade aus dem Training gekommen und ehrlich gesagt fühle ich mich jetzt um Welten besser.",
+      "tags": [
+        "wyjść",
+        "prefixed motion",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 156,
+      "target": "Zrobię jeszcze dwie serie, a potem będę mogła przynieść ci tę wodę, o którą prosiłeś.",
+      "de": "Ich mache noch zwei Sätze und dann kann ich dir das Wasser bringen, um das du gebeten hast.",
+      "tags": [
+        "przynieść",
+        "prefixed motion",
+        "o którą",
+        "relative clause"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 157,
+      "target": "Szanowny Panie, piszę z zapytaniem o karnet, który chciałabym anulować przed moją przeprowadzką.",
+      "de": "Sehr geehrter Herr, ich schreibe bezüglich der Mitgliedschaft, die ich vor meinem Umzug gerne kündigen möchte.",
+      "tags": [
+        "który",
+        "relative clause",
+        "formal"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 158,
+      "target": "Trening to jedyny czas, w którym w ogóle nie myślę o książce, którą teraz piszę.",
+      "de": "Das Training ist die einzige Zeit, in der ich überhaupt nicht an das Buch denke, das ich gerade schreibe.",
+      "tags": [
+        "w którym",
+        "którą",
+        "relative clause"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 159,
+      "target": "Moje ulubione buty, które zostawiłam wczoraj w szafce na siłowni, po prostu stamtąd zniknęły!",
+      "de": "Meine Lieblingsschuhe, die ich gestern im Spind im Fitnessstudio gelassen habe, sind einfach von dort verschwunden!",
+      "tags": [
+        "które",
+        "relative clause",
+        "past tense"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 160,
+      "target": "Czy możesz pomóc mi zanieść te hantle na drugą stronę sali, bo są dla mnie za ciężkie?",
+      "de": "Kannst du mir helfen, diese Hanteln auf die andere Seite des Raums zu tragen, weil sie mir zu schwer sind?",
+      "tags": [
+        "zanieść",
+        "prefixed motion",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 161,
+      "target": "Codziennie rano biegam do parku, który znajduje się bardzo blisko mojego nowego mieszkania w Hiszpanii.",
+      "de": "Jeden Morgen laufe ich zum Park, der ganz in der Nähe meiner neuen Wohnung in Spanien liegt.",
+      "tags": [
+        "biegać",
+        "motion verb",
+        "który",
+        "relative clause"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 162,
+      "target": "Uważam, że dni odpoczynku są tak samo ważne jak te dni, w których trenujemy najmocniej.",
+      "de": "Ich finde, dass Ruhetage genauso wichtig sind wie die Tage, an denen wir am härtesten trainieren.",
+      "tags": [
+        "w których",
+        "relative clause",
+        "opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 163,
+      "target": "Szukam w Walencji takiej siłowni, do której wpada rano bardzo dużo naturalnego światła.",
+      "de": "Ich suche in Valencia ein Fitnessstudio, in das morgens richtig viel natürliches Licht fällt.",
+      "tags": [
+        "do której",
+        "relative clause",
+        "genitive"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 164,
+      "target": "Przyszłam dziś na trening bez energii. Spotkałam jednak koleżankę, z którą chwilę porozmawiałam i nagle poczułam motywację.",
+      "de": "Ich bin heute ohne Energie zum Training gekommen. Ich habe dann aber eine Freundin getroffen, mit der ich kurz gequatscht habe, und plötzlich war die Motivation da.",
+      "tags": [
+        "przyjść",
+        "prefixed motion",
+        "z którą",
+        "relative clause"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 165,
+      "target": "Czy wiesz, o której godzinie zaczynają się te zajęcia jogi, na które dziś idziemy?",
+      "de": "Weißt du, um wie viel Uhr dieser Yogakurs anfängt, zu dem wir heute gehen?",
+      "tags": [
+        "iść",
+        "motion verb",
+        "na które",
+        "relative clause"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 166,
+      "target": "Wolę trenować rano, bo wtedy mam później więcej energii na nagrywanie moich filmów.",
+      "de": "Ich trainiere lieber morgens, weil ich dann später mehr Energie zum Aufnehmen meiner Videos habe.",
+      "tags": [
+        "present tense",
+        "opinion",
+        "comparative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 167,
+      "target": "Kiedy przychodzę na siłownię, zawsze zaczynam od stretchingu, żeby potem nie mieć żadnej kontuzji.",
+      "de": "Wenn ich ins Fitnessstudio komme, fange ich immer mit Stretching an, um später keine Verletzungen zu haben.",
+      "tags": [
+        "przychodzić",
+        "prefixed motion",
+        "imperfective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 168,
+      "target": "Nie zrobię już ani jednego powtórzenia, ponieważ czuję, że moja technika jest coraz gorsza.",
+      "de": "Ich mache kein einziges Rep mehr, weil ich merke, dass meine Technik immer schlechter wird.",
+      "tags": [
+        "negation",
+        "reasoning",
+        "future tense"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 169,
+      "target": "To jest ten trener, z którym współpracuję od trzech miesięcy i którego bardzo szanuję.",
+      "de": "Das ist der Trainer, mit dem ich seit drei Monaten zusammenarbeite und den ich sehr respektiere.",
+      "tags": [
+        "z którym",
+        "którego",
+        "relative clause"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 170,
+      "target": "Bolą mnie dzisiaj wszystkie mięśnie, ale to ten dobry ból, który daje mi ogromną satysfakcję.",
+      "de": "Mir tun heute alle Muskeln weh, aber das ist dieser gute Schmerz, der mir eine riesige Genugtuung gibt.",
+      "tags": [
+        "który",
+        "relative clause",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 171,
+      "target": "Czy mogłabyś zabrać moją czarną torbę sportową, która leży teraz obok Twojej szafki?",
+      "de": "Könntest du meine schwarze Sporttasche mitnehmen, die gerade neben deinem Spind liegt?",
+      "tags": [
+        "zabrać",
+        "prefixed motion",
+        "która",
+        "relative clause"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 172,
+      "target": "Szanowni Państwo, pod który adres powinnam wysłać potwierdzenie ubezpieczenia, o które Państwo prosili?",
+      "de": "Sehr geehrte Damen und Herren, an welche Adresse soll ich die Versicherungsbestätigung schicken, um die Sie gebeten haben?",
+      "tags": [
+        "pod który",
+        "o które",
+        "relative clause",
+        "formal"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 173,
+      "target": "Wczoraj przeszłam dziesięć kilometrów. Byłam wykończona, ale zachód słońca, który wtedy zobaczyłam, był wart wysiłku.",
+      "de": "Gestern bin ich zehn Kilometer gelaufen. Ich war fix und fertig, aber der Sonnenuntergang, den ich da gesehen habe, war die Mühe wert.",
+      "tags": [
+        "przejść",
+        "prefixed motion",
+        "który",
+        "relative clause"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 174,
+      "target": "Szukam mieszkania, które ma duże okno, żebym mogła nagrywać tam moje filmy.",
+      "de": "Ich suche eine Wohnung mit einem großen Fenster, damit ich dort meine Videos drehen kann.",
+      "tags": [
+        "relative-clause",
+        "które",
+        "future"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 175,
+      "target": "Muszę iść do urzędu, żeby odebrać mój nowy dowód, który jest już gotowy.",
+      "de": "Ich muss zum Amt, um meinen neuen Ausweis abzuholen, der schon fertig ist.",
+      "tags": [
+        "motion-verb",
+        "iść",
+        "relative-clause",
+        "który"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 176,
+      "target": "Często chodzę do tej kawiarni, bo mają tu najlepszą kawę w całej okolicy.",
+      "de": "Ich gehe oft in dieses Café, weil es hier den besten Kaffee in der ganzen Gegend gibt.",
+      "tags": [
+        "motion-verb",
+        "chodzę"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 177,
+      "target": "Który autobus jedzie do centrum i gdzie mogę kupić bilet na przejazd?",
+      "de": "Welcher Bus fährt ins Zentrum und wo kann ich eine Fahrkarte kaufen?",
+      "tags": [
+        "motion-verb",
+        "jedzie",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 178,
+      "target": "Chciałabym znaleźć siłownię, w której będę mogła trenować wcześnie rano.",
+      "de": "Ich würde gerne ein Fitnessstudio finden, in dem ich früh morgens trainieren kann.",
+      "tags": [
+        "relative-clause",
+        "w której",
+        "conditional"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 179,
+      "target": "Czy możesz przynieść mi kilka cytryn, kiedy będziesz wracać ze sklepu?",
+      "de": "Kannst du mir ein paar Zitronen mitbringen, wenn du aus dem Laden zurückkommst?",
+      "tags": [
+        "motion-verb",
+        "przynieść",
+        "wracać",
+        "aspect"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 180,
+      "target": "Dzień dobry, chciałabym założyć konto, którego będę mogła używać również w Hiszpanii.",
+      "de": "Guten Tag, ich würde gerne ein Konto eröffnen, das ich auch in Spanien nutzen kann.",
+      "tags": [
+        "relative-clause",
+        "którego",
+        "formal"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 181,
+      "target": "Dzisiaj zgubiłam się, kiedy szłam do parku, ale jakaś kobieta mi pomogła.",
+      "de": "Ich habe mich heute verlaufen, als ich zum Park gegangen bin, aber eine Frau hat mir geholfen.",
+      "tags": [
+        "motion-verb",
+        "szłam",
+        "past",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 182,
+      "target": "Uważam, że warto chodzić pieszo, bo wtedy można lepiej poznać nową okolicę.",
+      "de": "Ich finde, es lohnt sich zu Fuß zu gehen, weil man so die neue Gegend besser kennenlernt.",
+      "tags": [
+        "motion-verb",
+        "chodzić",
+        "opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 183,
+      "target": "Piszę z zapytaniem, o której godzinie przyjedzie kurier, który wiezie moją paczkę?",
+      "de": "Ich schreibe, um zu fragen, um wie viel Uhr der Kurier kommt, der mein Paket bringt.",
+      "tags": [
+        "motion-verb",
+        "przyjedzie",
+        "relative-clause",
+        "który",
+        "formal"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 184,
+      "target": "Nie wyjdę dzisiaj z domu, ponieważ muszę dokończyć rozdział, nad którym pracuję.",
+      "de": "Ich gehe heute nicht aus dem Haus, weil ich das Kapitel zu Ende schreiben muss, an dem ich gerade arbeite.",
+      "tags": [
+        "motion-verb",
+        "wyjdę",
+        "relative-clause",
+        "nad którym",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 185,
+      "target": "Jestem wdzięczna za to mieszkanie, które tak szybko stało się moim domem.",
+      "de": "Ich bin dankbar für diese Wohnung, die so schnell zu meinem Zuhause geworden ist.",
+      "tags": [
+        "relative-clause",
+        "które",
+        "past",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 186,
+      "target": "Przepraszam, jak najszybciej dojdę do placu, na którym odbywa się ten targ?",
+      "de": "Entschuldigung, wie komme ich am schnellsten zu dem Platz, auf dem dieser Markt stattfindet?",
+      "tags": [
+        "motion-verb",
+        "dojdę",
+        "relative-clause",
+        "na którym"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 187,
+      "target": "Myślisz, że ta dziewczyna, z którą rozmawiałaś, mogłaby mi pomóc z hiszpańskim?",
+      "de": "Glaubst du, das Mädchen, mit dem du gesprochen hast, könnte mir mit meinem Spanisch helfen?",
+      "tags": [
+        "relative-clause",
+        "z którą",
+        "past",
+        "conditional"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 188,
+      "target": "Zabieram dzisiaj matę do parku, żeby poćwiczyć na trawie i poczuć słońce.",
+      "de": "Ich nehme heute meine Matte mit in den Park, um auf dem Gras zu trainieren und die Sonne zu genießen.",
+      "tags": [
+        "motion-verb",
+        "zabieram",
+        "present"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 189,
+      "target": "Spóźniłam się na pociąg, który miał mnie zawieźć na lotnisko o dziewiątej.",
+      "de": "Ich habe den Zug verpasst, der mich um neun Uhr zum Flughafen bringen sollte.",
+      "tags": [
+        "relative-clause",
+        "który",
+        "motion-verb",
+        "zawieźć",
+        "past"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 190,
+      "target": "Przyjdziesz do mnie wieczorem? Chciałabym pokazać Ci balkon, który właśnie urządziłam.",
+      "de": "Kommst du heute Abend zu mir? Ich würde dir gerne den Balkon zeigen, den ich gerade eingerichtet habe.",
+      "tags": [
+        "motion-verb",
+        "przyjdziesz",
+        "relative-clause",
+        "który",
+        "past"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 191,
+      "target": "Moim zdaniem prawdziwe przyjaźnie to te, dla których zawsze warto znaleźć czas.",
+      "de": "Meiner Meinung nach sind echte Freundschaften die, für die man sich immer Zeit nehmen sollte.",
+      "tags": [
+        "relative-clause",
+        "dla których",
+        "opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 192,
+      "target": "Kiedy przechodziłam przez stare miasto, zobaczyłam staruszka, który grał przepięknie na skrzypcach.",
+      "de": "Als ich durch die Altstadt gelaufen bin, habe ich einen alten Mann gesehen, der wunderschön Geige gespielt hat.",
+      "tags": [
+        "motion-verb",
+        "przechodziłam",
+        "relative-clause",
+        "który",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 193,
+      "target": "Wiesz może, w którym sklepie sprzedają te notesy, które mają gruby papier?",
+      "de": "Weißt du vielleicht, in welchem Laden es diese Hefte gibt, die so dickes Papier haben?",
+      "tags": [
+        "relative-clause",
+        "w którym",
+        "które"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 194,
+      "target": "Planuję pojechać do banku, żeby zmienić adres, który widnieje na mojej karcie.",
+      "de": "Ich habe vor zur Bank zu fahren, um die Adresse zu ändern, die auf meiner Karte steht.",
+      "tags": [
+        "motion-verb",
+        "pojechać",
+        "relative-clause",
+        "który"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 195,
+      "target": "Gdzie znajdę spokojny stolik, przy którym mogłabym usiąść z moim nowym laptopem?",
+      "de": "Wo finde ich einen ruhigen Tisch, an dem ich mit meinem neuen Laptop sitzen könnte?",
+      "tags": [
+        "relative-clause",
+        "przy którym",
+        "conditional"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 196,
+      "target": "Niestety nie przyjdę na zajęcia, bo czuję, że bierze mnie jakieś przeziębienie.",
+      "de": "Leider komme ich nicht zum Kurs, weil ich merke, dass ich krank werde.",
+      "tags": [
+        "motion-verb",
+        "przyjdę",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 197,
+      "target": "Wrócę z siłowni za godzinę, a potem będziemy mogli spokojnie porozmawiać.",
+      "de": "Ich komme in einer Stunde vom Sport zurück und dann können wir in Ruhe reden.",
+      "tags": [
+        "motion-verb",
+        "wrócę",
+        "future"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 198,
+      "target": "Cześć, szukam sąsiadki, której zostawiłam rano klucze, bo sama ich zapomniałam.",
+      "de": "Hi, ich suche die Nachbarin, bei der ich heute Morgen meine Schlüssel gelassen habe, weil ich meine eigenen vergessen hatte.",
+      "tags": [
+        "relative-clause",
+        "której",
+        "past"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 199,
+      "target": "Czy wiesz może, do którego pokoju musimy pójść, żeby odebrać nasze świadectwa maturalne?",
+      "de": "Weißt du zufällig, in welchen Raum wir gehen müssen, um unsere Abizeugnisse abzuholen?",
+      "tags": [
+        "prefixed motion verb",
+        "relative clause",
+        "school",
+        "future plans"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 200,
+      "target": "Wróciłam właśnie ze szkoły i niosę stos notatek, które muszę przejrzeć przed jutrzejszą maturą.",
+      "de": "Ich komme gerade aus der Schule und schleppe einen Stapel Notizen mit mir rum, die ich vor dem Abi morgen noch durchgehen muss.",
+      "tags": [
+        "verbs of motion",
+        "prefixed motion verb",
+        "relative clause",
+        "school"
+      ],
+      "kind": "statement"
+    }
+  ]
+}

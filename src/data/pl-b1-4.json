@@ -1,0 +1,2129 @@
+{
+  "id": "pl-b1-4",
+  "lang": "pl",
+  "langLabel": "Polnisch",
+  "level": "B1",
+  "part": 4,
+  "title": "Polnisch B1 · Teil 4",
+  "sentences": [
+    {
+      "n": 1,
+      "target": "Na tej siłowni nie wolno rzucać ciężarów na podłogę, bo to strasznie hałasuje.",
+      "de": "In diesem Fitnessstudio darf man keine Gewichte auf den Boden fallen lassen, weil das schrecklich laut ist.",
+      "tags": [
+        "impersonal",
+        "wolno",
+        "negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 2,
+      "target": "Moje nogi są tak zakwaszone, że pójście do kuchni wydaje mi się dzisiaj wyzwaniem.",
+      "de": "Meine Beine haben so einen Muskelkater, dass der Gang in die Küche heute eine echte Herausforderung ist.",
+      "tags": [
+        "adjectival participle",
+        "verbal noun",
+        "żeby/że"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 3,
+      "target": "Mój plan treningowy został przygotowany specjalnie pod budowanie siły, co bardzo mnie motywuje.",
+      "de": "Mein Trainingsplan wurde speziell für den Kraftaufbau erstellt, was mich sehr motiviert.",
+      "tags": [
+        "passive voice",
+        "zostać + participle",
+        "verbal noun"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 4,
+      "target": "Jak myślisz, czy te legginsy dobrze leżą, czy powinnam jednak zmierzyć mniejszy rozmiar?",
+      "de": "Was meinst du, sitzen diese Leggings gut oder sollte ich doch eine Nummer kleiner anprobieren?",
+      "tags": [
+        "conditional",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 5,
+      "target": "Picie odpowiedniej ilości wody w ciągu dnia to dla mnie najtrudniejsza część diety.",
+      "de": "Über den Tag verteilt genug Wasser zu trinken, ist für mich der schwierigste Teil der Ernährung.",
+      "tags": [
+        "verbal noun",
+        "superlative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 6,
+      "target": "Osoba wyspana ma rano znacznie więcej energii na intensywną sesję na siłowni.",
+      "de": "Wer ausgeschlafen ist, hat morgens viel mehr Energie für eine intensive Einheit im Gym.",
+      "tags": [
+        "adjectival participle",
+        "comparison"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 7,
+      "target": "Należy słuchać swojego organizmu, kiedy mówi nam, że czas na zasłużony odpoczynek.",
+      "de": "Man muss auf seinen Körper hören, wenn er uns sagt, dass es Zeit für eine verdiente Pause ist.",
+      "tags": [
+        "impersonal",
+        "należy",
+        "adjectival participle"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 8,
+      "target": "Czy mogłabyś sprawdzić, czy w pobliżu wynajmowanego przez nas mieszkania jest jakaś dobra siłownia?",
+      "de": "Könntest du nachsehen, ob es in der Nähe der von uns gemieteten Wohnung ein gutes Fitnessstudio gibt?",
+      "tags": [
+        "conditional",
+        "adjectival participle",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 9,
+      "target": "Kiedy stoję na scenie, czuję taką adrenalinę, że zapominam o moich zmęczonych mięśniach.",
+      "de": "Wenn ich auf der Bühne stehe, spüre ich so viel Adrenalin, dass ich meine müden Muskeln ganz vergesse.",
+      "tags": [
+        "adjectival participle",
+        "subordination"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 10,
+      "target": "Mój nowy film o zdrowych nawykach został już zmontowany i jutro pojawi się na kanale.",
+      "de": "Mein neues Video über gesunde Gewohnheiten ist schon fertig geschnitten und kommt morgen auf dem Kanal online.",
+      "tags": [
+        "passive voice",
+        "zostać + participle"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 11,
+      "target": "W sumie cieszę się, że wyciągnęłaś mnie na bieganie, choć szczerze mówiąc, byłam dzisiaj leniwa.",
+      "de": "Eigentlich bin ich froh, dass du mich zum Laufen mitgeschleppt hast, obwohl ich heute ehrlich gesagt faul war.",
+      "tags": [
+        "verbal noun",
+        "past tense",
+        "conjunction"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 12,
+      "target": "Dźwiganie ciężarów sprawia, że czuję się silna i bardziej pewna siebie we własnym ciele.",
+      "de": "Gewichte zu heben führt dazu, dass ich mich stark und in meinem eigenen Körper selbstbewusster fühle.",
+      "tags": [
+        "verbal noun",
+        "comparative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 13,
+      "target": "Czy wyniki moich badań krwi zostały już wysłane na mój adres mailowy?",
+      "de": "Wurden meine Blutwerte schon an meine E-Mail-Adresse geschickt?",
+      "tags": [
+        "passive voice",
+        "zostać + participle",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 14,
+      "target": "Wczoraj zrobiłam za dużo wykroków. Dzisiaj, przy każdej próbie siadania, czuję się, jakby moje nogi były zrobione z ołowiu.",
+      "de": "Gestern habe ich zu viele Ausfallschritte gemacht. Heute fühle ich mich bei jedem Versuch, mich hinzusetzen, als wären meine Beine aus Blei.",
+      "tags": [
+        "story",
+        "verbal noun",
+        "adjectival participle"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 15,
+      "target": "Przepraszam pana, gdzie znajdę przymierzalnie? Nie mogę ich nigdzie znaleźć.",
+      "de": "Entschuldigung, wo finde ich die Umkleiden? Ich kann sie nirgends finden.",
+      "tags": [
+        "polite form",
+        "Pan/Pani",
+        "future tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 16,
+      "target": "Jestem wdzięczna za to ciało, ponieważ pozwala mi ono na realizowanie wszystkich moich marzeń.",
+      "de": "Ich bin dankbar für diesen Körper, weil er es mir ermöglicht, all meine Träume zu verwirklichen.",
+      "tags": [
+        "verbal noun",
+        "reasoning"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 17,
+      "target": "Nie przyjdę dzisiaj na siłownię, bo naprawdę muszę postawić na dłuższe spanie i regenerację.",
+      "de": "Ich komme heute nicht ins Gym, weil ich wirklich mal länger schlafen und regenerieren muss.",
+      "tags": [
+        "verbal noun",
+        "negation",
+        "motion verb"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 18,
+      "target": "Nic nie robi się samo; trzeba włożyć sporo pracy, żeby zobaczyć jakiekolwiek postępy.",
+      "de": "Nichts erledigt sich von selbst; man muss eine Menge Arbeit reinstecken, um irgendwelche Fortschritte zu sehen.",
+      "tags": [
+        "impersonal się",
+        "trzeba",
+        "żeby"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 19,
+      "target": "Uczenie się hiszpańskiego podczas jazdy na rowerku stacjonarnym to mój nowy sposób na oszczędzanie czasu.",
+      "de": "Spanisch lernen während der Fahrt auf dem Heimtrainer ist meine neue Methode, um Zeit zu sparen.",
+      "tags": [
+        "verbal noun",
+        "gerund-like"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 20,
+      "target": "Spójrz na tę uśmiechniętą dziewczynę tam; ona chyba naprawdę czerpie radość z tego treningu.",
+      "de": "Schau dir das lächelnde Mädchen dort an; sie scheint das Training wirklich zu genießen.",
+      "tags": [
+        "adjectival participle",
+        "imperative"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 21,
+      "target": "Nie sądzę, żeby jedzenie przetworzonych przekąsek było na dłuższą metę dobre dla mojego samopoczucia.",
+      "de": "Ich glaube nicht, dass das Essen von verarbeiteten Snacks auf Dauer gut für mein Wohlbefinden ist.",
+      "tags": [
+        "verbal noun",
+        "adjectival participle",
+        "negation"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 22,
+      "target": "Czy zostaniemy zaproszeni na otwarcie tego nowego klubu crossfitowego w Maladze, o którym rozmawialiśmy?",
+      "de": "Werden wir zur Eröffnung dieses neuen CrossFit-Clubs in Malaga eingeladen, von dem wir gesprochen haben?",
+      "tags": [
+        "passive voice",
+        "future tense",
+        "który",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 23,
+      "target": "Doceniam twoją szczerość, bo prawdziwa przyjaźń opiera się na mówieniu sobie prawdy prosto w oczy.",
+      "de": "Ich schätze deine Ehrlichkeit, denn wahre Freundschaft basiert darauf, dass man sich die Wahrheit direkt ins Gesicht sagt.",
+      "tags": [
+        "verbal noun",
+        "prepositional case"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 24,
+      "target": "Chciałabym zapytać, czy zamówiona przeze mnie odzież sportowa została już do mnie wysłana.",
+      "de": "Ich möchte nachfragen, ob die von mir bestellte Sportkleidung schon an mich verschickt wurde.",
+      "tags": [
+        "formal request",
+        "passive voice",
+        "adjectival participle"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 25,
+      "target": "Nie chciało mi się iść, ale i tak poszłam. Po treningu mam czystą głowę i jestem gotowa na pisanie kolejnego rozdziału.",
+      "de": "Ich hatte keine Lust zu gehen, bin aber trotzdem hin. Nach dem Training ist mein Kopf klar und ich bin bereit, am nächsten Kapitel zu schreiben.",
+      "tags": [
+        "story",
+        "past tense",
+        "verbal noun"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 26,
+      "target": "Mieszkanie, które wczoraj oglądałam, zostało już niestety wynajęte komuś innemu.",
+      "de": "Die Wohnung, die ich mir gestern angeschaut habe, wurde leider schon an jemand anderen vermietet.",
+      "tags": [
+        "passive",
+        "który",
+        "past"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 27,
+      "target": "Otwarcie konta w tym banku okazało się znacznie trudniejsze, niż początkowo myślałam.",
+      "de": "Ein Konto bei dieser Bank zu eröffnen war echt viel komplizierter, als ich erst dachte.",
+      "tags": [
+        "verbal noun",
+        "comparison",
+        "past"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 28,
+      "target": "Przepraszam, czy ten pojemnik na śmieci jest przeznaczony tylko na plastik i papier?",
+      "de": "Entschuldigung, ist diese Tonne nur für Plastik und Papier gedacht?",
+      "tags": [
+        "adjectival participle",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 29,
+      "target": "Czy można tu znaleźć jakiś wolny stolik z dostępem do gniazdka, żeby popracować?",
+      "de": "Gibt es hier irgendwo einen freien Tisch mit Steckdose, damit ich ein bisschen arbeiten kann?",
+      "tags": [
+        "impersonal",
+        "można",
+        "żeby"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 30,
+      "target": "Czuję się trochę przytłoczona ilością formalności, które muszę załatwić po mojej przeprowadzce.",
+      "de": "Ich fühle mich gerade etwas erschlagen von dem ganzen Papierkram nach dem Umzug.",
+      "tags": [
+        "adjectival participle",
+        "który"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 31,
+      "target": "Autobus, którym zazwyczaj jeżdżę do centrum, został dziś odwołany z powodu nagłej awarii.",
+      "de": "Der Bus, mit dem ich normalerweise in die Stadt fahre, ist heute wegen einer Panne ausgefallen.",
+      "tags": [
+        "passive",
+        "który",
+        "motion verb"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 32,
+      "target": "Tutaj płaci się kartą przy tej kasie samoobsługowej, czy trzeba podejść do tradycyjnej?",
+      "de": "Zahlt man hier an der SB-Kasse mit Karte oder muss man zur normalen Kasse gehen?",
+      "tags": [
+        "impersonal",
+        "się",
+        "trzeba",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 33,
+      "target": "Czy byłoby możliwe obejrzenie tego pokoju jutro rano, bo bardzo mi na nim zależy?",
+      "de": "Wäre es möglich, das Zimmer morgen früh anzuschauen? Es wäre mir echt wichtig.",
+      "tags": [
+        "conditional",
+        "verbal noun",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 34,
+      "target": "Chciałabym zapytać, kiedy umowa najmu będzie gotowa do podpisania przez obie strony.",
+      "de": "Ich wollte mal nachfragen, wann der Mietvertrag fertig ist, damit beide Seiten unterschreiben können.",
+      "tags": [
+        "conditional",
+        "verbal noun",
+        "prepositional"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 35,
+      "target": "Jestem wdzięczna za to, że moja przeprowadzka do Hiszpanii w końcu stała się rzeczywistością.",
+      "de": "Ich bin so dankbar, dass mein Umzug nach Spanien jetzt endlich wahr geworden ist.",
+      "tags": [
+        "gratitude",
+        "past",
+        "że"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 36,
+      "target": "Szukam najbliższej poczty; czy mógłby pan pokazać mi na mapie, jak najszybciej tam dojść?",
+      "de": "Ich suche die nächste Post; könnten Sie mir auf der Karte zeigen, wie ich da am schnellsten hinkomme?",
+      "tags": [
+        "pan",
+        "conditional",
+        "motion verb"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 37,
+      "target": "Pisanie w tej małej kawiarni sprawia, że w sumie czuję się już częścią tej okolicy.",
+      "de": "In diesem kleinen Café zu schreiben gibt mir das Gefühl, richtig hier im Viertel angekommen zu sein.",
+      "tags": [
+        "verbal noun",
+        "filler",
+        "feeling"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 38,
+      "target": "Jeśli masz ochotę, mogłybyśmy pójść na krótki spacer, żebyś pokazała mi swoje ulubione miejsca.",
+      "de": "Wenn du Lust hast, könnten wir eine kleine Runde spazieren gehen und du zeigst mir deine Lieblingsecken.",
+      "tags": [
+        "conditional",
+        "żeby",
+        "motion verb"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 39,
+      "target": "Oświetlenie w moim nowym pokoju nie jest jeszcze gotowe, więc dzisiaj nie nagrywam filmu.",
+      "de": "Das Licht in meinem neuen Zimmer ist noch nicht fertig, deshalb nehme ich heute kein Video auf.",
+      "tags": [
+        "negation",
+        "present"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 40,
+      "target": "Czy wiadomo już, kiedy ta nowa siłownia zostanie w końcu otwarta dla mieszkańców?",
+      "de": "Weiß man schon, wann das neue Gym im Viertel endlich für die Anwohner aufgemacht wird?",
+      "tags": [
+        "impersonal",
+        "passive",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 41,
+      "target": "Mówi się, że tu zawsze świeci słońce, ale pogoda dzisiaj tak naprawdę mnie rozczarowała.",
+      "de": "Es heißt ja immer, hier würde nur die Sonne scheinen, aber das Wetter heute hat mich echt enttäuscht.",
+      "tags": [
+        "impersonal",
+        "się",
+        "past",
+        "filler"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 42,
+      "target": "Przykro mi, ale nie dam rady dzisiaj wyjść, bo potrzebuję spokojnego wieczoru na regenerację.",
+      "de": "Tut mir leid, ich schaffe es heute nicht mehr raus, ich brauche den Abend zum Regenerieren.",
+      "tags": [
+        "negation",
+        "motion verb",
+        "boundaries"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 43,
+      "target": "Nie martw się, to normalne; pierwsze dni w nowym miejscu bywają trudne, ale szybko się przyzwyczaisz.",
+      "de": "Keine Sorge, das ist normal; die ersten Tage an einem neuen Ort sind oft hart, aber du gewöhnst dich schnell dran.",
+      "tags": [
+        "comforting",
+        "future",
+        "aspect"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 44,
+      "target": "Mój wniosek o numer identyfikacyjny został w końcu przyjęty przez urząd po długim czekaniu.",
+      "de": "Mein Antrag für die Steuernummer wurde vom Amt nach ewigem Warten jetzt endlich akzeptiert.",
+      "tags": [
+        "passive",
+        "verbal noun",
+        "past"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 45,
+      "target": "Czy Państwo również mieszkają tu od niedawna, czy znają już Państwo dobrze tę okolicę?",
+      "de": "Wohnen Sie auch erst seit Kurzem hier oder kennen Sie sich in der Gegend schon gut aus?",
+      "tags": [
+        "państwo",
+        "present",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 46,
+      "target": "Należy skasować bilet natychmiast po wejściu do tramwaju, ponieważ kontrole są tutaj bardzo częste.",
+      "de": "Man muss das Ticket sofort nach dem Einsteigen in die Tram entwerten, weil hier voll oft kontrolliert wird.",
+      "tags": [
+        "impersonal",
+        "należy",
+        "verbal noun"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 47,
+      "target": "Jak myślicie, która z tych dwóch kawiarni lepiej nadaje się do nagrania krótkiego vloga?",
+      "de": "Was meint ihr, welches von den beiden Cafés eignet sich besser, um einen kurzen Vlog zu drehen?",
+      "tags": [
+        "wy",
+        "verbal noun",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 48,
+      "target": "Kupowanie świeżych owoców na lokalnym targu to mój ulubiony poranny rytuał w nowym mieście.",
+      "de": "Auf dem Markt frisches Obst zu kaufen ist mein liebstes Morgenritual in der neuen Stadt.",
+      "tags": [
+        "verbal noun",
+        "present"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 49,
+      "target": "Przed wejściem na scenę zawsze biorę trzy głębokie oddechy, żeby uspokoić bicie serca.",
+      "de": "Bevor ich auf die Bühne gehe, atme ich immer dreimal tief durch, um meinen Puls zu beruhigen.",
+      "tags": [
+        "verbal noun",
+        "żeby",
+        "stage"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 50,
+      "target": "Tęskniłam dzisiaj za domem, więc zadzwoniłam do mamy i rozmawiałyśmy przez ponad godzinę.",
+      "de": "Ich hatte heute voll Heimweh, also habe ich meine Mama angerufen und wir haben über eine Stunde gequatscht.",
+      "tags": [
+        "past",
+        "story",
+        "feeling"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 51,
+      "target": "Moje uczenie się do matury idzie powoli, bo ciągle myślę o przeprowadzce do Hiszpanii.",
+      "de": "Mein Abi-Lernstoff kommt nur schleppend voran, weil ich ständig an den Umzug nach Spanien denke.",
+      "tags": [
+        "verbal noun",
+        "aspect"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 52,
+      "target": "Jak sądzisz, czy warto brać dodatkowe lekcje z matematyki przed egzaminem końcowym?",
+      "de": "Was meinst du, lohnt es sich, vor der Abschlussprüfung noch Mathe-Nachhilfe zu nehmen?",
+      "tags": [
+        "impersonal",
+        "modal"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 53,
+      "target": "Czy mógłby Pan sprawdzić, czy mój wniosek o certyfikat językowy został już poprawnie zarejestrowany?",
+      "de": "Könnten Sie bitte prüfen, ob meine Anmeldung für das Sprachzertifikat schon richtig erfasst wurde?",
+      "tags": [
+        "passive",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 54,
+      "target": "Szczerze mówiąc, czuję się trochę przytłoczona ilością materiału, który musimy powtórzyć w tym tygodniu.",
+      "de": "Ehrlich gesagt fühle ich mich von der Stoffmenge, die wir diese Woche wiederholen müssen, etwas erschlagen.",
+      "tags": [
+        "adjectival participle",
+        "który"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 55,
+      "target": "Nie lubię spędzania całych dni w bibliotece, bo brak świeżego powietrza źle na mnie wpływa.",
+      "de": "Ich mag es nicht, den ganzen Tag in der Bib zu hocken, die fehlende frische Luft tut mir nicht gut.",
+      "tags": [
+        "verbal noun",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 56,
+      "target": "Moja prezentacja o literaturze hiszpańskiej była tak dobrze przygotowana, że nauczycielka pochwaliła mnie przed klasą.",
+      "de": "Mein Referat über spanische Literatur war so gut vorbereitet, dass die Lehrerin mich vor der Klasse gelobt hat.",
+      "tags": [
+        "adjectival participle",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 57,
+      "target": "Czy polecasz jakieś konkretne miasto w Hiszpanii, do którego warto pojechać zaraz po szkole?",
+      "de": "Empfiehlst du eine bestimmte Stadt in Spanien, in die man direkt nach der Schule reisen sollte?",
+      "tags": [
+        "impersonal",
+        "motion verb"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 58,
+      "target": "Przepraszam, czy można prosić o przedłużenie terminu oddania tego eseju ze względu na mój wyjazd?",
+      "de": "Entschuldigung, kann man um eine Fristverlängerung für diesen Essay bitten, weil ich wegfahre?",
+      "tags": [
+        "impersonal",
+        "modal"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 59,
+      "target": "Po dziesięciu godzinach siedzenia nad książkami czuję, że moje myślenie staje się mniej logiczne.",
+      "de": "Nach zehn Stunden über den Büchern merke ich, wie mein Denken langsam total unlogisch wird.",
+      "tags": [
+        "verbal noun",
+        "prepositional phrase"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 60,
+      "target": "Gdybym nie musiała zdawać teraz matury, już pakowałabym walizki i szukała mieszkania w Walencji.",
+      "de": "Wenn ich jetzt kein Abi machen müsste, würde ich schon Koffer packen und eine Wohnung in Valencia suchen.",
+      "tags": [
+        "conditional",
+        "subjunctive"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 61,
+      "target": "Na egzaminie ustnym mówi się zazwyczaj o swoich zainteresowaniach, więc wybrałam temat dotyczący pisania.",
+      "de": "In der mündlichen Prüfung spricht man meistens über seine Interessen, also habe ich was zum Schreiben gewählt.",
+      "tags": [
+        "impersonal se",
+        "verbal noun"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 62,
+      "target": "Co należy zrobić, żeby nie stresować się tak bardzo wynikami, na które nie mamy wpływu?",
+      "de": "Was muss man tun, um sich nicht so wegen Ergebnissen zu stressen, die man eh nicht beeinflussen kann?",
+      "tags": [
+        "impersonal modal",
+        "żeby"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 63,
+      "target": "Przykro mi, ale bez wcześniejszego zapytania mnie o zdanie nie powinieneś podejmować wspólnych decyzji.",
+      "de": "Tut mir leid, aber ohne mich vorher nach meiner Meinung zu fragen, solltest du keine gemeinsamen Entscheidungen treffen.",
+      "tags": [
+        "verbal noun",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 64,
+      "target": "Jestem wdzięczna za moją nauczycielkę, która jest zawsze uśmiechnięta i motywuje nas do nauki.",
+      "de": "Ich bin echt dankbar für meine Lehrerin, die immer lächelt und uns richtig zum Lernen motiviert.",
+      "tags": [
+        "adjectival participle",
+        "który"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 65,
+      "target": "Jak udaje ci się połączyć intensywne ćwiczenie na siłowni z przygotowaniami do najważniejszych egzaminów?",
+      "de": "Wie kriegst du das eigentlich hin, intensives Training im Gym mit der Vorbereitung auf die wichtigsten Prüfungen zu vereinbaren?",
+      "tags": [
+        "verbal noun",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 66,
+      "target": "Mój pierwszy rozdział został wczoraj przeczytany przez moją przyjaciółkę i jej opinia mnie uspokoiła.",
+      "de": "Mein erstes Kapitel wurde gestern von meiner Freundin gelesen und ihr Feedback hat mich total beruhigt.",
+      "tags": [
+        "passive",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 67,
+      "target": "Po zdaniu wszystkich egzaminów zamierzam zrobić sobie miesiąc przerwy od mediów społecznościowych i odpocząć.",
+      "de": "Nachdem ich alle Prüfungen bestanden habe, will ich einen Monat Social-Media-Pause machen und einfach nur entspannen.",
+      "tags": [
+        "verbal noun",
+        "aspect"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 68,
+      "target": "Chciałabym zapytać Panią, czy program wymiany studenckiej został już zatwierdzony przez dyrekcję naszej szkoły.",
+      "de": "Ich wollte Sie fragen, ob das Austauschprogramm von unserer Schulleitung schon genehmigt wurde.",
+      "tags": [
+        "passive",
+        "formal register"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 69,
+      "target": "Nie wolno zapominać o odpoczynku, nawet jeśli kalendarz jest wypełniony terminami egzaminów i spotkań.",
+      "de": "Man darf das Ausruhen nicht vergessen, selbst wenn der Kalender voll mit Prüfungsterminen und Verabredungen ist.",
+      "tags": [
+        "impersonal modal",
+        "adjectival participle"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 70,
+      "target": "Czy uważasz, że słuchanie podcastów po hiszpańsku faktycznie pomaga w przygotowaniu się do poziomu B2?",
+      "de": "Glaubst du, dass spanische Podcasts zu hören wirklich bei der Vorbereitung auf das B2-Niveau hilft?",
+      "tags": [
+        "verbal noun",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 71,
+      "target": "Moja mama powiedziała mi, że jest ze mnie dumna, niezależnie od moich przyszłych ocen.",
+      "de": "Meine Mama hat mir gesagt, dass sie stolz auf mich ist, ganz egal, was für Noten ich am Ende kriege.",
+      "tags": [
+        "reported speech",
+        "aspect"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 72,
+      "target": "Dokąd zamierzasz pojechać na wakacje, jeśli uda ci się dostać na wymarzone studia w Madrycie?",
+      "de": "Wo willst du im Sommer hinfahren, falls du die Zusage für dein Traumstudium in Madrid bekommst?",
+      "tags": [
+        "motion verb",
+        "future tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 73,
+      "target": "Regularne pisanie pamiętnika pomaga mi uporządkować myśli przed snem, szczególnie w tym stresującym czasie.",
+      "de": "Regelmäßiges Tagebuchschreiben hilft mir, meine Gedanken vor dem Schlafen zu sortieren, besonders in dieser stressigen Zeit.",
+      "tags": [
+        "verbal noun",
+        "prepositional phrase"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 74,
+      "target": "Cenię nasze rozmowy, bo po każdej z nich czuję się bardziej zrozumiana i spokojniejsza.",
+      "de": "Ich schätze unsere Gespräche sehr, weil ich mich danach immer verstandener und beruhigter fühle.",
+      "tags": [
+        "verbal noun",
+        "adjectival participle",
+        "conjunction"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 75,
+      "target": "Jak sądzisz, czy w prawdziwej przyjaźni da się wybaczyć każde bolesne kłamstwo?",
+      "de": "Was glaubst du, kann man in einer echten Freundschaft jede schmerzhafte Lüge verzeihen?",
+      "tags": [
+        "impersonal modal",
+        "adjectival participle",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 76,
+      "target": "Nie czuję się komfortowo z twoim sposobem mówienia do mnie, więc proszę, przestań mnie oceniać.",
+      "de": "Ich fühle mich mit deiner Art, wie du mit mir redest, nicht wohl, also hör bitte auf, mich zu bewerten.",
+      "tags": [
+        "verbal noun",
+        "negation",
+        "boundary"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 77,
+      "target": "Czy ten post o toksycznych relacjach mógłby zostać udostępniony również na twoim profilu?",
+      "de": "Könnte dieser Post über toxische Beziehungen auch auf deinem Profil geteilt werden?",
+      "tags": [
+        "passive voice",
+        "zostać + participle",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 78,
+      "target": "Moja relacja z Mają była trudna. Po szczerym wyznaniu prawdy obie poczułyśmy ogromną ulgę i spokój.",
+      "de": "Die Beziehung zu Maja war schwierig. Nachdem wir uns ehrlich die Wahrheit gesagt haben, fühlten wir beide eine riesige Erleichterung.",
+      "tags": [
+        "verbal noun",
+        "past tense",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 79,
+      "target": "Znasz tę dziewczynę idącą w stronę sceny, czy to ktoś z twojej nowej ekipy?",
+      "de": "Kennst du das Mädchen, das da zur Bühne geht, oder ist das jemand aus deinem neuen Team?",
+      "tags": [
+        "adjectival participle",
+        "present tense",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 80,
+      "target": "Gdybyś wcześniej powiedziała mi o swoich obawach, na pewno zostałabym z tobą dłużej wczoraj wieczorem.",
+      "de": "Hättest du mir früher von deinen Sorgen erzählt, wäre ich gestern Abend sicher länger bei dir geblieben.",
+      "tags": [
+        "conditional",
+        "motion verb",
+        "reaction"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 81,
+      "target": "Mówi się, że rodzina jest najważniejsza, ale czasem to właśnie przyjaciele stają się najbliżsi.",
+      "de": "Man sagt, die Familie sei das Wichtigste, aber manchmal sind es eben Freunde, die einem am nächsten stehen.",
+      "tags": [
+        "impersonal se-construction",
+        "superlative",
+        "statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 82,
+      "target": "Szanowny Panie, czy moje zgłoszenie na warsztaty o budowaniu relacji zostało już pomyślnie rozpatrzone?",
+      "de": "Sehr geehrter Herr, wurde meine Anmeldung für den Workshop über Beziehungsaufbau schon erfolgreich bearbeitet?",
+      "tags": [
+        "passive voice",
+        "formal",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 83,
+      "target": "Unikanie trudnych tematów w związku sprawia, że po pewnym czasie czujemy się od siebie oddaleni.",
+      "de": "Schwierige Themen in einer Beziehung zu meiden führt dazu, dass man sich nach einer Weile voneinander entfernt fühlt.",
+      "tags": [
+        "verbal noun",
+        "adjectival participle",
+        "statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 84,
+      "target": "Czy ta książka o manipulacji została już przez ciebie przeczytana, czy mogę ją pożyczyć?",
+      "de": "Hast du das Buch über Manipulation schon fertig gelesen, oder kann ich es mir ausleihen?",
+      "tags": [
+        "passive voice",
+        "zostać + participle",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 85,
+      "target": "Przyznanie się do błędu przed publicznością wymaga odwagi, ale buduje niesamowitą więź z ludźmi.",
+      "de": "Sich vor Publikum zu einem Fehler zu bekennen erfordert Mut, aber es baut eine unglaubliche Verbindung zu den Menschen auf.",
+      "tags": [
+        "verbal noun",
+        "prepositional case",
+        "statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 86,
+      "target": "Szczerze mówiąc, jestem bardzo zawiedziona jego zachowaniem, bo uważałam go za kogoś godnego zaufania.",
+      "de": "Ehrlich gesagt bin ich von seinem Verhalten total enttäuscht, weil ich ihn für vertrauenswürdig hielt.",
+      "tags": [
+        "adjectival participle",
+        "filler",
+        "reaction"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 87,
+      "target": "Warto otaczać się ludźmi, którzy nas inspirują, zamiast tracić czas na osoby wiecznie narzekające.",
+      "de": "Es lohnt sich, sich mit Leuten zu umgeben, die einen inspirieren, statt Zeit mit ewigen Nörglern zu verschwenden.",
+      "tags": [
+        "impersonal modal",
+        "adjectival participle",
+        "który"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 88,
+      "target": "Czy on ci powiedział, że nasze wspólne wyjście do teatru zostało ostatecznie przełożone?",
+      "de": "Hat er dir gesagt, dass unser gemeinsamer Theaterbesuch endgültig verschoben wurde?",
+      "tags": [
+        "reported speech",
+        "passive voice",
+        "verbal noun"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 89,
+      "target": "Nie wolno pozwalać innym na decydowanie o naszym życiu, nawet jeśli robią to w dobrej wierze.",
+      "de": "Man darf nicht zulassen, dass andere über unser Leben entscheiden, selbst wenn sie es gut meinen.",
+      "tags": [
+        "impersonal modal",
+        "verbal noun",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 90,
+      "target": "Takie częste kłócenie się o drobiazgi bardzo mnie męczy i nie służy naszej przyjaźni.",
+      "de": "Dieses ständige Streiten wegen Kleinigkeiten macht mich echt fertig und tut unserer Freundschaft nicht gut.",
+      "tags": [
+        "verbal noun",
+        "dative case",
+        "statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 91,
+      "target": "Myślisz, że ta zaproszona na premierę autorka faktycznie pisze swoje książki zupełnie sama?",
+      "de": "Glaubst du, dass die zur Premiere eingeladene Autorin ihre Bücher wirklich ganz allein schreibt?",
+      "tags": [
+        "adjectival participle",
+        "feminine forms",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 92,
+      "target": "To niesamowite, jak szybko nawiązuje się nić porozumienia z kimś, kto ma podobne wartości.",
+      "de": "Es ist wahnsinnig, wie schnell man einen Draht zu jemandem findet, der ähnliche Werte hat.",
+      "tags": [
+        "impersonal se-construction",
+        "relative clause",
+        "reaction"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 93,
+      "target": "Chciałabym zapytać, czy program konferencji został już zamknięty, czy można jeszcze zaproponować swój temat?",
+      "de": "Ich würde gerne fragen, ob das Konferenzprogramm schon geschlossen ist oder ob man noch ein Thema vorschlagen kann?",
+      "tags": [
+        "passive voice",
+        "impersonal modal",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 94,
+      "target": "Moje dzisiejsze bieganie w deszczu było idealną okazją, żeby przemyśleć kilka spraw prywatnych.",
+      "de": "Mein heutiger Lauf im Regen war die perfekte Gelegenheit, um über ein paar private Dinge nachzudenken.",
+      "tags": [
+        "verbal noun",
+        "żeby",
+        "statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 95,
+      "target": "Czy gdybyś dowiedziała się o zdradzie, potrafiłabyś dalej ufać tej osobie tak jak dawniej?",
+      "de": "Könntest du dieser Person weiter so wie früher vertrauen, wenn du von einem Verrat erfahren würdest?",
+      "tags": [
+        "conditional",
+        "aspect",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 96,
+      "target": "Spotkałam wczoraj dawną koleżankę. Stała taka smutna i zamyślona, więc podeszłam, żeby po prostu z nią porozmawiać.",
+      "de": "Ich habe gestern eine alte Freundin getroffen. Sie stand da so traurig und nachdenklich, also bin ich hin, um einfach mit ihr zu reden.",
+      "tags": [
+        "adjectival participle",
+        "motion verb",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 97,
+      "target": "Należy dbać o relacje z rodzeństwem, bo to jedyne osoby, które znają nas od dziecka.",
+      "de": "Man sollte die Beziehung zu seinen Geschwistern pflegen, weil das die einzigen Menschen sind, die einen von klein auf kennen.",
+      "tags": [
+        "impersonal modal",
+        "plural forms",
+        "statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 98,
+      "target": "Moim zdaniem słuchanie drugiej osoby bez oceniania jest najpiękniejszym prezentem, jaki można komuś dać.",
+      "de": "Meiner Meinung nach ist es das schönste Geschenk, das man jemandem machen kann, ihm ohne Bewertung zuzuhören.",
+      "tags": [
+        "verbal noun",
+        "superlative",
+        "impersonal modal"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 99,
+      "target": "Jedzenie lodów na tarasie sprawia, że czuję się, jakbym była już na wakacjach w Hiszpanii.",
+      "de": "Wenn ich auf der Terrasse Eis esse, fühle ich mich, als wäre ich schon im Spanienurlaub.",
+      "tags": [
+        "verbal noun",
+        "conditional",
+        "feeling"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 100,
+      "target": "Słuchanie deszczu bębniącego o szybę pomaga mi się niesamowicie skupić na pisaniu nowej piosenki.",
+      "de": "Dem Regen zuzuhören, wie er gegen die Scheibe trommelt, hilft mir mega, mich aufs Songwriting zu konzentrieren.",
+      "tags": [
+        "verbal noun",
+        "adjectival participle"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 101,
+      "target": "Czy woda w tym jeziorze jest już wystarczająco ciepła na wieczorne pływanie z przyjaciółmi?",
+      "de": "Ist das Wasser im See schon warm genug, um heute Abend mit Freunden schwimmen zu gehen?",
+      "tags": [
+        "verbal noun",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 102,
+      "target": "Ten nowy utwór muzyczny jest ostatnio często puszczany w radiu, a ja wciąż nie znam tytułu.",
+      "de": "Dieser neue Song läuft in letzter Zeit so oft im Radio, aber ich weiß immer noch nicht, wie er heißt.",
+      "tags": [
+        "passive",
+        "być + participle"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 103,
+      "target": "W taką pogodę warto po prostu zostać w domu pod kocem i pić gorącą kawę.",
+      "de": "Bei dem Wetter lohnt es sich einfach, mit einem heißen Kaffee unter der Decke zu Hause zu bleiben.",
+      "tags": [
+        "impersonal",
+        "warto"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 104,
+      "target": "Czy ta kawiarnia z widokiem na rzekę jest dzisiaj otwarta, czy mają może jakiś dzień wolny?",
+      "de": "Hat das Café mit Blick auf den Fluss heute offen oder haben die vielleicht Ruhetag?",
+      "tags": [
+        "adjectival participle",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 105,
+      "target": "Po wejściu do ciepłego mieszkania zapach świeżo mielonej kawy od razu poprawił mi humor.",
+      "de": "Als ich in die warme Wohnung kam, hat der Duft von frisch gemahlenem Kaffee sofort meine Laune gebessert.",
+      "tags": [
+        "verbal noun",
+        "preposition",
+        "adjectival participle"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 106,
+      "target": "Graliście już kiedyś w tę nową grę planszową, która została wczoraj polecona przez moją siostrę?",
+      "de": "Habt ihr schon mal dieses neue Brettspiel gespielt, das meine Schwester gestern empfohlen hat?",
+      "tags": [
+        "passive",
+        "zostać + participle",
+        "który"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 107,
+      "target": "Szłyśmy przez park, gdy nagle zaczęło padać, więc wbiegłyśmy do kwiaciarni i kupiłyśmy kolorowe tulipany.",
+      "de": "Wir sind durch den Park gelaufen, als es plötzlich anfing zu regnen, also sind wir in einen Blumenladen geflitzt und haben bunte Tulpen gekauft.",
+      "tags": [
+        "motion verbs",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 108,
+      "target": "Ta uśmiechnięta kobieta sprzedająca kwiaty na rogu zawsze życzy mi miłego i spokojnego dnia.",
+      "de": "Diese lächelnde Frau, die an der Ecke Blumen verkauft, wünscht mir immer einen schönen, entspannten Tag.",
+      "tags": [
+        "adjectival participle"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 109,
+      "target": "Byłoby mi bardzo miło, gdybyśmy mogli wspólnie świętować moje osiemnaste urodziny w przyszłym miesiącu.",
+      "de": "Ich würde mich voll freuen, wenn wir nächsten Monat meinen 18. Geburtstag zusammen feiern könnten.",
+      "tags": [
+        "conditional",
+        "feeling"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 110,
+      "target": "W tej okolicy zawsze tak szybko zapada zmrok, ale te lampki na balkonach tworzą przytulny klimat.",
+      "de": "In dieser Gegend wird es immer so schnell dunkel, aber die Lichterketten auf den Balkonen machen es richtig gemütlich.",
+      "tags": [
+        "statement"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 111,
+      "target": "Twoje zaproszenie na wspólną kawę zostało przyjęte z wielkim entuzjazmem, bo bardzo potrzebuję teraz przerwy.",
+      "de": "Deine Einladung zum Kaffee wurde mit Begeisterung angenommen, ich brauche nämlich echt mal eine Pause.",
+      "tags": [
+        "passive",
+        "zostać + participle"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 112,
+      "target": "Niestety to zaproszenie musi zostać odrzucone, ponieważ obiecałam już mamie pomoc w weekendowych porządkach.",
+      "de": "Leider muss ich die Einladung ablehnen, weil ich meiner Mutter schon beim Wochenendputz versprochen habe zu helfen.",
+      "tags": [
+        "passive",
+        "zostać + participle",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 113,
+      "target": "Jak myślisz, czy branie udziału w tym kursie jogi online to dobry pomysł na jesienne wieczory?",
+      "de": "Was meinst du, ist dieser Online-Yogakurs eine gute Idee für die Herbstabende?",
+      "tags": [
+        "verbal noun",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 114,
+      "target": "Można tu siedzieć godzinami i obserwować ludzi bez konieczności kupowania czegokolwiek więcej do picia.",
+      "de": "Man kann hier stundenlang sitzen und Leute beobachten, ohne ständig was Neues zu trinken kaufen zu müssen.",
+      "tags": [
+        "impersonal",
+        "można",
+        "verbal noun"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 115,
+      "target": "Mój ulubiony kubek został przypadkiem stłuczony, więc muszę znaleźć sobie nowy na poranną herbatę.",
+      "de": "Meine Lieblingstasse ist aus Versehen kaputtgegangen, jetzt brauche ich eine neue für meinen Morgentee.",
+      "tags": [
+        "passive",
+        "zostać + participle"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 116,
+      "target": "Uwielbiam chodzenie bez celu po mieście, gdy słońce powoli zachodzi za dachy starych kamienic.",
+      "de": "Ich liebe es, ziellos durch die Stadt zu laufen, wenn die Sonne langsam hinter den Altbaudächern untergeht.",
+      "tags": [
+        "verbal noun"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 117,
+      "target": "Szanowni Państwo, chciałabym zapytać, czy moja rezerwacja stolika na sobotni wieczór została pomyślnie potwierdzona.",
+      "de": "Guten Tag, ich wollte nachfragen, ob meine Tischreservierung für Samstagabend erfolgreich bestätigt wurde.",
+      "tags": [
+        "passive",
+        "zostać + participle",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 118,
+      "target": "Moja instruktorka fitness jest zawsze niesamowicie zmotywowana, co sprawia, że te trudne treningi dają mi radość.",
+      "de": "Meine Fitnesstrainerin ist immer so krass motiviert, dass mir sogar die harten Workouts Spaß machen.",
+      "tags": [
+        "adjectival participle"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 119,
+      "target": "Trzeba przyznać, że domowe ciasto upieczone przez babcię smakuje najlepiej na świecie po ciężkim dniu.",
+      "de": "Man muss schon sagen, dass Omas selbstgebackener Kuchen nach einem harten Tag am besten schmeckt.",
+      "tags": [
+        "impersonal",
+        "trzeba",
+        "adjectival participle"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 120,
+      "target": "Gdyby nie twoje wsparcie, to pisanie mojej pierwszej książki zajęłoby mi pewnie dwa razy więcej czasu.",
+      "de": "Ohne deine Unterstützung hätte ich für mein erstes Buch sicher doppelt so lange gebraucht.",
+      "tags": [
+        "conditional",
+        "verbal noun"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 121,
+      "target": "Czuję się dzisiaj bardzo wypoczęta, bo w końcu udało mi się porządnie wyspać bez nastawiania budzika.",
+      "de": "Ich fühle mich heute total ausgeruht, weil ich endlich mal ohne Wecker richtig ausschlafen konnte.",
+      "tags": [
+        "adjectival participle",
+        "verbal noun"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 122,
+      "target": "Kiedy patrzę wstecz, jestem wdzięczna za regularne bieganie, bo to uratowało mój spokój.",
+      "de": "Wenn ich zurückblicke, bin ich dankbar für das regelmäßige Laufen, weil das meinen Seelenfrieden gerettet hat.",
+      "tags": [
+        "verbal noun",
+        "subordination",
+        "gratitude"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 123,
+      "target": "Czy opinie o moim wystąpieniu zostały już wysłane na mój adres mailowy?",
+      "de": "Wurde das Feedback zu meinem Auftritt schon an meine E-Mail-Adresse geschickt?",
+      "tags": [
+        "passive",
+        "verbal noun",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 124,
+      "target": "Czuję się wolna jako kobieta świadoma swoich potrzeb i dbająca o własne granice.",
+      "de": "Ich fühle mich frei als eine Frau, die sich ihrer Bedürfnisse bewusst ist und auf ihre Grenzen achtet.",
+      "tags": [
+        "adjectival participle",
+        "mental health",
+        "freedom"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 125,
+      "target": "Chciałabym zapytać, czy sala do nagrywania została już zarezerwowana na jutrzejsze popołudnie?",
+      "de": "Ich wollte fragen, ob der Aufnahmeraum für morgen Nachmittag schon reserviert wurde?",
+      "tags": [
+        "passive",
+        "verbal noun",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 126,
+      "target": "Szczerze mówiąc, wybranie życia w Hiszpanii sprawia, że czuję się niesamowicie niezależna.",
+      "de": "Ehrlich gesagt gibt mir die Entscheidung für ein Leben in Spanien ein unglaubliches Gefühl von Unabhängigkeit.",
+      "tags": [
+        "verbal noun",
+        "filler",
+        "freedom"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 127,
+      "target": "Czy wolno tu używać tych mikrofonów podczas otwartej próby przed moim wystąpieniem?",
+      "de": "Darf man diese Mikrofone hier während der offenen Probe vor meinem Auftritt benutzen?",
+      "tags": [
+        "impersonal modal",
+        "verbal noun",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 128,
+      "target": "Byłam wykończona po siłowni. Nagle jakaś nieznajoma dziewczyna uśmiechnęła się do mnie i poczułam przypływ energii.",
+      "de": "Ich war nach dem Fitnessstudio völlig fertig. Plötzlich hat mich ein fremdes Mädchen angelächelt und ich habe einen Energieschub gespürt.",
+      "tags": [
+        "past tense",
+        "story",
+        "gratitude"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 129,
+      "target": "Nie przyjdę wieczorem, ponieważ czytanie szkicu mojej książki wymaga teraz ode mnie pełnego skupienia.",
+      "de": "Ich komme heute Abend nicht, weil das Lesen meines Buchmanuskripts gerade meine volle Konzentration erfordert.",
+      "tags": [
+        "verbal noun",
+        "negation",
+        "boundary"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 130,
+      "target": "Jestem dumna z postępów zrobionych przez ostatni miesiąc dzięki mojej świetnej nauczycielce hiszpańskiego.",
+      "de": "Ich bin stolz auf die Fortschritte, die ich im letzten Monat dank meiner tollen Spanischlehrerin gemacht habe.",
+      "tags": [
+        "adjectival participle",
+        "gratitude",
+        "instrumental"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 131,
+      "target": "Jak da się utrzymać tak wysoki poziom wdzięczności każdego dnia, nawet gdy jest trudno?",
+      "de": "Wie schafft man es, jeden Tag so dankbar zu sein, selbst wenn es gerade schwierig ist?",
+      "tags": [
+        "impersonal modal",
+        "question",
+        "gratitude"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 132,
+      "target": "Myślę, że mówienie o zdrowiu psychicznym powinno być bardziej doceniane w naszych szkołach.",
+      "de": "Ich finde, dass Reden über psychische Gesundheit in unseren Schulen mehr wertgeschätzt werden sollte.",
+      "tags": [
+        "verbal noun",
+        "passive",
+        "opinion"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 133,
+      "target": "Drzwi do mojego nowego życia w Hiszpanii są w końcu szeroko otwarte przede mną.",
+      "de": "Die Türen zu meinem neuen Leben in Spanien stehen mir endlich weit offen.",
+      "tags": [
+        "adjectival participle",
+        "metaphor",
+        "freedom"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 134,
+      "target": "Czy twoje intensywne trenowanie pomaga ci również opanować stres przed wejściem na dużą scenę?",
+      "de": "Hilft dir dein intensives Training auch dabei, den Stress vor dem Auftritt auf der großen Bühne zu bewältigen?",
+      "tags": [
+        "verbal noun",
+        "question",
+        "stage"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 135,
+      "target": "Ten rozdział został napisany z ogromną radością i mam nadzieję, że go polubicie.",
+      "de": "Dieses Kapitel wurde mit großer Freude geschrieben und ich hoffe, dass es euch gefällt.",
+      "tags": [
+        "passive",
+        "gratitude",
+        "future"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 136,
+      "target": "Panie dyrektorze, czy mógłby Pan potwierdzić, czy termin mojego wystąpienia został już ustalony?",
+      "de": "Sehr geehrter Herr Direktor, könnten Sie bestätigen, ob der Termin für meinen Vortrag bereits feststeht?",
+      "tags": [
+        "passive",
+        "formal",
+        "verbal noun"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 137,
+      "target": "Nie uważam, żeby ciągłe narzekanie na pogodę miało jakikolwiek sens, skoro nic nie zmienimy.",
+      "de": "Ich glaube nicht, dass ständiges Meckern über das Wetter Sinn ergibt, wenn wir sowieso nichts ändern können.",
+      "tags": [
+        "verbal noun",
+        "negation",
+        "opinion"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 138,
+      "target": "Czy ta osoba stojąca tam to ta sama, która zaprosiła nas na wernisaż?",
+      "de": "Ist die Person, die da steht, dieselbe, die uns zur Vernissage eingeladen hat?",
+      "tags": [
+        "adjectival participle",
+        "question",
+        "relative clause"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 139,
+      "target": "To ciekawa perspektywa, bo często zapomina się o byciu dla siebie dobrym i wyrozumiałym.",
+      "de": "Das ist eine interessante Perspektive, weil man oft vergisst, gut und nachsichtig mit sich selbst zu sein.",
+      "tags": [
+        "impersonal se",
+        "verbal noun",
+        "mental health"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 140,
+      "target": "Po skończeniu tego filmu czuję, jakby wielki ciężar spadł mi z ramion, jestem wdzięczna.",
+      "de": "Nachdem ich das Video fertiggestellt habe, fühle ich mich wie von einer großen Last befreit, ich bin echt dankbar.",
+      "tags": [
+        "verbal noun",
+        "gratitude",
+        "freedom"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 141,
+      "target": "Czy chciałabyś poczuć się tak wolna, jak ja się poczułam po przeprowadzce do Hiszpanii?",
+      "de": "Würdest du dich gerne auch so frei fühlen, wie ich mich nach dem Umzug nach Spanien gefühlt habe?",
+      "tags": [
+        "conditional",
+        "freedom",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 142,
+      "target": "Kiedyś bałam się publicznego przemawiania. Teraz, kiedy stoję na scenie, czuję jedynie dumę.",
+      "de": "Früher hatte ich Angst davor, öffentlich zu reden. Jetzt, wenn ich auf der Bühne stehe, fühle ich nur noch Stolz.",
+      "tags": [
+        "verbal noun",
+        "contrast",
+        "stage"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 143,
+      "target": "Czy mogłabyś mi pokazać, jak należy poprawnie używać tego sprzętu, żeby nie zrobić sobie krzywdy?",
+      "de": "Könntest du mir zeigen, wie man dieses Gerät richtig benutzt, damit ich mich nicht verletze?",
+      "tags": [
+        "impersonal modal",
+        "gym",
+        "request"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 144,
+      "target": "Dla mnie cisza jest czasem lepsza niż rozmawianie tylko po to, żeby zapełnić pustkę.",
+      "de": "Für mich ist Stille manchmal besser als Reden, nur um die Leere zu füllen.",
+      "tags": [
+        "verbal noun",
+        "mental health",
+        "comparison"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 145,
+      "target": "Czy paczka na aukcję charytatywną została już dostarczona do siedziby fundacji przez kuriera?",
+      "de": "Wurde das Paket für die Wohltätigkeitsauktion schon vom Kurier an den Sitz der Stiftung geliefert?",
+      "tags": [
+        "passive",
+        "question",
+        "preposition"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 146,
+      "target": "Jestem niesamowicie podekscytowana nadchodzącą podróżą do Andaluzji, o której marzyłam od lat.",
+      "de": "Ich freue mich wahnsinnig auf die bevorstehende Reise nach Andalusien, von der ich schon seit Jahren träume.",
+      "tags": [
+        "adjectival participle",
+        "gratitude",
+        "relative clause"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 147,
+      "target": "Moja potrzeba bycia samej podczas pisania musi zostać uszanowana przez wszystkich domowników.",
+      "de": "Mein Bedürfnis, beim Schreiben allein zu sein, muss von allen im Haus respektiert werden.",
+      "tags": [
+        "passive",
+        "verbal noun",
+        "być + participle"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 148,
+      "target": "Czy da się umówić na sesję online, jeśli będę już mieszkać w Hiszpanii?",
+      "de": "Kann man Online-Sitzungen vereinbaren, wenn ich dann schon in Spanien wohne?",
+      "tags": [
+        "impersonal se-construction",
+        "future tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 149,
+      "target": "Czuję, że moje nastawienie do błędów zostało całkowicie zmienione dzięki ostatnim rozmowom z terapeutką.",
+      "de": "Ich habe das Gefühl, dass sich meine Einstellung zu Fehlern durch die letzten Gespräche mit meiner Therapeutin komplett gewandelt hat.",
+      "tags": [
+        "passive",
+        "zostać + participle"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 150,
+      "target": "Szczerze mówiąc, autentyczne dzielenie się emocjami na scenie buduje najsilniejszą relację z widzami.",
+      "de": "Ehrlich gesagt baut das authentische Teilen von Emotionen auf der Bühne die stärkste Verbindung zum Publikum auf.",
+      "tags": [
+        "verbal noun",
+        "adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 151,
+      "target": "Chciałabym zapytać, czy warsztaty o radzeniu sobie ze stresem są już w pełni zarezerwowane.",
+      "de": "Ich wollte fragen, ob der Workshop zum Thema Stressbewältigung schon komplett ausgebucht ist.",
+      "tags": [
+        "verbal noun",
+        "adjectival participle"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 152,
+      "target": "Nie gniewaj się, ale dzisiaj wybieram zostanie w domu, bo czuję się emocjonalnie wyczerpana.",
+      "de": "Sei nicht sauer, aber heute entscheide ich mich fürs Zuhausebleiben, weil ich mich emotional ausgelaugt fühle.",
+      "tags": [
+        "verbal noun",
+        "adjectival participle"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 153,
+      "target": "Miałam gorszy poranek i nic mi nie wychodziło. Jednak po pójściu na spacer poczułam spokój.",
+      "de": "Ich hatte einen schlechten Vormittag und nichts hat geklappt. Nach dem Spaziergang kam die Ruhe zurück.",
+      "tags": [
+        "verbal noun",
+        "past tense"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 154,
+      "target": "Czy w tej grupie wsparcia wolno zadawać pytania, czy należy raczej tylko słuchać innych?",
+      "de": "Darf man in dieser Selbsthilfegruppe Fragen stellen oder sollte man eher nur den anderen zuhören?",
+      "tags": [
+        "impersonal modal",
+        "wolno",
+        "należy"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 155,
+      "target": "Pamiętaj, że każdy twój mały sukces zasługuje na świętowanie, nawet jeśli czujesz się dziś gorzej.",
+      "de": "Vergiss nicht, dass jeder deiner kleinen Erfolge es verdient hat, gefeiert zu werden, auch wenn es dir heute schlechter geht.",
+      "tags": [
+        "verbal noun",
+        "conditional context"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 156,
+      "target": "Dziś rano obudziłam się taka spokojna i uśmiechnięta, jakbym w końcu pogodziła się z przeszłością.",
+      "de": "Heute Morgen bin ich so friedlich und lächelnd aufgewacht, als hätte ich endlich meinen Frieden mit der Vergangenheit gemacht.",
+      "tags": [
+        "adjectival participle",
+        "feminine past"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 157,
+      "target": "Czy ona mówiła, o której godzinie ta wizyta u psychologa została ostatecznie ustalona?",
+      "de": "Hat sie gesagt, für wie viel Uhr der Termin beim Psychologen letztendlich festgesetzt wurde?",
+      "tags": [
+        "passive",
+        "reported speech"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 158,
+      "target": "Doceniam twoje słuchanie bez przerywania, bo to pomaga mi nazwać to, co teraz czuję.",
+      "de": "Ich schätze es sehr, dass du mir zuhörst, ohne mich zu unterbrechen, weil mir das hilft, meine Gefühle zu benennen.",
+      "tags": [
+        "verbal noun",
+        "gratitude"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 159,
+      "target": "W moim życiu nie ma miejsca na toksyczne relacje, więc ta znajomość zostaje przeze mnie zakończona.",
+      "de": "In meinem Leben ist kein Platz für toxische Beziehungen, deshalb beende ich diese Bekanntschaft hiermit.",
+      "tags": [
+        "passive",
+        "zostać + participle"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 160,
+      "target": "Myślisz, że po przeprowadzce do Malagi łatwiej będzie mi dbać o regularne medytowanie?",
+      "de": "Glaubst du, dass es mir nach dem Umzug nach Málaga leichter fallen wird, regelmäßig zu meditieren?",
+      "tags": [
+        "verbal noun",
+        "future tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 161,
+      "target": "Ta przeczytana wczoraj książka o asertywności otworzyła mi oczy na wiele błędów, które popełniałam.",
+      "de": "Das gestern gelesene Buch über Assertivität hat mir die Augen für viele Fehler geöffnet, die ich gemacht habe.",
+      "tags": [
+        "adjectival participle",
+        "past tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 162,
+      "target": "W sumie masz rację, unikanie konfrontacji tylko pogarsza sprawę i sprawia, że czujemy się gorzej.",
+      "de": "Eigentlich hast du recht, das Vermeiden von Konfrontationen macht die Sache nur schlimmer.",
+      "tags": [
+        "verbal noun",
+        "opinion"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 163,
+      "target": "Czy można prosić o ściszenie muzyki, ponieważ potrzebuję teraz trochę ciszy, żeby zebrać myśli?",
+      "de": "Könnte man die Musik bitte leiser machen, da ich gerade etwas Ruhe brauche, um meine Gedanken zu ordnen?",
+      "tags": [
+        "impersonal modal",
+        "verbal noun"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 164,
+      "target": "Długo bałam się tej rozmowy, ale została ona przeprowadzona w bardzo wspierającej atmosferze. Teraz czuję ulgę.",
+      "de": "Ich hatte lange Angst vor diesem Gespräch, aber es verlief in einer sehr unterstützenden Atmosphäre. Jetzt fühle ich Erleichterung.",
+      "tags": [
+        "passive",
+        "past tense"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 165,
+      "target": "Jak sądzisz, czy warto zapisywać swoje sny, żeby lepiej zrozumieć własne lęki i pragnienia?",
+      "de": "Was glaubst du, lohnt es sich, seine Träume aufzuschreiben, um die eigenen Ängste besser zu verstehen?",
+      "tags": [
+        "impersonal modal",
+        "warto"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 166,
+      "target": "Moim zdaniem bycie autentyczną na YouTubie jest ważniejsze niż posiadanie idealnie zmontowanych i kolorowych filmów.",
+      "de": "Meiner Meinung nach ist Authentizität auf YouTube wichtiger als perfekt geschnittene und farbenfrohe Videos.",
+      "tags": [
+        "verbal noun",
+        "adjectival participle"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 167,
+      "target": "Nie pozwalam na ocenianie mojego wyglądu, bo pracuję nad tym, żeby akceptować siebie taką, jaka jestem.",
+      "de": "Ich erlaube keine Bewertung meines Aussehens, da ich daran arbeite, mich so zu akzeptieren, wie ich bin.",
+      "tags": [
+        "verbal noun",
+        "boundaries"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 168,
+      "target": "Czy ten warsztat o wdzięczności został już zaplanowany na wrzesień, czy termin nie jest jeszcze znany?",
+      "de": "Wurde dieser Dankbarkeits-Workshop schon für September geplant oder steht der Termin noch nicht fest?",
+      "tags": [
+        "passive",
+        "adjectival participle"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 169,
+      "target": "Czasem po prostu trzeba odpuścić i przestać analizować każdą sytuację, bo to nas tylko stresuje.",
+      "de": "Manchmal muss man einfach loslassen und aufhören, jede Situation zu analysieren, weil uns das nur stresst.",
+      "tags": [
+        "impersonal modal",
+        "trzeba"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 170,
+      "target": "Widzę moją siostrę siedzącą na tarasie i czytającą, co uświadamia mi, jak bardzo potrzebujemy odpoczynku.",
+      "de": "Ich sehe meine Schwester, wie sie auf der Terrasse sitzt und liest, und mir wird klar, wie sehr wir Erholung brauchen.",
+      "tags": [
+        "adjectival participle"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 171,
+      "target": "Mówi się, że trema znika po wejściu na scenę, ale ja wciąż czuję lekki niepokój przed każdym wystąpieniem.",
+      "de": "Man sagt ja, dass das Lampenfieber verschwindet, sobald man auf der Bühne steht, aber ich bin vor jedem Auftritt trotzdem noch leicht unruhig.",
+      "tags": [
+        "impersonal se-construction",
+        "verbal noun",
+        "preposition"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 172,
+      "target": "Czy ten mikrofon został już sprawdzony, czy powinnam jeszcze raz przetestować jego głośność przed nagrywaniem vloga?",
+      "de": "Wurde das Mikro schon gecheckt oder soll ich die Lautstärke vor dem Vlogging-Dreh nochmal testen?",
+      "tags": [
+        "passive voice",
+        "verbal noun",
+        "future tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 173,
+      "target": "Widzę wiele uśmiechniętych osób na widowni, co sprawia, że moje mówienie staje się o wiele bardziej naturalne.",
+      "de": "Ich sehe so viele lächelnde Gesichter im Publikum, dadurch fühlt sich mein Reden direkt viel natürlicher an.",
+      "tags": [
+        "adjectival participle",
+        "verbal noun",
+        "present tense"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 174,
+      "target": "Proszę o szczere napisanie kilku słów o moim występie, bo bardzo cenię wasze uwagi i konstruktywną krytykę.",
+      "de": "Könntet ihr mir bitte kurz schreiben, wie ihr meinen Auftritt fandet? Euer Feedback und konstruktive Kritik sind mir echt wichtig.",
+      "tags": [
+        "verbal noun",
+        "request",
+        "genitive case"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 175,
+      "target": "Szanowni Państwo, chciałabym zapytać, czy sala na moje spotkanie autorskie została już ostatecznie zarezerwowana?",
+      "de": "Sehr geehrte Damen und Herren, ich wollte nachfragen, ob der Raum für meine Lesung jetzt endgültig reserviert wurde?",
+      "tags": [
+        "passive voice",
+        "formal register",
+        "perfective aspect"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 176,
+      "target": "Warto dzielić się swoimi trudnymi doświadczeniami, żeby inni słuchacze poczuli, że nie są sami ze swoimi problemami.",
+      "de": "Es lohnt sich, seine schwierigen Erfahrungen zu teilen, damit andere Zuhörer merken, dass sie mit ihren Problemen nicht allein sind.",
+      "tags": [
+        "impersonal modal",
+        "verbal noun",
+        "conjunction żeby"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 177,
+      "target": "Przed wyjściem na scenę zupełnie zapomniałam tekstu. Spojrzałam na publiczność, wzięłam głęboki oddech i nagle wszystko stało się jasne.",
+      "de": "Kurz bevor ich auf die Bühne musste, war mein Text plötzlich weg. Ich hab ins Publikum geschaut, tief durchgeatmet und auf einmal war alles wieder da.",
+      "tags": [
+        "verbal noun",
+        "past tense",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 178,
+      "target": "Gdybyś nie dała mi tej rady po moim wystąpieniu, pewnie nigdy nie poprawiłabym sposobu używania mikrofonu.",
+      "de": "Hättest du mir nach meinem Auftritt diesen Tipp nicht gegeben, hätte ich meine Mikrofontechnik sicher nie verbessert.",
+      "tags": [
+        "conditional mood",
+        "verbal noun",
+        "preposition"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 179,
+      "target": "Mój scenariusz został wczoraj lekko zmieniony, więc potrzebuję dzisiaj więcej czasu na spokojne powtórzenie całego tekstu.",
+      "de": "Mein Skript wurde gestern noch mal leicht geändert, deshalb brauche ich heute mehr Zeit, um den ganzen Text in Ruhe durchzugehen.",
+      "tags": [
+        "passive voice",
+        "verbal noun",
+        "adverb"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 180,
+      "target": "Jak najlepiej przedstawić się publiczności, która słyszy o mojej nowej książce po raz pierwszy?",
+      "de": "Wie stelle ich mich am besten einem Publikum vor, das zum ersten Mal von meinem neuen Buch hört?",
+      "tags": [
+        "relative pronoun który",
+        "reflexive verb",
+        "present tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 181,
+      "target": "W przyszłym miesiącu będę przemawiać w Maladze i mam szczerą nadzieję, że moje hiszpańskie słownictwo wystarczy.",
+      "de": "Nächsten Monat halte ich einen Vortrag in Málaga und ich hoffe echt, dass mein Spanisch-Vokabular dafür ausreicht.",
+      "tags": [
+        "future tense",
+        "subordination",
+        "adjective"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 182,
+      "target": "Nie czuję się dzisiaj gotowa na nagrywanie, bo potrzebuję chwili całkowitej ciszy po wczorajszym stresującym występie.",
+      "de": "Ich fühle mich heute nicht bereit fürs Aufnehmen; nach dem stressigen Auftritt gestern brauche ich gerade einfach absolute Ruhe.",
+      "tags": [
+        "negation",
+        "verbal noun",
+        "adjectival participle"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 183,
+      "target": "Masz rację, zbyt szybkie mówienie sprawia, że słuchacze mogą czuć się trochę zagubieni i przytłoczeni informacjami.",
+      "de": "Du hast recht, wenn ich zu schnell rede, fühlen sich die Zuhörer vielleicht etwas verloren und von den Infos erschlagen.",
+      "tags": [
+        "verbal noun",
+        "adjectival participle",
+        "subordination"
+      ],
+      "kind": "answer"
+    },
+    {
+      "n": 184,
+      "target": "Czy mogliby Państwo potwierdzić, czy mój krótki biogram został poprawnie umieszczony w oficjalnym programie wydarzenia?",
+      "de": "Könnten Sie mir bitte bestätigen, ob meine Kurzbiografie korrekt in das offizielle Programm der Veranstaltung aufgenommen wurde?",
+      "tags": [
+        "conditional mood",
+        "passive voice",
+        "formal register"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 185,
+      "target": "Zawsze skupiam wzrok na jednej osobie siedzącej w pierwszym rzędzie, żeby opanować drżenie moich rąk.",
+      "de": "Ich fixiere immer eine Person in der ersten Reihe mit den Augen, damit ich das Zittern meiner Hände unter Kontrolle kriege.",
+      "tags": [
+        "adjectival participle",
+        "conjunction żeby",
+        "verbal noun"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 186,
+      "target": "Który z tych mikrofonów krawatowych jest zazwyczaj wybierany przez osoby nagrywające vloga w głośnym plenerze?",
+      "de": "Welches von diesen Ansteckmikros wählen Leute normalerweise, wenn sie einen Vlog an einem lauten Ort draußen aufnehmen?",
+      "tags": [
+        "relative pronoun który",
+        "adjectival participle",
+        "passive voice"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 187,
+      "target": "Po ćwiczeniu przed lustrem czuję się znacznie pewniej na scenie niż jeszcze kilka dni temu.",
+      "de": "Nachdem ich vor dem Spiegel geübt habe, fühle ich mich auf der Bühne viel sicherer als noch vor ein paar Tagen.",
+      "tags": [
+        "verbal noun",
+        "preposition",
+        "comparative adverbs"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 188,
+      "target": "Bardzo dziękuję za zaproszenie na ten panel dyskusyjny, ale muszę odmówić z powodu mojej przeprowadzki do Hiszpanii.",
+      "de": "Vielen Dank für die Einladung zu dieser Diskussionsrunde, aber wegen meines Umzugs nach Spanien muss ich leider absagen.",
+      "tags": [
+        "verbal noun",
+        "preposition",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 189,
+      "target": "Często mówi się, że oczy publiczności są lustrem naszych emocji podczas autentycznego opowiadania historii.",
+      "de": "Man sagt oft, dass die Augen des Publikums während des authentischen Geschichtenerzählens ein Spiegel unserer Emotionen sind.",
+      "tags": [
+        "impersonal se-construction",
+        "verbal noun",
+        "genitive case"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 190,
+      "target": "Ta technika oddechowa została mi polecona przez moją hiszpańską mentorkę i muszę przyznać, że świetnie działa.",
+      "de": "Diese Atemtechnik wurde mir von meiner spanischen Mentorin empfohlen und ich muss echt sagen: die funktioniert super.",
+      "tags": [
+        "passive voice",
+        "instrumental case",
+        "subordination"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 191,
+      "target": "Jak radzisz sobie z negatywnymi komentarzami pod filmami, które wymagały od ciebie dużej szczerości i odwagi?",
+      "de": "Wie gehst du mit negativen Kommentaren unter Videos um, die dir viel Ehrlichkeit und Mut abverlangt haben?",
+      "tags": [
+        "relative pronoun który",
+        "preposition",
+        "past tense"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 192,
+      "target": "Pamiętam moje pierwsze, nieporadne wystąpienie. Dzisiaj stoję tu jako zupełnie inna, odważna i świadoma siebie kobieta.",
+      "de": "Ich erinnere mich an meinen ersten, unbeholfenen Auftritt. Heute stehe ich hier als eine völlig andere, mutige und selbstbewusste Frau.",
+      "tags": [
+        "adjectival participle",
+        "instrumental case",
+        "story"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 193,
+      "target": "Moje pisanie drugiego rozdziału trochę się opóźniło, bo projekt okładki nie został jeszcze zatwierdzony.",
+      "de": "Mit dem zweiten Kapitel hänge ich etwas hinterher, weil der Entwurf für das Cover noch nicht freigegeben wurde.",
+      "tags": [
+        "verbal nouns",
+        "passive",
+        "subordination"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 194,
+      "target": "Czy ta postać, którą właśnie stworzyłam, wydaje ci się wystarczająco uśmiechnięta i pozytywna?",
+      "de": "Findest du, dass der Charakter, den ich gerade erschaffen habe, fröhlich und authentisch genug wirkt?",
+      "tags": [
+        "który",
+        "adjectival participle"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 195,
+      "target": "Czasami nie da się nic wymyślić, więc po prostu wybieram szybkie bieganie w parku.",
+      "de": "Manchmal geht beim Schreiben gar nichts, dann entscheide ich mich einfach für eine Runde Laufen im Park.",
+      "tags": [
+        "impersonal",
+        "verbal nouns",
+        "aspect"
+      ],
+      "kind": "statement"
+    },
+    {
+      "n": 196,
+      "target": "Cały dzień walczyłam z brakiem weny, ale wieczorem epilog został w końcu napisany.",
+      "de": "Ich habe den ganzen Tag gegen meine Schreibblockade gekämpft, aber abends war der Epilog endlich fertig.",
+      "tags": [
+        "passive",
+        "story",
+        "aspect"
+      ],
+      "kind": "story"
+    },
+    {
+      "n": 197,
+      "target": "Czy mogłaby Pani sprawdzić, czy ten przetłumaczony fragment jest już gotowy dla hiszpańskiego wydawnictwa?",
+      "de": "Könnten Sie bitte prüfen, ob der übersetzte Ausschnitt für den spanischen Verlag schon bereit ist?",
+      "tags": [
+        "adjectival participle",
+        "polite",
+        "conditional"
+      ],
+      "kind": "request"
+    },
+    {
+      "n": 198,
+      "target": "Przykro mi, ale dzisiaj wybieram poprawianie mojej książki zamiast wspólnego wyjścia do kina.",
+      "de": "Tut mir leid, aber heute priorisiere ich die Arbeit an meinem Buch statt ins Kino zu gehen.",
+      "tags": [
+        "verbal nouns",
+        "negation"
+      ],
+      "kind": "negation"
+    },
+    {
+      "n": 199,
+      "target": "Jak sądzicie, która wersja okładki lepiej pasuje do historii opisanej w moich rozdziałach?",
+      "de": "Was meint ihr, welcher Cover-Entwurf passt besser zu der Geschichte in meinen Kapiteln?",
+      "tags": [
+        "adjectival participle",
+        "question"
+      ],
+      "kind": "question"
+    },
+    {
+      "n": 200,
+      "target": "Jestem wdzięczna, bo ostatnie poprawki zostały naniesione i książka jest już gotowa do druku.",
+      "de": "Ich bin echt dankbar, weil die letzten Korrekturen eingearbeitet wurden und das Buch druckreif ist.",
+      "tags": [
+        "passive",
+        "feelings"
+      ],
+      "kind": "answer"
+    }
+  ]
+}
