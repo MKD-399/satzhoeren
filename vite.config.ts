@@ -37,7 +37,9 @@ export default defineConfig({
             urlPattern: ({ url }) => url.pathname.includes('/audio/'),
             handler: 'CacheFirst',
             options: {
-              cacheName: 'satzhoeren-audio',
+              // v2: the v1 cache held stale prototype clips for es-b1-1 #1–20
+              // (main.tsx deletes it). URLs are now versioned per deck (?v=).
+              cacheName: 'satzhoeren-audio-v2',
               expiration: { maxEntries: 20000 },
               cacheableResponse: { statuses: [0, 200] },
               rangeRequests: true,

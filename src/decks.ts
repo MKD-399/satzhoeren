@@ -1,5 +1,6 @@
 import type { Deck } from './types';
 import ready from './data/_ready.json';
+import audioVersions from './data/_audio.json';
 
 // Every deck JSON under src/data registers itself. A deck may only be
 // committed together with its audio files (public/audio/<lang>/<deck>/).
@@ -19,8 +20,13 @@ export const DECKS: Deck[] = Object.values(modules)
 
 const pad = (n: number) => String(n).padStart(3, '0');
 
-/** Static MP3 for one sentence, produced once by scripts/generate-audio.mjs. */
+/**
+ * Static MP3 for one sentence, produced once by scripts/generate-audio.mjs.
+ * `?v=` is the deck's audio content hash (scripts/audio-manifest.mjs) so a
+ * re-recorded deck gets new URLs and the PWA cache can't replay old clips.
+ */
 export function audioUrl(deck: Deck, n: number): string {
   const deckDir = deck.id.replace(/^[a-z]{2}-/, '');
-  return `${import.meta.env.BASE_URL}audio/${deck.lang}/${deckDir}/${pad(n)}.mp3`;
+  const v = (audioVersions as Record<string, string>)[deck.id];
+  return `${import.meta.env.BASE_URL}audio/${deck.lang}/${deckDir}/${pad(n)}.mp3${v ? `?v=${v}` : ''}`;
 }

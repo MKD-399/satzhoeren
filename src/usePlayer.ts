@@ -10,8 +10,16 @@
  * TAPE_SIZE sentences plus the repeat-aloud gaps into ONE long WAV blob (a
  * "tape", ~2 min) and plays that through a single <audio> element. To the
  * phone this is a music track: lock screen shows play/pause, playback
- * survives the screen turning off, and moving to the next tape happens from
- * the element's own `ended` event (never from a timer).
+ * survives the screen turning off.
+ *
+ * Tape-to-tape handoff (fix 2026-10-04: playback died ~one tape after the
+ * screen locked). Stopping one tape and loading the next leaves a moment with
+ * no audio playing, and Android freezes a locked page the instant its media
+ * goes quiet, so the next tape never started. Now there are TWO elements: the
+ * next tape is pre-loaded into the spare one, every tape ends with TAIL_SEC of
+ * silence, and while that silence is still playing the spare starts and the
+ * old one pauses. The page is never without playing media. If the next tape
+ * isn't ready, the element's own `ended` event falls back to building it.
  *
  * The current sentence is derived from `timeupdate` against a cue table.
  */
@@ -22,6 +30,7 @@ import type { Deck, Settings } from './types';
 const RATE = 24000;             // Gemini's native sample rate; keeps tapes small
 const TAPE_SIZE = 20;           // sentences per tape
 const MIN_TAPE_SEC = 6;         // stay clearly above Chrome's 5 s "sound effect" threshold
+const TAIL_SEC = 3;             // trailing silence the handoff to the next tape happens in
 const DECODE_CACHE_MAX = 80;
 
 interface Cue { n: number; start: number; end: number }
@@ -78,7 +87,7 @@ async function buildTape(deck: Deck, ns: number[], gapSec: number, speed: number
   const oneRound = pcms.reduce((a, p) => a + p.length + gap, 0);
   const minLen = MIN_TAPE_SEC * RATE;
   const repeats = loop ? Math.max(1, Math.ceil(minLen / oneRound)) : 1;
-  const tail = !loop && oneRound < minLen ? minLen - oneRound : 0;
+  const tail = (!loop && oneRound < minLen ? minLen - oneRound : 0) + (loop ? 0 : Math.round(TAIL_SEC * speed * RATE));
   const out = new Int16Array(oneRound * repeats + tail);
   const cues: Cue[] = [];
   let off = 0;
@@ -108,7 +117,10 @@ const once = (el: HTMLMediaElement, ev: string) => new Promise<void>((res) => el
 /* ── Hook ─────────────────────────────────────────────────────────── */
 
 export function usePlayer(deck: Deck, settings: Settings, starred: ReadonlySet<number>) {
-  const audioRef = useRef<HTMLAudioElement | null>(null);
+  const audioRef = useRef<HTMLAudioElement | null>(null);   // the element currently playing
+  const spareRef = useRef<HTMLAudioElement | null>(null);   // pre-loads the next tape
+  const spareTapeRef = useRef<Tape | null>(null);
+  const startAtRef = useRef<((pos: number) => Promise<void>) | null>(null); // handoff's fallback
   const tapeRef = useRef<Tape | null>(null);
   const nextTapeRef = useRef<{ windowStart: number; promise: Promise<Tape> } | null>(null);
   const posRef = useRef(0);                 // index into order of the current sentence
@@ -171,19 +183,85 @@ export function usePlayer(deck: Deck, settings: Settings, starred: ReadonlySet<n
 
   const windowOf = (pos: number) => Math.floor(pos / TAPE_SIZE) * TAPE_SIZE;
 
-  /** Kick off building the tape that follows `windowStart` so `ended` can switch instantly. */
+  /** Empty the spare element. Revokes its tape unless `keep` (now in use elsewhere). */
+  const clearSpare = useCallback((keep?: Tape) => {
+    const s = spareRef.current;
+    const st = spareTapeRef.current;
+    spareTapeRef.current = null;
+    if (s && s.getAttribute('src')) { s.removeAttribute('src'); try { s.load(); } catch { /* ignore */ } }
+    if (st && st !== keep && st.url !== tapeRef.current?.url) URL.revokeObjectURL(st.url);
+  }, []);
+
+  /** Forget the pre-built next tape (settings / order / deck changed). */
+  const dropNext = useCallback(() => { nextTapeRef.current = null; clearSpare(); }, [clearSpare]);
+
+  /** Build the tape that follows `windowStart` and pre-load it into the spare element. */
   const prefetchNext = useCallback((windowStart: number) => {
     const o = orderRef.current;
     if (!o.length) return;
     let ws = windowStart + TAPE_SIZE;
     if (ws >= o.length) ws = 0;
-    if (ws === windowStart) return;              // whole order fits one tape: it just replays
+    if (ws === windowStart) return;              // whole order fits one tape: it just rewinds
     if (nextTapeRef.current?.windowStart === ws) return;
     const st = settingsRef.current;
     const ns = o.slice(ws, ws + TAPE_SIZE);
-    nextTapeRef.current = { windowStart: ws, promise: buildTape(deckRef.current, ns, st.pauseSec, st.speed, ws, false) };
-    nextTapeRef.current.promise.catch(() => { nextTapeRef.current = null; });
-  }, []);
+    const entry = { windowStart: ws, promise: buildTape(deckRef.current, ns, st.pauseSec, st.speed, ws, false) };
+    nextTapeRef.current = entry;
+    entry.promise.then((tape) => {
+      const s = spareRef.current;
+      if (nextTapeRef.current !== entry || !s || tapeRef.current === tape) return;
+      clearSpare();
+      spareTapeRef.current = tape;
+      s.loop = false;
+      s.src = tape.url;
+      s.load();
+    }).catch(() => { if (nextTapeRef.current === entry) nextTapeRef.current = null; });
+  }, [clearSpare]);
+
+  /**
+   * Called from `timeupdate` once the current tape is in its trailing silence:
+   * start the pre-loaded spare, then pause the old element, so media never
+   * stops playing (a locked Android page is frozen the moment it does).
+   * Returns without doing anything if the spare isn't ready — `ended` then
+   * falls back to building the next tape.
+   */
+  const handoff = useCallback(() => {
+    const a = audioRef.current, b = spareRef.current, t = tapeRef.current;
+    const o = orderRef.current;
+    if (!a || !b || !t || t.loop || !o.length) return;
+    let next = t.windowStart + t.cues.length;
+    if (next >= o.length) next = 0;
+    if (next === t.windowStart) {                // whole order is this one tape: seamless rewind
+      a.currentTime = 0;
+      posRef.current = next;
+      setCurrent(o[next]);
+      setMediaMeta(o[next]);
+      return;
+    }
+    const nt = spareTapeRef.current;
+    if (!nt || nt.windowStart !== next || b.readyState < HTMLMediaElement.HAVE_CURRENT_DATA) return;
+    const gen = ++genRef.current;
+    b.currentTime = 0;
+    b.playbackRate = settingsRef.current.speed;
+    audioRef.current = b;
+    spareRef.current = a;
+    tapeRef.current = nt;
+    spareTapeRef.current = null;
+    nextTapeRef.current = null;
+    posRef.current = next;
+    setCurrent(o[next]);
+    setMediaMeta(o[next]);
+    (window as unknown as { __shAudio?: HTMLAudioElement }).__shAudio = b;
+    b.play().then(() => {
+      if (gen === genRef.current) prefetchNext(nt.windowStart);
+    }).catch(() => {
+      if (gen === genRef.current) void startAtRef.current?.(next);
+    });
+    a.pause();                                   // only after the spare was told to play
+    a.removeAttribute('src');
+    try { a.load(); } catch { /* ignore */ }
+    URL.revokeObjectURL(t.url);
+  }, [prefetchNext, setMediaMeta]);
 
   /** Load a tape into the element, seek to `startSec`, and play. */
   const runTape = useCallback(async (tape: Tape, startSec: number, gen: number) => {
@@ -228,6 +306,7 @@ export function usePlayer(deck: Deck, settings: Settings, starred: ReadonlySet<n
         setLoading(true);
         tape = await nextTapeRef.current.promise;
         nextTapeRef.current = null;
+        if (spareTapeRef.current === tape) clearSpare(tape);   // it plays on the main element now
       } else {
         setLoading(true);
         tape = await buildTape(deckRef.current, o.slice(ws, ws + TAPE_SIZE), st.pauseSec, st.speed, ws, false);
@@ -240,7 +319,8 @@ export function usePlayer(deck: Deck, settings: Settings, starred: ReadonlySet<n
       setPlaying(false);
       setError(`Audio konnte nicht geladen werden (${(e as Error).message}).`);
     }
-  }, [runTape, setMediaMeta]);
+  }, [runTape, setMediaMeta, clearSpare]);
+  startAtRef.current = startAt;
 
   /** Play one sentence on endless repeat (its own short looping tape). */
   const startLoop = useCallback(async (n: number) => {
@@ -263,17 +343,24 @@ export function usePlayer(deck: Deck, settings: Settings, starred: ReadonlySet<n
     }
   }, [runTape, setMediaMeta]);
 
-  // The single audio element + its event wiring.
+  // The two audio elements (playing + spare) and their event wiring. Events
+  // from whichever element is not currently playing are ignored.
   useEffect(() => {
-    const a = new Audio();
-    a.preload = 'auto';
-    audioRef.current = a;
-    (window as unknown as { __shAudio?: HTMLAudioElement }).__shAudio = a; // debugging aid only
+    const els = [new Audio(), new Audio()];
+    for (const el of els) el.preload = 'auto';
+    audioRef.current = els[0];
+    spareRef.current = els[1];
+    (window as unknown as { __shAudio?: HTMLAudioElement }).__shAudio = els[0]; // debugging aid only
+    const isActive = (ev: Event) => ev.currentTarget === audioRef.current;
 
-    const onTime = () => {
+    const onTime = (ev: Event) => {
+      if (!isActive(ev)) return;
+      const a = audioRef.current!;
       const t = tapeRef.current;
       if (!t || t.loop) return;
       const ct = a.currentTime;
+      const last = t.cues[t.cues.length - 1];
+      if (last && ct >= last.end) { handoff(); return; }   // in the trailing silence
       const i = t.cues.findIndex((c) => ct >= c.start && ct < c.end);
       if (i < 0) return;
       const n = t.cues[i].n;
@@ -283,7 +370,8 @@ export function usePlayer(deck: Deck, settings: Settings, starred: ReadonlySet<n
         return n;
       });
     };
-    const onEnded = () => {
+    const onEnded = (ev: Event) => {             // fallback: spare wasn't ready in time
+      if (!isActive(ev)) return;
       const t = tapeRef.current;
       if (!t || t.loop) return;
       const o = orderRef.current;
@@ -291,25 +379,33 @@ export function usePlayer(deck: Deck, settings: Settings, starred: ReadonlySet<n
       if (next >= o.length) next = 0;
       void startAt(next);
     };
-    const onError = () => {
-      if (!a.src) return;
+    const onError = (ev: Event) => {
+      if (!isActive(ev) || !audioRef.current?.getAttribute('src')) return;
       setPlaying(false);
       setError('Audio-Fehler beim Abspielen.');
     };
-    a.addEventListener('timeupdate', onTime);
-    a.addEventListener('ended', onEnded);
-    a.addEventListener('error', onError);
+    for (const el of els) {
+      el.addEventListener('timeupdate', onTime);
+      el.addEventListener('ended', onEnded);
+      el.addEventListener('error', onError);
+    }
     return () => {
-      a.removeEventListener('timeupdate', onTime);
-      a.removeEventListener('ended', onEnded);
-      a.removeEventListener('error', onError);
-      a.pause();
-      a.removeAttribute('src');
+      for (const el of els) {
+        el.removeEventListener('timeupdate', onTime);
+        el.removeEventListener('ended', onEnded);
+        el.removeEventListener('error', onError);
+        el.pause();
+        el.removeAttribute('src');
+      }
       if (tapeRef.current) URL.revokeObjectURL(tapeRef.current.url);
+      if (spareTapeRef.current && spareTapeRef.current !== tapeRef.current) URL.revokeObjectURL(spareTapeRef.current.url);
       tapeRef.current = null;
+      spareTapeRef.current = null;
+      nextTapeRef.current = null;
       audioRef.current = null;
+      spareRef.current = null;
     };
-  }, [startAt, setMediaMeta]);
+  }, [startAt, setMediaMeta, handoff]);
 
   const pause = useCallback(() => {
     audioRef.current?.pause();
@@ -383,14 +479,16 @@ export function usePlayer(deck: Deck, settings: Settings, starred: ReadonlySet<n
   useEffect(() => {
     const a = audioRef.current;
     if (a) a.playbackRate = settings.speed;
-    nextTapeRef.current = null;
+    dropNext();                                  // gaps are speed-scaled: rebuild the next tape
+    const t = tapeRef.current;
+    if (t && !t.loop && t.windowStart >= 0) prefetchNext(t.windowStart);
   }, [settings.speed]);
 
   // Pause length: tapes carry the gap, so rebuild the running one at the current sentence.
   const firstPause = useRef(true);
   useEffect(() => {
     if (firstPause.current) { firstPause.current = false; return; }
-    nextTapeRef.current = null;
+    dropNext();
     if (!playing) { if (tapeRef.current) { URL.revokeObjectURL(tapeRef.current.url); tapeRef.current = null; } return; }
     if (loopRef.current !== null) void startLoop(loopRef.current);
     else void startAt(posRef.current);
@@ -401,7 +499,7 @@ export function usePlayer(deck: Deck, settings: Settings, starred: ReadonlySet<n
   const firstOrder = useRef(true);
   useEffect(() => {
     if (firstOrder.current) { firstOrder.current = false; return; }
-    nextTapeRef.current = null;
+    dropNext();
     const wasPlaying = playing;
     const idx = order.indexOf(current);
     posRef.current = idx >= 0 ? idx : 0;
@@ -413,7 +511,7 @@ export function usePlayer(deck: Deck, settings: Settings, starred: ReadonlySet<n
   useEffect(() => {
     pause();
     genRef.current++;
-    nextTapeRef.current = null;
+    dropNext();
     if (tapeRef.current) { URL.revokeObjectURL(tapeRef.current.url); tapeRef.current = null; }
     setLoopN(null); loopRef.current = null;
     let n = deck.sentences[0]?.n || 1;
