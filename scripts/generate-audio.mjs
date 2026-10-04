@@ -4,10 +4,16 @@
  *
  * Runs ONCE per deck. The app never calls any AI at runtime.
  *
- * Usage:  node scripts/generate-audio.mjs src/data/es-b1-1.json [--voice Sulafat] [--force]
+ * Usage:  node scripts/generate-audio.mjs src/data/es-b1-1.json [--voice Sulafat] [--model <id>] [--force]
  *
- * Gemini returns raw PCM (16-bit, mono, 24 kHz). ffmpeg trims leading /
- * trailing silence and encodes to 48 kbps mono MP3 (~4 s ≈ 25 KB).
+ * Models (--model): gemini-2.5-flash-preview-tts (default), gemini-3.8-flash-tts
+ * (best quality), gemini-3.8-flash-lite-tts (cheapest). 3.8 pricing doubles
+ * on 2027-01-01. Switching model mid-deck mixes voice timbres — use --force
+ * to regenerate a whole deck with the new one.
+ *
+ * 2.5 returns raw PCM (16-bit, mono, 24 kHz); the 3.8 models return WAV
+ * (48 kHz). ffmpeg trims leading / trailing silence and encodes to 48 kbps
+ * mono MP3 (~4 s ≈ 25 KB).
  */
 import { GoogleGenAI, Modality } from '@google/genai';
 import { spawn } from 'node:child_process';
@@ -18,9 +24,12 @@ import { fileURLToPath } from 'node:url';
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 
 const args = process.argv.slice(2);
-const TTS_MODEL = args.includes('--model') ? args[args.indexOf('--model') + 1] : 'gemini-2.5-flash-preview-tts';
-const deckPath = args.find((a) => !a.startsWith('--'));
-if (!deckPath) { console.error('usage: node scripts/generate-audio.mjs <deck.json> [--voice X] [--force]'); process.exit(1); }
+const TTS_MODELS = ['gemini-2.5-flash-preview-tts', 'gemini-3.8-flash-tts', 'gemini-3.8-flash-lite-tts'];
+const TTS_MODEL = args.includes('--model') ? args[args.indexOf('--model') + 1] : TTS_MODELS[0];
+if (!TTS_MODELS.includes(TTS_MODEL)) { console.error(`unknown --model "${TTS_MODEL}". Choose one of: ${TTS_MODELS.join(', ')}`); process.exit(1); }
+const flagValues = new Set(['--voice', '--model'].filter((f) => args.includes(f)).map((f) => args[args.indexOf(f) + 1]));
+const deckPath = args.find((a) => !a.startsWith('--') && !flagValues.has(a));
+if (!deckPath) { console.error('usage: node scripts/generate-audio.mjs <deck.json> [--voice X] [--model <id>] [--force]'); process.exit(1); }
 const voice = args.includes('--voice') ? args[args.indexOf('--voice') + 1] : 'Sulafat';
 const force = args.includes('--force');
 
@@ -63,11 +72,15 @@ async function tts(text) {
 }
 
 function encode(pcm, mime, outFile) {
+  // WAV (3.8 models) carries its own rate/format header — let ffmpeg read it.
+  // Forcing s16le @ 24 kHz on 48 kHz WAV would play at half speed.
+  const isWav = /wav/i.test(mime) || pcm.subarray(0, 4).toString('latin1') === 'RIFF';
   const rate = Number(mime.match(/rate=(\d+)/)?.[1] || 24000);
+  const input = isWav ? ['-f', 'wav'] : ['-f', 's16le', '-ar', String(rate), '-ac', '1'];
   return new Promise((res, rej) => {
     const ff = spawn('ffmpeg', [
       '-y', '-loglevel', 'error',
-      '-f', 's16le', '-ar', String(rate), '-ac', '1', '-i', 'pipe:0',
+      ...input, '-i', 'pipe:0', '-ac', '1',
       '-af', 'silenceremove=start_periods=1:start_threshold=-45dB,areverse,silenceremove=start_periods=1:start_threshold=-45dB,areverse,apad=pad_dur=0.15',
       '-codec:a', 'libmp3lame', '-b:a', '48k', outFile,
     ]);
@@ -100,4 +113,4 @@ for (const s of deck.sentences) {
   await sleep(1200);
 }
 if (failed.length) console.log(`FAILED sentences (re-run to retry): ${failed.join(',')}`);
-console.log(`\n${deck.id}: ${done} generated, ${skipped} already existed, ${chars} chars spoken → ${outDir}`);
+console.log(`\n${deck.id} [${TTS_MODEL}]: ${done} generated, ${skipped} already existed, ${chars} chars spoken → ${outDir}`);
